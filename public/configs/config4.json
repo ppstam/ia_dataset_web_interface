@@ -1,0 +1,112 @@
+{
+    "homeInfo": {
+        "title": "Participant 4",
+        "message": "This is a test to evaluate something.\n Please click the button below to start the test.",
+        "buttonText": "Start test"
+    },
+    "questions":
+    [
+        {
+            "name": "Insert question name here",
+            "description": "Insert a description here",
+            "id":1,
+            "anchors": ["test_signals/anchor.wav"],
+            "references": ["test_signals/reference.wav", "test_signals/reference.wav"],
+            "testSignals": ["test_signals/test.wav", "Test signal example."],
+            "prompts":{
+                "0":"Insert prompt here 1",
+                "1":"Insert prompt here 2",
+                "anchor0": "Insert prompt here (anchor 0)",
+                "reference0": "Insert prompt here (reference 0)",
+                "reference1": "Insert prompt here (reference 1)"
+            },
+            "scale": {
+              "type": "continuous",
+              "alignment": "horizontal",
+              "labels": [""],
+              "borderLabels": ["worse","best"],
+              "values": [0,20,40,60,80,100],
+              "range": [0,100]
+            },
+            "shuffleTestSignals": true,
+            "referenceEvaluated": true,
+            "anchorEvaluated": true,
+            "submitButtonText": "Avaliar"
+        },
+        {
+            "name": "Insert question name here",
+            "description": "Insert a description here",
+            "id":1,
+            "anchors": ["test_signals/anchor.wav"],
+            "references": ["test_signals/reference.wav", "test_signals/reference.wav"],
+            "testSignals": ["test_signals/test.wav", "test_signals/test.wav"],
+            "prompts":{
+                "0":"Insert prompt here 1",
+                "1":"Insert prompt here 2",
+                "anchor0": "Insert prompt here (anchor 0)",
+                "reference0": "Insert prompt here (reference 0)",
+                "reference1": "Insert prompt here (reference 1)"
+            },
+            "scale": {
+              "type": "continuous",
+              "alignment": "horizontal",
+              "labels": ["Bad","Poor","Fair", "Good", "Excellent"],
+              "values": [0,20,40,60,80,100],
+              "range": [0,100]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": true,
+            "submitButtonText": "Avaliar"
+        },
+
+        {
+            "name": "Insert question name here",
+            "description": "Insert a description here",
+            "id":2,
+            "anchors": null,
+            "references": null,
+            "testSignals": ["test_signals/test.wav", "test_signals/test.wav", "test_signals/test.wav","test_signals/test.wav"],
+            "prompts":{
+                "0":"Insert prompt here",
+                "1":"Insert prompt here 2",
+                "2":"Insert prompt here 3",
+                "3":"Insert prompt here 4"
+            },
+            "scale": {
+                "type": "dropdown",
+                "alignment": "horizontal",
+                "labels": ["Bad","Poor","Fair", "Good", "Excellent"],
+                "values": [0,1,2,3,4]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": true,
+            "submitButtonText": "Avaliar"
+        },
+        {
+            "name": "Insert question name here",
+            "description": "Insert a description here",
+            "id":3,
+            "anchor": "test_signals/anchor.wav",
+            "reference": "test_signals/reference.wav",
+            "testSignals": ["test_signals/test.wav","test_signals/test.wav"],
+            "prompts":{
+                "0":"Insert prompt here",
+                "1":"Insert prompt here 2",
+                "anchor": "Insert prompt here (anchor)",
+                "reference": "Insert prompt here (reference)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": ["Bad","Poor","Fair", "Good", "Excellent"],
+                "values": [0,1,2,3,4]
+            },
+            "shuffleTestSignals": true,
+            "referenceEvaluated": false,
+            "anchorEvaluated": true,
+            "submitButtonText": "Avaliar"
+        }
+    ]
+}

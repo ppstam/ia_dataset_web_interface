@@ -1,0 +1,5 @@
+QuestionId;QuestionAnswers;AnchorAnswers;ReferenceAnswers
+1;45,50;null;null
+1;51,48;null;null
+2;Bad,Fair,Good,Poor;null;null
+3;Bad,Excellent;null;null
