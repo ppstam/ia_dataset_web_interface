@@ -201,12 +201,76 @@ app.get('/api/status', (req, res) => {
     });
 });
 
+// Download all results as a single CSV
+app.get('/api/results/download', (req, res) => {
+    if (!fs.existsSync(RESULTS_DIR)) {
+        return res.status(404).json({ error: 'No results directory found' });
+    }
+
+    const csvFiles = fs.readdirSync(RESULTS_DIR).filter(f => f.endsWith('.csv')).sort();
+
+    if (csvFiles.length === 0) {
+        return res.status(404).json({ error: 'No results yet' });
+    }
+
+    // Combine all CSVs into one, with an extra ParticipantFile column
+    const header = 'ParticipantFile;QuestionId;QuestionAnswers;AnchorAnswers;ReferenceAnswers';
+    const allRows = [];
+
+    csvFiles.forEach(file => {
+        const content = fs.readFileSync(path.join(RESULTS_DIR, file), 'utf-8');
+        const lines = content.split('\n').filter(l => l.trim());
+        // Skip the header line of each file, prepend filename
+        lines.slice(1).forEach(line => {
+            allRows.push(`${file};${line}`);
+        });
+    });
+
+    const combined = header + '\n' + allRows.join('\n');
+
+    res.setHeader('Content-Type', 'text/csv');
+    res.setHeader('Content-Disposition', 'attachment; filename="all_results.csv"');
+    res.send(combined);
+});
+
+// Download individual result files
+app.get('/api/results/list', (req, res) => {
+    if (!fs.existsSync(RESULTS_DIR)) {
+        return res.json({ files: [] });
+    }
+    const csvFiles = fs.readdirSync(RESULTS_DIR).filter(f => f.endsWith('.csv')).sort();
+    res.json({ files: csvFiles });
+});
+
+app.get('/api/results/file/:filename', (req, res) => {
+    const filename = req.params.filename;
+    // Sanitize: only allow alphanumeric, dashes, underscores, dots
+    if (!/^[a-zA-Z0-9_\-\.]+\.csv$/.test(filename)) {
+        return res.status(400).json({ error: 'Invalid filename' });
+    }
+    const filepath = path.join(RESULTS_DIR, filename);
+    if (!fs.existsSync(filepath)) {
+        return res.status(404).json({ error: 'File not found' });
+    }
+    res.setHeader('Content-Type', 'text/csv');
+    res.setHeader('Content-Disposition', `attachment; filename="${filename}"`);
+    res.sendFile(filepath);
+});
+
+// Download full state backup as JSON
+app.get('/api/state/download', (req, res) => {
+    const state = loadState();
+    res.setHeader('Content-Type', 'application/json');
+    res.setHeader('Content-Disposition', 'attachment; filename="server_state_backup.json"');
+    res.json(state);
+});
+
 // --- Serve React frontend (production build) ---
 if (fs.existsSync(BUILD_DIR)) {
     app.use(express.static(BUILD_DIR));
 
     // Any non-API route serves the React app (client-side routing support)
-    app.get('*', (req, res) => {
+    app.get('/{*splat}', (req, res) => {
         res.sendFile(path.join(BUILD_DIR, 'index.html'));
     });
 }
