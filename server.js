@@ -206,7 +206,7 @@ if (fs.existsSync(BUILD_DIR)) {
     app.use(express.static(BUILD_DIR));
 
     // Any non-API route serves the React app (client-side routing support)
-    app.get('/{*splat}', (req, res) => {
+    app.get('*', (req, res) => {
         res.sendFile(path.join(BUILD_DIR, 'index.html'));
     });
 }
