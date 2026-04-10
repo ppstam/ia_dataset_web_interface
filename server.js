@@ -6,10 +6,11 @@ const app = express();
 app.use(express.json());
 
 // --- Configuration ---
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const CONFIGS_DIR = path.join(__dirname, 'public', 'configs');
 const RESULTS_DIR = path.join(__dirname, 'results');
 const STATE_FILE = path.join(__dirname, 'server_state.json');
+const BUILD_DIR = path.join(__dirname, 'build');
 
 // Ensure directories exist
 if (!fs.existsSync(RESULTS_DIR)) {
@@ -200,12 +201,24 @@ app.get('/api/status', (req, res) => {
     });
 });
 
+// --- Serve React frontend (production build) ---
+if (fs.existsSync(BUILD_DIR)) {
+    app.use(express.static(BUILD_DIR));
+
+    // Any non-API route serves the React app (client-side routing support)
+    app.get('*', (req, res) => {
+        res.sendFile(path.join(BUILD_DIR, 'index.html'));
+    });
+}
+
 app.listen(PORT, '0.0.0.0', () => {
     const configs = getConfigFiles();
+    const hasBuild = fs.existsSync(BUILD_DIR);
     console.log(`\n========================================`);
-    console.log(`  Audio Test Backend Server`);
+    console.log(`  Audio Test Server`);
     console.log(`========================================`);
     console.log(`  Running on: http://0.0.0.0:${PORT}`);
+    console.log(`  Mode: ${hasBuild ? 'PRODUCTION (serving build/)' : 'API ONLY (use npm start for frontend)'}`);
     console.log(`  Configs found: ${configs.length}`);
     configs.forEach(c => console.log(`    - ${c}`));
     console.log(`  Results saved to: ${RESULTS_DIR}`);
