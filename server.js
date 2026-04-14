@@ -1,6 +1,7 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
+const { google } = require('googleapis');
 const app = express();
 
 app.use(express.json());
@@ -11,6 +12,74 @@ const CONFIGS_DIR = path.join(__dirname, 'public', 'configs');
 const RESULTS_DIR = path.join(__dirname, 'results');
 const STATE_FILE = path.join(__dirname, 'server_state.json');
 const BUILD_DIR = path.join(__dirname, 'build');
+
+// --- Google Sheets Setup ---
+let sheetsClient = null;
+const GOOGLE_SHEET_ID = process.env.GOOGLE_SHEET_ID;
+
+async function initGoogleSheets() {
+    try {
+        const email = process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL;
+        const key = process.env.GOOGLE_PRIVATE_KEY;
+
+        if (!email || !key || !GOOGLE_SHEET_ID) {
+            console.log('[Google Sheets] Missing credentials — Sheets sync disabled');
+            console.log('  Set GOOGLE_SHEET_ID, GOOGLE_SERVICE_ACCOUNT_EMAIL, and GOOGLE_PRIVATE_KEY env vars to enable');
+            return;
+        }
+
+        const auth = new google.auth.JWT(
+            email,
+            null,
+            key.replace(/\\n/g, '\n'), // Render stores \n as literal characters
+            ['https://www.googleapis.com/auth/spreadsheets']
+        );
+
+        sheetsClient = google.sheets({ version: 'v4', auth });
+
+        // Test connection and set up header row if sheet is empty
+        const response = await sheetsClient.spreadsheets.values.get({
+            spreadsheetId: GOOGLE_SHEET_ID,
+            range: 'Sheet1!A1:A1',
+        });
+
+        if (!response.data.values || response.data.values.length === 0) {
+            // Sheet is empty — add headers
+            await sheetsClient.spreadsheets.values.append({
+                spreadsheetId: GOOGLE_SHEET_ID,
+                range: 'Sheet1!A1',
+                valueInputOption: 'RAW',
+                requestBody: {
+                    values: [['Timestamp', 'ParticipantId', 'ParticipantName', 'ConfigFile', 'QuestionId', 'QuestionName', 'TestAnswers', 'AnchorAnswers', 'ReferenceAnswers']]
+                }
+            });
+        }
+
+        console.log('[Google Sheets] Connected successfully');
+    } catch (error) {
+        console.error('[Google Sheets] Failed to connect:', error.message);
+        sheetsClient = null;
+    }
+}
+
+async function appendToSheet(rows) {
+    if (!sheetsClient || !GOOGLE_SHEET_ID) return;
+
+    try {
+        await sheetsClient.spreadsheets.values.append({
+            spreadsheetId: GOOGLE_SHEET_ID,
+            range: 'Sheet1!A1',
+            valueInputOption: 'RAW',
+            requestBody: { values: rows }
+        });
+        console.log(`[Google Sheets] Appended ${rows.length} rows`);
+    } catch (error) {
+        console.error('[Google Sheets] Failed to append:', error.message);
+    }
+}
+
+// Initialize Google Sheets on startup
+initGoogleSheets();
 
 // Ensure directories exist
 if (!fs.existsSync(RESULTS_DIR)) {
@@ -129,7 +198,7 @@ app.post('/api/register', (req, res) => {
 });
 
 // Save results
-app.post('/api/results', (req, res) => {
+app.post('/api/results', async (req, res) => {
     const { participantId, participantName, results } = req.body;
 
     if (!participantId || !results) {
@@ -159,7 +228,7 @@ app.post('/api/results', (req, res) => {
 
     const csvContent = header + '\n' + rows.join('\n');
 
-    // Save to file
+    // Save to local file
     const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
     const safeName = (participantName || 'unknown').replace(/[^a-zA-Z0-9_-]/g, '_');
     const filename = `participant_${participantId}_${safeName}_${timestamp}.csv`;
@@ -170,11 +239,44 @@ app.post('/api/results', (req, res) => {
     // Update state
     const state = loadState();
     const participant = state.participants.find(p => p.id === participantId);
+    const configFile = participant ? participant.configFile : 'unknown';
     if (participant) {
         participant.completedAt = new Date().toISOString();
         participant.status = 'completed';
         saveState(state);
     }
+
+    // Push to Google Sheets in real time
+    const now = new Date().toISOString();
+    const sheetRows = results.map(questionResults => {
+        const anchorKeys = Object.keys(questionResults.answers).filter(key => key.includes('anchor'));
+        const referenceKeys = Object.keys(questionResults.answers).filter(key => key.includes('reference'));
+        const anchorValues = anchorKeys.map(key => questionResults.answers[key]).filter(v => v).join(',');
+        const referenceValues = referenceKeys.map(key => questionResults.answers[key]).filter(v => v).join(',');
+
+        const numericAnswers = [];
+        for (let i = 0; i < Object.keys(questionResults.answers).length; i++) {
+            if (questionResults.answers[i] !== undefined) {
+                numericAnswers.push(questionResults.answers[i]);
+            } else {
+                break;
+            }
+        }
+
+        return [
+            now,
+            participantId,
+            participantName || 'unknown',
+            configFile,
+            questionResults.questionId,
+            questionResults.questionName || '',
+            numericAnswers.join(','),
+            anchorValues || 'null',
+            referenceValues || 'null'
+        ];
+    });
+
+    await appendToSheet(sheetRows);
 
     console.log(`[Participant #${participantId}] Results saved to ${filename}`);
 
