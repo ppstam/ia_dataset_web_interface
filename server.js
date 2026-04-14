@@ -31,7 +31,9 @@ async function initGoogleSheets() {
         console.log('[Google Sheets] Debug:');
         console.log('  SHEET_ID:', GOOGLE_SHEET_ID.substring(0, 10) + '...');
         console.log('  EMAIL:', credentials.client_email);
+        console.log('  PROJECT_ID:', credentials.project_id);
         console.log('  KEY contains BEGIN:', credentials.private_key.includes('BEGIN PRIVATE KEY'));
+        console.log('  KEY first newline at:', credentials.private_key.indexOf('\n'));
 
         const auth = new google.auth.JWT(
             credentials.client_email,
@@ -39,6 +41,11 @@ async function initGoogleSheets() {
             credentials.private_key,
             ['https://www.googleapis.com/auth/spreadsheets']
         );
+
+        // Explicitly test auth before making API call
+        console.log('[Google Sheets] Requesting access token...');
+        await auth.authorize();
+        console.log('[Google Sheets] Auth successful, token obtained');
 
         sheetsClient = google.sheets({ version: 'v4', auth });
 
@@ -63,6 +70,13 @@ async function initGoogleSheets() {
         console.log('[Google Sheets] Connected successfully');
     } catch (error) {
         console.error('[Google Sheets] Failed to connect:', error.message);
+        if (error.response) {
+            console.error('[Google Sheets] Response status:', error.response.status);
+            console.error('[Google Sheets] Response data:', JSON.stringify(error.response.data));
+        }
+        if (error.code) {
+            console.error('[Google Sheets] Error code:', error.code);
+        }
         sheetsClient = null;
     }
 }
