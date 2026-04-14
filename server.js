@@ -35,19 +35,20 @@ async function initGoogleSheets() {
         console.log('  KEY contains BEGIN:', credentials.private_key.includes('BEGIN PRIVATE KEY'));
         console.log('  KEY first newline at:', credentials.private_key.indexOf('\n'));
 
-        const auth = new google.auth.JWT(
-            credentials.client_email,
-            null,
-            credentials.private_key,
-            ['https://www.googleapis.com/auth/spreadsheets']
-        );
+        const auth = new google.auth.GoogleAuth({
+            credentials: {
+                client_email: credentials.client_email,
+                private_key: credentials.private_key,
+            },
+            scopes: ['https://www.googleapis.com/auth/spreadsheets'],
+        });
 
         // Explicitly test auth before making API call
         console.log('[Google Sheets] Requesting access token...');
-        await auth.authorize();
-        console.log('[Google Sheets] Auth successful, token obtained');
+        const authClient = await auth.getClient();
+        console.log('[Google Sheets] Auth successful');
 
-        sheetsClient = google.sheets({ version: 'v4', auth });
+        sheetsClient = google.sheets({ version: 'v4', auth: authClient });
 
         // Test connection and set up header row if sheet is empty
         const response = await sheetsClient.spreadsheets.values.get({
