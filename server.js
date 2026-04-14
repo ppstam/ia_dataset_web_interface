@@ -22,16 +22,29 @@ async function initGoogleSheets() {
         const email = process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL;
         const key = process.env.GOOGLE_PRIVATE_KEY;
 
+        console.log('[Google Sheets] Debug:');
+        console.log('  SHEET_ID:', GOOGLE_SHEET_ID ? GOOGLE_SHEET_ID.substring(0, 10) + '...' : 'NOT SET');
+        console.log('  EMAIL:', email || 'NOT SET');
+        console.log('  KEY starts with:', key ? key.substring(0, 30) + '...' : 'NOT SET');
+        console.log('  KEY length:', key ? key.length : 0);
+
         if (!email || !key || !GOOGLE_SHEET_ID) {
             console.log('[Google Sheets] Missing credentials — Sheets sync disabled');
             console.log('  Set GOOGLE_SHEET_ID, GOOGLE_SERVICE_ACCOUNT_EMAIL, and GOOGLE_PRIVATE_KEY env vars to enable');
             return;
         }
 
+        // Handle the private key - Render may store \n as literal two chars or as actual newlines
+        let processedKey = key;
+        if (key.includes('\\n')) {
+            processedKey = key.replace(/\\n/g, '\n');
+        }
+        console.log('  KEY contains BEGIN:', processedKey.includes('BEGIN PRIVATE KEY'));
+
         const auth = new google.auth.JWT(
             email,
             null,
-            key.replace(/\\n/g, '\n'), // Render stores \n as literal characters
+            processedKey,
             ['https://www.googleapis.com/auth/spreadsheets']
         );
 
