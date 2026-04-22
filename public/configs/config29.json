@@ -51,7 +51,7 @@
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This energetic instrumental rock track features a fast tempo driven by electric guitar, bass guitar, and acoustic drums. The atmosphere is intense and suitable for a high-energy live concert setting or an action scene in a movie. Although male vocals are present in the original recording, this specific segment focuses on the driving instrumentation of the rock anthem.",
-            "id": 1,
+            "id": 0,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -135,7 +135,7 @@
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This intense instrumental track fuses heavy elements of rock, metal, and industrial styles to create a powerful soundscape. Distorted electric guitars dominate the mix with a dark and aggressive mood that drives the music forward. While inspired by improvisations built around a steady pulse, the piece relies entirely on layered instrumentation rather than vocals or traditional song structures.",
-            "id": 1,
+            "id": 2,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -177,7 +177,7 @@
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental track combines driving electronic drums and synthesizers with a repetitive four-on-the-floor bassline typical of deep house and techno. The dark and intense mood creates an energetic, suspenseful atmosphere that is ideal for a nightclub setting or a high-energy workout session.",
-            "id": 1,
+            "id": 3,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -219,7 +219,7 @@
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This piece is a powerful and intense instrumental featuring a dramatic, epic feel driven by strong percussion and a solid bass line. The fast tempo creates a distinct sense of urgency, making it suitable for cinematic or high-energy scenes. Despite the composer's original description of playful dolphin visuals, the actual audio remains serious and urgent in its delivery.",
-            "id": 1,
+            "id": 4,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -261,7 +261,7 @@
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This piece is an instrumental techno track with a fast tempo, featuring a pulsating bassline, electronic drums, and a repetitive synth melody. The rhythm relies on a steady four-on-the-floor beat to create a dark, intense, and futuristic atmosphere suitable for a nightclub or sci-fi video game soundtrack.",
-            "id": 1,
+            "id": 5,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -303,7 +303,7 @@
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This segment is an alternative rock track featuring a male vocalist singing over steady drumming and keyboard harmony. The music maintains a romantic and groovy atmosphere, blending indie influences with youthful energy.",
-            "id": 1,
+            "id": 6,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -345,7 +345,7 @@
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This track features a male vocalist singing over an arrangement of acoustic, electric, and bass guitars accompanied by steady drums. The music creates an easygoing atmosphere with a simple structure and a catchy melody that feels well-suited for a road trip. While the instrumentation includes both acoustic and electric elements, the overall vibe remains relaxed and accessible.",
-            "id": 1,
+            "id": 7,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -387,7 +387,7 @@
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This intense instrumental track uses a fast-paced rhythm and distorted guitars to create a chaotic, aggressive atmosphere perfect for high-stakes action sequences. The heavy, dark mood is driven by synthesizers and electronic drums that blend with glitchy sound effects to produce an urgent and dangerous feel. Ultimately, the music serves as a tense soundtrack ideal for video game boss battles or industrial-themed scenes.",
-            "id": 1,
+            "id": 8,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -429,7 +429,7 @@
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This track creates an irresistible atmosphere with catchy melodies and infectious beats that encourage dancing all night long. Electronic synthesizers and deep rhythms drive the energy, while subtle elements like cymbals and bass add texture to the mix. The combination of groovy instrumentation and mesmerizing flows ensures the music keeps listeners engaged from start to finish.",
-            "id": 1,
+            "id": 9,
             "anchors": null,
             "references": null,
             "testSignals": [

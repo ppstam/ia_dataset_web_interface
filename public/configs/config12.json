@@ -51,7 +51,7 @@
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental track blends a strong Latin influence with a steady drumming rhythm and a groovy, percussive bass line. Keyboard accompaniment adds complexity to the melody while driving the piece forward with an energetic dance groove. The overall mood feels romantic and passionate, making it suitable for a dramatic or uplifting movie soundtrack.",
-            "id": 1,
+            "id": 0,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -135,7 +135,7 @@
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
-            "id": 1,
+            "id": 2,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -177,7 +177,7 @@
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental track blends strong electronic and industrial influences with a prominent synthesizer line and driving bass. The music builds tension through dynamic shifts, creating a dark and intense mood that feels perfectly suited for a high-stakes video game action sequence.",
-            "id": 1,
+            "id": 3,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -219,7 +219,7 @@
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This energetic instrumental rock track features a fast tempo driven by electric guitar, bass guitar, and acoustic drums. The atmosphere is intense and suitable for a high-energy live concert setting or an action scene in a movie. Although male vocals are present in the original recording, this specific segment focuses on the driving instrumentation of the rock anthem.",
-            "id": 1,
+            "id": 4,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -261,7 +261,7 @@
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental piece blends folk and easy listening influences, featuring a steady guitar and piano that create a melancholic yet relaxing atmosphere. The addition of violin strings adds elegance to the soothing soundscape, making it an ideal choice for quiet reflection or a peaceful evening. Although computer-generated, the music captures a warm, intimate mood reminiscent of traditional acoustic ballads.",
-            "id": 1,
+            "id": 5,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -303,7 +303,7 @@
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This intense instrumental track fuses heavy elements of rock, metal, and industrial styles to create a powerful soundscape. Distorted electric guitars dominate the mix with a dark and aggressive mood that drives the music forward. While inspired by improvisations built around a steady pulse, the piece relies entirely on layered instrumentation rather than vocals or traditional song structures.",
-            "id": 1,
+            "id": 6,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -345,7 +345,7 @@
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental track centers on synthesizers, electronic drums, and a bass synth to create an upbeat, energetic rhythm. Driven by a classic four-on-the-floor beat, the music maintains a danceable quality well-suited for a nightclub setting or high-energy workouts.",
-            "id": 1,
+            "id": 7,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -387,7 +387,7 @@
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This piece is a powerful and intense instrumental featuring a dramatic, epic feel driven by strong percussion and a solid bass line. The fast tempo creates a distinct sense of urgency, making it suitable for cinematic or high-energy scenes. Despite the composer's original description of playful dolphin visuals, the actual audio remains serious and urgent in its delivery.",
-            "id": 1,
+            "id": 8,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -429,7 +429,7 @@
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental track serves as an ideal accompaniment for a Spanish-themed party or a romantic evening, featuring acoustic guitars and Latin percussion that create a lively atmosphere. The music combines folk and pop elements to form a perfect background sound for dancing and enjoying the moment.",
-            "id": 1,
+            "id": 9,
             "anchors": null,
             "references": null,
             "testSignals": [

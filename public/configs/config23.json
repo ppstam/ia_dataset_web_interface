@@ -51,7 +51,7 @@
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental piece serves as an ideal backing track for guitar lessons, highlighting the elegance of fingerstyle techniques and detailed fingerpicking patterns. The arrangement relies primarily on acoustic guitar to create a focused listening experience that emphasizes complex chord progressions without vocal distractions. Although originally recorded during a live bluegrass performance featuring multiple instruments, this specific segment isolates the intricate guitar work essential for instructional purposes.",
-            "id": 1,
+            "id": 0,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -135,7 +135,7 @@
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This energetic track features a male vocalist and an infectious reggae rhythm driven by lively percussion like congas and bongos. The catchy melody creates a groovy atmosphere with party vibes, making it perfect for a dance floor or gathering.",
-            "id": 1,
+            "id": 2,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -177,7 +177,7 @@
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "A male vocalist delivers a romantic ballad characterized by a slow, steady tempo and sentimental mood. The track features a gentle keyboard harmony supported by a strong bass line and electronic drums to create an emotional atmosphere. Although related tracks often exhibit energetic dance qualities, this specific segment focuses on a softer, more intimate style suitable for a movie scene.",
-            "id": 1,
+            "id": 3,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -219,7 +219,7 @@
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental piece blends country and folk elements with a swing rhythm driven by acoustic drums, upright bass, and an energetic mandolin melody. A male vocalist sings melodically over the track, creating an easygoing atmosphere suitable for romantic comedy soundtracks or scenes where characters reminisce about the past.",
-            "id": 1,
+            "id": 4,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -261,7 +261,7 @@
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This performance features a violin playing melodic lines over the soft, flowing rhythm of an acoustic guitar. The gentle interplay between these two instruments creates a peaceful and serene atmosphere well-suited for relaxation. Recorded as part of a live duo concert, the piece blends classical technique with folk-like intimacy.",
-            "id": 1,
+            "id": 5,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -303,7 +303,7 @@
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental horror soundtrack features synthesizers and atmospheric sound effects that build tension through a slow, dark rhythm. The piece relies on sudden bursts of noise to create an ominous mood, evoking dread suitable for a suspenseful film scene or haunted attraction.",
-            "id": 1,
+            "id": 6,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -345,7 +345,7 @@
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This segment is an instrumental fantasy soundtrack that relies on a choir, strings, and harpsichord to create a solemn, Baroque-era atmosphere. The music moves at a slow, steady pace driven by a percussive bass line, evoking a grand sense of awe suitable for cinematic scenes. Although the upload title suggests a pop standard by Elvis Presley, the audio itself features no vocals or electric instruments.",
-            "id": 1,
+            "id": 7,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -387,7 +387,7 @@
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This segment is an instrumental vintage cartoon soundtrack featuring a lively and cheerful melody played by a full orchestra. The fast tempo and steady rhythm create a lighthearted, playful mood suitable for comedic scenes or classic animation.",
-            "id": 1,
+            "id": 8,
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -429,7 +429,7 @@
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental track blends fast-paced drum and bass rhythms with a strong electronic bass line, creating an intense and energetic atmosphere. The driving beat and futuristic synth sounds make it perfectly suited for high-stakes video game scenes like boss battles or rapid action sequences. While the music features a dark and heavy mood typical of experimental electronic genres, its relentless energy keeps the listener engaged from start to finish.",
-            "id": 1,
+            "id": 9,
             "anchors": null,
             "references": null,
             "testSignals": [
