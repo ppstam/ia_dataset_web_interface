@@ -48,15 +48,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 4",
+            "name": "Sample 112",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_3.mp3",
-                "test_signals/example_3.mp3"
+                "test_signals/example_111.mp3",
+                "test_signals/example_111.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -90,15 +90,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 5",
+            "name": "Sample 113",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_4.mp3",
-                "test_signals/example_4.mp3"
+                "test_signals/example_112.mp3",
+                "test_signals/example_112.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -132,15 +132,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 6",
+            "name": "Sample 114",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_5.mp3",
-                "test_signals/example_5.mp3"
+                "test_signals/example_113.mp3",
+                "test_signals/example_113.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -174,15 +174,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 7",
+            "name": "Sample 115",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_6.mp3",
-                "test_signals/example_6.mp3"
+                "test_signals/example_114.mp3",
+                "test_signals/example_114.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -216,15 +216,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 8",
+            "name": "Sample 116",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_7.mp3",
-                "test_signals/example_7.mp3"
+                "test_signals/example_115.mp3",
+                "test_signals/example_115.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -258,15 +258,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 9",
+            "name": "Sample 117",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_8.mp3",
-                "test_signals/example_8.mp3"
+                "test_signals/example_116.mp3",
+                "test_signals/example_116.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -300,15 +300,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 10",
+            "name": "Sample 118",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_9.mp3",
-                "test_signals/example_9.mp3"
+                "test_signals/example_117.mp3",
+                "test_signals/example_117.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -342,15 +342,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 11",
+            "name": "Sample 119",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_10.mp3",
-                "test_signals/example_10.mp3"
+                "test_signals/example_118.mp3",
+                "test_signals/example_118.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -384,15 +384,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 12",
+            "name": "Sample 120",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_11.mp3",
-                "test_signals/example_11.mp3"
+                "test_signals/example_119.mp3",
+                "test_signals/example_119.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -426,15 +426,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 13",
+            "name": "Sample 121",
             "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 3     This segment features an acapella choir perfor...\n4     This piece is a beautiful example of a new age...\n5     This instrumental rock track features a comple...\n6     This instrumental rock track opens with a guit...\n7     This instrumental heavy metal track features a...\n8     This segment is an intense and energetic instr...\n9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\nName: caption_sclap, dtype: object",
+            "message": "CAPTION: 111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_12.mp3",
-                "test_signals/example_12.mp3"
+                "test_signals/example_120.mp3",
+                "test_signals/example_120.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

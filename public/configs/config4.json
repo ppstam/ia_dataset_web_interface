@@ -1,112 +1,471 @@
 {
     "homeInfo": {
-        "title": "Participant 4",
-        "message": "This is a test to evaluate something.\n Please click the button below to start the test.",
+        "title": "Audio Quality Evaluation",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
-    "questions":
-    [
+    "questions": [
         {
-            "name": "Insert question name here",
-            "description": "Insert a description here",
-            "id":1,
-            "anchors": ["test_signals/anchor.wav"],
-            "references": ["test_signals/reference.wav", "test_signals/reference.wav"],
-            "testSignals": ["test_signals/test.wav", "Test signal example."],
-            "prompts":{
-                "0":"Insert prompt here 1",
-                "1":"Insert prompt here 2",
-                "anchor0": "Insert prompt here (anchor 0)",
-                "reference0": "Insert prompt here (reference 0)",
-                "reference1": "Insert prompt here (reference 1)"
-            },
-            "scale": {
-              "type": "continuous",
-              "alignment": "horizontal",
-              "labels": [""],
-              "borderLabels": ["worse","best"],
-              "values": [0,20,40,60,80,100],
-              "range": [0,100]
-            },
-            "shuffleTestSignals": true,
-            "referenceEvaluated": true,
-            "anchorEvaluated": true,
-            "submitButtonText": "Avaliar"
-        },
-        {
-            "name": "Insert question name here",
-            "description": "Insert a description here",
-            "id":1,
-            "anchors": ["test_signals/anchor.wav"],
-            "references": ["test_signals/reference.wav", "test_signals/reference.wav"],
-            "testSignals": ["test_signals/test.wav", "test_signals/test.wav"],
-            "prompts":{
-                "0":"Insert prompt here 1",
-                "1":"Insert prompt here 2",
-                "anchor0": "Insert prompt here (anchor 0)",
-                "reference0": "Insert prompt here (reference 0)",
-                "reference1": "Insert prompt here (reference 1)"
-            },
-            "scale": {
-              "type": "continuous",
-              "alignment": "horizontal",
-              "labels": ["Bad","Poor","Fair", "Good", "Excellent"],
-              "values": [0,20,40,60,80,100],
-              "range": [0,100]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": true,
-            "submitButtonText": "Avaliar"
-        },
-
-        {
-            "name": "Insert question name here",
-            "description": "Insert a description here",
-            "id":2,
+            "name": "Sample 0",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: Solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "id": 1,
             "anchors": null,
             "references": null,
-            "testSignals": ["test_signals/test.wav", "test_signals/test.wav", "test_signals/test.wav","test_signals/test.wav"],
-            "prompts":{
-                "0":"Insert prompt here",
-                "1":"Insert prompt here 2",
-                "2":"Insert prompt here 3",
-                "3":"Insert prompt here 4"
-            },
-            "scale": {
-                "type": "dropdown",
-                "alignment": "horizontal",
-                "labels": ["Bad","Poor","Fair", "Good", "Excellent"],
-                "values": [0,1,2,3,4]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": true,
-            "submitButtonText": "Avaliar"
-        },
-        {
-            "name": "Insert question name here",
-            "description": "Insert a description here",
-            "id":3,
-            "anchor": "test_signals/anchor.wav",
-            "reference": "test_signals/reference.wav",
-            "testSignals": ["test_signals/test.wav","test_signals/test.wav"],
-            "prompts":{
-                "0":"Insert prompt here",
-                "1":"Insert prompt here 2",
-                "anchor": "Insert prompt here (anchor)",
-                "reference": "Insert prompt here (reference)"
+            "testSignals": [
+                "test_signals/reference.mp3",
+                "test_signals/reference.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
-                "labels": ["Bad","Poor","Fair", "Good", "Excellent"],
-                "values": [0,1,2,3,4]
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
             },
-            "shuffleTestSignals": true,
+            "shuffleTestSignals": false,
             "referenceEvaluated": false,
-            "anchorEvaluated": true,
-            "submitButtonText": "Avaliar"
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_9.mp3",
+                "test_signals/example_9.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 11",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_10.mp3",
+                "test_signals/example_10.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 12",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_11.mp3",
+                "test_signals/example_11.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 13",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_12.mp3",
+                "test_signals/example_12.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 14",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_13.mp3",
+                "test_signals/example_13.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 15",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_14.mp3",
+                "test_signals/example_14.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 16",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_15.mp3",
+                "test_signals/example_15.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 17",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_16.mp3",
+                "test_signals/example_16.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 18",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_17.mp3",
+                "test_signals/example_17.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 19",
+            "description": "Listen to the audio sample below and answer both questions.",
+            "message": "CAPTION: 9     This instrumental track features a solo penato...\n10    A male vocalist sings melodically in the lead,...\n11    This segment is an intense instrumental rock t...\n12    This segment serves as a perfect example of in...\n13    This piece is an instrumental cinematic score ...\n14    This instrumental jazz piece creates a smooth ...\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\nName: caption_sclap, dtype: object",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_18.mp3",
+                "test_signals/example_18.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)   ",
+                    "2   ",
+                    "3   ",
+                    "4   ",
+                    "5   ",
+                    "6   ",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
         }
     ]
 }
