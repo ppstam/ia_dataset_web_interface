@@ -1,7 +1,7 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 7 (best).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
@@ -260,7 +260,7 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic instrumental rock track features a fast tempo driven by electric guitar, bass guitar, and acoustic drums. The atmosphere is intense and suitable for a high-energy live concert setting or an action scene in a movie. Although male vocals are present in the original recording, this specific segment focuses on the driving instrumentation of the rock anthem.",
+            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -302,7 +302,7 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
+            "caption": "This instrumental track blends strong electronic and industrial influences with a prominent synthesizer line and driving bass. The music builds tension through dynamic shifts, creating a dark and intense mood that feels perfectly suited for a high-stakes video game action sequence.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -344,7 +344,7 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong electronic and industrial influences with a prominent synthesizer line and driving bass. The music builds tension through dynamic shifts, creating a dark and intense mood that feels perfectly suited for a high-stakes video game action sequence.",
+            "caption": "This energetic instrumental rock track features a fast tempo driven by electric guitar, bass guitar, and acoustic drums. The atmosphere is intense and suitable for a high-energy live concert setting or an action scene in a movie. Although male vocals are present in the original recording, this specific segment focuses on the driving instrumentation of the rock anthem.",
             "id": 1,
             "anchors": null,
             "references": null,

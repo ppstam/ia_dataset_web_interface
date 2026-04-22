@@ -1,7 +1,7 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 7 (best).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
@@ -50,7 +50,7 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track centers on a bass guitar that acts as the primary melodic force within a slow, deliberate arrangement. The music builds toward a climactic descending lick, creating a dark and ominous atmosphere filled with tension and foreboding.",
+            "caption": "This instrumental piece serves as an ideal backing track for guitar lessons, highlighting the elegance of fingerstyle techniques and detailed fingerpicking patterns. The arrangement relies primarily on acoustic guitar to create a focused listening experience that emphasizes complex chord progressions without vocal distractions. Although originally recorded during a live bluegrass performance featuring multiple instruments, this specific segment isolates the intricate guitar work essential for instructional purposes.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -92,7 +92,7 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece serves as an ideal backing track for guitar lessons, highlighting the elegance of fingerstyle techniques and detailed fingerpicking patterns. The arrangement relies primarily on acoustic guitar to create a focused listening experience that emphasizes complex chord progressions without vocal distractions. Although originally recorded during a live bluegrass performance featuring multiple instruments, this specific segment isolates the intricate guitar work essential for instructional purposes.",
+            "caption": "This instrumental track is specifically designed for a church service, featuring a choir and organ that blend with electric guitar to create a rich sound. The rhythm remains slow and steady, emphasizing the bass line while maintaining a solemn and reverent atmosphere suitable for contemplation.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -134,7 +134,7 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is specifically designed for a church service, featuring a choir and organ that blend with electric guitar to create a rich sound. The rhythm remains slow and steady, emphasizing the bass line while maintaining a solemn and reverent atmosphere suitable for contemplation.",
+            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -176,7 +176,7 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
+            "caption": "A male vocalist delivers a romantic ballad characterized by a slow, steady tempo and sentimental mood. The track features a gentle keyboard harmony supported by a strong bass line and electronic drums to create an emotional atmosphere. Although related tracks often exhibit energetic dance qualities, this specific segment focuses on a softer, more intimate style suitable for a movie scene.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -218,7 +218,7 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A male vocalist delivers a romantic ballad characterized by a slow, steady tempo and sentimental mood. The track features a gentle keyboard harmony supported by a strong bass line and electronic drums to create an emotional atmosphere. Although related tracks often exhibit energetic dance qualities, this specific segment focuses on a softer, more intimate style suitable for a movie scene.",
+            "caption": "An upbeat male vocalist sings with harmonies over a groovy bassline and repetitive keyboard melody in this Latin pop track. The song features a simple percussion beat and a romantic mood, making it suitable for a love story in a movie.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -260,7 +260,7 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "An upbeat male vocalist sings with harmonies over a groovy bassline and repetitive keyboard melody in this Latin pop track. The song features a simple percussion beat and a romantic mood, making it suitable for a love story in a movie.",
+            "caption": "This segment features a virtuosic solo piano performance defined by a complex, free-flowing rhythm and an intricate, expressive melody. The tempo shifts dynamically between moderate and fast speeds, creating a sense of tension that makes the piece well-suited for a concert recital or a dramatic film scene.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -302,7 +302,7 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a virtuosic solo piano performance defined by a complex, free-flowing rhythm and an intricate, expressive melody. The tempo shifts dynamically between moderate and fast speeds, creating a sense of tension that makes the piece well-suited for a concert recital or a dramatic film scene.",
+            "caption": "This instrumental track from the INNIT Project blends heavy metal and doom influences with a dark, ominous atmosphere. Distorted guitars and synthesizers combine to create a powerful, aggressive soundscape that evokes tension and foreboding. The overall mood suits a dark fantasy setting, reinforcing the piece's intense and hypnotic quality.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -344,7 +344,7 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track from the INNIT Project blends heavy metal and doom influences with a dark, ominous atmosphere. Distorted guitars and synthesizers combine to create a powerful, aggressive soundscape that evokes tension and foreboding. The overall mood suits a dark fantasy setting, reinforcing the piece's intense and hypnotic quality.",
+            "caption": "This segment is an instrumental fantasy soundtrack that relies on a choir, strings, and harpsichord to create a solemn, Baroque-era atmosphere. The music moves at a slow, steady pace driven by a percussive bass line, evoking a grand sense of awe suitable for cinematic scenes. Although the upload title suggests a pop standard by Elvis Presley, the audio itself features no vocals or electric instruments.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -386,7 +386,7 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental fantasy soundtrack that relies on a choir, strings, and harpsichord to create a solemn, Baroque-era atmosphere. The music moves at a slow, steady pace driven by a percussive bass line, evoking a grand sense of awe suitable for cinematic scenes. Although the upload title suggests a pop standard by Elvis Presley, the audio itself features no vocals or electric instruments.",
+            "caption": "This segment is an instrumental vintage cartoon soundtrack featuring a lively and cheerful melody played by a full orchestra. The fast tempo and steady rhythm create a lighthearted, playful mood suitable for comedic scenes or classic animation.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -428,7 +428,7 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental vintage cartoon soundtrack featuring a lively and cheerful melody played by a full orchestra. The fast tempo and steady rhythm create a lighthearted, playful mood suitable for comedic scenes or classic animation.",
+            "caption": "This instrumental track blends fast-paced drum and bass rhythms with a strong electronic bass line, creating an intense and energetic atmosphere. The driving beat and futuristic synth sounds make it perfectly suited for high-stakes video game scenes like boss battles or rapid action sequences. While the music features a dark and heavy mood typical of experimental electronic genres, its relentless energy keeps the listener engaged from start to finish.",
             "id": 1,
             "anchors": null,
             "references": null,

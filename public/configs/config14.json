@@ -1,7 +1,7 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 7 (best).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
@@ -386,7 +386,7 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track focuses on driving rhythm and instrumentation, creating a mood suitable for background use in a war or battle scene. The piece emphasizes the sound of guitar-like elements to establish an intense atmosphere without any vocal lyrics. Its steady, repetitive nature makes it ideal for building tension in cinematic moments involving conflict.",
+            "caption": "This instrumental hip-hop track features a strong bass line, electronic drums, and a repetitive melody that create a dark and intense atmosphere. Although the metadata suggests a male voice narrates or raps a story, the primary focus remains on the groovy rhythm driven by beat-heavy instrumentation typical of New York Hip-Hop.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -428,7 +428,7 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features rich, computer-generated drones that create a slow-paced and expansive soundscape. The steady, pulsating rhythm builds toward an epic climax, establishing a mysterious and cinematic atmosphere suitable for exploration scenes. Although generated as part of a curated collection of one-minute pieces, the music maintains a dark and atmospheric quality typical of experimental drone soundtracks.",
+            "caption": "This instrumental track functions as a soundscape featuring natural bird calls and a minimalist approach to create a serene atmosphere. The steady, ambient style blends electronic textures with acoustic elements, making the piece ideal for relaxation or meditation.",
             "id": 1,
             "anchors": null,
             "references": null,

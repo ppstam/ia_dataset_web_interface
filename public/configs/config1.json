@@ -1,7 +1,7 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 7 (best).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
@@ -50,7 +50,7 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track delivers an intense and aggressive soundscape dominated by distorted guitars, loud drums, and chaotic noise elements. The absence of vocals allows the raw power of these instruments to create a harsh, violent atmosphere suitable for high-energy action scenes or industrial contexts. Although labeled as harshnoise in its archival context, the piece functions as a fast-paced instrumental featuring heavy rhythms and a sense of urgent chaos.",
+            "caption": "This piece is an instrumental techno track with a fast tempo, featuring a pulsating bassline, electronic drums, and a repetitive synth melody. The rhythm relies on a steady four-on-the-floor beat to create a dark, intense, and futuristic atmosphere suitable for a nightclub or sci-fi video game soundtrack.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -92,7 +92,7 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A powerful female vocalist leads this intense track, supported by electric guitar, bass, and steady drums that define the alternative rock genre. The combination of keyboard textures and urgent rhythm creates a dark, emotional atmosphere perfect for a live performance in a small venue.",
+            "caption": "This instrumental track features a drummer playing intricate patterns that begin with a solo roll before shifting into a rhythm reminiscent of a tribal ritual. The moderate tempo and vibrant crowd noises create an energetic, live-performance atmosphere centered entirely on percussive elements.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -176,7 +176,7 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This aggressive and violent metal segment features a fast tempo driven by heavily distorted electric guitars and intense drumming. The chaotic, heavy atmosphere creates an ideal soundscape for high-intensity video game boss battles or action sequences.",
+            "caption": "This intense instrumental track uses a fast-paced rhythm and distorted guitars to create a chaotic, aggressive atmosphere perfect for high-stakes action sequences. The heavy, dark mood is driven by synthesizers and electronic drums that blend with glitchy sound effects to produce an urgent and dangerous feel. Ultimately, the music serves as a tense soundtrack ideal for video game boss battles or industrial-themed scenes.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -218,7 +218,7 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong retro feel with upbeat synthesizers, electronic drums, and a driving bassline. The cheerful and adventurous rhythm creates an energetic atmosphere perfect for video game soundtracks.",
+            "caption": "This instrumental track blends electronic and synthwave influences with a steady four-on-the-floor beat, creating a dark and mysterious groove. Prominent synthesizers and electronic drums drive the futuristic sound, making it suitable for scenes set in a cyberpunk city or as a game soundtrack.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -386,7 +386,7 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong electronic influence with synthesizers, a drum machine, and a driving bassline that establishes a steady, hypnotic groove. The mood remains chill and relaxed throughout, creating an engaging atmosphere ideal for background music in a trendy lounge or stylish caf\u00e9.",
+            "caption": "This piece is a perfect example of ambient music, featuring soothing and atmospheric soundscapes that evoke a meditative mood. The absence of vocals allows listeners to fully immerse themselves in the gentle rhythms and ethereal textures created by soft instrumentation. Ideally suited for relaxation or introspection, the slow tempo maintains a calm ambiance throughout the track.",
             "id": 1,
             "anchors": null,
             "references": null,

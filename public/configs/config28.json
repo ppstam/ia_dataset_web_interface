@@ -1,7 +1,7 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 7 (best).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
@@ -50,7 +50,7 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a strong Latin influence with a steady drumming rhythm and a groovy, percussive bass line. Keyboard accompaniment adds complexity to the melody while driving the piece forward with an energetic dance groove. The overall mood feels romantic and passionate, making it suitable for a dramatic or uplifting movie soundtrack.",
+            "caption": "This instrumental track features a vibrant sound driven by the interplay of a traditional Spanish guitar and a lively acoustic guitar. Steady, driving rhythms provided by drums create an energetic mood that suits various settings, from dance parties to travel documentaries. The overall effect is engaging and upbeat, with a strong focus on melodic instrumentation rather than electronic textures.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -92,7 +92,7 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a vibrant sound driven by the interplay of a traditional Spanish guitar and a lively acoustic guitar. Steady, driving rhythms provided by drums create an energetic mood that suits various settings, from dance parties to travel documentaries. The overall effect is engaging and upbeat, with a strong focus on melodic instrumentation rather than electronic textures.",
+            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -134,7 +134,7 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track provides an immersive experience focused on atmosphere rather than vocals. The soundscape features a blend of guitar, synthesizer, and field recording elements that evoke a dark yet emotionally resonant mood. These audio layers create a dynamic backdrop suitable for intense scenes or reflective moments within a cinematic context.",
+            "caption": "This instrumental track blends strong electronic and industrial influences with a prominent synthesizer line and driving bass. The music builds tension through dynamic shifts, creating a dark and intense mood that feels perfectly suited for a high-stakes video game action sequence.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -176,7 +176,7 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
+            "caption": "This energetic instrumental rock track features a fast tempo driven by electric guitar, bass guitar, and acoustic drums. The atmosphere is intense and suitable for a high-energy live concert setting or an action scene in a movie. Although male vocals are present in the original recording, this specific segment focuses on the driving instrumentation of the rock anthem.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -218,7 +218,7 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong electronic and industrial influences with a prominent synthesizer line and driving bass. The music builds tension through dynamic shifts, creating a dark and intense mood that feels perfectly suited for a high-stakes video game action sequence.",
+            "caption": "This instrumental composition features a gentle piano melody supported by a dreamy synthesizer layer, creating a slow and steady rhythm. The music evokes an introspective and melancholic mood that is perfect for a reflective film scene or quiet contemplation.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -260,7 +260,7 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition features a gentle piano melody supported by a dreamy synthesizer layer, creating a slow and steady rhythm. The music evokes an introspective and melancholic mood that is perfect for a reflective film scene or quiet contemplation.",
+            "caption": "This intense instrumental track fuses heavy elements of rock, metal, and industrial styles to create a powerful soundscape. Distorted electric guitars dominate the mix with a dark and aggressive mood that drives the music forward. While inspired by improvisations built around a steady pulse, the piece relies entirely on layered instrumentation rather than vocals or traditional song structures.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -302,7 +302,7 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This intense instrumental track fuses heavy elements of rock, metal, and industrial styles to create a powerful soundscape. Distorted electric guitars dominate the mix with a dark and aggressive mood that drives the music forward. While inspired by improvisations built around a steady pulse, the piece relies entirely on layered instrumentation rather than vocals or traditional song structures.",
+            "caption": "This instrumental track combines driving electronic drums and synthesizers with a repetitive four-on-the-floor bassline typical of deep house and techno. The dark and intense mood creates an energetic, suspenseful atmosphere that is ideal for a nightclub setting or a high-energy workout session.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -344,7 +344,7 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track combines driving electronic drums and synthesizers with a repetitive four-on-the-floor bassline typical of deep house and techno. The dark and intense mood creates an energetic, suspenseful atmosphere that is ideal for a nightclub setting or a high-energy workout session.",
+            "caption": "This piece is a powerful and intense instrumental featuring a dramatic, epic feel driven by strong percussion and a solid bass line. The fast tempo creates a distinct sense of urgency, making it suitable for cinematic or high-energy scenes. Despite the composer's original description of playful dolphin visuals, the actual audio remains serious and urgent in its delivery.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -386,7 +386,7 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a powerful and intense instrumental featuring a dramatic, epic feel driven by strong percussion and a solid bass line. The fast tempo creates a distinct sense of urgency, making it suitable for cinematic or high-energy scenes. Despite the composer's original description of playful dolphin visuals, the actual audio remains serious and urgent in its delivery.",
+            "caption": "This piece is an instrumental techno track with a fast tempo, featuring a pulsating bassline, electronic drums, and a repetitive synth melody. The rhythm relies on a steady four-on-the-floor beat to create a dark, intense, and futuristic atmosphere suitable for a nightclub or sci-fi video game soundtrack.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -428,7 +428,7 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a groovy reggae beat with electric bass and synthesizer to create a relaxed, summer atmosphere. The steady off-beat rhythm offers a chill vibe that feels well-suited for a beach bar or casual lounge setting.",
+            "caption": "This segment is an alternative rock track featuring a male vocalist singing over steady drumming and keyboard harmony. The music maintains a romantic and groovy atmosphere, blending indie influences with youthful energy.",
             "id": 1,
             "anchors": null,
             "references": null,

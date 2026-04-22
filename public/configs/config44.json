@@ -1,7 +1,7 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 7 (best).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
@@ -50,7 +50,7 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This intense instrumental track fuses heavy elements of rock, metal, and industrial styles to create a powerful soundscape. Distorted electric guitars dominate the mix with a dark and aggressive mood that drives the music forward. While inspired by improvisations built around a steady pulse, the piece relies entirely on layered instrumentation rather than vocals or traditional song structures.",
+            "caption": "This instrumental track blends a groovy reggae beat with electric bass and synthesizer to create a relaxed, summer atmosphere. The steady off-beat rhythm offers a chill vibe that feels well-suited for a beach bar or casual lounge setting.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -92,7 +92,7 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features rich, computer-generated drones that create a slow-paced and expansive soundscape. The steady, pulsating rhythm builds toward an epic climax, establishing a mysterious and cinematic atmosphere suitable for exploration scenes. Although generated as part of a curated collection of one-minute pieces, the music maintains a dark and atmospheric quality typical of experimental drone soundtracks.",
+            "caption": "This instrumental segment features a simple, repetitive keyboard melody accompanied by quirky beeping and ringing sound effects that create a playful atmosphere. Although some similar tracks suggest a chill or electronic vibe, this specific piece aligns with the experimental and improvisational nature of the source album *En Busca Del Pasto*. The music remains vocal-free throughout, focusing on its minimalist rhythm and distinctive sonic textures.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -134,7 +134,7 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This music piece is an instrumental guitar solo performed at a fast tempo with a lively, energetic feel. The rhythmic and percussive nature of the track makes it ideal for use as a guitar tutorial or solo performance example.",
+            "caption": "This segment presents a perfect example of a jazz composition featuring a slow tempo and a mellow, soft mood. Gentle accompaniment from the piano and bass creates a soothing atmosphere, while the drums maintain a steady rhythm throughout. The overall relaxing feel makes it ideal for a cozy evening or a moment of peaceful reflection.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -176,7 +176,7 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment presents a perfect example of a jazz composition featuring a slow tempo and a mellow, soft mood. Gentle accompaniment from the piano and bass creates a soothing atmosphere, while the drums maintain a steady rhythm throughout. The overall relaxing feel makes it ideal for a cozy evening or a moment of peaceful reflection.",
+            "caption": "This instrumental track blends electronic and acoustic elements, featuring a synthesizer, drum machine, and electric guitar to create a dynamic sound. The strong, driving rhythm generates an upbeat and energetic atmosphere suitable for clubs or dance floors. Although the metadata suggests darker undertones, the overall vibe remains catchy and lively across various settings.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -218,7 +218,7 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition blends Western Classical music with the distinct sound of the French horn, piano, and harpsichord to create a sophisticated atmosphere. A dynamic string section provides a rich texture while a strong bass line adds depth to the engaging rhythm.",
+            "caption": "This instrumental track relies on synthesized static, white noise, and sound design to create a chaotic and arrhythmic atmosphere. The harsh and abrasive texture evokes a sense of signal interference, making it suitable for experimental films or scenes depicting mechanical decay.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -260,7 +260,7 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track relies on synthesized static, white noise, and sound design to create a chaotic and arrhythmic atmosphere. The harsh and abrasive texture evokes a sense of signal interference, making it suitable for experimental films or scenes depicting mechanical decay.",
+            "caption": "This instrumental hip-hop track builds on a strong rhythmic foundation with a groovy bassline, steady drumming, and keyboard accompaniment. The music creates an energetic and urban atmosphere that feels both hip and danceable.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -302,7 +302,7 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track builds on a strong rhythmic foundation with a groovy bassline, steady drumming, and keyboard accompaniment. The music creates an energetic and urban atmosphere that feels both hip and danceable.",
+            "caption": "This instrumental Techno Pop track features a fast tempo, synthesizer arrangements, and a strong digital drumming beat. The music creates an energetic, pulsating groove ideal for dancing in a nightclub setting.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -344,7 +344,7 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental Techno Pop track features a fast tempo, synthesizer arrangements, and a strong digital drumming beat. The music creates an energetic, pulsating groove ideal for dancing in a nightclub setting.",
+            "caption": "This instrumental track is specifically designed for a techno club, featuring a steady, repetitive beat and a pulsating bassline driven by synthesizers. The music creates a dark and intense atmosphere with a hypnotic rhythm that maintains a sense of anticipation throughout the piece. Ultimately, its driving nature makes it an engaging choice for keeping an audience moving in a nightclub setting.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -386,7 +386,7 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is specifically designed for a techno club, featuring a steady, repetitive beat and a pulsating bassline driven by synthesizers. The music creates a dark and intense atmosphere with a hypnotic rhythm that maintains a sense of anticipation throughout the piece. Ultimately, its driving nature makes it an engaging choice for keeping an audience moving in a nightclub setting.",
+            "caption": "This instrumental composition features a slow, steady rhythm driven by a prominent string section, particularly violins, that creates a melancholic and dramatic atmosphere. The music maintains a somber and reflective mood throughout, with a strong bass line providing a solid foundation for moments of introspection.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -428,7 +428,7 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong electronic influence with synthesizers, a drum machine, and a driving bassline that establishes a steady, hypnotic groove. The mood remains chill and relaxed throughout, creating an engaging atmosphere ideal for background music in a trendy lounge or stylish caf\u00e9.",
+            "caption": "This experimental piece blends ambient and electronic elements with a dark, eerie atmosphere driven by synthesizers and haunting voice samples. A slow, hypnotic rhythm combined with ominous sound effects creates a mysterious tension that fits the genre's abstract style. The track maintains a steady, heavy mood throughout, emphasizing an unsettling and immersive listening experience.",
             "id": 1,
             "anchors": null,
             "references": null,

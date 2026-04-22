@@ -1,7 +1,7 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 7 (best).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
@@ -50,7 +50,7 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features rich, computer-generated drones that create a slow-paced and expansive soundscape. The steady, pulsating rhythm builds toward an epic climax, establishing a mysterious and cinematic atmosphere suitable for exploration scenes. Although generated as part of a curated collection of one-minute pieces, the music maintains a dark and atmospheric quality typical of experimental drone soundtracks.",
+            "caption": "This instrumental track functions as a soundscape featuring natural bird calls and a minimalist approach to create a serene atmosphere. The steady, ambient style blends electronic textures with acoustic elements, making the piece ideal for relaxation or meditation.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -92,7 +92,7 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A powerful female vocalist leads this intense track, supported by electric guitar, bass, and steady drums that define the alternative rock genre. The combination of keyboard textures and urgent rhythm creates a dark, emotional atmosphere perfect for a live performance in a small venue.",
+            "caption": "This piece is a beautiful solo piano composition that moves at a slow, gentle tempo to create a peaceful and introspective mood. The arrangement allows the listener to fully immerse themselves in the emotional depth of the music, making it ideal for moments of relaxation or quiet reflection.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -134,7 +134,7 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful solo piano composition that moves at a slow, gentle tempo to create a peaceful and introspective mood. The arrangement allows the listener to fully immerse themselves in the emotional depth of the music, making it ideal for moments of relaxation or quiet reflection.",
+            "caption": "This instrumental track is an aggressive heavy metal piece driven by distorted electric guitar riffs and powerful drumming. The fast-paced, loud sound creates a high-energy atmosphere well-suited for live concerts or intense video game combat sequences. While the source material identifies the artist as a hardcore punk band from Croatia, this specific segment showcases a distinctly heavier musical style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -176,7 +176,7 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This aggressive and violent metal segment features a fast tempo driven by heavily distorted electric guitars and intense drumming. The chaotic, heavy atmosphere creates an ideal soundscape for high-intensity video game boss battles or action sequences.",
+            "caption": "This instrumental track blends strong electronic and techno influences with a prominent bassline and a repetitive, driving beat. Atmospheric elements like vinyl crackle and white noise create a dark, immersive mood supported by synthesizers and computer-generated sounds. The piece avoids vocals to let the futuristic instrumentation take center stage, offering an energetic yet somber listening experience.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -218,7 +218,7 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends electronic instrumentation, including synthesizers and a drum machine, to create a steady, repetitive rhythm with a hypnotic quality. The music maintains a dark and mysterious mood filled with tension, making it well-suited for tense moments in video games or sci-fi films.",
+            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -260,7 +260,7 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
+            "caption": "This instrumental track blends techno and house influences with a driving, repetitive rhythm that creates an upbeat and energetic groove. Featuring prominent synthesizers, electronic percussion, and a strong bassline, the piece evokes a retro feel reminiscent of classic video games and high-energy dance parties. The sound is perfect for a nightclub atmosphere or a workout playlist where its engaging beats can keep listeners moving.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -302,7 +302,7 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends techno and house influences with a driving, repetitive rhythm that creates an upbeat and energetic groove. Featuring prominent synthesizers, electronic percussion, and a strong bassline, the piece evokes a retro feel reminiscent of classic video games and high-energy dance parties. The sound is perfect for a nightclub atmosphere or a workout playlist where its engaging beats can keep listeners moving.",
+            "caption": "This instrumental track explores the interplay between synthesizers and a steady, hypnotic rhythm to create a trance-like atmosphere. The repetitive electronic beat fosters an introspective mood that evokes a sense of space, making it ideal for meditation or a late-night drive. With no vocals present, the piece allows listeners to fully immerse themselves in the captivating soundscape of the synthesizer and drum machine.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -344,7 +344,7 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track explores the interplay between synthesizers and a steady, hypnotic rhythm to create a trance-like atmosphere. The repetitive electronic beat fosters an introspective mood that evokes a sense of space, making it ideal for meditation or a late-night drive. With no vocals present, the piece allows listeners to fully immerse themselves in the captivating soundscape of the synthesizer and drum machine.",
+            "caption": "This classical piano solo features a slow, steady rhythm that fosters a melancholic and introspective mood. The gentle flow of the melody creates an emotional depth suitable for a dramatic film score or a quiet moment of reflection. While the instrumentation remains focused on the expressive capabilities of the piano, the piece evokes a sense of cinematic solemnity.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -386,7 +386,7 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong electronic influence with synthesizers, a drum machine, and a driving bassline that establishes a steady, hypnotic groove. The mood remains chill and relaxed throughout, creating an engaging atmosphere ideal for background music in a trendy lounge or stylish caf\u00e9.",
+            "caption": "This experimental piece blends ambient and electronic elements with a dark, eerie atmosphere driven by synthesizers and haunting voice samples. A slow, hypnotic rhythm combined with ominous sound effects creates a mysterious tension that fits the genre's abstract style. The track maintains a steady, heavy mood throughout, emphasizing an unsettling and immersive listening experience.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -428,7 +428,7 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This experimental piece blends ambient and electronic elements with a dark, eerie atmosphere driven by synthesizers and haunting voice samples. A slow, hypnotic rhythm combined with ominous sound effects creates a mysterious tension that fits the genre's abstract style. The track maintains a steady, heavy mood throughout, emphasizing an unsettling and immersive listening experience.",
+            "caption": "This segment features a beautiful solo piano performance that fits well within the classical and ballet genres. The music offers an expressive and emotional tone, making it ideal for a poignant scene in a drama or a reflective moment in a film.",
             "id": 1,
             "anchors": null,
             "references": null,

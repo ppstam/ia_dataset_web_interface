@@ -1,7 +1,7 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 7 (best).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
@@ -134,7 +134,7 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental horror soundtrack establishes a tense and ominous atmosphere through a slow tempo driven by a steady, dark percussive rhythm. A haunting keyboard harmony layers over the sound, creating unease that fits perfectly within the cinematic style of this experimental electronic piece. The composition effectively builds suspense, serving as an ideal backdrop for dramatic scenes in films or video games.",
+            "caption": "This instrumental track features a blend of synth, bass, and electronic drums that create a slow, dark, and mysterious atmosphere. The ominous mood, reinforced by a haunting vocal sample, makes the piece well-suited for horror soundtracks or suspenseful video game moments.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -260,7 +260,7 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features an eerie synthesizer and ambient bass that create a dark, mysterious atmosphere filled with tension. The steady yet repetitive rhythm builds a sense of unease, making the piece well-suited for a horror movie soundtrack or a psychological thriller scene. Despite its experimental and noise-heavy genre classification, the focus remains on the haunting soundscape rather than complex musical structures.",
+            "caption": "This recording captures the serene sounds of a river flowing in Tainan County, creating an immersive and tranquil atmosphere. The gentle stream noises are complemented by subtle digital textures, blending organic nature with soft electronic tones. It serves as an ideal soundtrack for relaxation or meditation, highlighting the quiet beauty of the landscape through field recording techniques.",
             "id": 1,
             "anchors": null,
             "references": null,

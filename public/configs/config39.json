@@ -1,7 +1,7 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (very poor) to 7 (excellent).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 7 (best).\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
@@ -50,7 +50,7 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a virtuosic solo piano performance defined by a complex, free-flowing rhythm and an intricate, expressive melody. The tempo shifts dynamically between moderate and fast speeds, creating a sense of tension that makes the piece well-suited for a concert recital or a dramatic film scene.",
+            "caption": "This instrumental track from the INNIT Project blends heavy metal and doom influences with a dark, ominous atmosphere. Distorted guitars and synthesizers combine to create a powerful, aggressive soundscape that evokes tension and foreboding. The overall mood suits a dark fantasy setting, reinforcing the piece's intense and hypnotic quality.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -92,7 +92,7 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track from the INNIT Project blends heavy metal and doom influences with a dark, ominous atmosphere. Distorted guitars and synthesizers combine to create a powerful, aggressive soundscape that evokes tension and foreboding. The overall mood suits a dark fantasy setting, reinforcing the piece's intense and hypnotic quality.",
+            "caption": "This segment is an instrumental fantasy soundtrack that relies on a choir, strings, and harpsichord to create a solemn, Baroque-era atmosphere. The music moves at a slow, steady pace driven by a percussive bass line, evoking a grand sense of awe suitable for cinematic scenes. Although the upload title suggests a pop standard by Elvis Presley, the audio itself features no vocals or electric instruments.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -134,7 +134,7 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental fantasy soundtrack that relies on a choir, strings, and harpsichord to create a solemn, Baroque-era atmosphere. The music moves at a slow, steady pace driven by a percussive bass line, evoking a grand sense of awe suitable for cinematic scenes. Although the upload title suggests a pop standard by Elvis Presley, the audio itself features no vocals or electric instruments.",
+            "caption": "This segment is an instrumental vintage cartoon soundtrack featuring a lively and cheerful melody played by a full orchestra. The fast tempo and steady rhythm create a lighthearted, playful mood suitable for comedic scenes or classic animation.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -176,7 +176,7 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental vintage cartoon soundtrack featuring a lively and cheerful melody played by a full orchestra. The fast tempo and steady rhythm create a lighthearted, playful mood suitable for comedic scenes or classic animation.",
+            "caption": "This instrumental track blends fast-paced drum and bass rhythms with a strong electronic bass line, creating an intense and energetic atmosphere. The driving beat and futuristic synth sounds make it perfectly suited for high-stakes video game scenes like boss battles or rapid action sequences. While the music features a dark and heavy mood typical of experimental electronic genres, its relentless energy keeps the listener engaged from start to finish.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -218,7 +218,7 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends fast-paced drum and bass rhythms with a strong electronic bass line, creating an intense and energetic atmosphere. The driving beat and futuristic synth sounds make it perfectly suited for high-stakes video game scenes like boss battles or rapid action sequences. While the music features a dark and heavy mood typical of experimental electronic genres, its relentless energy keeps the listener engaged from start to finish.",
+            "caption": "This unique blend of ambient, industrial, and sci-fi genres creates a rhythm that is intentionally chaotic and unpredictable. The soundscape features synthesizers, electronic drums, and various sound effects to establish a dark, mysterious, and unsettling mood.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -260,7 +260,7 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This unique blend of ambient, industrial, and sci-fi genres creates a rhythm that is intentionally chaotic and unpredictable. The soundscape features synthesizers, electronic drums, and various sound effects to establish a dark, mysterious, and unsettling mood.",
+            "caption": "This segment is an amateur recording of a vocal choir singing without instrumental accompaniment. The performance feels cheerful and lively, driven by a strong rhythmic pattern enhanced with hand clapping.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -302,7 +302,7 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an amateur recording of a vocal choir singing without instrumental accompaniment. The performance feels cheerful and lively, driven by a strong rhythmic pattern enhanced with hand clapping.",
+            "caption": "This track is a slow, instrumental symphonic piece featuring piano, strings, and synthesizer that creates a calm and relaxing atmosphere. The steady rhythm supports a contemplative mood, making it well-suited for meditation, study, or quiet reflection.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -344,7 +344,7 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is a slow, instrumental symphonic piece featuring piano, strings, and synthesizer that creates a calm and relaxing atmosphere. The steady rhythm supports a contemplative mood, making it well-suited for meditation, study, or quiet reflection.",
+            "caption": "This instrumental piece features a lively violin melody accompanied by flute, set against a rhythmic tabla background that creates an upbeat dance atmosphere. The track evokes an energetic mood suitable for an Indian-themed movie or television soundtrack, standing apart from the smoother jazz and saxophone styles often found in similar archival uploads.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -386,7 +386,7 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece features a lively violin melody accompanied by flute, set against a rhythmic tabla background that creates an upbeat dance atmosphere. The track evokes an energetic mood suitable for an Indian-themed movie or television soundtrack, standing apart from the smoother jazz and saxophone styles often found in similar archival uploads.",
+            "caption": "This comedic instrumental duet features a male lead singing the main melody while a female voice provides humorous backing vocals. The fast-paced rhythm is driven by a lively banjo and a strong bass line, creating a funny atmosphere perfect for a comedy skit. With its playful energy and clear holiday theme, the piece serves as an entertaining soundtrack suitable for a festive performance.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -428,7 +428,7 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This comedic instrumental duet features a male lead singing the main melody while a female voice provides humorous backing vocals. The fast-paced rhythm is driven by a lively banjo and a strong bass line, creating a funny atmosphere perfect for a comedy skit. With its playful energy and clear holiday theme, the piece serves as an entertaining soundtrack suitable for a festive performance.",
+            "caption": "This track serves as a dynamic drum solo centered on the snare and cymbals, delivering a fast-paced rhythm that propels the music forward. The performance is intricate and powerful, featuring complex fills and rolls that highlight the drummer's technical skill within an intense rock or metal context.",
             "id": 1,
             "anchors": null,
             "references": null,

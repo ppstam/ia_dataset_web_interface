@@ -10,18 +10,24 @@ function valuetext(value) {
 export default function ScaleBlock({question, handleOptionSelect, audioIndex, questionIndex, selectedOptions}) {
     if (question.scale.type === 'discrete') {
         return (
-            <div className="flex flex-row flex-wrap justify-center gap-4">
-                {question.scale.labels.map((option, optionIndex) => (
-                    <label key={audioIndex + '_' + optionIndex} className="flex items-center cursor-pointer">
-                        <input className='mr-1'
-                            type="radio"
-                            name={`question-${audioIndex + '_' + questionIndex}`}
-                            checked={selectedOptions[audioIndex] === option}
-                            onChange={() => handleOptionSelect(option, audioIndex)}
-                        />
-                        {option}
-                    </label>
-                ))}
+            <div className="w-full flex justify-center">
+                <div className="flex flex-wrap justify-center gap-6 max-w-2xl">
+                    {question.scale.labels.map((option, optionIndex) => (
+                        <label
+                            key={`${audioIndex}_${optionIndex}`}
+                            className="flex items-center justify-center cursor-pointer min-w-[70px]"
+                        >
+                            <input
+                                className="mr-2"
+                                type="radio"
+                                name={`question-${audioIndex}_${questionIndex}`}
+                                checked={selectedOptions[audioIndex] === option}
+                                onChange={() => handleOptionSelect(option, audioIndex)}
+                            />
+                            <span className="text-center">{option}</span>
+                        </label>
+                    ))}
+                </div>
             </div>
         )
     }
