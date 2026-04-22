@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Button } from '@material-tailwind/react';
 import AudioTestBlock from './AudioTestBlock';
+import ScaleBlock from './ScaleBlock';
 import { getRandomIndexes, shuffle, shuffleArrayByIndexes } from '../utils/general';
 
 export default function Question({ question, questionIndex, testResults, setTestResults }) {
@@ -9,6 +10,11 @@ export default function Question({ question, questionIndex, testResults, setTest
     const [audioTestBlocks, setAudioTestBlocks] = useState([]);
     const [randomIndexes, setRandomIndexes] = useState([]);
 
+    // Detect shared audio mode: all testSignals point to the same file
+    const uniqueSignals = [...new Set(question.testSignals.filter(s =>
+        typeof s === 'string' && (s.endsWith('.mp3') || s.endsWith('.wav') || s.endsWith('.ogg') || s.endsWith('.aac'))
+    ))];
+    const isSharedAudio = uniqueSignals.length === 1 && question.testSignals.length > 1;
 
     useEffect(() => {
         // Reset selectedOptions when question changes
@@ -51,10 +57,15 @@ export default function Question({ question, questionIndex, testResults, setTest
     }, [selectedOptions, question.testSignals]);
 
     useEffect(() => {
+        // Skip building audioTestBlocks in shared audio mode — we render directly
+        if (isSharedAudio) {
+            setAudioTestBlocks([]);
+            return;
+        }
+
         let newAudioTestBlocks = [];
         //fill all audio test blocks
         if (question.references?.length > 0){
-            console.log('references present')
             question.references.forEach((reference, referenceIndex) => {
                 newAudioTestBlocks.push(
                     <AudioTestBlock
@@ -85,20 +96,16 @@ export default function Question({ question, questionIndex, testResults, setTest
             );
         });
 
-        console.log(testSignalsBlocks)
         if (question.shuffleTestSignals){
             newAudioTestBlocks = newAudioTestBlocks.concat(
                 shuffleArrayByIndexes(testSignalsBlocks,randomIndexes)
             );
-            console.log('shuffled')
-            console.log(shuffle(testSignalsBlocks)) 
         } else {
             newAudioTestBlocks = newAudioTestBlocks.concat(testSignalsBlocks);
         }
 
 
         if (question.anchors?.length >0){
-            console.log('anchors present')
             question.anchors.forEach((anchor, anchorIndex) => {
                 newAudioTestBlocks.push(
                     <AudioTestBlock
@@ -128,7 +135,6 @@ export default function Question({ question, questionIndex, testResults, setTest
         }
         )
         newSelectedOptions[audioIndex] = option;
-        console.log(newSelectedOptions)
         setSelectedOptions(newSelectedOptions);
     };
 
@@ -147,6 +153,41 @@ export default function Question({ question, questionIndex, testResults, setTest
         setSubmitEnabled(false);
     };
 
+    // Shared audio mode: one player on top, multiple questions with scales below
+    if (isSharedAudio) {
+        return (
+            <div>
+                <h2 className='font-bold text-lg'>{question.name}</h2>
+                <p className="whitespace-pre-line mb-4">{question.description}</p>
+
+                {/* Single audio player */}
+                <div className='flex justify-center mb-6'>
+                    <audio controls src={uniqueSignals[0]} className="w-full max-w-lg" />
+                </div>
+
+                {/* Questions with scales stacked vertically */}
+                {question.testSignals.map((_, audioIndex) => (
+                    <div key={audioIndex} className='flex flex-col mb-6 p-4 bg-gray-50 rounded-lg'>
+                        <h3 className='font-semibold mb-3'>{question.prompts[audioIndex]}</h3>
+                        <div className='flex flex-row items-center gap-4'>
+                            <ScaleBlock
+                                key={audioIndex + '_scale_block_'}
+                                question={question}
+                                handleOptionSelect={handleOptionClick}
+                                audioIndex={audioIndex}
+                                questionIndex={questionIndex}
+                                selectedOptions={selectedOptions}
+                            />
+                        </div>
+                    </div>
+                ))}
+
+                <Button color='blue' onClick={handleAnswer} disabled={!submitEnabled}>{question.submitButtonText}</Button>
+            </div>
+        );
+    }
+
+    // Default mode: separate audio player per test signal
     return (
         <div>
             <h2 className='font-bold text-lg'>{question.name}</h2>
