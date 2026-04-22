@@ -9,7 +9,7 @@
             "name": "Sample 1",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
-            "id": 1,
+            "id": "/projects/adasp/mir/MusicCaps/audio/ZVvX2-ldhvY.wav",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track, titled \"Noise Machines,\" blends experimental and electronic styles to create a dark, intense atmosphere suitable for retro video game action sequences. The composition relies heavily on synthesizers and digital noise to drive a fast-paced rhythm that evokes a strong sense of urgency.",
-            "id": 0,
+            "caption": "This instrumental nature sound track blends rhythmic guitar and bass with dynamic drums to create an immersive atmosphere. Ambient sounds of the natural world are woven throughout the composition, adding depth and a calming layer to the audio. The result is a soothing piece that effectively captures the serene feel of a recorded soundscape.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_63409_72948/Kelvinredo_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A solo piano piece unfolds with a slow, flowing rhythm that establishes a melancholic and introspective atmosphere. The minimalist arrangement creates a haunting soundscape, allowing the gentle notes to evoke a sense of calm reflection without any vocal interference. This emotional newage composition serves as a perfect backdrop for contemplative moments or quiet scenes in film.",
-            "id": 1,
+            "caption": "This instrumental track features a repetitive, catchy melody driven by a synthesizer and a strong beat that creates an energetic dance club atmosphere. Although labeled as Latin reggaeton in external records, the segment's primary character is an upbeat rhythm perfect for parties or retro video game soundtracks. The medium tempo ensures the music remains lively and engaging throughout the clip.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-264261/01-1358962-Wilson Way-Wilson Way - Insulina_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a blend of synth, bass, and electronic drums that create a slow, dark, and mysterious atmosphere. The ominous mood, reinforced by a haunting vocal sample, makes the piece well-suited for horror soundtracks or suspenseful video game moments.",
-            "id": 2,
+            "caption": "This piece is a perfect blend of guitar-driven country rock, featuring bluesy undertones that define its overall style. The absence of vocals allows the intricate instrumental elements to shine, creating a captivating and immersive listening experience.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/P/SPUTNIKRECORDS006/Sputnikrecords006-VladShegal-36/SPUTNIKRECORDS006 - Vlad Shegal - \u00f2\u00d1\u00bd\u00e1\u00f3\u00bf\u00df\u00e1 36/04 - Vlad Shegal - \u00c7\u00bd\u00e1\u2229 \u00bd\u00d1\u00a1\u0393\u00e1_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends house and techno influences with a lively, repetitive rhythm driven by synthesizers and electronic drums. The cheerful and playful mood creates a catchy, danceable groove that evokes the energy of video game soundtracks and summer parties.",
-            "id": 3,
+            "caption": "This instrumental track captures the atmospheric sounds of Nangan Township, Taiwan, featuring field recordings of ocean waves mixed with subtle electric box noise. Recorded binaurally for an immersive headphone experience, the piece evokes a calm and meditative mood ideal for documentaries or travel vlogs about coastal landscapes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_25794_29858/SoundMap2014101512_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece serves as a minimalist orchestral soundtrack where the bassoon and cello create a somber foundation supported by a steady, slow rhythm. A piano adds layers of tension to the dark, ominous atmosphere, making it ideal for scenes of intense dread in a horror movie. Despite some metadata suggesting electronic synthesizers, the core sound relies on traditional string instruments to build its unsettling mood.",
-            "id": 4,
+            "caption": "This classical orchestral piece features a slow, flowing rhythm driven by the interplay of violin and cello. A melancholic melody carried by these strings builds a sense of drama and tension within an otherwise somber mood. The composition evokes deep introspection, making it well-suited for a historical drama or a moment of reflection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-174020/02-1545465-Ivan Dolgunov-Duet for Violin and Viola, K.423 Adagio_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This recording captures the serene sounds of a river flowing in Tainan County, creating an immersive and tranquil atmosphere. The gentle stream noises are complemented by subtle digital textures, blending organic nature with soft electronic tones. It serves as an ideal soundtrack for relaxation or meditation, highlighting the quiet beauty of the landscape through field recording techniques.",
-            "id": 5,
+            "caption": "This comedic instrumental duet features a male lead singing the main melody while a female voice provides humorous backing vocals. The fast-paced rhythm is driven by a lively banjo and a strong bass line, creating a funny atmosphere perfect for a comedy skit. With its playful energy and clear holiday theme, the piece serves as an entertaining soundtrack suitable for a festive performance.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/a/SantaClausRag/SantaClausRag_vbr_mp3/santa_claus_rag_vbr_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track centers on a bass guitar that acts as the primary melodic force within a slow, deliberate arrangement. The music builds toward a climactic descending lick, creating a dark and ominous atmosphere filled with tension and foreboding.",
-            "id": 6,
+            "caption": "This instrumental track features a strong electronic and synth-driven sound that establishes a dynamic, energetic atmosphere. Powered by synthesizers and pulsating basslines, the piece creates an ideal soundtrack for futuristic themes or game environments. The driving electronic beat sustains a consistent rhythm throughout the composition, emphasizing its modern and immersive quality.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/f/r/fresh-starts-04/fresh starts-05_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece serves as an ideal backing track for guitar lessons, highlighting the elegance of fingerstyle techniques and detailed fingerpicking patterns. The arrangement relies primarily on acoustic guitar to create a focused listening experience that emphasizes complex chord progressions without vocal distractions. Although originally recorded during a live bluegrass performance featuring multiple instruments, this specific segment isolates the intricate guitar work essential for instructional purposes.",
-            "id": 7,
+            "caption": "This instrumental track delivers an energetic house beat driven by a strong bassline and electronic drumming. The fast-paced rhythm creates an upbeat atmosphere ideal for a nightclub or rave setting, featuring prominent synth melodies and computer-generated sounds.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141345/09-1173605-Hasenchat-23 HuHu Dance_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a perfect blend of guitar-driven country rock, featuring bluesy undertones that define its overall style. The absence of vocals allows the intricate instrumental elements to shine, creating a captivating and immersive listening experience.",
-            "id": 8,
+            "caption": "This instrumental percussion track features a groovy rhythm driven by congas, bongos, and cajas chinas. The music relies on complex polyrhythms and syncopated patterns to create an energetic and engaging backdrop suitable for dance classes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/a/cajas-chinas/Cajas Chinas_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic track features a male vocalist and an infectious reggae rhythm driven by lively percussion like congas and bongos. The catchy melody creates a groovy atmosphere with party vibes, making it perfect for a dance floor or gathering.",
-            "id": 9,
+            "caption": "This segment features a female vocalist singing in a melodious style, accompanied by the harmonium and tabla to create a romantic atmosphere. Bird sounds can be heard in the background, suggesting this piece is suitable for an Indian romance movie soundtrack. The overall sound reflects a vintage South Asian musical tradition with a warm and inviting mood.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/w/w/www-VintageSense-com-Vintage-Indian-Music-62n/12202_indian_music_vintagesense.com_1966_lalBungla1966-SumanKalyanpur-Aa---SunayiDeNaDeTumKo2-UshaKhanna_vintagesense.com_song_id_12202_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -465,6 +465,33 @@
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "type": "survey",
+            "name": "About You",
+            "description": "Please tell us about your musical background.",
+            "id": 12,
+            "testSignals": [],
+            "fields": [
+                {
+                    "id": "years_experience",
+                    "label": "How many years of musical experience do you have?",
+                    "type": "number",
+                    "min": 0,
+                    "max": 80,
+                    "placeholder": "e.g. 5",
+                    "required": true
+                },
+                {
+                    "id": "musical_background",
+                    "label": "Please describe your musical experience (instruments played, training, listening habits, etc.)",
+                    "type": "textarea",
+                    "placeholder": "e.g. I've played piano for 10 years and studied music theory in college...",
+                    "rows": 5,
+                    "required": false
+                }
+            ],
             "submitButtonText": "Next"
         }
     ]

@@ -9,7 +9,7 @@
             "name": "Sample 1",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
-            "id": 1,
+            "id": "/projects/adasp/mir/MusicCaps/audio/ZVvX2-ldhvY.wav",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This recording captures the soothing sounds of waves crashing against a small fishing port, creating an immersive nature soundscape ideal for relaxation. The gentle audio, recorded with high-fidelity binaural techniques, evokes a peaceful atmosphere perfect for mindfulness or meditation.",
-            "id": 0,
+            "caption": "This piece is a beautiful example of contemporary classical music featuring a solo piano as the primary instrument. The slow tempo creates a smooth, steady rhythm that fosters an introspective and melancholic mood, perfectly suited for a dramatic film scene or a moment of deep reflection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-376222/01-1333529-______ _________-__ _____ _____ ________00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an immersive instrumental nature soundtrack featuring synthesizers, bass, and percussion that create a soothing, ethereal soundscape. The slow, deliberate rhythm supports field recordings of ocean waves and bird calls, evoking the atmosphere of a tranquil beach scene. These combined elements make the track ideal for use as a backdrop in a nature documentary or a reflective travel vlog.",
-            "id": 1,
+            "caption": "This instrumental track blends a strong electronic influence with dark, ominous undertones to create a suspenseful atmosphere. A pulsating bassline and haunting synth melody drive the slow, hypnotic rhythm that feels perfect for a cinematic or game sound design context. The piece draws upon experimental noise aesthetics, utilizing synthesizers and subtle percussion to maintain an eerie and mysterious vibe throughout.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/l/e/les-parfaits-c-y-c-l-e-s/Les Parfaits - c.y.c.l.e.s/Les Parfaits - c.y.c.l.e.s. - 05 Everything Must Go Into the Bottomless Bit_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track features a strong bass line, electronic drums, and a repetitive melody that create a dark and intense atmosphere. Although the metadata suggests a male voice narrates or raps a story, the primary focus remains on the groovy rhythm driven by beat-heavy instrumentation typical of New York Hip-Hop.",
-            "id": 2,
+            "caption": "This energetic instrumental techno track features a fast tempo driven by synthesizers, digital drumming, and a strong pulsating bass line. The music creates an upbeat, trance-like atmosphere with a driving rhythm that is perfect for dancing in a nightclub or at a rave.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141529/03-1175117-Franco Uda Sankara-Bubble_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track functions as a soundscape featuring natural bird calls and a minimalist approach to create a serene atmosphere. The steady, ambient style blends electronic textures with acoustic elements, making the piece ideal for relaxation or meditation.",
-            "id": 3,
+            "caption": "This track is an upbeat and energetic electronic dance song driven by a strong four-on-the-floor beat. A female vocalist sings in a foreign language, creating an exotic atmosphere over the repetitive synth melody and bassline. The fast tempo and club-oriented style make it ideal for a dance party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-sono-un-robot-ribelle-1/Sono un robot ribelle 1_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful solo piano composition that moves at a slow, gentle tempo to create a peaceful and introspective mood. The arrangement allows the listener to fully immerse themselves in the emotional depth of the music, making it ideal for moments of relaxation or quiet reflection.",
-            "id": 4,
+            "caption": "This instrumental track delivers a powerful and aggressive atmosphere driven by intense electric guitars, bass, and fast-paced drums. The heavy metal sound creates an energetic vibe that feels perfect for high-stakes action sequences or video game boss battles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/F/u/FulciHolocaust-ZombieCouchDemo/FulciHolocaust-ZombieCouchDemo/Fulci Holocaust_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is an aggressive heavy metal piece driven by distorted electric guitar riffs and powerful drumming. The fast-paced, loud sound creates a high-energy atmosphere well-suited for live concerts or intense video game combat sequences. While the source material identifies the artist as a hardcore punk band from Croatia, this specific segment showcases a distinctly heavier musical style.",
-            "id": 5,
+            "caption": "This segment serves as a perfect example of ambient music, featuring ethereal and atmospheric soundscapes that create a profound sense of space and tranquility. The instrumental composition relies heavily on synthesizers to build a dreamy and calming environment ideal for relaxation or meditation. With no vocals present, the listener can fully immerse themselves in the peaceful mood without distraction.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/o/p/opposition_202010/Opposition_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong electronic and techno influences with a prominent bassline and a repetitive, driving beat. Atmospheric elements like vinyl crackle and white noise create a dark, immersive mood supported by synthesizers and computer-generated sounds. The piece avoids vocals to let the futuristic instrumentation take center stage, offering an energetic yet somber listening experience.",
-            "id": 6,
+            "caption": "This instrumental track blends Indie Rock and Dream Pop elements with a slow, steady rhythm that creates a melancholic atmosphere. Featuring emotive electric guitar playing enhanced by reverb, the piece offers a heartfelt soundscape ideal for quiet, introspective moments in film or vlogs.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/i/sit-still-and-hush/Sit Still and Hush_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
-            "id": 7,
+            "caption": "This instrumental track blends a festive Latin rhythm with simple, repetitive percussion to create a catchy and celebratory atmosphere. The steady beat builds a sense of anticipation, reminiscent of the quirky novelty Christmas style described in the upload title.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/V/a/VariousArtistsabongolongChristmas2004/11_interlude__o_little_town_of_12_days__a_bongolong_Christmas_2004__bongolong_64kb_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends techno and house influences with a driving, repetitive rhythm that creates an upbeat and energetic groove. Featuring prominent synthesizers, electronic percussion, and a strong bassline, the piece evokes a retro feel reminiscent of classic video games and high-energy dance parties. The sound is perfect for a nightclub atmosphere or a workout playlist where its engaging beats can keep listeners moving.",
-            "id": 8,
+            "caption": "This segment features an instrumental piece dominated by the steady, mechanical drone of a car engine idling in place. The sound creates a dark and ominous atmosphere filled with tension, fitting for a cinematic scene depicting a vehicle starting up. While other field recordings from the same collection capture ambient street life like passing planes and crows, this specific clip isolates the hypnotic rhythm of the engine.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_59274_68032/EiffePark01a_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track explores the interplay between synthesizers and a steady, hypnotic rhythm to create a trance-like atmosphere. The repetitive electronic beat fosters an introspective mood that evokes a sense of space, making it ideal for meditation or a late-night drive. With no vocals present, the piece allows listeners to fully immerse themselves in the captivating soundscape of the synthesizer and drum machine.",
-            "id": 9,
+            "caption": "This is an instrumental track with a fast tempo that showcases the drummer's skills across various percussion instruments like congas, bongos, and a drum kit. The infectious rhythm creates an energetic atmosphere perfect for dancing along to the music.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/e/mellosonicFuzed/fuzed_vbr_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -465,6 +465,33 @@
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "type": "survey",
+            "name": "About You",
+            "description": "Please tell us about your musical background.",
+            "id": 12,
+            "testSignals": [],
+            "fields": [
+                {
+                    "id": "years_experience",
+                    "label": "How many years of musical experience do you have?",
+                    "type": "number",
+                    "min": 0,
+                    "max": 80,
+                    "placeholder": "e.g. 5",
+                    "required": true
+                },
+                {
+                    "id": "musical_background",
+                    "label": "Please describe your musical experience (instruments played, training, listening habits, etc.)",
+                    "type": "textarea",
+                    "placeholder": "e.g. I've played piano for 10 years and studied music theory in college...",
+                    "rows": 5,
+                    "required": false
+                }
+            ],
             "submitButtonText": "Next"
         }
     ]

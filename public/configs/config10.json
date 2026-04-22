@@ -9,7 +9,7 @@
             "name": "Sample 1",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
-            "id": 1,
+            "id": "/projects/adasp/mir/MusicCaps/audio/ZVvX2-ldhvY.wav",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental vintage cartoon soundtrack featuring a lively and cheerful melody played by a full orchestra. The fast tempo and steady rhythm create a lighthearted, playful mood suitable for comedic scenes or classic animation.",
-            "id": 0,
+            "caption": "This instrumental track features ambient synth pads that establish a serene and relaxing atmosphere. Its slow, steady rhythm creates a gentle pulse ideal for meditation or as calming background music.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130213/05-1091255-Ambient Samurai - Ichiro NAKAGAWA-Music For Unintended Paradise _____________00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends fast-paced drum and bass rhythms with a strong electronic bass line, creating an intense and energetic atmosphere. The driving beat and futuristic synth sounds make it perfectly suited for high-stakes video game scenes like boss battles or rapid action sequences. While the music features a dark and heavy mood typical of experimental electronic genres, its relentless energy keeps the listener engaged from start to finish.",
-            "id": 1,
+            "caption": "A male vocalist delivers a romantic ballad characterized by a slow, steady tempo and sentimental mood. The track features a gentle keyboard harmony supported by a strong bass line and electronic drums to create an emotional atmosphere. Although related tracks often exhibit energetic dance qualities, this specific segment focuses on a softer, more intimate style suitable for a movie scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/W/e/Week11a/Ti\u00ebsto - The Business (Extended Mix)_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental segment creates a dark and ominous atmosphere through the use of a low-frequency drone, a high-pitched tone, and a mechanical hum. The piece builds suspense effectively, making it well-suited for a horror movie soundtrack or a scene depicting a mechanical breakdown in an industrial setting.",
-            "id": 2,
+            "caption": "This piece serves as a lively accompaniment for live performances, particularly suited for energetic drum battles. Dynamic percussion instruments like tambourine and shakers drive the rhythm with an intense, infectious beat that builds excitement. The track maintains a high-energy atmosphere throughout, making it ideal for action sequences or thrilling soundscapes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_22571_26182/SoundMap2014041215_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an amateur recording of a vocal choir singing without instrumental accompaniment. The performance feels cheerful and lively, driven by a strong rhythmic pattern enhanced with hand clapping.",
-            "id": 3,
+            "caption": "This instrumental track features an eerie synthesizer and ambient bass that create a dark, mysterious atmosphere filled with tension. The steady yet repetitive rhythm builds a sense of unease, making the piece well-suited for a horror movie soundtrack or a psychological thriller scene. Despite its experimental and noise-heavy genre classification, the focus remains on the haunting soundscape rather than complex musical structures.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/F/TFN225/TFN225/[TFN225] kxdX - Sakura-Wari In Rene Come Glistening/03 kxdX - The Sun_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features ambient synth pads that establish a serene and relaxing atmosphere. Its slow, steady rhythm creates a gentle pulse ideal for meditation or as calming background music.",
-            "id": 4,
+            "caption": "This recording captures a lively and cheerful piece of traditional Irish folk music featuring the distinctive sound of uilleann pipes. The steady, driving rhythm creates a festive atmosphere that feels perfect for accompanying a spirited dance or celebrating in a pub.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/F/e/FelixDoranDoransFancyTheRamblingPitchfork/11Felix_DoranDorans_Fancy_The_Rambling_Pitchfork_64kb_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece features a lively violin melody accompanied by flute, set against a rhythmic tabla background that creates an upbeat dance atmosphere. The track evokes an energetic mood suitable for an Indian-themed movie or television soundtrack, standing apart from the smoother jazz and saxophone styles often found in similar archival uploads.",
-            "id": 5,
+            "caption": "This instrumental track centers on synthesizers, electronic drums, and a bass synth to create an upbeat, energetic rhythm. Driven by a classic four-on-the-floor beat, the music maintains a danceable quality well-suited for a nightclub setting or high-energy workouts.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-159578/01-1353571-Gigatop Arthur-Just Like Fire_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a strong Latin influence with a steady drumming rhythm and a groovy, percussive bass line. Keyboard accompaniment adds complexity to the melody while driving the piece forward with an energetic dance groove. The overall mood feels romantic and passionate, making it suitable for a dramatic or uplifting movie soundtrack.",
-            "id": 6,
+            "caption": "This instrumental piece features a lively violin melody accompanied by flute, set against a rhythmic tabla background that creates an upbeat dance atmosphere. The track evokes an energetic mood suitable for an Indian-themed movie or television soundtrack, standing apart from the smoother jazz and saxophone styles often found in similar archival uploads.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-104360/05-887309-SIRUS Francky-entre ciel et terre _00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track serves as a dynamic drum solo centered on the snare and cymbals, delivering a fast-paced rhythm that propels the music forward. The performance is intricate and powerful, featuring complex fills and rolls that highlight the drummer's technical skill within an intense rock or metal context.",
-            "id": 7,
+            "caption": "This instrumental piece utilizes intricate sound design and organic field recordings to craft an immersive experience without vocals. Driven by the natural chirping of frogs in a binaural recording, the track creates a meditative atmosphere that highlights complex textures and rhythms. The combination of electronic synthesizer elements and raw nature sounds offers a captivating listening journey focused entirely on ambient texture.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_32044_36909/soundmap201605031_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
-            "id": 8,
+            "caption": "This instrumental track serves as an ideal accompaniment for a Spanish-themed party or a romantic evening, featuring acoustic guitars and Latin percussion that create a lively atmosphere. The music combines folk and pop elements to form a perfect background sound for dancing and enjoying the moment.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/i/cinzas-remasterizada/Cinzas (Remasterizada)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -429,7 +429,7 @@
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This instrumental track blends strong electronic and industrial influences with a prominent synthesizer line and driving bass. The music builds tension through dynamic shifts, creating a dark and intense mood that feels perfectly suited for a high-stakes video game action sequence.",
-            "id": 9,
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/h/shampauzen_547/06badweatherisgood_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -465,6 +465,33 @@
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "type": "survey",
+            "name": "About You",
+            "description": "Please tell us about your musical background.",
+            "id": 12,
+            "testSignals": [],
+            "fields": [
+                {
+                    "id": "years_experience",
+                    "label": "How many years of musical experience do you have?",
+                    "type": "number",
+                    "min": 0,
+                    "max": 80,
+                    "placeholder": "e.g. 5",
+                    "required": true
+                },
+                {
+                    "id": "musical_background",
+                    "label": "Please describe your musical experience (instruments played, training, listening habits, etc.)",
+                    "type": "textarea",
+                    "placeholder": "e.g. I've played piano for 10 years and studied music theory in college...",
+                    "rows": 5,
+                    "required": false
+                }
+            ],
             "submitButtonText": "Next"
         }
     ]

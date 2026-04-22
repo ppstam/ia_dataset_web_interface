@@ -9,14 +9,42 @@ export default function Question({ question, questionIndex, testResults, setTest
     const [submitEnabled, setSubmitEnabled] = useState(false);
     const [audioTestBlocks, setAudioTestBlocks] = useState([]);
     const [randomIndexes, setRandomIndexes] = useState([]);
+    const [surveyAnswers, setSurveyAnswers] = useState({});
+
+    // Detect survey mode
+    const isSurvey = question.type === 'survey';
 
     // Detect shared audio mode: all testSignals point to the same file
-    const uniqueSignals = [...new Set(question.testSignals.filter(s =>
+    const uniqueSignals = !isSurvey ? [...new Set(question.testSignals.filter(s =>
         typeof s === 'string' && (s.endsWith('.mp3') || s.endsWith('.wav') || s.endsWith('.ogg') || s.endsWith('.aac'))
-    ))];
+    ))] : [];
     const isSharedAudio = uniqueSignals.length === 1 && question.testSignals.length > 1;
 
+    // Initialize survey answers when question changes
     useEffect(() => {
+        if (isSurvey && question.fields) {
+            const initial = {};
+            question.fields.forEach(field => {
+                initial[field.id] = '';
+            });
+            setSurveyAnswers(initial);
+        }
+    }, [question, isSurvey]);
+
+    // Check if survey is complete
+    useEffect(() => {
+        if (isSurvey && question.fields) {
+            const allFilled = question.fields
+                .filter(f => f.required !== false)
+                .every(f => surveyAnswers[f.id] && surveyAnswers[f.id].toString().trim() !== '');
+            setSubmitEnabled(allFilled);
+            return;
+        }
+    }, [surveyAnswers, isSurvey, question]);
+
+    useEffect(() => {
+        if (isSurvey) return;
+
         // Reset selectedOptions when question changes
         setRandomIndexes(getRandomIndexes(question.testSignals.map((signal, index) => index)))
         let newSelectedOptions = [];
@@ -35,9 +63,11 @@ export default function Question({ question, questionIndex, testResults, setTest
         }
         )
         setSelectedOptions(newSelectedOptions);
-    }, [question]);
+    }, [question, isSurvey]);
 
     useEffect(() => {
+        if (isSurvey) return;
+
         // Check if all audio signals are tested
         let allAudioTested = selectedOptions.length === question.testSignals.length && selectedOptions.every(option => option !== "");
         if (question.anchors && question.anchorEvaluated){
@@ -54,9 +84,11 @@ export default function Question({ question, questionIndex, testResults, setTest
         }
         
         setSubmitEnabled(allAudioTested);
-    }, [selectedOptions, question.testSignals]);
+    }, [selectedOptions, question.testSignals, isSurvey]);
 
     useEffect(() => {
+        if (isSurvey) return;
+
         // Skip building audioTestBlocks in shared audio mode — we render directly
         if (isSharedAudio) {
             setAudioTestBlocks([]);
@@ -122,7 +154,7 @@ export default function Question({ question, questionIndex, testResults, setTest
         }
                               
         setAudioTestBlocks(newAudioTestBlocks);
-    }, [question, selectedOptions]);
+    }, [question, selectedOptions, isSurvey]);
 
     const handleOptionClick = (option, audioIndex) => {
         let newSelectedOptions = [...selectedOptions];
@@ -138,20 +170,88 @@ export default function Question({ question, questionIndex, testResults, setTest
         setSelectedOptions(newSelectedOptions);
     };
 
+    const handleSurveyChange = (fieldId, value) => {
+        setSurveyAnswers(prev => ({ ...prev, [fieldId]: value }));
+    };
+
     const handleAnswer = () => {
         const updatedTestResults = [...testResults];
-        updatedTestResults[questionIndex] = {
-            answers: selectedOptions,
-            questionName: question.name,
-            questionId: question.id,
-            labels: question.scale.labels,
-        };
+
+        if (isSurvey) {
+            updatedTestResults[questionIndex] = {
+                answers: surveyAnswers,
+                questionName: question.name,
+                questionId: question.id,
+                labels: Object.keys(surveyAnswers),
+            };
+        } else {
+            updatedTestResults[questionIndex] = {
+                answers: selectedOptions,
+                questionName: question.name,
+                questionId: question.id,
+                labels: question.scale.labels,
+            };
+        }
         setTestResults(updatedTestResults);
 
-        setSelectedOptions(Array(question.testSignals.length).fill(""));
+        setSelectedOptions(Array((question.testSignals || []).length).fill(""));
         setAudioTestBlocks([]);
+        setSurveyAnswers({});
         setSubmitEnabled(false);
     };
+
+    // Survey mode: render form fields
+    if (isSurvey) {
+        return (
+            <div>
+                <h2 className='font-bold text-lg'>{question.name}</h2>
+                <p className="whitespace-pre-line mb-6">{question.description}</p>
+
+                {question.fields.map((field) => (
+                    <div key={field.id} className='flex flex-col mb-6 p-4 bg-gray-50 rounded-lg'>
+                        <label className='font-semibold mb-2'>
+                            {field.label}
+                            {field.required !== false && <span className="text-red-500 ml-1">*</span>}
+                        </label>
+
+                        {field.type === 'number' && (
+                            <input
+                                type="number"
+                                min={field.min !== undefined ? field.min : 0}
+                                max={field.max !== undefined ? field.max : undefined}
+                                value={surveyAnswers[field.id] || ''}
+                                onChange={(e) => handleSurveyChange(field.id, e.target.value)}
+                                placeholder={field.placeholder || ''}
+                                className="border border-gray-300 rounded px-3 py-2 w-48"
+                            />
+                        )}
+
+                        {field.type === 'text' && (
+                            <input
+                                type="text"
+                                value={surveyAnswers[field.id] || ''}
+                                onChange={(e) => handleSurveyChange(field.id, e.target.value)}
+                                placeholder={field.placeholder || ''}
+                                className="border border-gray-300 rounded px-3 py-2 w-full"
+                            />
+                        )}
+
+                        {field.type === 'textarea' && (
+                            <textarea
+                                value={surveyAnswers[field.id] || ''}
+                                onChange={(e) => handleSurveyChange(field.id, e.target.value)}
+                                placeholder={field.placeholder || ''}
+                                rows={field.rows || 4}
+                                className="border border-gray-300 rounded px-3 py-2 w-full resize-y"
+                            />
+                        )}
+                    </div>
+                ))}
+
+                <Button color='blue' onClick={handleAnswer} disabled={!submitEnabled}>{question.submitButtonText}</Button>
+            </div>
+        );
+    }
 
     // Shared audio mode: one player on top, multiple questions with scales below
     if (isSharedAudio) {

@@ -9,7 +9,7 @@
             "name": "Sample 1",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
-            "id": 1,
+            "id": "/projects/adasp/mir/MusicCaps/audio/ZVvX2-ldhvY.wav",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track creates an irresistible atmosphere with catchy melodies and infectious beats that encourage dancing all night long. Electronic synthesizers and deep rhythms drive the energy, while subtle elements like cymbals and bass add texture to the mix. The combination of groovy instrumentation and mesmerizing flows ensures the music keeps listeners engaged from start to finish.",
-            "id": 0,
+            "caption": "This performance features a violin playing melodic lines over the soft, flowing rhythm of an acoustic guitar. The gentle interplay between these two instruments creates a peaceful and serene atmosphere well-suited for relaxation. Recorded as part of a live duo concert, the piece blends classical technique with folk-like intimacy.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/l/Altschuler-caplanDuo542008_37/1-NiccolPaganini-CantabileInDMajorOp.17_64kb_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track builds on a strong rhythmic foundation with a groovy bassline, steady drumming, and keyboard accompaniment. The music creates an energetic and urban atmosphere that feels both hip and danceable.",
-            "id": 1,
+            "caption": "This comedic instrumental duet features a male lead singing the main melody while a female voice provides humorous backing vocals. The fast-paced rhythm is driven by a lively banjo and a strong bass line, creating a funny atmosphere perfect for a comedy skit. With its playful energy and clear holiday theme, the piece serves as an entertaining soundtrack suitable for a festive performance.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/a/SantaClausRag/SantaClausRag_vbr_mp3/santa_claus_rag_vbr_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track serves as a romantic or dramatic piece for a movie soundtrack, driven by a steady drumming rhythm and emotional keyboard accompaniment. The music features an energetic piano melody and strong bass line that create a youthful and engaging atmosphere suitable for scenes involving heartbreak. With its electronic pop influences and pulsating beat, the song blends cinematic storytelling with a lively dance groove.",
-            "id": 2,
+            "caption": "This track features the distinctive sound of bagpipes driving a steady, celebratory rhythm characteristic of upbeat folk music. The mood remains joyful and energetic throughout, making the piece well-suited for a lively gathering or festive occasion.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/i/pit-liaw_rearr_d1_l19_18_48ch/pit-liaw_rearr_d1_l19_18_48ch_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a perfect example of ambient music, featuring ethereal soundscapes that transport the listener to a dreamlike state. The absence of vocals allows the soothing melodies and slow tempo to create a deeply calming atmosphere ideal for relaxation.",
-            "id": 3,
+            "caption": "This instrumental track blends house and techno influences with a lively, repetitive rhythm driven by synthesizers and electronic drums. The cheerful and playful mood creates a catchy, danceable groove that evokes the energy of video game soundtracks and summer parties.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123655/27-1049947-Hasenchat-Take Me_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track centers on an electric guitar, employing a slow tempo to establish a calm and relaxing atmosphere. A steady rhythm is enhanced by dreamy pedal effects that give the sound an ethereal quality, fostering a peaceful and introspective mood. The music serves as an ideal backdrop for meditation or quiet reflection.",
-            "id": 4,
+            "caption": "This instrumental percussion track features a groovy rhythm driven by congas, bongos, and cajas chinas. The music relies on complex polyrhythms and syncopated patterns to create an energetic and engaging backdrop suitable for dance classes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/a/cajas-chinas/Cajas Chinas_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This experimental piece blends ambient and electronic elements with a dark, eerie atmosphere driven by synthesizers and haunting voice samples. A slow, hypnotic rhythm combined with ominous sound effects creates a mysterious tension that fits the genre's abstract style. The track maintains a steady, heavy mood throughout, emphasizing an unsettling and immersive listening experience.",
-            "id": 5,
+            "caption": "This instrumental composition skillfully blends Latin Jazz, World Music, and Game Soundtrack styles to create a lively and upbeat piece. The track features syncopated rhythms driven by diverse percussion instruments like mallets and synthesizers, resulting in a cheerful and lighthearted mood well-suited for video games or animated films.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/a/bad-presumption-sketchbook-2021-06-05/bad-presumption_sketchbook_2021-06-05 3_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a beautiful solo piano performance that fits well within the classical and ballet genres. The music offers an expressive and emotional tone, making it ideal for a poignant scene in a drama or a reflective moment in a film.",
-            "id": 6,
+            "caption": "This segment serves as a compelling horror film score, featuring a slow and erratic rhythm that builds significant tension. A deep cello provides a resonant foundation while an elegant piano weaves through the sound to enhance the dark, ominous atmosphere. The composition effectively creates an eerie mood suitable for suspenseful scenes in a movie or game.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABradfordReedMoodringCoverArt/03-chap.riij_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track opens with a guitar solo before settling into a simple beat driven by bass and drums. The performance maintains a moderate tempo with an energetic and bluesy feel, highlighting a strong rhythm section.",
-            "id": 7,
+            "caption": "This instrumental composition features a gentle piano melody supported by a dreamy synthesizer layer, creating a slow and steady rhythm. The music evokes an introspective and melancholic mood that is perfect for a reflective film scene or quiet contemplation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/L/u/LukeETyrnal-FourthousandNinetysix_1024bit_mix_wip2/luke etyrnal ~ 4096 (wip)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong electronic and synth-driven sound that establishes a dynamic, energetic atmosphere. Powered by synthesizers and pulsating basslines, the piece creates an ideal soundtrack for futuristic themes or game environments. The driving electronic beat sustains a consistent rhythm throughout the composition, emphasizing its modern and immersive quality.",
-            "id": 8,
+            "caption": "This lively instrumental piece features a traditional accordion driving an upbeat rhythm with a fast, folk-like tempo. The cheerful and energetic mood creates a perfect atmosphere for dancing or festive gatherings. As part of the \"Povo Kalunga\" celebration, the recording captures the spirited essence of a cultural community event.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_12573_14698/Musicacomsanfona_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a slow, classical composition where the piano and string sections create an intricate, dramatic interplay. The music builds to an intense crescendo that feels both suspenseful and emotionally stirring, fitting for a scene requiring urgency or tension. Supported by atmospheric elements and a melancholic mood, the piece evokes a sense of wistfulness suitable for reflective moments in film or meditation.",
-            "id": 9,
+            "caption": "Jason R. King delivers a lively acoustic performance that serves as an ideal backdrop for a jam session, highlighting skillful guitar work and upbeat melodic strumming. The track blends elements of pop-folk and country to create an inspiring atmosphere where the audience can enjoy the clear rhythms.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/h/TheFracturedStates/Product of Piracy - 11 - Leaving Section-15 (Running)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -465,6 +465,33 @@
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "type": "survey",
+            "name": "About You",
+            "description": "Please tell us about your musical background.",
+            "id": 12,
+            "testSignals": [],
+            "fields": [
+                {
+                    "id": "years_experience",
+                    "label": "How many years of musical experience do you have?",
+                    "type": "number",
+                    "min": 0,
+                    "max": 80,
+                    "placeholder": "e.g. 5",
+                    "required": true
+                },
+                {
+                    "id": "musical_background",
+                    "label": "Please describe your musical experience (instruments played, training, listening habits, etc.)",
+                    "type": "textarea",
+                    "placeholder": "e.g. I've played piano for 10 years and studied music theory in college...",
+                    "rows": 5,
+                    "required": false
+                }
+            ],
             "submitButtonText": "Next"
         }
     ]

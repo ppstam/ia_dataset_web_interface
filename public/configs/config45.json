@@ -9,7 +9,7 @@
             "name": "Sample 1",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
-            "id": 1,
+            "id": "/projects/adasp/mir/MusicCaps/audio/ZVvX2-ldhvY.wav",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends electronic and acoustic elements, featuring a synthesizer, drum machine, and electric guitar to create a dynamic sound. The strong, driving rhythm generates an upbeat and energetic atmosphere suitable for clubs or dance floors. Although the metadata suggests darker undertones, the overall vibe remains catchy and lively across various settings.",
-            "id": 0,
+            "caption": "This instrumental piece centers on an accordion that drives both the melody and the rhythm without any percussion accompaniment. The lively yet nostalgic mood is grounded in a realistic soundscape featuring footsteps, evoking the scene of a young tramp walking across Paris.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_33673_38743/parispontdarcole230916h00_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track relies on synthesized static, white noise, and sound design to create a chaotic and arrhythmic atmosphere. The harsh and abrasive texture evokes a sense of signal interference, making it suitable for experimental films or scenes depicting mechanical decay.",
-            "id": 1,
+            "caption": "This piece is a perfect example of folk-inspired acoustic music, featuring a male vocalist and a gentle, slow tempo. The acoustic guitar provides a soothing backdrop, while the violin adds a touch of melancholy to create a calm and introspective atmosphere.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-162569/01-1385804-marcello correa e castro-NOITE FRIA_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track builds on a strong rhythmic foundation with a groovy bassline, steady drumming, and keyboard accompaniment. The music creates an energetic and urban atmosphere that feels both hip and danceable.",
-            "id": 2,
+            "caption": "This hip-hop instrumental features a male vocalist rapping in a steady, rhythmic style over a strong bass line and drumming. The keyboard accompaniment creates an urban and groovy atmosphere that suits a city-based soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-114407/06-972027-BangMulahGangg-Dirty Cup _Prod. By QT_ Neph Donell Kane_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental Techno Pop track features a fast tempo, synthesizer arrangements, and a strong digital drumming beat. The music creates an energetic, pulsating groove ideal for dancing in a nightclub setting.",
-            "id": 3,
+            "caption": "This track creates a futuristic and intense atmosphere, blending electronic elements with synth sounds to build a strong sense of mystery. Driven by a powerful bassline and rhythmic drums, the music offers a dark, energetic vibe perfect for dancing in a nightclub setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/M/-/M-eo3/Rodrigo Deem - You Don't Know _ Bulldozer [ENPROG593E]/Rodrigo Deem - You Don't Know _ Bulldozer [ENPROG593E]/Rodrigo Deem - You Don't Know_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is specifically designed for a techno club, featuring a steady, repetitive beat and a pulsating bassline driven by synthesizers. The music creates a dark and intense atmosphere with a hypnotic rhythm that maintains a sense of anticipation throughout the piece. Ultimately, its driving nature makes it an engaging choice for keeping an audience moving in a nightclub setting.",
-            "id": 4,
+            "caption": "This instrumental track combines a strong, repetitive melody with fast-paced drumming and an electric guitar to create an energetic rhythm. The upbeat sound features a driving bassline that establishes a nostalgic mood, making it well-suited for retro video game action sequences or boss battles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/B/F/BFTG_133/06 Don't Know Nothing_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition features a slow, steady rhythm driven by a prominent string section, particularly violins, that creates a melancholic and dramatic atmosphere. The music maintains a somber and reflective mood throughout, with a strong bass line providing a solid foundation for moments of introspection.",
-            "id": 5,
+            "caption": "This segment features an easygoing Americana and honky-tonk piece led by a male vocalist singing a melodic tune. An electric piano, acoustic guitar, and steady acoustic drums provide the rhythm in this background-friendly track that fits a relaxed rock bar atmosphere.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-highland-heart-1/Highland Heart 1_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This experimental piece blends ambient and electronic elements with a dark, eerie atmosphere driven by synthesizers and haunting voice samples. A slow, hypnotic rhythm combined with ominous sound effects creates a mysterious tension that fits the genre's abstract style. The track maintains a steady, heavy mood throughout, emphasizing an unsettling and immersive listening experience.",
-            "id": 6,
+            "caption": "This segment presents a beautiful example of classical music featuring a solo violin and gentle piano accompaniment. The soft, soothing melody and ethereal choir create a serene atmosphere that contrasts with the surrounding electronic metadata tags.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/d/a/dawn-of-the-dead-city/Dawn of the Dead City_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an upbeat, instrumental Latin dance track driven by a lively rhythm and cheerful energy. A groovy bass line and rhythmic acoustic guitar create a infectious groove supported by congas, bongos, and timbales. The overall mood is energetic and perfect for creating a festive dancing atmosphere.",
-            "id": 7,
+            "caption": "This instrumental Techno Pop track features a fast tempo, synthesizer arrangements, and a strong digital drumming beat. The music creates an energetic, pulsating groove ideal for dancing in a nightclub setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-109913/06-936446-DJ Mar.S. Aka One Milk-La Marche Trance_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece delivers a lively and upbeat mood driven by a catchy keyboard melody, a groovy bass line, and a steady drum beat. With its infectious rhythm and danceable quality, the track creates a cheerful atmosphere perfect for a retro-themed party or an energetic dance routine.",
-            "id": 8,
+            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABeautifulTomorrowFullAlbumdiscTwo/ABeautifulTomorrow-ABeautifulTomorrowdiscTwo/A Beautiful Tomorrow - A Beautiful Tomorrow (Disc Two) - 07 Where have you been all of my life-_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong retro feel driven by synthesizers and a repetitive, driving beat that creates constant motion. The music blends intense electronic sounds with chiptune elements to evoke an urgent sense of nostalgia reminiscent of 80s game soundtracks.",
-            "id": 9,
+            "caption": "This instrumental track centers on an electric guitar playing a repetitive riff that establishes a strong, rhythmic foundation. Acoustic drums and bass guitar support the melody with a steady beat, creating a dark and intense atmosphere filled with tension. The heavy, driving sound makes the piece particularly suitable for video game soundtracks, especially during boss battles or action sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/A/TAILCHOPPER74BPMGUITAR/TAIL CHOPPER 74BPM GUITAR_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -465,6 +465,33 @@
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "type": "survey",
+            "name": "About You",
+            "description": "Please tell us about your musical background.",
+            "id": 12,
+            "testSignals": [],
+            "fields": [
+                {
+                    "id": "years_experience",
+                    "label": "How many years of musical experience do you have?",
+                    "type": "number",
+                    "min": 0,
+                    "max": 80,
+                    "placeholder": "e.g. 5",
+                    "required": true
+                },
+                {
+                    "id": "musical_background",
+                    "label": "Please describe your musical experience (instruments played, training, listening habits, etc.)",
+                    "type": "textarea",
+                    "placeholder": "e.g. I've played piano for 10 years and studied music theory in college...",
+                    "rows": 5,
+                    "required": false
+                }
+            ],
             "submitButtonText": "Next"
         }
     ]
