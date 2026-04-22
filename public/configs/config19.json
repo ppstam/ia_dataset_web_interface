@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
+            "caption": "This is an instrumental rock track with a slow tempo, featuring a male vocalist and a steady drumming rhythm accompanied by electric guitar and bass. The music maintains a romantic mood suitable for a movie scene, enhanced by the addition of a keyboard and acoustic drums in the mix.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139766/01-1163160-mr martin-quelque mots_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_44.mp3",
-                "test_signals/example_44.mp3"
+                "test_signals/example_54.mp3",
+                "test_signals/example_54.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
+            "caption": "A beautiful classical piano solo unfolds with a slow tempo that establishes a melancholic and reflective mood. The steady rhythm emphasizes the instrument's low-end frequencies, creating an atmosphere of deep introspection and emotional resonance.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-151496/01-1267743-Aufklarung-Melancholy of Sunsets_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_44.mp3",
-                "test_signals/example_44.mp3"
+                "test_signals/example_55.mp3",
+                "test_signals/example_55.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This ambient instrumental track emphasizes atmospheric soundscapes and soothing textures to create a calm, introspective mood. Featuring a slow tempo with prominent synthesizer and piano elements, the piece fosters a sense of relaxation ideal for meditation or background listening.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-148126/01-1233291-Ambient Samurai - Ichiro NAKAGAWA-Jingle For The Nothingness_00001.mp3",
+            "caption": "This instrumental track blends a steady, repetitive rhythm with ethereal sounds from the theremin, synthesizer, and electronic drums. The dark and mysterious atmosphere creates a hypnotic effect that feels well-suited for a suspenseful video game scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/r/e/return-to-never_202106/4 March of Times_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_45.mp3",
-                "test_signals/example_45.mp3"
+                "test_signals/example_56.mp3",
+                "test_signals/example_56.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is a slow, instrumental symphonic piece featuring piano, strings, and synthesizer that creates a calm and relaxing atmosphere. The steady rhythm supports a contemplative mood, making it well-suited for meditation, study, or quiet reflection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-160741/04-1365826-Ambient Samurai - Ichiro NAKAGAWA-Music For For Shinjuku First Weekend With POKEMON GO #4_00002.mp3",
+            "caption": "This instrumental track is a powerful movie soundtrack designed to build tension through a steady, dramatic drum sequence. The sound features a strong emphasis on the bass drum and synthesizer elements, creating an immersive atmosphere perfect for scenes of action or suspense.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-273877/01-1659680-Freestyle Percussion Magik-Warrior_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_46.mp3",
-                "test_signals/example_46.mp3"
+                "test_signals/example_57.mp3",
+                "test_signals/example_57.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a danceable beat driven by synthesizers, a groovy bassline, and digital drums. Although it includes vocal samples and a catchy hook, the overall sound aligns with deep house and minimal genres, creating an upbeat atmosphere perfect for a nightclub or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/2/02-ramond-baker-multiplays-multiplace-multiple-multiplied-mix/01 Ramond Baker feat Basement Jaxx Barrington Levy - Empty Places_00001.mp3",
+            "caption": "This track is a hip-hop piece featuring a male vocalist rapping in a higher pitch over samples of strings, bass, and electronic drums. The medium tempo creates a strong urban rhythm that fits well within the style of crime movie soundtracks. While similar songs suggest a chill or club atmosphere, this specific segment emphasizes a gritty street vibe.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-hey-ma-hey-pa-1/Hey Ma Hey Pa 1_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_47.mp3",
-                "test_signals/example_47.mp3"
+                "test_signals/example_58.mp3",
+                "test_signals/example_58.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a danceable beat driven by synthesizers, a groovy bassline, and digital drums. Although it includes vocal samples and a catchy hook, the overall sound aligns with deep house and minimal genres, creating an upbeat atmosphere perfect for a nightclub or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/2/02-ramond-baker-multiplays-multiplace-multiple-multiplied-mix/01 Ramond Baker feat Basement Jaxx Barrington Levy - Empty Places_00001.mp3",
+            "caption": "This instrumental techno track features a driving four-on-the-floor beat supported by prominent synthesizers, bass, and electronic drums. The music maintains an upbeat and energetic mood with a repetitive rhythm that creates a perfect groove for a nightclub or rave setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-106108/02-901290-Vadim Khodosevich-I Am Your Robot _dance  remix__00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_47.mp3",
-                "test_signals/example_47.mp3"
+                "test_signals/example_59.mp3",
+                "test_signals/example_59.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/i/Sina--ViolentThingsEpkopp-14/Sina.-ViolentThingsEpkopp.14/[Kopp.14].Sina. 02 - Veil Of Tears_00001.mp3",
+            "caption": "This segment features a minimalist electronic track driven by deep, resonant basslines and a steady, pulsating rhythm. The dark and intense mood creates an energetic atmosphere perfectly suited for a nightclub or rave setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/B/r/Brainwhacker-Dj-nifty/Brainwhacker-DjNifty-06-lookThroughTheEyesOfTheReaper_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_48.mp3",
-                "test_signals/example_48.mp3"
+                "test_signals/example_60.mp3",
+                "test_signals/example_60.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/i/Sina--ViolentThingsEpkopp-14/Sina.-ViolentThingsEpkopp.14/[Kopp.14].Sina. 02 - Veil Of Tears_00001.mp3",
+            "caption": "This energetic instrumental rock piece features an electric guitar playing a fast, high-register solo. Accompanied by bass guitar roots and a driving acoustic drum beat, the track creates an atmosphere suitable for a teenage drama series or action scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-127863/05-1074775-BaD_s Music Project-Meedful Thunderbird_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_48.mp3",
-                "test_signals/example_48.mp3"
+                "test_signals/example_61.mp3",
+                "test_signals/example_61.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This lively and cheerful folk song is an instrumental piece driven by an accordion, acoustic guitar, and drums. The infectious folk dance rhythm creates an upbeat atmosphere that makes listeners want to move their feet.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/a/haus-in-neu-berlin-cover-espanol-casa-en-nuevo-berlin-wolfenstein-ost/Haus in Neu Berlin - Cover Espa\u00f1ol _ Casa en Nuevo Berl\u00edn (Wolfenstein OST)_00003.mp3",
+            "caption": "This instrumental track blends strong electronic and techno influences with a prominent synthesizer lead and a driving bassline. Its infectious, pulsating rhythm creates an intense and futuristic mood perfect for a high-energy dance party or rave setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110213/01-938688-Fragman _D.W.A_-The Palindrom_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_49.mp3",
-                "test_signals/example_49.mp3"
+                "test_signals/example_62.mp3",
+                "test_signals/example_62.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of Celtic folk music, featuring a solo violin and a harp that establish a melancholic and nostalgic mood. A steady rhythm provided by a fiddle and bodhr\u00e1n accompanies the instruments to create a rich, evocative soundscape suitable for film or classical settings. The composition blends world and classical genres with an expressive flow that suggests a traditional dance or dramatic narrative.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/4/s/4seasons2/05  - Largo_00001.mp3",
+            "caption": "This instrumental track blends industrial and electronic rock with synthesizers, a drum machine, and a driving bassline to create an intense, aggressive atmosphere. The up-tempo rhythm generates a powerful beat that feels perfectly suited for video game combat scenes or high-energy workout sessions.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130329/06-1093489-DementialCore-Aching terror_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_50.mp3",
-                "test_signals/example_50.mp3"
+                "test_signals/example_63.mp3",
+                "test_signals/example_63.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

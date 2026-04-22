@@ -50,218 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This lively and cheerful Latin pop song features a female vocalist singing in a high-pitched voice over a fast acoustic guitar and groovy bass. An energetic accordion drives the upbeat rhythm, creating a happy atmosphere suitable for festive scenes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-064009/01-549705-Banda Patinko-Banda Patinko - Beijinho - ao-vivo_00003.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_22.mp3",
-                "test_signals/example_22.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track features a funky beat driven by rhythmic drums, groovy basslines, and catchy vocal samples. The song blends electronic synth textures with percussive loops to create an energetic groove ideal for any hip-hop playlist.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/D/C/DCRPS039/DCRPS039/DCRPS039 - 09 - Fat Frumos - MACDONALDS LOVE STOrY BRO!!!3_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_23.mp3",
-                "test_signals/example_23.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental techno track that relies heavily on synthesizers, a drum machine, and a bass line to create a hypnotic groove. The mid-tempo rhythm maintains a steady, consistent feel while establishing a dark and mysterious atmosphere with futuristic undertones. These elements combine to produce music ideal for a nightclub setting or a DJ set designed to keep dancers moving.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-342550/01-1495159-Djfredse-Djfredse - Need Back 2017_cc_Sarrirecords_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_24.mp3",
-                "test_signals/example_24.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features an eerie synthesizer and ambient bass that create a dark, mysterious atmosphere filled with tension. The steady yet repetitive rhythm builds a sense of unease, making the piece well-suited for a horror movie soundtrack or a psychological thriller scene. Despite its experimental and noise-heavy genre classification, the focus remains on the haunting soundscape rather than complex musical structures.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/F/TFN225/TFN225/[TFN225] kxdX - Sakura-Wari In Rene Come Glistening/03 kxdX - The Sun_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_25.mp3",
-                "test_signals/example_25.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This lively Latin dance track features a rich male vocalist singing over groovy rhythms driven by trumpet, accordion, and percussion. The medium tempo creates an energetic yet romantic atmosphere, ideal for a festive celebration or a bustling nightclub. Although the upload tags suggest a rock genre, the musical content clearly aligns with traditional Latin dance styles.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/l/o/los-gedientos-del-rock-en-vivo-en-paraguay-2003/Los Gedientos Del Rock - En Vivo En Paraguay (2003)/06 - soy pata de lana_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_26.mp3",
-                "test_signals/example_26.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track features a slow, steady rhythm driven by a strong bass line and simple electronic drums. A male vocalist delivers rapping vocals in a higher register over a dark keyboard sample that creates a tense, foreboding atmosphere. The composition is well-suited for crime thriller soundtracks, particularly during scenes involving suspense or planning.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-208737/01-1182455-Strange Strains-Strange Strains - Gypsy Life_00001.mp3",
+            "caption": "This segment features a female vocalist singing in a melodious style, accompanied by the harmonium and tabla to create a romantic atmosphere. Bird sounds can be heard in the background, suggesting this piece is suitable for an Indian romance movie soundtrack. The overall sound reflects a vintage South Asian musical tradition with a warm and inviting mood.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/w/w/www-VintageSense-com-Vintage-Indian-Music-62n/12202_indian_music_vintagesense.com_1966_lalBungla1966-SumanKalyanpur-Aa---SunayiDeNaDeTumKo2-UshaKhanna_vintagesense.com_song_id_12202_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -300,10 +90,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 8",
+            "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat track features a catchy vocal performance over a groovy bassline and pulsating electronic rhythms. Synthesizers and percussion drive the energetic atmosphere, making it an ideal choice for a dance club or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/m/amanda-lameche-you-dont-stand-a-chance-audio/Amanda Lameche - You Dont Stand A Chance (Audio)_00001.mp3",
+            "caption": "This instrumental rock piece features a slow tempo and a melancholic mood, driven by a steady foundation of electric guitar, bass, and acoustic drums. Keyboard accompaniment adds emotional depth to the sentimental sound, creating an atmosphere reminiscent of a movie soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134661/01-1125521-Thoola-Manuscripts_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -342,10 +132,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 9",
+            "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong electronic and techno influences with a driving rhythm centered on a prominent, repetitive bassline. Synthesizers and digital drums create an intense, dark atmosphere that feels both futuristic and urgent, ideal for a nightclub setting. The music maintains a hypnotic momentum throughout, emphasizing a pulsating beat that sustains a sense of constant motion.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/h/mhrk390/03 Humanfobia + Lezet - Meld 8 - BooTeeth (Humanphobia rework)_00001.mp3",
+            "caption": "This instrumental techno track features a fast tempo driven by a strong four-on-the-floor beat, synthesizers, and digital drums. The pulsating bassline and repetitive synth patterns create an intense, futuristic atmosphere ideal for a nightclub or rave.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-170163/12-1467510-Howarang Van K-Stop_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -384,10 +174,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 10",
+            "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong chiptune influences with a modern electronic beat to create an upbeat, danceable rhythm. Rooted in video game music, the song features synthesizers and computer-generated sounds that evoke an energetic and adventurous mood perfect for retro gaming or high-energy workouts.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/s/astrosuka-sofja-inicio/01 astrosuka + sofja - inicio_00006.mp3",
+            "caption": "This instrumental track combines a strong electronic dance music influence with an upbeat and energetic mood. A prominent synth lead drives the melody over a steady four-on-the-floor drum beat, creating a pulsating rhythm ideal for a nightclub or party setting. The sound is defined by its synthesizer textures and consistent bassline, reinforcing its suitability as a high-energy dance piece.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-151941/01-1272528-Gigatop Arthur-This summer_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -426,15 +216,225 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 11",
+            "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong chiptune influences with a modern electronic beat to create an upbeat, danceable rhythm. Rooted in video game music, the song features synthesizers and computer-generated sounds that evoke an energetic and adventurous mood perfect for retro gaming or high-energy workouts.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/s/astrosuka-sofja-inicio/01 astrosuka + sofja - inicio_00006.mp3",
+            "caption": "An alternative/indie rock piece features a male vocalist singing melodically while an electric guitar carries the main tune. The track maintains an easygoing atmosphere with a steady rhythm provided by acoustic drums, making it suitable for background music in a rock bar.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-152778/05-1281032-An Amerikan Automobile Company-Isabel_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_30.mp3",
-                "test_signals/example_30.mp3"
+                "test_signals/example_31.mp3",
+                "test_signals/example_31.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 7",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track captures a cool and groovy vibe, driven by a simple bassline and a repetitive electric guitar riff. The steady rock beat creates a relaxed atmosphere that feels perfect for a casual jam session or a road trip with friends.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/r/e/repetidores_en_la_calle/03_moje_arriero_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_32.mp3",
+                "test_signals/example_32.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 8",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This intense segment is an instrumental heavy metal track featuring a distorted electric guitar playing power chords alongside a fast-paced drum beat and bass. The aggressive atmosphere creates a driving energy well-suited for video game soundtracks or action movie scenes. Although KNN suggestions hint at darker rock tones, the core sound remains firmly rooted in high-energy metal instrumentation without vocals.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/M/a/MaamutSisenaExtincioMassiva/04 Destroyer reprise!_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_33.mp3",
+                "test_signals/example_33.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 9",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This classical orchestral piece features a slow, flowing rhythm driven by the interplay of violin and cello. A melancholic melody carried by these strings builds a sense of drama and tension within an otherwise somber mood. The composition evokes deep introspection, making it well-suited for a historical drama or a moment of reflection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-174020/02-1545465-Ivan Dolgunov-Duet for Violin and Viola, K.423 Adagio_00002.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_34.mp3",
+                "test_signals/example_34.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental segment presents a slow rock ballad defined by a steady drumming rhythm and a simple, repetitive bass line. A guitar solo plays in a clean tone over this foundation, creating an emotional atmosphere suitable for a live concert setting. The overall sound blends the stability of a structured rhythm with the expressive clarity of electric guitar work.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-604978/01-2257327-Christian Zell-Red Bead 4.3_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_35.mp3",
+                "test_signals/example_35.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 11",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This piece serves as a grand and emotional backdrop ideal for a cinematic movie scene, driven by a rich full orchestra and steady rhythm. The composition blends the warmth of strings and piano with ethereal elements from a choir to create a dramatic yet calming soundscape. Ultimately, its sweeping quality offers a sense of introspection perfect for an epic or romantic narrative moment.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-059288/11-506154-A.K.1974-A.K.1974 - The End_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_36.mp3",
+                "test_signals/example_36.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

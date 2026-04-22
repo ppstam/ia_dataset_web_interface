@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features an instrumental techno track driven by a strong four-on-the-floor beat and a repetitive synth bassline. The music maintains an intense, energetic mood with a driving lead that keeps the rhythm infectious throughout. It is well-suited for a high-energy nightclub or rave setting where dynamic movement is key.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/d/AdlantiupTheKings/Adlantiup - The Kings_00001.mp3",
+            "caption": "This energetic track blends techno influences with a strong female vocal performance singing in a high pitch. A keyboard drives the main melody over an upbeat, driving drum beat that creates a lively club atmosphere suitable for dancing. The combination of electronic elements and melodic vocals results in an infectious sound ideal for a party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-112843/01-959845-DJ++-DJ++ - Rain_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_92.mp3",
-                "test_signals/example_92.mp3"
+                "test_signals/example_114.mp3",
+                "test_signals/example_114.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This aggressive and violent metal segment features a fast tempo driven by heavily distorted electric guitars and intense drumming. The chaotic, heavy atmosphere creates an ideal soundscape for high-intensity video game boss battles or action sequences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/F/TFN261/TFN261/[TFN261] Emo Kid, MIXEDUPMESS, I Killed Techno! - 3 Way Split/03 Emo Kid - Poopy Pants_00001.mp3",
+            "caption": "This segment features a male vocalist singing melodically over an energetic electronic track driven by keyboard melodies and drum beats. The production creates a lively atmosphere suitable for background music in a nightclub or dance setting, blending pop elements with strong rhythmic foundations.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-la-la-la-1/La la la 1_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_93.mp3",
-                "test_signals/example_93.mp3"
+                "test_signals/example_115.mp3",
+                "test_signals/example_115.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is an intense piece of techno that relies heavily on synthesizers and electronic drums to create a driving, futuristic sound. The music features a steady, pulsating beat enhanced by reverb and delay effects, resulting in a dark, hypnotic atmosphere suitable for high-stakes video game action sequences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-147450/03-1229393-Alegaroo-Alegaroo - Nyuk Veapon Buum_00002.mp3",
+            "caption": "This instrumental rock track features a guitar playing power chords in a minor key over a simple bassline and steady drum beat. The energetic atmosphere, driven by the strong rhythm section, creates a sound well-suited for high-energy scenes like car chases.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/h/phumanebo-noisebleed/1-03 Gone away_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_94.mp3",
-                "test_signals/example_94.mp3"
+                "test_signals/example_116.mp3",
+                "test_signals/example_116.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic techno/electronica track features a steady, danceable rhythm driven by a strong bass line and electronic drumming. A male voice speaking in a foreign language overlays the instrumental, which relies heavily on synthesizers to create an intense, futuristic atmosphere suitable for a club setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-152350/04-1276194-Ephedrina Netlabel-DJ SCAR - a voyage into darkness_00003.mp3",
+            "caption": "This energetic instrumental techno track features a fast tempo driven by synthesizers, digital drumming, and a strong pulsating bass line. The music creates an upbeat, trance-like atmosphere with a driving rhythm that is perfect for dancing in a nightclub or at a rave.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141529/03-1175117-Franco Uda Sankara-Bubble_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_95.mp3",
-                "test_signals/example_95.mp3"
+                "test_signals/example_117.mp3",
+                "test_signals/example_117.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an intense instrumental rock track featuring a driving electric guitar solo, bass guitar, and acoustic drums. The fast-paced rhythm creates an energetic and aggressive atmosphere that propels the music forward with urgency. Such high-energy sounds are ideal for cinematic fight sequences or scenes requiring strong momentum.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/g/e/gean-kontato-mp-3/Gean - Kontato.mp3_00002.mp3",
+            "caption": "This instrumental track blends retro Techno and EDM elements with a fast tempo and pulsating energy. A driving bassline and repetitive synth melody create a danceable rhythm ideal for high-energy workouts or a night out on the club floor.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113385/01-964308-Aabid muzak-bengeiyo_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_96.mp3",
-                "test_signals/example_96.mp3"
+                "test_signals/example_118.mp3",
+                "test_signals/example_118.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABeautifulTomorrowFullAlbumdiscTwo/ABeautifulTomorrow-ABeautifulTomorrowdiscTwo/A Beautiful Tomorrow - A Beautiful Tomorrow (Disc Two) - 07 Where have you been all of my life-_00001.mp3",
+            "caption": "This segment is an intense instrumental rock track featuring a driving electric guitar solo, bass guitar, and acoustic drums. The fast-paced rhythm creates an energetic and aggressive atmosphere that propels the music forward with urgency. Such high-energy sounds are ideal for cinematic fight sequences or scenes requiring strong momentum.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/g/e/gean-kontato-mp-3/Gean - Kontato.mp3_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_97.mp3",
-                "test_signals/example_97.mp3"
+                "test_signals/example_119.mp3",
+                "test_signals/example_119.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABeautifulTomorrowFullAlbumdiscTwo/ABeautifulTomorrow-ABeautifulTomorrowdiscTwo/A Beautiful Tomorrow - A Beautiful Tomorrow (Disc Two) - 07 Where have you been all of my life-_00001.mp3",
+            "caption": "This instrumental track features a strong retro feel driven by a repetitive synth lead melody and a steady drum machine beat. The upbeat and energetic mood, enhanced by a simple bassline, creates a lively rhythm that evokes nostalgia for classic video game soundtracks.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113662/06-966241-Kamil Muzyk _Howarang Van K_-Follow The Leader _Radio Remix Edit__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_97.mp3",
-                "test_signals/example_97.mp3"
+                "test_signals/example_120.mp3",
+                "test_signals/example_120.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful solo piano composition that moves at a slow, gentle tempo to create a peaceful and introspective mood. The arrangement allows the listener to fully immerse themselves in the emotional depth of the music, making it ideal for moments of relaxation or quiet reflection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/1/01--six-part-invention-the-flame/Six Part Invention - Acoustic Rock Ballads (2013) (192Kbps)/10. Six Part Invention - Honestly_00001.mp3",
+            "caption": "This instrumental rock track features a fast, groovy bass line and an energetic electric guitar rhythm. Strong, steady drumming provides a powerful backbone for the loud and catchy sound. The high-energy vibe makes it ideal for sports events, action sequences, or video game soundtracks.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-117903/01-1002040-nanocost-ke rayos_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_98.mp3",
-                "test_signals/example_98.mp3"
+                "test_signals/example_121.mp3",
+                "test_signals/example_121.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful solo piano composition that moves at a slow, gentle tempo to create a peaceful and introspective mood. The arrangement allows the listener to fully immerse themselves in the emotional depth of the music, making it ideal for moments of relaxation or quiet reflection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/1/01--six-part-invention-the-flame/Six Part Invention - Acoustic Rock Ballads (2013) (192Kbps)/10. Six Part Invention - Honestly_00001.mp3",
+            "caption": "This instrumental track delivers a fast-paced, energetic techno vibe driven by synthesizers and electronic drums. The pulsating bassline and intense rhythm create a driving sound well-suited for a high-energy nightclub or rave setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-114179/01-970423-Korean Factor-Hapkido Generation_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_98.mp3",
-                "test_signals/example_98.mp3"
+                "test_signals/example_122.mp3",
+                "test_signals/example_122.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition features a repetitive vocal chant and steady rhythm that create a hypnotic, trance-like effect. Driven primarily by synthesizers, the ambient soundscape fosters a deep meditative state ideal for relaxation or yoga. The neutral yet atmospheric mood provides a sense of continuity and flow throughout the piece.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-155069/02-1303545-Ambient Samurai - Ichiro NAKAGAWA-Song For Emerging Universe_00001.mp3",
+            "caption": "This instrumental heavy metal track features a fast-paced rhythm driven by aggressive electric guitar riffs, a strong bass line, and acoustic drums. The performance captures the high energy of a live concert setting, with a complex solo that emphasizes the driving nature of the music.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-193929/08-1763849-Phil Twite-Crushed Like Fruit _InMe__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_99.mp3",
-                "test_signals/example_99.mp3"
+                "test_signals/example_123.mp3",
+                "test_signals/example_123.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

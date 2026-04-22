@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/i/Sina--ViolentThingsEpkopp-14/Sina.-ViolentThingsEpkopp.14/[Kopp.14].Sina. 02 - Veil Of Tears_00001.mp3",
+            "caption": "This segment features a minimalist electronic track driven by deep, resonant basslines and a steady, pulsating rhythm. The dark and intense mood creates an energetic atmosphere perfectly suited for a nightclub or rave setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/B/r/Brainwhacker-Dj-nifty/Brainwhacker-DjNifty-06-lookThroughTheEyesOfTheReaper_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_48.mp3",
-                "test_signals/example_48.mp3"
+                "test_signals/example_60.mp3",
+                "test_signals/example_60.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/i/Sina--ViolentThingsEpkopp-14/Sina.-ViolentThingsEpkopp.14/[Kopp.14].Sina. 02 - Veil Of Tears_00001.mp3",
+            "caption": "This energetic instrumental rock piece features an electric guitar playing a fast, high-register solo. Accompanied by bass guitar roots and a driving acoustic drum beat, the track creates an atmosphere suitable for a teenage drama series or action scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-127863/05-1074775-BaD_s Music Project-Meedful Thunderbird_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_48.mp3",
-                "test_signals/example_48.mp3"
+                "test_signals/example_61.mp3",
+                "test_signals/example_61.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This lively and cheerful folk song is an instrumental piece driven by an accordion, acoustic guitar, and drums. The infectious folk dance rhythm creates an upbeat atmosphere that makes listeners want to move their feet.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/a/haus-in-neu-berlin-cover-espanol-casa-en-nuevo-berlin-wolfenstein-ost/Haus in Neu Berlin - Cover Espa\u00f1ol _ Casa en Nuevo Berl\u00edn (Wolfenstein OST)_00003.mp3",
+            "caption": "This instrumental track blends strong electronic and techno influences with a prominent synthesizer lead and a driving bassline. Its infectious, pulsating rhythm creates an intense and futuristic mood perfect for a high-energy dance party or rave setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110213/01-938688-Fragman _D.W.A_-The Palindrom_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_49.mp3",
-                "test_signals/example_49.mp3"
+                "test_signals/example_62.mp3",
+                "test_signals/example_62.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of Celtic folk music, featuring a solo violin and a harp that establish a melancholic and nostalgic mood. A steady rhythm provided by a fiddle and bodhr\u00e1n accompanies the instruments to create a rich, evocative soundscape suitable for film or classical settings. The composition blends world and classical genres with an expressive flow that suggests a traditional dance or dramatic narrative.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/4/s/4seasons2/05  - Largo_00001.mp3",
+            "caption": "This instrumental track blends industrial and electronic rock with synthesizers, a drum machine, and a driving bassline to create an intense, aggressive atmosphere. The up-tempo rhythm generates a powerful beat that feels perfectly suited for video game combat scenes or high-energy workout sessions.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130329/06-1093489-DementialCore-Aching terror_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_50.mp3",
-                "test_signals/example_50.mp3"
+                "test_signals/example_63.mp3",
+                "test_signals/example_63.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a simple, steady beat driven by a drum machine and a groovy bassline. The repetitive rhythm creates a relaxed atmosphere that makes the piece well-suited for background music during work or study sessions.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/o/m/omarciano-diario-astronauta/01 oMarciano - Intro (O Retorno do Jedi)_00001.mp3",
+            "caption": "This instrumental track features a cheerful, upbeat mood driven by digital piano and simple drum patterns. The music maintains a steady rhythm with a repetitive structure, creating an effective melody suitable for various scenarios.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-188495/02-1695447-Gigatop Arthur-sueltalo_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_51.mp3",
-                "test_signals/example_51.mp3"
+                "test_signals/example_64.mp3",
+                "test_signals/example_64.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a steady rhythm driven by electric guitars, bass, and acoustic drums. Although the mood is melancholic and introspective, it retains a groovy feel that creates an atmosphere ideal for night driving.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/1/4/14-illegal-to-speak/04 - bandits_00001.mp3",
+            "caption": "This piece is a vibrant fusion of jazz, funk, and R&B with distinct hip-hop influences. A groovy bassline and steady drum beat support a soulful saxophone solo within an infectious, upbeat rhythm. The energetic vibe makes it ideal for dancing at a party or in a club setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-126220/09-1067981-HELLFIRE SNAKE-Some Man_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_52.mp3",
-                "test_signals/example_52.mp3"
+                "test_signals/example_65.mp3",
+                "test_signals/example_65.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a steady rhythm driven by electric guitars, bass, and acoustic drums. Although the mood is melancholic and introspective, it retains a groovy feel that creates an atmosphere ideal for night driving.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/1/4/14-illegal-to-speak/04 - bandits_00001.mp3",
+            "caption": "This segment captures a raw, high-energy performance by the band M.D.C., characterized by its loud, aggressive sound and fast tempo. The track features a male vocalist with a raspy voice singing over distorted guitars and heavy, driving drums that create an intense atmosphere.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/H/t/Httparchive-orgdetailsMillionsOfDeadCops-LiveLintfabriekBelgium2002/02-corporate deathburger_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_52.mp3",
-                "test_signals/example_52.mp3"
+                "test_signals/example_66.mp3",
+                "test_signals/example_66.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track features a strong, groovy bass line and steady drumming that creates a chill, relaxed atmosphere. A repetitive piano riff adds a nostalgic touch to the composition, giving it a modern trap-like quality suitable for reflective media scenes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-172876/04-1500789-Simplies-Adisad - You Evol_00001.mp3",
+            "caption": "This segment is an instrumental cover of a classical guitar piece that creates a slow, steady rhythm for a calm and relaxing atmosphere. The simple yet repetitive melody maintains a melancholic and introspective mood, ideal for quiet contemplation or as background music in a film scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-156627/04-1321118-Aufklarung-Chiaroscuro_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_53.mp3",
-                "test_signals/example_53.mp3"
+                "test_signals/example_67.mp3",
+                "test_signals/example_67.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a perfect example of a relaxing instrumental track, featuring a slow tempo and a mellow, calming atmosphere driven by a soft keyboard. Gentle bells and a soothing guitar provide a steady rhythm that complements the peaceful mood, making it ideal for unwinding or meditation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/k/e/keys-of-moon-magic-lights/Keys of Moon - Magic Lights [WWW.ETOILE.APP] _00001.mp3",
+            "caption": "This piece serves as an ideal background for guitar lessons, highlighting the beauty of intricate fingerpicking patterns. The track features a solo acoustic performance with a steady rhythm that allows the listener to focus entirely on the instrumental technique.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/j/mjchesneyI_mAPizza_0/mjchesneyI_mAPizza_0_vbr_mp3/ImAPizza_vbr_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_54.mp3",
-                "test_signals/example_54.mp3"
+                "test_signals/example_68.mp3",
+                "test_signals/example_68.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece is a Lo-fi Hip Hop track that creates a relaxing and calming atmosphere through its slow, steady rhythm. A mellow mix of synthesizer, electric piano, and guitar provides a soothing soundscape ideal for unwinding or studying. The gentle tone offers an unobtrusive soundtrack perfect for meditating or enjoying a peaceful moment in a caf\u00e9.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/u/audio-laffey-dillan-witherow-exhale/[Audio] Laffey & Dillan Witherow - Exhale_00004.mp3",
+            "caption": "This instrumental track features a slow tempo driven by a prominent flute alongside keyboard and percussion elements. The combination of steady rhythms and atmospheric textures creates a mystical and tranquil mood ideal for relaxation or meditation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134277/08-1123246-Davide Frison-Panoramyc_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_55.mp3",
-                "test_signals/example_55.mp3"
+                "test_signals/example_69.mp3",
+                "test_signals/example_69.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track offers a strong retro feel driven by a steady drum beat, simple bassline, and a repetitive, catchy melody. The sound relies heavily on synthesizers and guitars to create an upbeat, cheerful atmosphere filled with nostalgic charm. Such a lively and engaging arrangement makes the piece well-suited for video game soundtracks or retro-themed content.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/6/06FlyBoogie/06 - Fly Boogie_00001.mp3",
+            "caption": "This instrumental techno track features a fast, pulsating synthesizer arrangement driven by digital drumming and electronic beats. The music maintains a youthful and energetic groove with a hypnotic, trance-like quality that creates a driving dance rhythm.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-116474/01-990130-Gadjik-trancik_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_81.mp3",
-                "test_signals/example_81.mp3"
+                "test_signals/example_102.mp3",
+                "test_signals/example_102.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition blends lo-fi, indie, and caf\u00e9 music styles to create a relaxing, easygoing atmosphere. Featuring a medium tempo with steady drumming, the track is driven by a groovy bass line and a simple guitar melody that enhances its chill vibe. The overall sound makes it an ideal background choice for study sessions or quiet social settings.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-357873/01-1706253-Djfredse-Djfredse - Forever 2019_cc_SarriRecords_00001.mp3",
+            "caption": "This segment serves as a minimalist and ambient soundtrack where a slow piano melody is supported by strings to create a melancholic atmosphere. A ticking clock introduces a subtle sense of urgency, while the occasional camera shutter sound adds a layer of realism and intimacy. The piece avoids vocals entirely, focusing instead on these orchestral textures to evoke deep emotional reflection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/e/messed-up/Messed Up_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_82.mp3",
-                "test_signals/example_82.mp3"
+                "test_signals/example_103.mp3",
+                "test_signals/example_103.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track features a strong emphasis on synthesizers, a drum machine, and a driving bassline. The repetitive four-on-the-floor beat creates an energetic, hypnotic groove well-suited for a nightclub or rave setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/e/heniboy-band-foto-audio/Heniboy - Dance with Me (More Distort)_00002.mp3",
+            "caption": "This segment features an acapella choir performance where a lead vocalist sings in a smooth, legato style to create an ethereal and serene atmosphere. Without instrumental accompaniment, the group relies entirely on vocal harmony to establish a sense of continuity and unity throughout the piece. The dreamy quality of the music makes it well-suited for meditation or scenes depicting spiritual experiences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/V/T/VTMB25-filk-SerenaEW/Voiceteam! final_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_83.mp3",
-                "test_signals/example_83.mp3"
+                "test_signals/example_104.mp3",
+                "test_signals/example_104.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an aggressive death metal track driven by distorted guitars, fast-paced drumming, and intense vocal screaming. Its relentless rhythm emphasizes blast beats and violent riffs, creating a high-energy atmosphere perfect for action sequences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/i/siro202DentalWorkIamdeadsmiles58-Mother/siro202DentalWorkIamdeadsmiles58-Mother/[Siro202] Dental Work + Iamdeadsmiles58 - Mother/04 - Iamdeadsmiles58 - It Needs A Purpose_00001.mp3",
+            "caption": "This instrumental track features a funky, groovy bass line supported by an electric guitar riff and upbeat drums. The music creates an energetic and lively atmosphere that drives a catchy rhythm perfect for dancing.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124560/01-1056364-Whyman Productions-Demain_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_84.mp3",
-                "test_signals/example_84.mp3"
+                "test_signals/example_105.mp3",
+                "test_signals/example_105.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends electronic instrumentation, including synthesizers and a drum machine, to create a steady, repetitive rhythm with a hypnotic quality. The music maintains a dark and mysterious mood filled with tension, making it well-suited for tense moments in video games or sci-fi films.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/d/m/dm_teratology/_dm_Teratology_11 - Sunna_00001.mp3",
+            "caption": "This live performance captures an energetic rock cover driven by prominent electric guitar riffs and a catchy, driving rhythm. The track blends upbeat instrumentation with a nostalgic, slightly melancholic atmosphere that evokes a retro charm perfect for radio play. Recorded at Homers Bar & Grill in Austin, the piece balances infectious energy with warm, engaging dynamics typical of classic rock covers.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/I/D/IDontWannaBelive/IDontWannaBelive_vbr_mp3/IDontWannaBe_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_85.mp3",
-                "test_signals/example_85.mp3"
+                "test_signals/example_106.mp3",
+                "test_signals/example_106.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment offers a perfect blend of instrumentation, mood, and rhythm to create an immersive and mesmerizing experience. Slow tempo and steady drumming establish a sense of tranquility, while melodic guitar lines and soothing vocals evoke deep nostalgia in this calming track.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/W/P/WPTR-0006-Myth-3/04 - Dead Cthulhu waits dreaming_00001.mp3",
+            "caption": "This electronic dance track features a male vocalist singing in a distinctive robotic voice over fast-paced drum machine rhythms. A driving synth bassline creates an energetic and urban atmosphere, making the piece well-suited for a club setting. The overall sound blends elements of house and pop with a fun, party-ready vibe characteristic of upbeat EDM.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-132622/02-1110095-Kimball Hooker-sexy senorita_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_86.mp3",
-                "test_signals/example_86.mp3"
+                "test_signals/example_107.mp3",
+                "test_signals/example_107.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is a purely instrumental piece featuring a prominent, resonant bass guitar that defines its minimalist sound. The slow tempo and lack of vocals create a peaceful atmosphere ideal for relaxation or meditation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/-/m-th-us-f-lip-single/M\u039bTH\u03a3US F\u03a3LIP\u03a3 - \u3088\u3057 (Single) - 07 \u3088\u3057 (LavKazan Remix)_00001.mp3",
+            "caption": "This upbeat pop song features a strong drumming rhythm, groovy bass line, and keyboard accompaniment that create an energetic atmosphere. A female vocalist sings in a higher pitch, enhancing the youthful vibe perfect for a dance party or lively gathering. The track maintains a catchy and infectious feel throughout its duration.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-notte-1/Notte 1_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_87.mp3",
-                "test_signals/example_87.mp3"
+                "test_signals/example_108.mp3",
+                "test_signals/example_108.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A solo acoustic guitar drives this segment with intricate fingerpicking and a smooth, steady rhythm that creates an introspective mood. The music features moments of dynamic, virtuosic playing which adds a thoughtful depth suitable for quiet reflection or a peaceful evening at home.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/I/f/IfYouMakeItiymiSelection/Onda66selection-SiLoHaces...HazloIndie/05 -- Everyone Everywhere - A lot of weird people standing around - Cool Pool Keg Toss Pete_00001.mp3",
+            "caption": "This is a slow-tempo pop ballad featuring an acoustic guitar that drives the main melody alongside soft bass and simple drumming. A male vocalist delivers a melodious performance within this intimate atmosphere, creating a romantic mood ideal for reflection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133327/01-1115917-A Beautiful Tomorrow-I Wonder - A Beautiful Tomorrow Original Song _Electric Version__00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_88.mp3",
-                "test_signals/example_88.mp3"
+                "test_signals/example_109.mp3",
+                "test_signals/example_109.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece combines mellow piano melodies with soft synthesizers and steady drums to create a relaxing atmosphere. The slow, repetitive rhythm blends electronic textures with acoustic elements, offering a calm soundscape ideal for meditation or unwinding.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/l/clinx-la-la-la-creative-common-music-172-www--etoile--app/Clinx - La La La - Creative Common Music 172 [WWW.ETOILE.APP]_00001.mp3",
+            "caption": "This instrumental track blends funk rock and jazz fusion to create an upbeat, energetic vibe perfect for dancing. The composition relies on a strong groovy bassline supported by electric guitars, drums, and cymbals within a sophisticated and mysterious atmosphere.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139166/01-1159244-THEO ARNISOUND-Forever glam_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_89.mp3",
-                "test_signals/example_89.mp3"
+                "test_signals/example_110.mp3",
+                "test_signals/example_110.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a solo piano performance that plays with a slow and gentle tempo to create a peaceful, introspective mood. The delicate arrangement allows the listener to fully appreciate the emotional depth of the piece, making it suitable for moments of relaxation or quiet reflection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/o/l/olivia-marsh-42-feat--yiruma-piano-ver--official-video/Olivia Marsh (\uc62c\ub9ac\ube44\uc544 \ub9c8\uc26c) - 42 (Feat. Yiruma) Piano Ver. (Official Video)_00001.mp3",
+            "caption": "This instrumental techno track features a fast tempo driven by a pulsating bassline and a driving drum beat. The repetitive synth patterns create an energetic and infectious rhythm ideal for a nightclub or rave setting. With its strong electronic influence, the piece effectively blends elements of EDM and trance music.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-145590/01-1212574-DJane Nickie Anne-Hardstyle night _Original mix__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_90.mp3",
-                "test_signals/example_90.mp3"
+                "test_signals/example_111.mp3",
+                "test_signals/example_111.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

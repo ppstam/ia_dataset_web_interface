@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This musical piece creates a soothing atmosphere through a blend of acoustic and electric guitars, offering a modern twist on a folk-inspired sound. The slow tempo and gentle rhythm driven by soft drums provide an intimate setting ideal for relaxation or quiet introspection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-275462/01-1178491-Cristian Romanus-Cristian Romanus - Lua e estrela Ensaio_00001.mp3",
+            "caption": "This is an energetic instrumental march featuring a bold brass section led by trumpets and trombones. The fast tempo and dynamic rhythm, punctuated by snare drum beats and cymbal crashes, create a sense of urgent excitement suitable for a parade or grand entrance.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/m/bmb19860517/bmb19860517-012-grand-entree-royal-bridesmaids-march_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_61.mp3",
-                "test_signals/example_61.mp3"
+                "test_signals/example_78.mp3",
+                "test_signals/example_78.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/f/jfk-the-other-side-ep/JFK Ft. Mosidon - Ji Masun _ 360nobsdegreess.com_00001.mp3",
+            "caption": "This instrumental track blends country and blues influences, featuring a prominent electric guitar solo over a steady, moderate tempo. The easygoing rhythm creates a nostalgic atmosphere with a distinct country twang that evokes a laid-back countryside vibe. The music is well-suited for a casual road trip or an evening listening session in the mountains.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/1/9/1969-the-helpful-soul/08 - Little Wing_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_62.mp3",
-                "test_signals/example_62.mp3"
+                "test_signals/example_79.mp3",
+                "test_signals/example_79.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/f/jfk-the-other-side-ep/JFK Ft. Mosidon - Ji Masun _ 360nobsdegreess.com_00001.mp3",
+            "caption": "This segment features a slow, steady solo piano performance that establishes a melancholic and introspective atmosphere. The deliberate rhythm allows the listener to fully immerse themselves in the emotional depth of this classical piece.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134343/07-1123697-Spinozar-Infinite Regress_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_62.mp3",
-                "test_signals/example_62.mp3"
+                "test_signals/example_80.mp3",
+                "test_signals/example_80.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track relies on synthesizers, a drum machine, and a bass line to create a steady, mid-tempo groove. The repetitive loops establish a dark and mysterious atmosphere suitable for a nightclub or DJ set.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124065/01-1053125-Max Mineyev-Max Mineyev - Music _00003.mp3",
+            "caption": "This track is a serene field recording featuring the natural sounds of flowing water, captured using high-quality binaural microphones. The gentle, steady rhythm of the stream creates an immersive and calming atmosphere perfect for relaxation or unwinding. Although the metadata suggests some electronic elements, the primary focus remains on the authentic acoustic textures of the environment.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_27794_32726/SoundMap201506109_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_63.mp3",
-                "test_signals/example_63.mp3"
+                "test_signals/example_81.mp3",
+                "test_signals/example_81.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is specifically designed for a church service, featuring a choir and organ that blend with electric guitar to create a rich sound. The rhythm remains slow and steady, emphasizing the bass line while maintaining a solemn and reverent atmosphere suitable for contemplation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-152770/08-1280319-Ambient Samurai - Ichiro NAKAGAWA-Some Phrases  From _quot_Caramel Song_quot_ Of  Zettai Reido III_00001.mp3",
+            "caption": "This energetic instrumental track combines a strong beat with synthesizers, electronic drums, and a string section to create an exciting atmosphere. Its fast tempo and vibrant sound design make it ideal for dancing or as background music for a thrilling movie scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-129081/02-1083764-MANCY-Poza grawitacj__00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_64.mp3",
-                "test_signals/example_64.mp3"
+                "test_signals/example_82.mp3",
+                "test_signals/example_82.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
+            "caption": "This instrumental track blends electronic, hip-hop, and dubstep elements to create a strong, groovy bassline. Driven by steady rhythms and synthesizer textures, the music evokes a futuristic and energetic atmosphere ideal for a dance party or nightclub setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/o/holy-shit-batman-3/Holy Shit Batman!_3 _00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_65.mp3",
-                "test_signals/example_65.mp3"
+                "test_signals/example_83.mp3",
+                "test_signals/example_83.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
+            "caption": "This folk song features an acoustic guitar playing a steady rhythm to support Rachel Andes's gentle vocals. The simple, easygoing melody creates a relaxed mood that fits well on a casual road trip playlist.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/o/poem-rachel-andes-christopher-munden/01 poem_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_65.mp3",
-                "test_signals/example_65.mp3"
+                "test_signals/example_84.mp3",
+                "test_signals/example_84.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop segment features a strong male rapper delivering lyrics over a medium-tempo groove driven by electronic drums and a prominent bass line. The track is enriched by the addition of a string section, which adds a rich, layered texture to the energetic rhythm.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128094/01-1075446-VtheElder-V The Elder - Fresh Start, No End _Sign Here Remix__00004.mp3",
+            "caption": "This instrumental track blends rock and blues influences to create a groovy, upbeat foundation driven by electric guitar, bass, and steady acoustic drums. Melodic layers from the saxophone and keyboard elevate the arrangement, resulting in an energetic vibe ideal for a lively bar or road trip setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-125842/08-1065406-Nameless _UA, Ternopil_-Carpathian Forest_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_66.mp3",
-                "test_signals/example_66.mp3"
+                "test_signals/example_85.mp3",
+                "test_signals/example_85.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This slow-tempo track features a male vocalist over a steady drumming rhythm and a solid bass line that drives the music forward. Melancholic keyboard accompaniment adds emotional depth, creating a somber atmosphere suitable for a reflective or dramatic moment. Although the instrumentation includes guitars, the primary mood remains introspective rather than energetic.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/P/u/PureVibesMP3s/03 Pure Vibes/04 - Join_00001.mp3",
+            "caption": "This instrumental track is a fast-paced death metal piece driven by aggressive, complex drumming and intricate guitar riffs. Its high-energy sound creates an adrenaline-fueled atmosphere that feels perfect for intense combat scenes or high-octane action sequences in video games.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-187414/05-1682093-Fremito-Copperiedus_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_67.mp3",
-                "test_signals/example_67.mp3"
+                "test_signals/example_86.mp3",
+                "test_signals/example_86.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This soothing instrumental track features a gentle female voice and calming keyboard harmony that creates a mellow atmosphere. The slow tempo makes the music ideal for unwinding or meditation after a long day, evoking a sense of relaxation and peace.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/u/suicide-tapes/EyeBlind - Suicide Tapes_00001.mp3",
+            "caption": "This segment is a lively, instrumental passage from Igor Stravinsky's 1932 recording of *L'Histoire du soldat*, featuring a spirited violin solo within a septet ensemble. The performance includes a dynamic rhythm driven by brass instruments, woodwinds, and percussion, creating an energetic atmosphere suitable for scenes requiring high intensity. Despite the archival note that the audio quality may be imperfect, the arrangement captures a distinctively upbeat and adventurous mood characteristic of the work.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/T/STRAVINSKYLHistoireDuSoldat-Stravinsky-NEWTRANSFER/04.TheDevilsDance_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_68.mp3",
-                "test_signals/example_68.mp3"
+                "test_signals/example_87.mp3",
+                "test_signals/example_87.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

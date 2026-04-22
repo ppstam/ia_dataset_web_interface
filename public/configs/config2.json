@@ -50,50 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track blends electronic influences with a groovy bassline and syncopated percussion. The steady rhythm creates a relaxed, chill atmosphere that feels well-suited for background music or a vlog intro.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-156493/02-1319804-Ephedrina Netlabel-LatoB_SABOLGIA ft SDENNY BOY - From Platform 5_00003.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_2.mp3",
-                "test_signals/example_2.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This slow-tempo instrumental track features a male vocalist supported by steady drumming and a solid bass line that grounds the arrangement. A keyboard and synthesizer add depth and complexity, creating a melancholic atmosphere suitable for scenes of reflection or introspection. The overall mood is sad and peaceful, blending pop and singersongwriter influences into a cohesive, emotional piece.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-140619/07-1168995-The SnowDragons-THE SNOWDRAGONS - Look for the Lightning_00004.mp3",
+            "caption": "This instrumental composition features a unique soundscape driven by chimes, bells, and layered percussive elements rather than a traditional beat. The interplay of these hits creates dynamic movement within a dark and mysterious mood that suggests the music is designed as an immersive game soundtrack. Recorded as electroacoustic improvisation involving a laptop and various objects, the piece evokes a sense of suspense through its experimental texture.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/d/b/db017_Gavlas_Dincise_DHDLV/db017_Gavlas_Dincise_03_studio3_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -132,94 +90,52 @@
             "submitButtonText": "Next"
         },
         {
+            "name": "Sample 3",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This energetic and upbeat track features a male vocalist delivering romantic lyrics over a groovy bass line and steady drumming. The song blends elements of funk and rock with electric guitar and keyboard harmony, creating a mood perfect for a feel-good TV show or a romantic comedy soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-112731/03-958730-Vila brasil-Barraco_00003.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_4.mp3",
+                "test_signals/example_4.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a beautiful solo piano instrumental that flows with a slow, minimalist approach. The sparse rhythm and expressive melodies create an intimate, somber atmosphere perfect for contemplation or a poignant film scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/q/aquiles_guimaraes-a_vida_dos_nossos_animais/Aquiles Guimara\u0303es - A vida dos nossos animais - 04 Fe\u0301lin soliloque - Franc\u0327ois Miaul_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_4.mp3",
-                "test_signals/example_4.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a beautiful solo piano instrumental that flows with a slow, minimalist approach. The sparse rhythm and expressive melodies create an intimate, somber atmosphere perfect for contemplation or a poignant film scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/q/aquiles_guimaraes-a_vida_dos_nossos_animais/Aquiles Guimara\u0303es - A vida dos nossos animais - 04 Fe\u0301lin soliloque - Franc\u0327ois Miaul_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_4.mp3",
-                "test_signals/example_4.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A dark and dramatic piece, this track builds a lush cinematic soundscape using synth strings and pads. A steady, driving rhythm propels the music forward while a haunting female voice and choir sample add emotional intensity. The overall atmosphere creates a perfect mood for an urgent movie soundtrack or intense scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-528207/01-2055541-PAOLO DEL PRETE - COLLECTION previews, hits _amp_ special guests-Paolo Del Prete feat.  Sabryna Syrio - Siren prayer _Devid Morrison Remix__00001.mp3",
+            "caption": "This intense piece exemplifies extreme metal through its relentless rhythm and chaotic blend of death and grindcore elements. Distorted electric guitars, aggressive bass lines, and fast acoustic drums drive the track with a heavy, violent energy that evokes scenes from a mosh pit or high-stakes action sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/h/the-zacto-smile-music-from-the-zach-hill-pit-vol--2/Illiterate Mind Reader - The Zacto Smile (Music From The Zach Hill Pit Vol. 2) - 05 Ear Masturbation Face_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -258,10 +174,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 7",
+            "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is a fast-paced blend of rock and electronic music, driven by aggressive electric guitar riffs and a heavy, driving beat. The sound creates an intense and chaotic atmosphere that feels perfect for high-energy action scenes or system malfunction sequences in media.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/F/F/FFR070/Ffr070_redsk-Spin-snowglobe/FFR070_RedSK - Spin-Snowglobe/01 RedSK - Blowtorches Under Water_00001.mp3",
+            "caption": "This instrumental track features gentle mallet percussion and a slow, steady rhythm that creates a peaceful, meditative atmosphere. The soothing sounds evoke a sense of tranquility, making the piece ideal for relaxation, yoga, or background music in a spa setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124044/01-1053039-Dawid Jaworski-Sometimes all it takes is a cup of tea_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -300,10 +216,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 8",
+            "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong, driving beat supported by groovy basslines and occasional electronic sound effects. The dark and intense rhythm creates a sense of urgency that makes the piece well-suited for a nightclub setting or high-energy scenes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/bluey-ost/01-13 YouTube Executive - Dogson Hawkemate - Dbog_00002.mp3",
+            "caption": "This instrumental composition blends elements of jazz, blues, and rock to create a mellow, relaxing atmosphere with a touch of melancholy. A steady rhythm provided by bass guitar and drums supports a walking line that fits the slow tempo. The piece is well-suited for contemplative scenes in film or as background music during a late-night drive.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-520973/01-2031544-Christian Zell-Contentment 4.0_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -342,10 +258,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 9",
+            "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is designed to induce a state of calm and relaxation through its slow, repetitive melodic patterns. Various percussion instruments like bells and shakers combine with soft synths to create a peaceful atmosphere ideal for meditation or yoga sessions.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/h/the-cupbearer-music-from-the-search-for-silence-volume-three-16-now-and-forever-/The Cupbearer - Music from The Search for Silence- Volume Three/The Cupbearer - Music from The Search for Silence- Volume Three - 02 The Morning After All Mourning_00001.mp3",
+            "caption": "This segment is a beautiful example of a Japanese role-playing game soundtrack, featuring a prominent piano melody that feels both melancholic and romantic. Lush strings support the slow, steady rhythm to create a calm and nostalgic atmosphere suitable for reflective scenes or exploration areas. The piece relies heavily on piano and synthesizer textures within a newage-inspired electronic framework.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-119449/04-1014470-KPHB-piano_d0_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -384,10 +300,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 10",
+            "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a perfect example of ambient music, featuring a slow tempo and a serene, ethereal quality that creates a dreamy atmosphere. Wind instruments like flutes and clarinets blend with a string section and piano to add depth while maintaining a gentle, flowing rhythm ideal for relaxation or meditation. The overall mood remains calm and introspective, offering a rich soundscape perfect for a spa setting or yoga session.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/r/e/remixcomplications-rmxjam/Parryudori - Russel ~end roll~ (remix)_00001.mp3",
+            "caption": "This instrumental track features a fast, driving beat powered by synthesizers and electronic drums that create an intense, futuristic atmosphere. The rhythm is energetic and urgent, blending digital sound effects with a pulsating electronic style well-suited for video game soundtracks.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-429575/01-1726066-Michele Lagioia-Alien dance_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -426,15 +342,99 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 11",
+            "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This folk song features a steady, simple rhythm driven by an emotive solo acoustic guitar. The music creates a melancholic and introspective mood that is gentle and heartfelt.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-111533/06-948836-Tocsine-Tocsine - The Universe_00006.mp3",
+            "caption": "This segment is a dark ambient and industrial soundtrack featuring a slow tempo, steady rhythm, and a haunting melody. Bowed string instruments like a cello or double bass provide tension while eerie sound effects and a choir create an ominous atmosphere suitable for horror films or suspenseful video game scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/h/mhrk335/01 - Der Allgegenw\u00e4rtige Astronautenstamm - INTENT 2023- Sehnsucht - Offenheit, Akzeptanz, Einigkeit, St\u00e4rke Und Gesundheit_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
                 "test_signals/example_10.mp3",
                 "test_signals/example_10.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental hip-hop track features a strong bass line and steady drumming accompanied by keyboard textures. A male vocalist delivers his rap verses with backing vocals that add depth to the groovy, medium-tempo rhythm. The energetic production creates a party atmosphere suitable for a dance club or social gathering.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-140505/06-1168171-Slim Bwoy-Slim Bwoy - T U - _ Turn Up __00003.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_11.mp3",
+                "test_signals/example_11.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 11",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track delivers an energetic house beat driven by a strong bassline and electronic drumming. The fast-paced rhythm creates an upbeat atmosphere ideal for a nightclub or rave setting, featuring prominent synth melodies and computer-generated sounds.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141345/09-1173605-Hasenchat-23 HuHu Dance_00003.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_12.mp3",
+                "test_signals/example_12.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

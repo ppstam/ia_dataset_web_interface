@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
+            "caption": "This folk song features an acoustic guitar playing a steady rhythm to support Rachel Andes's gentle vocals. The simple, easygoing melody creates a relaxed mood that fits well on a casual road trip playlist.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/o/poem-rachel-andes-christopher-munden/01 poem_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_65.mp3",
-                "test_signals/example_65.mp3"
+                "test_signals/example_84.mp3",
+                "test_signals/example_84.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop segment features a strong male rapper delivering lyrics over a medium-tempo groove driven by electronic drums and a prominent bass line. The track is enriched by the addition of a string section, which adds a rich, layered texture to the energetic rhythm.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128094/01-1075446-VtheElder-V The Elder - Fresh Start, No End _Sign Here Remix__00004.mp3",
+            "caption": "This instrumental track blends rock and blues influences to create a groovy, upbeat foundation driven by electric guitar, bass, and steady acoustic drums. Melodic layers from the saxophone and keyboard elevate the arrangement, resulting in an energetic vibe ideal for a lively bar or road trip setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-125842/08-1065406-Nameless _UA, Ternopil_-Carpathian Forest_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_66.mp3",
-                "test_signals/example_66.mp3"
+                "test_signals/example_85.mp3",
+                "test_signals/example_85.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This slow-tempo track features a male vocalist over a steady drumming rhythm and a solid bass line that drives the music forward. Melancholic keyboard accompaniment adds emotional depth, creating a somber atmosphere suitable for a reflective or dramatic moment. Although the instrumentation includes guitars, the primary mood remains introspective rather than energetic.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/P/u/PureVibesMP3s/03 Pure Vibes/04 - Join_00001.mp3",
+            "caption": "This instrumental track is a fast-paced death metal piece driven by aggressive, complex drumming and intricate guitar riffs. Its high-energy sound creates an adrenaline-fueled atmosphere that feels perfect for intense combat scenes or high-octane action sequences in video games.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-187414/05-1682093-Fremito-Copperiedus_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_67.mp3",
-                "test_signals/example_67.mp3"
+                "test_signals/example_86.mp3",
+                "test_signals/example_86.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This soothing instrumental track features a gentle female voice and calming keyboard harmony that creates a mellow atmosphere. The slow tempo makes the music ideal for unwinding or meditation after a long day, evoking a sense of relaxation and peace.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/u/suicide-tapes/EyeBlind - Suicide Tapes_00001.mp3",
+            "caption": "This segment is a lively, instrumental passage from Igor Stravinsky's 1932 recording of *L'Histoire du soldat*, featuring a spirited violin solo within a septet ensemble. The performance includes a dynamic rhythm driven by brass instruments, woodwinds, and percussion, creating an energetic atmosphere suitable for scenes requiring high intensity. Despite the archival note that the audio quality may be imperfect, the arrangement captures a distinctively upbeat and adventurous mood characteristic of the work.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/T/STRAVINSKYLHistoireDuSoldat-Stravinsky-NEWTRANSFER/04.TheDevilsDance_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_68.mp3",
-                "test_signals/example_68.mp3"
+                "test_signals/example_87.mp3",
+                "test_signals/example_87.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a groovy, Latin-influenced rhythm driven by strong percussion and a prominent bass drum. A synthesizer carries the melody while a higher-pitched male vocal layer adds an energetic, danceable quality to the piece. The overall atmosphere combines upbeat electronic elements with a nostalgic vibe reminiscent of 1980s new wave and funk styles.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/e/p/eph169electricdreamerselectropopulous/10_ELECTRIC DREAMERS - The way you bump_00005.mp3",
+            "caption": "This instrumental rock track features an electric guitar playing a solo melody over a fast-paced acoustic drum beat. The energetic and upbeat atmosphere makes the piece suitable for a video game soundtrack or a movie's fast-paced action scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-064879/02-558633-Sinyris-Sinyris - Comme un debut_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_69.mp3",
-                "test_signals/example_69.mp3"
+                "test_signals/example_88.mp3",
+                "test_signals/example_88.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a beautiful solo piano instrumental that flows with a slow, minimalist approach. The sparse rhythm and expressive melodies create an intimate, somber atmosphere perfect for contemplation or a poignant film scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/q/aquiles_guimaraes-a_vida_dos_nossos_animais/Aquiles Guimara\u0303es - A vida dos nossos animais - 04 Fe\u0301lin soliloque - Franc\u0327ois Miaul_00001.mp3",
+            "caption": "This upbeat techno track features a strong electronic beat driven by synthesizers and digital drums, creating an energetic atmosphere ideal for a nightclub or rave. The music incorporates a male vocal sample within its hypnotic and repetitive rhythm, making it highly danceable for DJ sets. Overall, the piece combines vibrant electronic arrangements with a pulsating groove perfectly suited for party scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110301/01-939346-Djfredse-Djfredse-Think Outside_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_70.mp3",
-                "test_signals/example_70.mp3"
+                "test_signals/example_89.mp3",
+                "test_signals/example_89.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a beautiful solo piano instrumental that flows with a slow, minimalist approach. The sparse rhythm and expressive melodies create an intimate, somber atmosphere perfect for contemplation or a poignant film scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/q/aquiles_guimaraes-a_vida_dos_nossos_animais/Aquiles Guimara\u0303es - A vida dos nossos animais - 04 Fe\u0301lin soliloque - Franc\u0327ois Miaul_00001.mp3",
+            "caption": "This instrumental track blends strong electronic and techno influences with a prominent synthesizer lead and a driving bassline. The steady drumbeat creates an intense, energetic groove punctuated by glitchy elements, evoking a futuristic atmosphere ideal for action sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/o/positive-pressure-5/Positive Pressure_5  _00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_70.mp3",
-                "test_signals/example_70.mp3"
+                "test_signals/example_90.mp3",
+                "test_signals/example_90.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track explores the vastness of space using atmospheric synthesizers and expansive effects like reverb to create an ethereal soundscape. The slow tempo and lack of vocals foster a sense of mystery, allowing listeners to fully immerse themselves in this otherworldly electronic piece.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113883/01-968025-LongTriggerMusic-Barks _amp_ Crock - Run Away_Moan _Remix__00001.mp3",
+            "caption": "This is a romantic pop rock track featuring a male vocalist with medium tempo drumming and a strong bass line. The music conveys a passionate theme about love transcending distance, blending melodic guitar work with an uplifting emotional tone. While instrumental elements provide a solid foundation, the presence of vocals adds a human touch to the story of eternal connection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/m/amor-sin-fronteras-cosmicas/Amor Sin Fronteras Cosmicas_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_71.mp3",
-                "test_signals/example_71.mp3"
+                "test_signals/example_91.mp3",
+                "test_signals/example_91.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track from an electronic music project features a powerful and dark soundscape driven by synthesizers and heavy instrumentation. Although the base description highlights the immersive interplay of elements, the surrounding metadata suggests an energetic, dance-oriented style with strong rhythmic foundations. The combination of these layers creates a unique listening experience that relies entirely on its complex sonic textures rather than vocals.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-506166/04-1993668-Kamil Muzyk _Howarang Van K_-EVERYONE IS CONNECTED _LAIN VERSION - ORIGINAL MIX__00001.mp3",
+            "caption": "This instrumental track features a funky, groovy vibe driven by an energetic electric guitar and a solid bassline. The medium tempo creates a lively atmosphere that blends upbeat musical elements with a clear rhythmic foundation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-125753/03-1064631-Supersly-Why Did That Guy Beat You_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_72.mp3",
-                "test_signals/example_72.mp3"
+                "test_signals/example_92.mp3",
+                "test_signals/example_92.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is a perfect fit for a retro video game soundtrack, featuring nostalgic synthesizers that create a futuristic and adventurous atmosphere. The electronic rhythm maintains high energy throughout the piece, delivering an engaging experience typical of 8-bit or chiptune styles.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/F/TFN187/TFN187/[TFN187] Famicomtron - Compact Disc System EP/04 Famicomtron - Stoner's Art_00001.mp3",
+            "caption": "This instrumental track from the video game Dragon Engine features a fast tempo and heavy drumming that creates an intense, driving rhythm. The music blends electric guitar with aggressive metal elements to establish a powerful atmosphere suitable for high-stakes action scenes like combat or boss battles. Overall, the composition delivers an energetic mood defined by its loud, forceful sound and repetitive beat.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/D/r/DragonEngineCDfix/Soul_Of_Fire-Dragon_Engine-07-Access_Denied_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_73.mp3",
-                "test_signals/example_73.mp3"
+                "test_signals/example_93.mp3",
+                "test_signals/example_93.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition features a repetitive vocal chant and steady rhythm that create a hypnotic, trance-like effect. Driven primarily by synthesizers, the ambient soundscape fosters a deep meditative state ideal for relaxation or yoga. The neutral yet atmospheric mood provides a sense of continuity and flow throughout the piece.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-155069/02-1303545-Ambient Samurai - Ichiro NAKAGAWA-Song For Emerging Universe_00001.mp3",
+            "caption": "This instrumental heavy metal track features a fast-paced rhythm driven by aggressive electric guitar riffs, a strong bass line, and acoustic drums. The performance captures the high energy of a live concert setting, with a complex solo that emphasizes the driving nature of the music.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-193929/08-1763849-Phil Twite-Crushed Like Fruit _InMe__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_99.mp3",
-                "test_signals/example_99.mp3"
+                "test_signals/example_123.mp3",
+                "test_signals/example_123.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track features a male vocalist singing in a deeper key over a driving drum machine beat. Synth bass and percussive synth elements create a trippy atmosphere that feels well-suited for the soundtrack of a teenage drama series.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-147404/02-1229016-RP_Rufus-Scheisshausfliege - DoenerDoener_00001.mp3",
+            "caption": "This instrumental rock piece features a complex, fast-paced electric guitar riff driving alongside a rhythmic bassline and acoustic drums. The intense and energetic atmosphere creates a powerful sound that fits well as music for video game soundtracks or high-octane action scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139637/06-1162372-Blas Morenilla-Crucifixion-A Contra Tiempo_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_100.mp3",
-                "test_signals/example_100.mp3"
+                "test_signals/example_124.mp3",
+                "test_signals/example_124.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a heavy metal instrumental driven by distorted electric guitars, aggressive bass lines, and loud drumming. The music creates a dark, high-energy atmosphere typical of a live thrash performance.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/E/a/Ear20_-_Headkrusher-TheWorst2013/Ear20_-_Headkrusher-TheWorst2013/EAR[20] _ - _ Headkrusher - The Worst (2013)/02. Headkrusher - Blessed In Black_00001.mp3",
+            "caption": "This instrumental rock track delivers a loud and aggressive sound driven by an electric guitar, bass, and drum kit. With its steady, energetic rhythm and intense mood, the piece creates a high-octane atmosphere well-suited for action sequences or video game soundtracks.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-140299/05-1166786-Dark Husky-Panicking_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_101.mp3",
-                "test_signals/example_101.mp3"
+                "test_signals/example_125.mp3",
+                "test_signals/example_125.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong techno influences with heavy dubstep and deep house elements to create an intense, energetic groove. Driven by prominent synthesizers, drum machines, and cymbals, the repetitive rhythm builds a powerful atmosphere ideal for high-energy workouts or club dancing.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/F/TFN272/TFN272/[TFN272] Deathmonk - Psychedelic Pilgrim/02 Deathmonk - Blacklock_00001.mp3",
+            "caption": "This instrumental track features a gentle solo guitar that creates a soft, meditative atmosphere. The slow tempo and simple rhythm produce a calming soundscape, making it an ideal choice for a quiet evening at home or a cozy coffee shop.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-592432/01-2230407-Christian Zell-Space 1.1_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_102.mp3",
-                "test_signals/example_102.mp3"
+                "test_signals/example_126.mp3",
+                "test_signals/example_126.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a driving electric guitar lead supported by bass and acoustic drums. The fast-paced rhythm creates an intense and aggressive mood, making the piece ideal for high-energy scenarios like car chases or video game combat.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-119582/01-1015499-Sueno De Dahlia-Quedate - 2013_00005.mp3",
+            "caption": "This energetic punk rock track features a male vocalist singing at a high pitch alongside a distorted electric guitar playing a driving riff. The performance is supported by a fast-paced acoustic drum beat that creates an aggressive and lively atmosphere suitable for a live concert setting. Elements of the song clearly evoke the raw intensity often found in New York hardcore scenes from the early 1980s.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/W/w/Www-archive-orgdetailsReaganYouth-1983DemosRatcageBenefitCbgbs1982/29-reaganYouthlive_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_103.mp3",
-                "test_signals/example_103.mp3"
+                "test_signals/example_127.mp3",
+                "test_signals/example_127.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABeautifulTomorrowFullAlbumdiscTwo/ABeautifulTomorrow-ABeautifulTomorrowdiscTwo/A Beautiful Tomorrow - A Beautiful Tomorrow (Disc Two) - 07 Where have you been all of my life-_00001.mp3",
+            "caption": "This instrumental rock track features a complex and fast-paced electric guitar solo supported by a solid bass line and driving acoustic drums. The energetic atmosphere creates a dynamic soundscape well-suited for a live performance or guitar showcase. With its heavy mood and clear focus on virtuosic playing, the piece delivers an engaging musical experience that highlights the interplay between the lead instrument and rhythm section.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124695/01-1057402-Daniele di Bari-Hypnotic StratOSfear_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_104.mp3",
-                "test_signals/example_104.mp3"
+                "test_signals/example_128.mp3",
+                "test_signals/example_128.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABeautifulTomorrowFullAlbumdiscTwo/ABeautifulTomorrow-ABeautifulTomorrowdiscTwo/A Beautiful Tomorrow - A Beautiful Tomorrow (Disc Two) - 07 Where have you been all of my life-_00001.mp3",
+            "caption": "This instrumental rock track features a heavy electric guitar riff and a fast, aggressive rhythm driven by loud drums. The energetic sound creates an intense atmosphere suitable for high-energy activities or a dynamic live concert setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/C/l/ClaviculaMainodeixaradeploure_20160911/08 Occit+\u00e1nia_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_104.mp3",
-                "test_signals/example_104.mp3"
+                "test_signals/example_129.mp3",
+                "test_signals/example_129.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This is a slow-tempo pop ballad featuring an acoustic guitar that drives the main melody alongside soft bass and simple drumming. A male vocalist delivers a melodious performance within this intimate atmosphere, creating a romantic mood ideal for reflection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133327/01-1115917-A Beautiful Tomorrow-I Wonder - A Beautiful Tomorrow Original Song _Electric Version__00005.mp3",
+            "caption": "This instrumental rock track features a clean electric guitar melody layered over a groovy bass line and punchy snare drum. The steady, upbeat rhythm creates an energetic and happy mood that fits well in various dynamic scenarios.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-356666/01-1375833-Mickael Huchet-Marco_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_105.mp3",
-                "test_signals/example_105.mp3"
+                "test_signals/example_130.mp3",
+                "test_signals/example_130.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece features dreamy synthesizers and atmospheric textures that create an ethereal soundscape. The slow, steady rhythm combined with a melancholic mood makes it well-suited for a contemplative cinematic scene or a video game cutscene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/e/selvi-beats-old-time-creative-common-music-169-www--etoile--app/Selvi Beats - Old Time | Creative Common Music 169 [WWW.ETOILE.APP]_00001.mp3",
+            "caption": "This instrumental rock track relies heavily on catchy electric guitar riffs and a solid foundation provided by the bass and drums. The driving, energetic rhythm creates an upbeat atmosphere that feels perfect for a high-octane action scene or a thrilling car chase.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128962/02-1082485-Kaisha Kunin-NOT READY_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_106.mp3",
-                "test_signals/example_106.mp3"
+                "test_signals/example_131.mp3",
+                "test_signals/example_131.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic instrumental track combines fast-paced techno rhythms with driving electronic drums and a pulsating synthesizer bassline. The infectious, repetitive melody creates an upbeat atmosphere ideal for a nightclub or high-energy party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136321/02-1135500-Slowild Style Latin-DJ Victor Ft Alex _ Jhonny V. - Get Wonder_00001.mp3",
+            "caption": "This instrumental rock track features electric guitar, bass, and acoustic drums to create an intense and aggressive sound. The fast-paced rhythm drives the music forward with significant energy, making it well-suited for high-octane action scenes or car chases.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-186471/07-1671541-Fearworks-Low_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_107.mp3",
-                "test_signals/example_107.mp3"
+                "test_signals/example_132.mp3",
+                "test_signals/example_132.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
