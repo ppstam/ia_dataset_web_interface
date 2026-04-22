@@ -6,7 +6,7 @@
     },
     "questions": [
         {
-            "name": "Sample 0",
+            "name": "Sample 1",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
@@ -18,60 +18,18 @@
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an upbeat instrumental rock track driven by a catchy guitar lead and steady acoustic drums. The medium tempo creates a groovy rhythm that feels energetic and engaging, making it ideal for a road trip or casual gathering.",
-            "id": 1,
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_78.mp3",
-                "test_signals/example_78.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [
@@ -92,28 +50,28 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This intense track fits perfectly as a video game soundtrack, particularly for high-stakes boss battles. The heavy metal sound is driven by aggressive electric guitars, powerful male vocals, and a driving rhythm section that creates an energetic atmosphere.",
+            "caption": "This segment is an amateur recording of a vocal choir singing without instrumental accompaniment. The performance feels cheerful and lively, driven by a strong rhythmic pattern enhanced with hand clapping.",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_79.mp3",
-                "test_signals/example_79.mp3"
+                "test_signals/example_78.mp3",
+                "test_signals/example_78.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [
@@ -134,28 +92,28 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a classic slow jazz trio with a piano, double bass, and drum kit. The musicians create a mellow and introspective atmosphere through a walking bassline and steady swing rhythm, making the piece ideal for a cozy lounge or dinner setting.",
+            "caption": "This track is a slow, instrumental symphonic piece featuring piano, strings, and synthesizer that creates a calm and relaxing atmosphere. The steady rhythm supports a contemplative mood, making it well-suited for meditation, study, or quiet reflection.",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_80.mp3",
-                "test_signals/example_80.mp3"
+                "test_signals/example_79.mp3",
+                "test_signals/example_79.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [
@@ -176,28 +134,28 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a solo acoustic guitar that plays with a simple, steady rhythm to create a calm and flowing atmosphere. The music maintains an introspective and thoughtful mood, offering a gentle backdrop suitable for quiet reflection or a reflective moment.",
+            "caption": "This instrumental piece features a lively violin melody accompanied by flute, set against a rhythmic tabla background that creates an upbeat dance atmosphere. The track evokes an energetic mood suitable for an Indian-themed movie or television soundtrack, standing apart from the smoother jazz and saxophone styles often found in similar archival uploads.",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_81.mp3",
-                "test_signals/example_81.mp3"
+                "test_signals/example_80.mp3",
+                "test_signals/example_80.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [
@@ -218,28 +176,28 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track serves as a quintessential jazz composition, highlighted by a captivating piano melody and a groovy bassline driven by rhythmic drums. The sophisticated trio arrangement creates an easygoing atmosphere that fits perfectly in a relaxed club or caf\u00e9 setting without the distraction of vocals.",
+            "caption": "This instrumental track blends a strong Latin influence with a steady drumming rhythm and a groovy, percussive bass line. Keyboard accompaniment adds complexity to the melody while driving the piece forward with an energetic dance groove. The overall mood feels romantic and passionate, making it suitable for a dramatic or uplifting movie soundtrack.",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_82.mp3",
-                "test_signals/example_82.mp3"
+                "test_signals/example_81.mp3",
+                "test_signals/example_81.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [
@@ -260,28 +218,28 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock piece blends pop rock elements with a groovy, energetic vibe and an upbeat feel. The medium-tempo track features a guitar lead supported by bass, keyboards, and drums to create a catchy sound suitable for various scenarios.",
+            "caption": "This instrumental track features a vibrant sound driven by the interplay of a traditional Spanish guitar and a lively acoustic guitar. Steady, driving rhythms provided by drums create an energetic mood that suits various settings, from dance parties to travel documentaries. The overall effect is engaging and upbeat, with a strong focus on melodic instrumentation rather than electronic textures.",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_83.mp3",
-                "test_signals/example_83.mp3"
+                "test_signals/example_82.mp3",
+                "test_signals/example_82.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [
@@ -302,28 +260,28 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This hip-hop instrumental features a male vocalist rapping in a steady, rhythmic style over a strong bass line and drumming. The keyboard accompaniment creates an urban and groovy atmosphere that suits a city-based soundtrack.",
+            "caption": "This instrumental track provides an immersive experience focused on atmosphere rather than vocals. The soundscape features a blend of guitar, synthesizer, and field recording elements that evoke a dark yet emotionally resonant mood. These audio layers create a dynamic backdrop suitable for intense scenes or reflective moments within a cinematic context.",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_84.mp3",
-                "test_signals/example_84.mp3"
+                "test_signals/example_83.mp3",
+                "test_signals/example_83.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [
@@ -344,28 +302,28 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is an instrumental rock piece that features a prominent drum solo. The energy builds on the percussive rhythm, highlighting the role of the drums and cymbals without any vocal elements.",
+            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_85.mp3",
-                "test_signals/example_85.mp3"
+                "test_signals/example_84.mp3",
+                "test_signals/example_84.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [
@@ -386,28 +344,28 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a catchy guitar riff and a steady drum beat that drive an upbeat, energetic rhythm. The combination of electric guitar, bass, and drums creates a solid foundation perfect for high-energy scenes or lively parties.",
+            "caption": "This instrumental track blends strong electronic and industrial influences with a prominent synthesizer line and driving bass. The music builds tension through dynamic shifts, creating a dark and intense mood that feels perfectly suited for a high-stakes video game action sequence.",
             "id": 1,
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_86.mp3",
-                "test_signals/example_86.mp3"
+                "test_signals/example_85.mp3",
+                "test_signals/example_85.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [
@@ -428,7 +386,49 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track serves as an ideal accompaniment for a Spanish-themed party or a romantic evening, featuring acoustic guitars and Latin percussion that create a lively atmosphere. The music combines folk and pop elements to form a perfect background sound for dancing and enjoying the moment.",
+            "caption": "This instrumental composition features a gentle piano melody supported by a dreamy synthesizer layer, creating a slow and steady rhythm. The music evokes an introspective and melancholic mood that is perfect for a reflective film scene or quiet contemplation.",
+            "id": 1,
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_86.mp3",
+                "test_signals/example_86.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 11",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This intense instrumental track fuses heavy elements of rock, metal, and industrial styles to create a powerful soundscape. Distorted electric guitars dominate the mix with a dark and aggressive mood that drives the music forward. While inspired by improvisations built around a steady pulse, the piece relies entirely on layered instrumentation rather than vocals or traditional song structures.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -438,18 +438,18 @@
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information)"
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
             },
             "scale": {
                 "type": "discrete",
                 "alignment": "horizontal",
                 "labels": [
-                    "1 (worst)   ",
-                    "2   ",
-                    "3   ",
-                    "4   ",
-                    "5   ",
-                    "6   ",
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
                     "7 (best)"
                 ],
                 "values": [

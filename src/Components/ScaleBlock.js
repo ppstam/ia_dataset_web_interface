@@ -10,9 +10,9 @@ function valuetext(value) {
 export default function ScaleBlock({question, handleOptionSelect, audioIndex, questionIndex, selectedOptions}) {
     if (question.scale.type === 'discrete') {
         return (
-            <>
+            <div className="flex flex-row flex-wrap justify-center gap-4">
                 {question.scale.labels.map((option, optionIndex) => (
-                    <li key={audioIndex + '_' + optionIndex}>
+                    <label key={audioIndex + '_' + optionIndex} className="flex items-center cursor-pointer">
                         <input className='mr-1'
                             type="radio"
                             name={`question-${audioIndex + '_' + questionIndex}`}
@@ -20,9 +20,9 @@ export default function ScaleBlock({question, handleOptionSelect, audioIndex, qu
                             onChange={() => handleOptionSelect(option, audioIndex)}
                         />
                         {option}
-                    </li>
+                    </label>
                 ))}
-            </>
+            </div>
         )
     }
     if (question.scale.type === 'dropdown') {
