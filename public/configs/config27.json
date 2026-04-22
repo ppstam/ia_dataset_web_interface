@@ -7,8 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: Solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,9 +47,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 79",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 1",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -90,9 +88,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 80",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 2",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -132,9 +129,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 81",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 3",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -174,9 +170,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 82",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -216,9 +211,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 83",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 5",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -258,9 +252,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 84",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 6",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -300,9 +293,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 85",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 7",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -342,9 +334,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 86",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 8",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -384,9 +375,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 87",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 9",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -426,9 +416,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 88",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n78    This segment is an upbeat instrumental rock tr...\n79    This intense track fits perfectly as a video g...\n80    This segment features a classic slow jazz trio...\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,

@@ -7,8 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: Solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,9 +47,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 16",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 1",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -90,9 +88,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 17",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 2",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -132,9 +129,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 18",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 3",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -174,9 +170,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 19",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -216,9 +211,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 20",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 5",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -258,9 +252,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 21",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 6",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -300,9 +293,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 22",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 7",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -342,9 +334,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 23",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 8",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -384,9 +375,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 24",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 9",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -426,9 +416,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 25",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n15    This instrumental heavy metal track features a...\n16    This instrumental rock track is defined by a v...\n17    This instrumental track highlights a blues-sty...\n18    This experimental electronic track features a ...\n19    This instrumental track delivers a powerful an...\n20    This energetic instrumental track features an ...\n21    This recording captures a lively and cheerful ...\n22    This segment is an upbeat, instrumental Latin ...\n23    This segment is a groovy, solo instrumental ja...\n24    This instrumental track is a fast-paced death ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,

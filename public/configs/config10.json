@@ -7,8 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: Solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,9 +47,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 28",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 1",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -90,9 +88,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 29",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 2",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -132,9 +129,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 30",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 3",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -174,9 +170,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 31",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -216,9 +211,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 32",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 5",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -258,9 +252,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 33",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 6",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -300,9 +293,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 34",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 7",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -342,9 +334,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 35",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 8",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -384,9 +375,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 36",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 9",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -426,9 +416,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 37",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n27    This segment is a fast-paced instrumental deat...\n28    This segment exemplifies thrash metal with a f...\n29    This segment is an instrumental rock piece fea...\n30    This acoustic track serves as a perfect accomp...\n31    This piece exemplifies a smooth jazz trio perf...\n32    This instrumental track features a steady, gro...\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,

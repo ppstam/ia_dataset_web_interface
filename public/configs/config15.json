@@ -7,8 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: Solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,9 +47,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 43",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 1",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -90,9 +88,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 44",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 2",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -132,9 +129,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 45",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 3",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -174,9 +170,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 46",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -216,9 +211,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 47",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 5",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -258,9 +252,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 48",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 6",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -300,9 +293,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 49",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 7",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -342,9 +334,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 50",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 8",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -384,9 +375,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 51",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 9",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -426,9 +416,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 52",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,

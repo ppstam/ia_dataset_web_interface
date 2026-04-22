@@ -7,8 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: Solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,9 +47,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 58",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 1",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -90,9 +88,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 59",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 2",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -132,9 +129,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 60",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 3",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -174,9 +170,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 61",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -216,9 +211,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 62",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 5",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -258,9 +252,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 63",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 6",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -300,9 +293,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 64",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 7",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -342,9 +334,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 65",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 8",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -384,9 +375,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 66",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 9",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -426,9 +416,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 67",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,

@@ -7,8 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: Solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -49,8 +48,7 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -91,8 +89,7 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -133,8 +130,7 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -175,8 +171,7 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -217,8 +212,7 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -259,8 +253,7 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -301,8 +294,7 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -343,8 +335,7 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -385,8 +376,7 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -427,8 +417,7 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n0    This instrumental rock track features a fast t...\n1    This segment features an upbeat instrumental j...\n2    This instrumental piece is a perfect blend of ...\n3    This segment features an acapella choir perfor...\n4    This piece is a beautiful example of a new age...\n5    This instrumental rock track features a comple...\n6    This instrumental rock track opens with a guit...\n7    This instrumental heavy metal track features a...\n8    This segment is an intense and energetic instr...\n9    This instrumental track features a solo penato...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,

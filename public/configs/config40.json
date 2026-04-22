@@ -7,8 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: Solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,9 +47,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 118",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 1",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -90,9 +88,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 119",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 2",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -132,9 +129,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 120",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 3",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -174,9 +170,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 121",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -216,9 +211,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 122",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 5",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -258,9 +252,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 123",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 6",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -300,9 +293,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 124",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 7",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -342,9 +334,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 125",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 8",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -384,9 +375,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 126",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 9",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -426,9 +416,8 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 127",
-            "description": "Listen to the audio sample below and answer both questions.",
-            "message": "CAPTION: 117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n117    This instrumental track blends psychedelic, fu...\n118    This instrumental track blends soft rock and f...\n119    This instrumental track maintains a medium tem...\n120    This instrumental track features a lively, upb...\n121    This instrumental Blues Rock track features a ...\n122    This instrumental jazz composition features a ...\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\nName: caption_sclap, dtype: object",
             "id": 1,
             "anchors": null,
             "references": null,
