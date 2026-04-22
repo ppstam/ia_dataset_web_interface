@@ -7,7 +7,8 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +49,8 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment features an acapella choir performance where a lead vocalist sings in a smooth, legato style to create an ethereal and serene atmosphere. Without instrumental accompaniment, the group relies entirely on vocal harmony to establish a sense of continuity and unity throughout the piece. The dreamy quality of the music makes it well-suited for meditation or scenes depicting spiritual experiences.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This segment features an acapella choir performance where a lead vocalist sings in a smooth, legato style to create an ethereal and serene atmosphere. Without instrumental accompaniment, the group relies entirely on vocal harmony to establish a sense of continuity and unity throughout the piece. The dreamy quality of the music makes it well-suited for meditation or scenes depicting spiritual experiences.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +91,8 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This piece is a beautiful example of a new age composition that features a gentle harp melody supported by a string section. The slow tempo and steady rhythm create a calming, introspective atmosphere ideal for relaxation or meditation.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This piece is a beautiful example of a new age composition that features a gentle harp melody supported by a string section. The slow tempo and steady rhythm create a calming, introspective atmosphere ideal for relaxation or meditation.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +133,8 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a complex and fast-paced electric guitar solo supported by a solid bass line and driving acoustic drums. The energetic atmosphere creates a dynamic soundscape well-suited for a live performance or guitar showcase. With its heavy mood and clear focus on virtuosic playing, the piece delivers an engaging musical experience that highlights the interplay between the lead instrument and rhythm section.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental rock track features a complex and fast-paced electric guitar solo supported by a solid bass line and driving acoustic drums. The energetic atmosphere creates a dynamic soundscape well-suited for a live performance or guitar showcase. With its heavy mood and clear focus on virtuosic playing, the piece delivers an engaging musical experience that highlights the interplay between the lead instrument and rhythm section.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +175,8 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track opens with a guitar solo before settling into a simple beat driven by bass and drums. The performance maintains a moderate tempo with an energetic and bluesy feel, highlighting a strong rhythm section.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental rock track opens with a guitar solo before settling into a simple beat driven by bass and drums. The performance maintains a moderate tempo with an energetic and bluesy feel, highlighting a strong rhythm section.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +217,8 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental heavy metal track features a fast-paced, aggressive rhythm driven by an electric guitar, bass, and drums. The powerful, loud sound creates an intense energy that feels perfect for high-intensity scenarios or driving momentum.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental heavy metal track features a fast-paced, aggressive rhythm driven by an electric guitar, bass, and drums. The powerful, loud sound creates an intense energy that feels perfect for high-intensity scenarios or driving momentum.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +259,8 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an intense and energetic instrumental rock track driven by a fast, powerful rhythm from electric guitars and drums. The music features a loud, aggressive sound that creates an adrenaline-fueled atmosphere perfect for video game soundtracks or high-energy scenes. Although the recording is part of a collaborative Ninjam event involving multiple artists, this specific piece stands out with its strong, driving beat and virtuosic guitar work.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This segment is an intense and energetic instrumental rock track driven by a fast, powerful rhythm from electric guitars and drums. The music features a loud, aggressive sound that creates an adrenaline-fueled atmosphere perfect for video game soundtracks or high-energy scenes. Although the recording is part of a collaborative Ninjam event involving multiple artists, this specific piece stands out with its strong, driving beat and virtuosic guitar work.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +301,8 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track features a solo penatonic flute playing a slow, meditative melody within a Native American style arrangement. The gentle rhythm creates a serene atmosphere that serves as an ideal backdrop for relaxation, yoga, or mindfulness practices without the distraction of vocals.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track features a solo penatonic flute playing a slow, meditative melody within a Native American style arrangement. The gentle rhythm creates a serene atmosphere that serves as an ideal backdrop for relaxation, yoga, or mindfulness practices without the distraction of vocals.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +343,8 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>A male vocalist sings melodically in the lead, accompanied by a vibrant melody played on an accordion. A tabla provides the rhythmic foundation for this traditional folk piece, creating an energetic atmosphere suitable for a cultural dance event. The lively combination of instruments and vocal performance suggests a spirited celebration of heritage music.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "A male vocalist sings melodically in the lead, accompanied by a vibrant melody played on an accordion. A tabla provides the rhythmic foundation for this traditional folk piece, creating an energetic atmosphere suitable for a cultural dance event. The lively combination of instruments and vocal performance suggests a spirited celebration of heritage music.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +385,8 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an intense instrumental rock track driven by a fast-paced electric guitar solo filled with complex bending and vibrato. A steady rock beat provided by bass guitar and acoustic drums supports the melody, creating an energetic atmosphere that feels suitable for a live performance or action scene.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This segment is an intense instrumental rock track driven by a fast-paced electric guitar solo filled with complex bending and vibrato. A steady rock beat provided by bass guitar and acoustic drums supports the melody, creating an energetic atmosphere that feels suitable for a live performance or action scene.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +427,8 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment serves as a perfect example of instrumental jazz, featuring a slow tempo and a mellow, soft ambiance. A rich texture is created by the combination of a bass guitar, electric piano, and acoustic drums, resulting in a groovy rhythm that feels both relaxing and engaging. The overall mood of tranquility makes the track ideal for unwinding or setting a peaceful atmosphere for a cozy evening.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This segment serves as a perfect example of instrumental jazz, featuring a slow tempo and a mellow, soft ambiance. A rich texture is created by the combination of a bass guitar, electric piano, and acoustic drums, resulting in a groovy rhythm that feels both relaxing and engaging. The overall mood of tranquility makes the track ideal for unwinding or setting a peaceful atmosphere for a cozy evening.",
             "id": 1,
             "anchors": null,
             "references": null,

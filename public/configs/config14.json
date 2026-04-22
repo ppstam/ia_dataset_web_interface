@@ -7,7 +7,8 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +49,8 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This musical piece presents a vibrant fusion of jazz, blues, and funk styles. It highlights a groovy electric guitar solo driven by a funky bassline and a steady rhythm section that incorporates a jazz-inspired drum beat.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This musical piece presents a vibrant fusion of jazz, blues, and funk styles. It highlights a groovy electric guitar solo driven by a funky bassline and a steady rhythm section that incorporates a jazz-inspired drum beat.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +91,8 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features electric guitar, bass, and acoustic drums to create an intense and aggressive sound. The fast-paced rhythm drives the music forward with significant energy, making it well-suited for high-octane action scenes or car chases.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental rock track features electric guitar, bass, and acoustic drums to create an intense and aggressive sound. The fast-paced rhythm drives the music forward with significant energy, making it well-suited for high-octane action scenes or car chases.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +133,8 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track features a fast tempo with electric guitar, bass, and electronic drums that drive an energetic rhythm. The heavy, action-oriented sound creates a thrilling atmosphere perfect for a high-octane movie scene or video game level.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track features a fast tempo with electric guitar, bass, and electronic drums that drive an energetic rhythm. The heavy, action-oriented sound creates a thrilling atmosphere perfect for a high-octane movie scene or video game level.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +175,8 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This lively instrumental jam features no vocals, relying instead on a groovy bass riff and a simple acoustic drum beat to drive the rhythm. The atmosphere is energetic and social, filled with the sounds of people talking and laughing throughout the performance. While the instrumentation centers on drums and bass, the overall vibe captures the feel of an improvised live session.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This lively instrumental jam features no vocals, relying instead on a groovy bass riff and a simple acoustic drum beat to drive the rhythm. The atmosphere is energetic and social, filled with the sounds of people talking and laughing throughout the performance. While the instrumentation centers on drums and bass, the overall vibe captures the feel of an improvised live session.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +217,8 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock piece features a complex, fast-paced electric guitar riff driving alongside a rhythmic bassline and acoustic drums. The intense and energetic atmosphere creates a powerful sound that fits well as music for video game soundtracks or high-octane action scenes.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental rock piece features a complex, fast-paced electric guitar riff driving alongside a rhythmic bassline and acoustic drums. The intense and energetic atmosphere creates a powerful sound that fits well as music for video game soundtracks or high-octane action scenes.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +259,8 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a slow, dynamic rhythm driven by electric guitar, bass, and acoustic drums. The music builds an intense and dramatic atmosphere through a powerful beat that leads into an impressive, virtuosic guitar solo.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental rock track features a slow, dynamic rhythm driven by electric guitar, bass, and acoustic drums. The music builds an intense and dramatic atmosphere through a powerful beat that leads into an impressive, virtuosic guitar solo.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +301,8 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This piece serves as a beautiful example of a classical ballad, characterized by its slow tempo and melancholic melody. A rich combination of piano and strings creates a soothing yet emotionally stirring atmosphere that feels deeply sad and reflective.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This piece serves as a beautiful example of a classical ballad, characterized by its slow tempo and melancholic melody. A rich combination of piano and strings creates a soothing yet emotionally stirring atmosphere that feels deeply sad and reflective.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +343,8 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a clean electric guitar melody layered over a groovy bass line and punchy snare drum. The steady, upbeat rhythm creates an energetic and happy mood that fits well in various dynamic scenarios.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental rock track features a clean electric guitar melody layered over a groovy bass line and punchy snare drum. The steady, upbeat rhythm creates an energetic and happy mood that fits well in various dynamic scenarios.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +385,8 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an instrumental rock track that combines a steady drumming rhythm with a prominent electric guitar solo and bass line. The piece delivers a strong, powerful sound driven by heavy instrumentation, making it well-suited for a high-energy concert or action scene.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This segment is an instrumental rock track that combines a steady drumming rhythm with a prominent electric guitar solo and bass line. The piece delivers a strong, powerful sound driven by heavy instrumentation, making it well-suited for a high-energy concert or action scene.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +427,8 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental heavy metal track features fast tempos, aggressive drumming, and complex electric guitar solos that create an intense atmosphere. The music is highly energetic and well-suited for a video game soundtrack, particularly during combat or high-octane action scenes.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental heavy metal track features fast tempos, aggressive drumming, and complex electric guitar solos that create an intense atmosphere. The music is highly energetic and well-suited for a video game soundtrack, particularly during combat or high-octane action scenes.",
             "id": 1,
             "anchors": null,
             "references": null,

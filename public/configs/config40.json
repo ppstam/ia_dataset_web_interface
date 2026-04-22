@@ -7,7 +7,8 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +49,8 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track blends psychedelic, funk, and retro rock elements into a groovy, energetic fusion. Featuring electric guitar, bass, and drums with varied sound effects, the medium-tempo arrangement creates an atmosphere suitable for retro movie scenes or live performances.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track blends psychedelic, funk, and retro rock elements into a groovy, energetic fusion. Featuring electric guitar, bass, and drums with varied sound effects, the medium-tempo arrangement creates an atmosphere suitable for retro movie scenes or live performances.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +91,8 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track blends soft rock and funk elements with a slow, mellow tempo. It features a simple yet effective drum beat accompanied by a groovy piano melody that creates a relaxed atmosphere suitable for a coffee shop or casual gathering. The overall sound remains easygoing throughout, making it an ideal choice for background music in social settings.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track blends soft rock and funk elements with a slow, mellow tempo. It features a simple yet effective drum beat accompanied by a groovy piano melody that creates a relaxed atmosphere suitable for a coffee shop or casual gathering. The overall sound remains easygoing throughout, making it an ideal choice for background music in social settings.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +133,8 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track maintains a medium tempo with a groovy bass line and steady drumming that creates an easygoing atmosphere. The piece blends electric guitar and keyboard accompaniment, establishing a relaxing vibe suitable for a caf\u00e9 or lounge setting.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track maintains a medium tempo with a groovy bass line and steady drumming that creates an easygoing atmosphere. The piece blends electric guitar and keyboard accompaniment, establishing a relaxing vibe suitable for a caf\u00e9 or lounge setting.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +175,8 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track features a lively, upbeat tempo driven by a groovy rhythm of congas, bongos, and shakers. A deep bassline supports the percussion while a keyboard and electric guitar add melodic layers to the cool, sophisticated sound. The overall vibe creates an atmosphere perfect for a stylish lounge or trendy bar setting.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track features a lively, upbeat tempo driven by a groovy rhythm of congas, bongos, and shakers. A deep bassline supports the percussion while a keyboard and electric guitar add melodic layers to the cool, sophisticated sound. The overall vibe creates an atmosphere perfect for a stylish lounge or trendy bar setting.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +217,8 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental Blues Rock track features a clean electric guitar playing melodic lines with distinct slides and bends. A steady, groovy rhythm driven by a strong backbeat creates a relaxed and laid-back mood ideal for a casual bar setting. The overall sound is simple yet effective, emphasizing the bluesy feel of the guitar work without additional instrumentation.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental Blues Rock track features a clean electric guitar playing melodic lines with distinct slides and bends. A steady, groovy rhythm driven by a strong backbeat creates a relaxed and laid-back mood ideal for a casual bar setting. The overall sound is simple yet effective, emphasizing the bluesy feel of the guitar work without additional instrumentation.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +259,8 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental jazz composition features a smooth electric guitar supported by rhythmic drums and deep bass tones. The relaxed, laid-back atmosphere of the music creates an intimate ambiance perfect for a cozy club setting or a casual jam session.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental jazz composition features a smooth electric guitar supported by rhythmic drums and deep bass tones. The relaxed, laid-back atmosphere of the music creates an intimate ambiance perfect for a cozy club setting or a casual jam session.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +301,8 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track from the video game Dragon Engine features a fast tempo and heavy drumming that creates an intense, driving rhythm. The music blends electric guitar with aggressive metal elements to establish a powerful atmosphere suitable for high-stakes action scenes like combat or boss battles. Overall, the composition delivers an energetic mood defined by its loud, forceful sound and repetitive beat.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track from the video game Dragon Engine features a fast tempo and heavy drumming that creates an intense, driving rhythm. The music blends electric guitar with aggressive metal elements to establish a powerful atmosphere suitable for high-stakes action scenes like combat or boss battles. Overall, the composition delivers an energetic mood defined by its loud, forceful sound and repetitive beat.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +343,8 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track features a groovy bass line and funky guitar riffs that create a relaxed, chill atmosphere perfect for a lounge setting. Steady drumming provides a rhythmic backbone, blending with keyboard accompaniment to establish an engaging, mid-tempo groove reminiscent of funk and rock styles. The overall soundscape feels like a dynamic jam session suitable for casual background listening.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track features a groovy bass line and funky guitar riffs that create a relaxed, chill atmosphere perfect for a lounge setting. Steady drumming provides a rhythmic backbone, blending with keyboard accompaniment to establish an engaging, mid-tempo groove reminiscent of funk and rock styles. The overall soundscape feels like a dynamic jam session suitable for casual background listening.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +385,8 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This acoustic folk song features a male vocalist supported by an intimate, simple guitar accompaniment. The meditative and slightly melancholic mood creates a warm, introspective atmosphere ideal for quiet reflection.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This acoustic folk song features a male vocalist supported by an intimate, simple guitar accompaniment. The meditative and slightly melancholic mood creates a warm, introspective atmosphere ideal for quiet reflection.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +427,8 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track captures a cool and groovy vibe, driven by a simple bassline and a repetitive electric guitar riff. The steady rock beat creates a relaxed atmosphere that feels perfect for a casual jam session or a road trip with friends.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track captures a cool and groovy vibe, driven by a simple bassline and a repetitive electric guitar riff. The steady rock beat creates a relaxed atmosphere that feels perfect for a casual jam session or a road trip with friends.",
             "id": 1,
             "anchors": null,
             "references": null,

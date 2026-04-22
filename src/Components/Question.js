@@ -160,6 +160,11 @@ export default function Question({ question, questionIndex, testResults, setTest
                 <h2 className='font-bold text-lg'>{question.name}</h2>
                 <p className="whitespace-pre-line mb-4">{question.description}</p>
 
+                {/* Caption (if provided) */}
+                {question.caption && (
+                    <p className="italic text-xl text-center mb-4 px-4">"{question.caption}"</p>
+                )}
+
                 {/* Single audio player */}
                 <div className='flex justify-center mb-6'>
                     <audio controls src={uniqueSignals[0]} className="w-full max-w-lg" />
@@ -192,6 +197,9 @@ export default function Question({ question, questionIndex, testResults, setTest
         <div>
             <h2 className='font-bold text-lg'>{question.name}</h2>
             <p className="whitespace-pre-line">{question.description}</p>
+            {question.caption && (
+                <p className="italic text-xl text-center mb-4 px-4">"{question.caption}"</p>
+            )}
             <ul>
                 { audioTestBlocks}
             </ul>

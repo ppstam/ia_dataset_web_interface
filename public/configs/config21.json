@@ -7,7 +7,8 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +49,8 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This energetic instrumental track blends Latin jazz rhythms with an upbeat, danceable groove driven by lively acoustic guitars and drums. The fast tempo creates a cheerful atmosphere perfect for festive celebrations or lively social gatherings. Although musical metadata suggests some rock influences, the segment's core identity remains rooted in its rhythmic Latin style.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This energetic instrumental track blends Latin jazz rhythms with an upbeat, danceable groove driven by lively acoustic guitars and drums. The fast tempo creates a cheerful atmosphere perfect for festive celebrations or lively social gatherings. Although musical metadata suggests some rock influences, the segment's core identity remains rooted in its rhythmic Latin style.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +91,8 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track combines electric guitar, bass, and drums to create a steady, groovy rhythm. The medium tempo fosters a relaxed atmosphere that fits well in casual settings like a coffee shop or during a road trip.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental rock track combines electric guitar, bass, and drums to create a steady, groovy rhythm. The medium tempo fosters a relaxed atmosphere that fits well in casual settings like a coffee shop or during a road trip.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +133,8 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track relies on synthesized static, white noise, and sound design to create a chaotic and arrhythmic atmosphere. The harsh and abrasive texture evokes a sense of signal interference, making it suitable for experimental films or scenes depicting mechanical decay.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track relies on synthesized static, white noise, and sound design to create a chaotic and arrhythmic atmosphere. The harsh and abrasive texture evokes a sense of signal interference, making it suitable for experimental films or scenes depicting mechanical decay.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +175,8 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental jazz composition features a lead saxophone melody supported by an electric guitar, bass, and acoustic drums. The piece maintains a groovy and energetic mood that feels well-suited for a lively bar atmosphere.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental jazz composition features a lead saxophone melody supported by an electric guitar, bass, and acoustic drums. The piece maintains a groovy and energetic mood that feels well-suited for a lively bar atmosphere.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +217,8 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an instrumental rock track featuring a heavy, distorted guitar solo that drives the medium-tempo rhythm forward. The music blends rock and metal elements to create a powerful, energetic sound perfect for fans of intense, vocal-free compositions.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This segment is an instrumental rock track featuring a heavy, distorted guitar solo that drives the medium-tempo rhythm forward. The music blends rock and metal elements to create a powerful, energetic sound perfect for fans of intense, vocal-free compositions.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +259,8 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment features an intense, fast-paced instrumental rock track centered around a dynamic drum solo. The performance utilizes a full rock kit including snare and cymbals to create a heavy mood filled with urgency and excitement.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This segment features an intense, fast-paced instrumental rock track centered around a dynamic drum solo. The performance utilizes a full rock kit including snare and cymbals to create a heavy mood filled with urgency and excitement.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +301,8 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment features a dramatic classical orchestral piece with a focus on string and brass sections. A prominent violin solo drives the slow tempo, creating an epic sense of grandeur and adventure suitable for a movie soundtrack.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This segment features a dramatic classical orchestral piece with a focus on string and brass sections. A prominent violin solo drives the slow tempo, creating an epic sense of grandeur and adventure suitable for a movie soundtrack.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +343,8 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a drum kit with extensive cymbal work, a distorted electric guitar riff, and a repetitive bass line. The music creates an intense and energetic atmosphere that is particularly well-suited for video game combat scenes. Although similar recordings suggest heavy metal influences, the primary sound remains firmly rooted in rock instrumentation.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental rock track features a drum kit with extensive cymbal work, a distorted electric guitar riff, and a repetitive bass line. The music creates an intense and energetic atmosphere that is particularly well-suited for video game combat scenes. Although similar recordings suggest heavy metal influences, the primary sound remains firmly rooted in rock instrumentation.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +385,8 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This track serves as a perfect accompaniment for a cozy coffee shop, where soothing acoustic guitar and a gentle rhythm establish a relaxing atmosphere. The music maintains a happy and easygoing mood, blending elements of pop and folk to create an ideal background soundscape for a laid-back evening.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This track serves as a perfect accompaniment for a cozy coffee shop, where soothing acoustic guitar and a gentle rhythm establish a relaxing atmosphere. The music maintains a happy and easygoing mood, blending elements of pop and folk to create an ideal background soundscape for a laid-back evening.",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +427,8 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is a solo acoustic guitar instrumental that moves at a slow, steady tempo. The music creates a somber and reflective mood, making it well-suited for contemplative moments in a film.</strong>",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This segment is a solo acoustic guitar instrumental that moves at a slow, steady tempo. The music creates a somber and reflective mood, making it well-suited for contemplative moments in a film.",
             "id": 1,
             "anchors": null,
             "references": null,
