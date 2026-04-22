@@ -7,7 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +48,7 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This recording features a lively and energetic violin solo, identified as a practice session of Paganini's Caprice No. 5. The fast-paced performance is characterized by its spirited tone, intricate melodies, and vibrant rhythmic drive typical of classical virtuosity. While the execution feels informal due to the nature of a rehearsal, the piece maintains a dynamic and engaging atmosphere throughout.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +89,7 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an intense and passionate instrumental rock track featuring a driving rhythm section of electric guitars, bass, and acoustic drums. A prominent guitar solo and strong riff create a powerful sound that feels perfectly suited for a high-energy live concert or a dramatic movie scene. The music maintains a steady tempo throughout, emphasizing the core rock instruments without any vocals to enhance the overall energy.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +130,7 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This piece is an energetic and aggressive punk rock anthem driven by a raspy male vocalist, a driving electric guitar riff, and steady drumming. The music creates a loud, distorted sound with a groovy bass line that perfectly captures a rebellious and high-energy vibe suitable for a live concert setting.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +171,7 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This energetic instrumental track blends Latin jazz rhythms with an upbeat, danceable groove driven by lively acoustic guitars and drums. The fast tempo creates a cheerful atmosphere perfect for festive celebrations or lively social gatherings. Although musical metadata suggests some rock influences, the segment's core identity remains rooted in its rhythmic Latin style.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +212,7 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track combines electric guitar, bass, and drums to create a steady, groovy rhythm. The medium tempo fosters a relaxed atmosphere that fits well in casual settings like a coffee shop or during a road trip.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +253,7 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track relies on synthesized static, white noise, and sound design to create a chaotic and arrhythmic atmosphere. The harsh and abrasive texture evokes a sense of signal interference, making it suitable for experimental films or scenes depicting mechanical decay.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +294,7 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental jazz composition features a lead saxophone melody supported by an electric guitar, bass, and acoustic drums. The piece maintains a groovy and energetic mood that feels well-suited for a lively bar atmosphere.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +335,7 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an instrumental rock track featuring a heavy, distorted guitar solo that drives the medium-tempo rhythm forward. The music blends rock and metal elements to create a powerful, energetic sound perfect for fans of intense, vocal-free compositions.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +376,7 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment features an intense, fast-paced instrumental rock track centered around a dynamic drum solo. The performance utilizes a full rock kit including snare and cymbals to create a heavy mood filled with urgency and excitement.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +417,7 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n57    This recording features a lively and energetic...\n58    This segment is an intense and passionate inst...\n59    This piece is an energetic and aggressive punk...\n60    This energetic instrumental track blends Latin...\n61    This instrumental rock track combines electric...\n62    This instrumental track relies on synthesized ...\n63    This instrumental jazz composition features a ...\n64    This segment is an instrumental rock track fea...\n65    This segment features an intense, fast-paced i...\n66    This segment features a dramatic classical orc...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment features a dramatic classical orchestral piece with a focus on string and brass sections. A prominent violin solo drives the slow tempo, creating an epic sense of grandeur and adventure suitable for a movie soundtrack.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,

@@ -7,7 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +48,7 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment features an instrumental jazz composition centered around a clean electric guitar playing a bluesy, syncopated melody. A smooth walking bassline drives the steady rhythm, creating a relaxed and sophisticated mood ideal for a quiet evening at home or a lounge setting.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +89,7 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a driving drum kit, repetitive electric guitar riffs, and a simple, catchy bassline. The music creates a dark and intense atmosphere filled with anticipation, making it ideal for action sequences or boss battles in a video game.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +130,7 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This energetic instrumental techno track features a fast tempo driven by synthesizers, digital drumming, and a strong pulsating bass line. The music creates an upbeat, trance-like atmosphere with a driving rhythm that is perfect for dancing in a nightclub or at a rave.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +171,7 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track features a lively and upbeat funk vibe, driven by a prominent groove and medium-tempo rhythms. The arrangement highlights a funky bass line and rhythmic electric guitar work that create an energetic atmosphere perfect for parties or clubs.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +212,7 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This aggressive and violent metal segment features a fast tempo driven by heavily distorted electric guitars and intense drumming. The chaotic, heavy atmosphere creates an ideal soundscape for high-intensity video game boss battles or action sequences.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +253,7 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a fast, groovy bass line and an energetic electric guitar rhythm. Strong, steady drumming provides a powerful backbone for the loud and catchy sound. The high-energy vibe makes it ideal for sports events, action sequences, or video game soundtracks.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +294,7 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This energetic and aggressive punk rock track features a male vocalist singing in a high-pitch range while a guitar plays a fast, simple riff. The song maintains an upbeat tempo that makes it suitable for skate videos or a live concert setting with a mosh pit. Electric guitars and drums drive the heavy, sporty mood throughout the performance.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +335,7 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an instrumental Game Soundtrack featuring a strong emphasis on the violin within a slow, steady rhythm. The music creates a melancholic and pensive atmosphere that evokes nostalgia, making it well-suited for scenes like dungeon exploration or quiet character reflection. While archival data suggests baroque influences with a harpsichord, the overall texture remains a nuanced blend of classical elements designed to support narrative storytelling.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +376,7 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an instrumental rock track driven by a steady, acoustic drum beat and supported by a solid bass line. It features a complex and melodic guitar solo that creates an intense, energetic atmosphere suitable for high-octane action scenes. The music maintains a driving rhythm throughout, giving the piece a forward-moving feel typical of progressive rock styles.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +417,7 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n96     This segment features an instrumental jazz com...\n97     This instrumental rock track features a drivin...\n98     This energetic instrumental techno track featu...\n99     This instrumental track features a lively and ...\n100    This aggressive and violent metal segment feat...\n101    This instrumental rock track features a fast, ...\n102    This energetic and aggressive punk rock track ...\n103    This segment is an instrumental Game Soundtrac...\n104    This segment is an instrumental rock track dri...\n105    This instrumental track blends smooth jazz and...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track blends smooth jazz and blues with a touch of funk, creating a mellow atmosphere perfect for unwinding. A groovy bass line and steady drumming rhythm drive the piece, which is supported by warm keyboard or Rhodes piano accompaniment. The slow tempo and relaxing vibe make it an ideal choice for background music in calm settings like lounges or spas.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,

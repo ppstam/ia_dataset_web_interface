@@ -7,7 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +48,7 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental blues rock track features a slow tempo anchored by a solid groovy bass line and steady drumming. A soulful, expressive electric guitar solo drives the melancholic and romantic mood with a touch of nostalgic intensity. The piece creates a dramatic atmosphere that feels well-suited for a scene in a movie or TV show.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +89,7 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This is an energetic instrumental march featuring a bold brass section led by trumpets and trombones. The fast tempo and dynamic rhythm, punctuated by snare drum beats and cymbal crashes, create a sense of urgent excitement suitable for a parade or grand entrance.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +130,7 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track blends blues rock and pop rock elements, featuring a clean electric guitar supported by a groovy bass line. A steady acoustic drum beat maintains an easygoing rhythm that creates a cheerful atmosphere ideal for background music during a casual gathering or road trip.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +171,7 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a fast tempo driven by complex drum grooves and a heavy bassline. An aggressive guitar solo highlights the energetic sound, making it well-suited for a high-octane action scene.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +212,7 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental jam centers on a bass guitar playing a simple, repetitive riff over a steady drum kit beat. The track maintains an upbeat and energetic mood with a rhythm that is easy to follow during the session.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +253,7 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental piece captures the dramatic sound of a train moving through a tunnel, characterized by a loud, piercing horn and the rhythmic motion of the wheels. The intense and urgent mood creates a cinematic atmosphere that effectively evokes the power and speed of the passing vehicle. Although other instruments are detected in related tracks, this specific segment focuses primarily on the raw energy of the field recording.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +294,7 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This musical piece presents a vibrant fusion of jazz, blues, and funk styles. It highlights a groovy electric guitar solo driven by a funky bassline and a steady rhythm section that incorporates a jazz-inspired drum beat.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +335,7 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features electric guitar, bass, and acoustic drums to create an intense and aggressive sound. The fast-paced rhythm drives the music forward with significant energy, making it well-suited for high-octane action scenes or car chases.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +376,7 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track features a fast tempo with electric guitar, bass, and electronic drums that drive an energetic rhythm. The heavy, action-oriented sound creates a thrilling atmosphere perfect for a high-octane movie scene or video game level.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +417,7 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n33    This instrumental blues rock track features a ...\n34    This is an energetic instrumental march featur...\n35    This instrumental track blends blues rock and ...\n36    This instrumental rock track features a fast t...\n37    This instrumental jam centers on a bass guitar...\n38    This instrumental piece captures the dramatic ...\n39    This musical piece presents a vibrant fusion o...\n40    This instrumental rock track features electric...\n41    This instrumental track features a fast tempo ...\n42    This lively instrumental jam features no vocal...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This lively instrumental jam features no vocals, relying instead on a groovy bass riff and a simple acoustic drum beat to drive the rhythm. The atmosphere is energetic and social, filled with the sounds of people talking and laughing throughout the performance. While the instrumentation centers on drums and bass, the overall vibe captures the feel of an improvised live session.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,

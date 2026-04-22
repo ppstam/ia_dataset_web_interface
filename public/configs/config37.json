@@ -7,7 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +48,7 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This alternative rock track features a male vocalist singing over a steady, medium-tempo rhythm driven by electric guitar and bass. A catchy guitar riff adds a groovy energy to the piece, creating an atmosphere well-suited for a live concert setting.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +89,7 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment serves as a lively and engaging example of traditional Spanish music, driven by an infectious rhythm that captures the essence of the genre. The sound is defined by the interplay of acoustic guitars and authentic percussive elements like castanets and a guiro, creating an energetic atmosphere perfect for dancing or storytelling.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +130,7 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental composition skillfully blends Latin Jazz, World Music, and Game Soundtrack styles to create a lively and upbeat piece. The track features syncopated rhythms driven by diverse percussion instruments like mallets and synthesizers, resulting in a cheerful and lighthearted mood well-suited for video games or animated films.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +171,7 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This solo acoustic guitar performance features intricate fingerpicking techniques and a steady, relaxed rhythm ideal for a tutorial. The meditative mood creates an intimate atmosphere, offering a warm backdrop that fits well within a cozy home setting.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +212,7 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track begins with a drum fill that sets up an energetic guitar lead supported by bass and rhythm. The dynamic combination of electric guitars, drums, and heavy moods creates a powerful atmosphere suitable for live concerts or high-energy workouts.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +253,7 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is a powerful example of extreme metal, defined by distorted electric guitars, bass, and acoustic drums working together at a fast tempo. The aggressive and violent sound creates an intense atmosphere that feels ideal for depicting a high-stakes battle or a chaotic action sequence.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +294,7 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental segment features no vocals, placing the focus entirely on intricate drumming and a driving bass line. The groovy rhythm creates an energetic atmosphere that blends elements of funk and rock styles.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +335,7 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an upbeat instrumental jazz piece driven by a groovy bass line and steady drumming. Brass instruments like trumpets and saxophones weave through the complex harmonies, creating a lively and energetic atmosphere perfect for a city soundtrack. The track captures a sophisticated yet funky vibe suitable for a high-end restaurant or a retro-themed setting.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +376,7 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental meditation track features a solo flute playing a slow, gentle melody that creates a serene and calming atmosphere. The steady rhythm supports a simple yet effective motif, making the piece ideal for relaxation or background music during yoga sessions. Overall, the music evokes an introspective mood perfect for unwinding after a long day.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +417,7 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n108    This alternative rock track features a male vo...\n109    This segment serves as a lively and engaging e...\n110    This instrumental composition skillfully blend...\n111    This solo acoustic guitar performance features...\n112    This instrumental rock track begins with a dru...\n113    This segment is a powerful example of extreme ...\n114    This instrumental segment features no vocals, ...\n115    This segment is an upbeat instrumental jazz pi...\n116    This instrumental meditation track features a ...\n117    This instrumental track blends psychedelic, fu...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track blends psychedelic, funk, and retro rock elements into a groovy, energetic fusion. Featuring electric guitar, bass, and drums with varied sound effects, the medium-tempo arrangement creates an atmosphere suitable for retro movie scenes or live performances.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,

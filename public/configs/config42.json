@@ -7,7 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +48,7 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track from the video game Dragon Engine features a fast tempo and heavy drumming that creates an intense, driving rhythm. The music blends electric guitar with aggressive metal elements to establish a powerful atmosphere suitable for high-stakes action scenes like combat or boss battles. Overall, the composition delivers an energetic mood defined by its loud, forceful sound and repetitive beat.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +89,7 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track features a groovy bass line and funky guitar riffs that create a relaxed, chill atmosphere perfect for a lounge setting. Steady drumming provides a rhythmic backbone, blending with keyboard accompaniment to establish an engaging, mid-tempo groove reminiscent of funk and rock styles. The overall soundscape feels like a dynamic jam session suitable for casual background listening.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +130,7 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This acoustic folk song features a male vocalist supported by an intimate, simple guitar accompaniment. The meditative and slightly melancholic mood creates a warm, introspective atmosphere ideal for quiet reflection.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +171,7 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track captures a cool and groovy vibe, driven by a simple bassline and a repetitive electric guitar riff. The steady rock beat creates a relaxed atmosphere that feels perfect for a casual jam session or a road trip with friends.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +212,7 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a fast tempo, aggressive guitar riffs, and a driving rhythm section. The music carries a heavy, intense energy that makes it ideal for a live concert setting or a high-intensity film scene. Although recorded as an exclusive tribute to the Ramones, the performance captures their original style with a notably faster pace.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +253,7 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This piece is a perfect example of folk-inspired acoustic music, featuring a male vocalist and a gentle, slow tempo. The acoustic guitar provides a soothing backdrop, while the violin adds a touch of melancholy to create a calm and introspective atmosphere.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +294,7 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental composition blends groovy bass lines with steady drumming and a jazz guitar solo to create a relaxed yet sophisticated atmosphere. The track effectively combines elements of jazz and funk, making it suitable for backgrounds at stylish cocktail parties or lounge settings.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +335,7 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track delivers a loud and aggressive sound driven by an electric guitar, bass, and drum kit. With its steady, energetic rhythm and intense mood, the piece creates a high-octane atmosphere well-suited for action sequences or video game soundtracks.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +376,7 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>An instrumental piece driven by a steady beat features prominent violin and keyboard sounds that create a rich, dramatic texture. This medium-tempo composition evokes a strong sense of adventure and excitement, making it ideal for video game soundtracks. The interplay between the strings and keys delivers an epic feel suitable for scenes requiring wonder or awe.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +417,7 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n123    This instrumental track from the video game Dr...\n124    This instrumental track features a groovy bass...\n125    This acoustic folk song features a male vocali...\n126    This instrumental track captures a cool and gr...\n127    This instrumental rock track features a fast t...\n128    This piece is a perfect example of folk-inspir...\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a fast tempo driven by electric guitar, bass, and drums to create an energetic and urgent atmosphere. The strong beat makes the piece ideal for high-energy workouts or movie scenes requiring excitement.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,

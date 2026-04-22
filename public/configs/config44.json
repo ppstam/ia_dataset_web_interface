@@ -7,7 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +48,7 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental composition blends groovy bass lines with steady drumming and a jazz guitar solo to create a relaxed yet sophisticated atmosphere. The track effectively combines elements of jazz and funk, making it suitable for backgrounds at stylish cocktail parties or lounge settings.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +89,7 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track delivers a loud and aggressive sound driven by an electric guitar, bass, and drum kit. With its steady, energetic rhythm and intense mood, the piece creates a high-octane atmosphere well-suited for action sequences or video game soundtracks.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +130,7 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>An instrumental piece driven by a steady beat features prominent violin and keyboard sounds that create a rich, dramatic texture. This medium-tempo composition evokes a strong sense of adventure and excitement, making it ideal for video game soundtracks. The interplay between the strings and keys delivers an epic feel suitable for scenes requiring wonder or awe.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +171,7 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a fast tempo driven by electric guitar, bass, and drums to create an energetic and urgent atmosphere. The strong beat makes the piece ideal for high-energy workouts or movie scenes requiring excitement.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +212,7 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment features a solo guitar performance that stands as the sole instrument, creating an intimate and unaccompanied soundscape. The track avoids vocals entirely to let the pure musical notes take center stage, evoking a calm and introspective mood suitable for background scenes.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +253,7 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental jazz composition features a slow, sophisticated mood driven by a clean electric guitar, walking double bass, and an acoustic drum beat. The harmonious interplay of these instruments creates a relaxed atmosphere that serves as an ideal accompaniment for a lounge or cocktail party.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +294,7 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a classic guitar solo supported by a steady, groovy bass line and simple acoustic drums. The music maintains an energetic and upbeat mood with a driving rhythm that suits various active scenarios.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +335,7 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track blends a groovy Latin rhythm with an infectious, upbeat mood. A lively percussion section drives the melody alongside a captivating piano line and solid bass support. The overall sound creates an energetic yet smooth atmosphere suitable for various scenarios.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +376,7 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track is an intense piece of Hardcore Techno or Gabber designed for high-energy environments. It features a fast tempo, heavy bass, and a driving rhythm that creates a relentless, aggressive atmosphere suitable for raves or extreme sports. The sound relies heavily on synthesizers and digital drum machines to produce a powerful electronic groove.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +417,7 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n129    This instrumental composition blends groovy ba...\n130    This instrumental rock track delivers a loud a...\n131    An instrumental piece driven by a steady beat ...\n132    This instrumental rock track features a fast t...\n133    This segment features a solo guitar performanc...\n134    This instrumental jazz composition features a ...\n135    This instrumental rock track features a classi...\n136    This instrumental track blends a groovy Latin ...\n137    This instrumental track is an intense piece of...\n138    This instrumental rock track features a fast t...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a fast tempo driven by heavy guitar riffs and a loud, aggressive sound. Its energetic mood creates an intense atmosphere well-suited for high-octane action scenes or live performances.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,

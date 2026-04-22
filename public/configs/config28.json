@@ -7,7 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +48,7 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment features a solo acoustic guitar that plays with a simple, steady rhythm to create a calm and flowing atmosphere. The music maintains an introspective and thoughtful mood, offering a gentle backdrop suitable for quiet reflection or a reflective moment.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +89,7 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track serves as a quintessential jazz composition, highlighted by a captivating piano melody and a groovy bassline driven by rhythmic drums. The sophisticated trio arrangement creates an easygoing atmosphere that fits perfectly in a relaxed club or caf\u00e9 setting without the distraction of vocals.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +130,7 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock piece blends pop rock elements with a groovy, energetic vibe and an upbeat feel. The medium-tempo track features a guitar lead supported by bass, keyboards, and drums to create a catchy sound suitable for various scenarios.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +171,7 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This hip-hop instrumental features a male vocalist rapping in a steady, rhythmic style over a strong bass line and drumming. The keyboard accompaniment creates an urban and groovy atmosphere that suits a city-based soundtrack.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +212,7 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This track is an instrumental rock piece that features a prominent drum solo. The energy builds on the percussive rhythm, highlighting the role of the drums and cymbals without any vocal elements.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +253,7 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a catchy guitar riff and a steady drum beat that drive an upbeat, energetic rhythm. The combination of electric guitar, bass, and drums creates a solid foundation perfect for high-energy scenes or lively parties.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +294,7 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track serves as an ideal accompaniment for a Spanish-themed party or a romantic evening, featuring acoustic guitars and Latin percussion that create a lively atmosphere. The music combines folk and pop elements to form a perfect background sound for dancing and enjoying the moment.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +335,7 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a heavy electric guitar riff and a fast, aggressive rhythm driven by loud drums. The energetic sound creates an intense atmosphere suitable for high-energy activities or a dynamic live concert setting.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +376,7 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a melodic guitar lead supported by a steady drum beat and background bass. The easygoing rhythm creates an energetic atmosphere suitable for a lively setting like a bar. Although the upload tags suggest a punk style, the segment itself sounds like a standard mid-tempo rock piece.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +417,7 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n81    This segment features a solo acoustic guitar t...\n82    This instrumental track serves as a quintessen...\n83    This instrumental rock piece blends pop rock e...\n84    This hip-hop instrumental features a male voca...\n85    This track is an instrumental rock piece that ...\n86    This instrumental rock track features a catchy...\n87    This instrumental track serves as an ideal acc...\n88    This instrumental rock track features a heavy ...\n89    This instrumental rock track features a melodi...\n90    This instrumental heavy metal track features a...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental heavy metal track features a virtuosic electric guitar solo alongside bass and acoustic drums, all driven by a fast tempo. The music creates an aggressive and energetic atmosphere that perfectly suits high-intensity scenarios like video game combat scenes.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,

@@ -7,7 +7,7 @@
     "questions": [
         {
             "name": "Sample 0",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION\nSolo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -48,7 +48,7 @@
         },
         {
             "name": "Sample 1",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This lively instrumental jam features no vocals, relying instead on a groovy bass riff and a simple acoustic drum beat to drive the rhythm. The atmosphere is energetic and social, filled with the sounds of people talking and laughing throughout the performance. While the instrumentation centers on drums and bass, the overall vibe captures the feel of an improvised live session.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -89,7 +89,7 @@
         },
         {
             "name": "Sample 2",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock piece features a complex, fast-paced electric guitar riff driving alongside a rhythmic bassline and acoustic drums. The intense and energetic atmosphere creates a powerful sound that fits well as music for video game soundtracks or high-octane action scenes.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -130,7 +130,7 @@
         },
         {
             "name": "Sample 3",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a slow, dynamic rhythm driven by electric guitar, bass, and acoustic drums. The music builds an intense and dramatic atmosphere through a powerful beat that leads into an impressive, virtuosic guitar solo.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -171,7 +171,7 @@
         },
         {
             "name": "Sample 4",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This piece serves as a beautiful example of a classical ballad, characterized by its slow tempo and melancholic melody. A rich combination of piano and strings creates a soothing yet emotionally stirring atmosphere that feels deeply sad and reflective.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -212,7 +212,7 @@
         },
         {
             "name": "Sample 5",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental rock track features a clean electric guitar melody layered over a groovy bass line and punchy snare drum. The steady, upbeat rhythm creates an energetic and happy mood that fits well in various dynamic scenarios.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -253,7 +253,7 @@
         },
         {
             "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This segment is an instrumental rock track that combines a steady drumming rhythm with a prominent electric guitar solo and bass line. The piece delivers a strong, powerful sound driven by heavy instrumentation, making it well-suited for a high-energy concert or action scene.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -294,7 +294,7 @@
         },
         {
             "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental heavy metal track features fast tempos, aggressive drumming, and complex electric guitar solos that create an intense atmosphere. The music is highly energetic and well-suited for a video game soundtrack, particularly during combat or high-octane action scenes.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -335,7 +335,7 @@
         },
         {
             "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This energetic punk rock track features a male vocalist, distorted electric guitar, bass, and acoustic drums playing at a fast tempo. The aggressive and rebellious mood makes the song well-suited for high-energy scenes like live performances, skate videos, or action sequences.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -376,7 +376,7 @@
         },
         {
             "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This instrumental track blends rock and blues styles, centering on a driving electric guitar accompanied by bass and acoustic drums. The steady, groovy rhythm creates an upbeat and energetic atmosphere perfect for a road trip or lively gathering. While the music maintains a simple, repetitive structure, its strong backbeat propels the piece forward without vocals.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
@@ -417,7 +417,7 @@
         },
         {
             "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\nCAPTION\n\n42    This lively instrumental jam features no vocal...\n43    This instrumental rock piece features a comple...\n44    This instrumental rock track features a slow, ...\n45    This piece serves as a beautiful example of a ...\n46    This instrumental rock track features a clean ...\n47    This segment is an instrumental rock track tha...\n48    This instrumental heavy metal track features f...\n49    This energetic punk rock track features a male...\n50    This instrumental track blends rock and blues ...\n51    This intense segment is an instrumental heavy ...\nName: caption_sclap, dtype: object",
+            "description": "Listen to the audio sample below and answer both questions.<br><br><strong style='font-size: 1.3em;'>CAPTION</strong><br><strong style='font-size: 1.15em;'>This intense segment is an instrumental heavy metal track featuring a distorted electric guitar playing power chords alongside a fast-paced drum beat and bass. The aggressive atmosphere creates a driving energy well-suited for video game soundtracks or action movie scenes. Although KNN suggestions hint at darker rock tones, the core sound remains firmly rooted in high-energy metal instrumentation without vocals.</strong>",
             "id": 1,
             "anchors": null,
             "references": null,
