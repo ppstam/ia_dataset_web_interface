@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is an upbeat and energetic electronic dance song driven by a strong four-on-the-floor beat. A female vocalist sings in a foreign language, creating an exotic atmosphere over the repetitive synth melody and bassline. The fast tempo and club-oriented style make it ideal for a dance party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-sono-un-robot-ribelle-1/Sono un robot ribelle 1_00003.mp3",
+            "caption": "This instrumental composition highlights the interplay between a guitar and piano, where arpeggiated guitar patterns build tension alongside steady, slow drumming. The piano contributes a series of chords that create a melancholic and introspective mood, fitting for a dramatic scene or moment of reflection. Although electronic synthesizers appear in the broader musical metadata, this specific segment relies on acoustic textures to convey a sense of mystery and anticipation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-131868/01-1104599-Supersexy Sound System-Supersexy Sound System - Paper Blanc_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_48.mp3",
-                "test_signals/example_48.mp3"
+                "test_signals/example_39.mp3",
+                "test_signals/example_39.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track delivers a powerful and aggressive atmosphere driven by intense electric guitars, bass, and fast-paced drums. The heavy metal sound creates an energetic vibe that feels perfect for high-stakes action sequences or video game boss battles.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/F/u/FulciHolocaust-ZombieCouchDemo/FulciHolocaust-ZombieCouchDemo/Fulci Holocaust_00001.mp3",
+            "caption": "This instrumental track is a fast-paced, percussion-driven piece characterized by its loud and intense nature. The driving rhythm creates a chaotic, frantic mood filled with urgency, making it ideal for high-energy activities like workouts or action sequences. Despite the heavy sound and rapid tempo, the composition functions as an aggressive backdrop rather than a melodic song.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/W/i/WingwareRainbow6902SPORTMANPUNISHER/rainbow 69/Wingware - Rainbow 69 - 03 Unplugged_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_49.mp3",
-                "test_signals/example_49.mp3"
+                "test_signals/example_40.mp3",
+                "test_signals/example_40.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment serves as a perfect example of ambient music, featuring ethereal and atmospheric soundscapes that create a profound sense of space and tranquility. The instrumental composition relies heavily on synthesizers to build a dreamy and calming environment ideal for relaxation or meditation. With no vocals present, the listener can fully immerse themselves in the peaceful mood without distraction.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/o/p/opposition_202010/Opposition_00001.mp3",
+            "caption": "This instrumental track features a repetitive, catchy melody driven by a synthesizer and a strong beat that creates an energetic dance club atmosphere. Although labeled as Latin reggaeton in external records, the segment's primary character is an upbeat rhythm perfect for parties or retro video game soundtracks. The medium tempo ensures the music remains lively and engaging throughout the clip.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-264261/01-1358962-Wilson Way-Wilson Way - Insulina_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_50.mp3",
-                "test_signals/example_50.mp3"
+                "test_signals/example_41.mp3",
+                "test_signals/example_41.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends Indie Rock and Dream Pop elements with a slow, steady rhythm that creates a melancholic atmosphere. Featuring emotive electric guitar playing enhanced by reverb, the piece offers a heartfelt soundscape ideal for quiet, introspective moments in film or vlogs.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/i/sit-still-and-hush/Sit Still and Hush_00001.mp3",
+            "caption": "This segment is an energetic, instrumental techno track driven by a fast tempo and punchy digital drumming. It features synthesizer arrangements with a groovy bass line that creates a buoyant, pulsating rhythm ideal for club atmospheres. The music blends deep house elements with a sporty summer vibe to fuel high-energy dance party settings.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-313852/01-1360292-Djfredse-Djfredse - Ibiza House 2016_cc_SarriRecords_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_51.mp3",
-                "test_signals/example_51.mp3"
+                "test_signals/example_42.mp3",
+                "test_signals/example_42.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a festive Latin rhythm with simple, repetitive percussion to create a catchy and celebratory atmosphere. The steady beat builds a sense of anticipation, reminiscent of the quirky novelty Christmas style described in the upload title.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/V/a/VariousArtistsabongolongChristmas2004/11_interlude__o_little_town_of_12_days__a_bongolong_Christmas_2004__bongolong_64kb_00001.mp3",
+            "caption": "This piece is a perfect blend of guitar-driven country rock, featuring bluesy undertones that define its overall style. The absence of vocals allows the intricate instrumental elements to shine, creating a captivating and immersive listening experience.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/P/SPUTNIKRECORDS006/Sputnikrecords006-VladShegal-36/SPUTNIKRECORDS006 - Vlad Shegal - \u00f2\u00d1\u00bd\u00e1\u00f3\u00bf\u00df\u00e1 36/04 - Vlad Shegal - \u00c7\u00bd\u00e1\u2229 \u00bd\u00d1\u00a1\u0393\u00e1_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_52.mp3",
-                "test_signals/example_52.mp3"
+                "test_signals/example_43.mp3",
+                "test_signals/example_43.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features an instrumental piece dominated by the steady, mechanical drone of a car engine idling in place. The sound creates a dark and ominous atmosphere filled with tension, fitting for a cinematic scene depicting a vehicle starting up. While other field recordings from the same collection capture ambient street life like passing planes and crows, this specific clip isolates the hypnotic rhythm of the engine.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_59274_68032/EiffePark01a_00001.mp3",
+            "caption": "This piece is a perfect blend of guitar-driven country rock, featuring bluesy undertones that define its overall style. The absence of vocals allows the intricate instrumental elements to shine, creating a captivating and immersive listening experience.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/P/SPUTNIKRECORDS006/Sputnikrecords006-VladShegal-36/SPUTNIKRECORDS006 - Vlad Shegal - \u00f2\u00d1\u00bd\u00e1\u00f3\u00bf\u00df\u00e1 36/04 - Vlad Shegal - \u00c7\u00bd\u00e1\u2229 \u00bd\u00d1\u00a1\u0393\u00e1_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_53.mp3",
-                "test_signals/example_53.mp3"
+                "test_signals/example_43.mp3",
+                "test_signals/example_43.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This is an instrumental track with a fast tempo that showcases the drummer's skills across various percussion instruments like congas, bongos, and a drum kit. The infectious rhythm creates an energetic atmosphere perfect for dancing along to the music.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/e/mellosonicFuzed/fuzed_vbr_00001.mp3",
+            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_54.mp3",
-                "test_signals/example_54.mp3"
+                "test_signals/example_44.mp3",
+                "test_signals/example_44.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a string section, synthesizer, and percussion to build a suspenseful and mysterious atmosphere. A haunting choir weaves through the steady rhythm, creating an ethereal quality that fits well as a dramatic movie soundtrack or game background music.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/f/o/formentor-trails_202501/Formentor Trails_00004.mp3",
+            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_55.mp3",
-                "test_signals/example_55.mp3"
+                "test_signals/example_44.mp3",
+                "test_signals/example_44.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/f/jfk-the-other-side-ep/JFK Ft. Mosidon - Ji Masun _ 360nobsdegreess.com_00001.mp3",
+            "caption": "This ambient instrumental track emphasizes atmospheric soundscapes and soothing textures to create a calm, introspective mood. Featuring a slow tempo with prominent synthesizer and piano elements, the piece fosters a sense of relaxation ideal for meditation or background listening.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-148126/01-1233291-Ambient Samurai - Ichiro NAKAGAWA-Jingle For The Nothingness_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_56.mp3",
-                "test_signals/example_56.mp3"
+                "test_signals/example_45.mp3",
+                "test_signals/example_45.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a gentle acoustic guitar playing a slow, simple melody within a dreamy soundscape. Ambient textures and the distinct sound of a passing train create an emotional, atmospheric backdrop for the music. The recording captures a quiet, organic moment that feels like a peaceful street scene in Taipei.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_15958_18528/Soundmap201211023_00002.mp3",
+            "caption": "This track is a slow, instrumental symphonic piece featuring piano, strings, and synthesizer that creates a calm and relaxing atmosphere. The steady rhythm supports a contemplative mood, making it well-suited for meditation, study, or quiet reflection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-160741/04-1365826-Ambient Samurai - Ichiro NAKAGAWA-Music For For Shinjuku First Weekend With POKEMON GO #4_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_57.mp3",
-                "test_signals/example_57.mp3"
+                "test_signals/example_46.mp3",
+                "test_signals/example_46.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

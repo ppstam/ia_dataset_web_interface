@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a fast, complex rhythm driven by pulsating beats and intricate syncopation. A powerful synthesizer creates an intense, futuristic soundscape punctuated by dramatic sound effects like explosions and glitches. The overall mood is dark and urgent, evoking a sense of chaos and unpredictability throughout the piece.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/u/Suda0051/006.Luter es Negro 0004 8-Audio-2_00001.mp3",
+            "caption": "This instrumental track blends electronic and industrial influences to create a dark, mysterious atmosphere suitable for suspenseful scenes. Driven by synthesizers and a repetitive, hypnotic rhythm, the music establishes an ambient soundscape with a futuristic vibe.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/L/ALectro/JimmyTheHideousPenguin-ALectro/05 manipulate & tresh - heavy karma (jimmy\u2229s trauma remix)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,50 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a steady rhythm driven by an electric guitar, bass guitar, and drums with a distinct bluesy feel. The slow tempo and atmospheric tone create a moody atmosphere well-suited for a noir movie or video game soundtrack. Although related songs often appear more energetic, this specific segment maintains a calm, consistent groove throughout.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-208315/01-1174035-Lorenzo_s Music-Low_00001.mp3",
+            "caption": "This instrumental track blends electronic and industrial influences to create a dark, mysterious atmosphere suitable for suspenseful scenes. Driven by synthesizers and a repetitive, hypnotic rhythm, the music establishes an ambient soundscape with a futuristic vibe.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/L/ALectro/JimmyTheHideousPenguin-ALectro/05 manipulate & tresh - heavy karma (jimmy\u2229s trauma remix)_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_0.mp3",
+                "test_signals/example_0.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental rock track features an electric guitar playing a solo melody over a fast-paced acoustic drum beat. The energetic and upbeat atmosphere makes the piece suitable for a video game soundtrack or a movie's fast-paced action scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-064879/02-558633-Sinyris-Sinyris - Comme un debut_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -132,10 +174,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 4",
+            "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This song features an emotive male vocalist accompanied by acoustic and electric guitars, bass, and drums, creating a sound well-suited for movie soundtracks during moments of heartbreak. Its melancholic ballad style blends pop and rock elements to convey a deep sense of despair, making it fitting for dramatic scenes in a TV series. The combination of melodic instrumentation and expressive singing establishes a somber yet accessible tone throughout the track.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-036125/04-251071-janusz wargowski jama rock-nic i zero_00006.mp3",
+            "caption": "This instrumental hip-hop track blends electronic influences with a groovy bassline and syncopated percussion. The steady rhythm creates a relaxed, chill atmosphere that feels well-suited for background music or a vlog intro.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-156493/02-1319804-Ephedrina Netlabel-LatoB_SABOLGIA ft SDENNY BOY - From Platform 5_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -174,10 +216,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 5",
+            "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends electronic and dance influences with a steady, rhythmic groove centered around synthesizers, a drum machine, and a driving bassline. The upbeat and energetic mood creates a sense of excitement that evokes a retro-futuristic atmosphere perfect for video games or club scenes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-049903/02-400317-Sound Combustion-fade to black_00003.mp3",
+            "caption": "This slow-tempo instrumental track features a male vocalist supported by steady drumming and a solid bass line that grounds the arrangement. A keyboard and synthesizer add depth and complexity, creating a melancholic atmosphere suitable for scenes of reflection or introspection. The overall mood is sad and peaceful, blending pop and singersongwriter influences into a cohesive, emotional piece.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-140619/07-1168995-The SnowDragons-THE SNOWDRAGONS - Look for the Lightning_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -216,10 +258,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 6",
+            "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A dark and dramatic piece, this track builds a lush cinematic soundscape using synth strings and pads. A steady, driving rhythm propels the music forward while a haunting female voice and choir sample add emotional intensity. The overall atmosphere creates a perfect mood for an urgent movie soundtrack or intense scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-528207/01-2055541-PAOLO DEL PRETE - COLLECTION previews, hits _amp_ special guests-Paolo Del Prete feat.  Sabryna Syrio - Siren prayer _Devid Morrison Remix__00001.mp3",
+            "caption": "This segment features a beautiful solo piano instrumental that flows with a slow, minimalist approach. The sparse rhythm and expressive melodies create an intimate, somber atmosphere perfect for contemplation or a poignant film scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/q/aquiles_guimaraes-a_vida_dos_nossos_animais/Aquiles Guimara\u0303es - A vida dos nossos animais - 04 Fe\u0301lin soliloque - Franc\u0327ois Miaul_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -258,10 +300,52 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 7",
+            "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track builds on a strong rhythmic foundation with a groovy bassline, steady drumming, and keyboard accompaniment. The music creates an energetic and urban atmosphere that feels both hip and danceable.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-103007/05-877315-DJRollo-DJRollo - I Know what he want_00004.mp3",
+            "caption": "This segment features a beautiful solo piano instrumental that flows with a slow, minimalist approach. The sparse rhythm and expressive melodies create an intimate, somber atmosphere perfect for contemplation or a poignant film scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/q/aquiles_guimaraes-a_vida_dos_nossos_animais/Aquiles Guimara\u0303es - A vida dos nossos animais - 04 Fe\u0301lin soliloque - Franc\u0327ois Miaul_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_4.mp3",
+                "test_signals/example_4.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 9",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "A dark and dramatic piece, this track builds a lush cinematic soundscape using synth strings and pads. A steady, driving rhythm propels the music forward while a haunting female voice and choir sample add emotional intensity. The overall atmosphere creates a perfect mood for an urgent movie soundtrack or intense scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-528207/01-2055541-PAOLO DEL PRETE - COLLECTION previews, hits _amp_ special guests-Paolo Del Prete feat.  Sabryna Syrio - Siren prayer _Devid Morrison Remix__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -300,10 +384,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 8",
+            "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is an aggressive heavy metal piece driven by distorted electric guitar riffs and powerful drumming. The fast-paced, loud sound creates a high-energy atmosphere well-suited for live concerts or intense video game combat sequences. While the source material identifies the artist as a hardcore punk band from Croatia, this specific segment showcases a distinctly heavier musical style.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/n/Anti-Otpad-Radnicki_san/Anti-Otpad-Radnicki_san_64kb_mp3/08-anti_otpad-novac_64kb_00001.mp3",
+            "caption": "This instrumental track is a fast-paced blend of rock and electronic music, driven by aggressive electric guitar riffs and a heavy, driving beat. The sound creates an intense and chaotic atmosphere that feels perfect for high-energy action scenes or system malfunction sequences in media.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/F/F/FFR070/Ffr070_redsk-Spin-snowglobe/FFR070_RedSK - Spin-Snowglobe/01 RedSK - Blowtorches Under Water_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -342,99 +426,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 9",
+            "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is specifically designed for a techno club, featuring a steady, repetitive beat and a pulsating bassline driven by synthesizers. The music creates a dark and intense atmosphere with a hypnotic rhythm that maintains a sense of anticipation throughout the piece. Ultimately, its driving nature makes it an engaging choice for keeping an audience moving in a nightclub setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/o/holy-grains-3/Holy Grains_3_00002.mp3",
+            "caption": "This instrumental track features a strong, driving beat supported by groovy basslines and occasional electronic sound effects. The dark and intense rhythm creates a sense of urgency that makes the piece well-suited for a nightclub setting or high-energy scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/bluey-ost/01-13 YouTube Executive - Dogson Hawkemate - Dbog_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
                 "test_signals/example_7.mp3",
                 "test_signals/example_7.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This solo instrumental track features intricate guitar playing performed without any vocals. The slow tempo and minimalist style create a peaceful, meditative mood ideal for relaxation or contemplation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/E/p/Epitaph_151/Epitaph_151_vbr_mp3/Catacoustic.mp3_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_8.mp3",
-                "test_signals/example_8.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 11",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends rock and electronic influences to create an energetic, fast-paced atmosphere perfect for high-energy environments. Driven by a lively rhythm featuring electric guitars, bass, keyboard, and electronic drums, the piece evokes the excitement often found in video game soundtracks.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/1/1/110810LorenzoPractice/110811-part1_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_9.mp3",
-                "test_signals/example_9.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

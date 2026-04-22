@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental nature sound track blends rhythmic guitar and bass with dynamic drums to create an immersive atmosphere. Ambient sounds of the natural world are woven throughout the composition, adding depth and a calming layer to the audio. The result is a soothing piece that effectively captures the serene feel of a recorded soundscape.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_63409_72948/Kelvinredo_00003.mp3",
+            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABeautifulTomorrowFullAlbumdiscTwo/ABeautifulTomorrow-ABeautifulTomorrowdiscTwo/A Beautiful Tomorrow - A Beautiful Tomorrow (Disc Two) - 07 Where have you been all of my life-_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_120.mp3",
-                "test_signals/example_120.mp3"
+                "test_signals/example_97.mp3",
+                "test_signals/example_97.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental Christmas Carol features a male vocalist performing over simple yet effective instrumentation at a steady, medium tempo. The arrangement creates a cheerful and festive atmosphere that feels perfect for a holiday movie or video game, despite the underlying slightly melancholic tone.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133123/04-1114474-Diseases of the South-Voices_00003.mp3",
+            "caption": "This piece is a beautiful solo piano composition that moves at a slow, gentle tempo to create a peaceful and introspective mood. The arrangement allows the listener to fully immerse themselves in the emotional depth of the music, making it ideal for moments of relaxation or quiet reflection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/1/01--six-part-invention-the-flame/Six Part Invention - Acoustic Rock Ballads (2013) (192Kbps)/10. Six Part Invention - Honestly_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_121.mp3",
-                "test_signals/example_121.mp3"
+                "test_signals/example_98.mp3",
+                "test_signals/example_98.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track creates a calm and introspective atmosphere that allows listeners to focus on the music's emotional depth. Driven primarily by guitar, the piece avoids vocals while establishing a meditative mood through its steady rhythm and melodic progression.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-111746/07-950513-OllyJam-Sun Worship_00001.mp3",
+            "caption": "This piece is a beautiful solo piano composition that moves at a slow, gentle tempo to create a peaceful and introspective mood. The arrangement allows the listener to fully immerse themselves in the emotional depth of the music, making it ideal for moments of relaxation or quiet reflection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/1/01--six-part-invention-the-flame/Six Part Invention - Acoustic Rock Ballads (2013) (192Kbps)/10. Six Part Invention - Honestly_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_122.mp3",
-                "test_signals/example_122.mp3"
+                "test_signals/example_98.mp3",
+                "test_signals/example_98.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a blend of synth, bass, and electronic drums that create a slow, dark, and mysterious atmosphere. The ominous mood, reinforced by a haunting vocal sample, makes the piece well-suited for horror soundtracks or suspenseful video game moments.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/I/d/Idmf025BeyondTheListeningBoothVol-1/IDMf025_Beyond_the_Listening_Booth_Vol._1_320kbps/IDMf025_Beyond_the_Listening_Booth_Vol._1_320kbps/14 Chinese Goblin Factory - Reality Dysfunction_00001.mp3",
+            "caption": "This instrumental composition features a repetitive vocal chant and steady rhythm that create a hypnotic, trance-like effect. Driven primarily by synthesizers, the ambient soundscape fosters a deep meditative state ideal for relaxation or yoga. The neutral yet atmospheric mood provides a sense of continuity and flow throughout the piece.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-155069/02-1303545-Ambient Samurai - Ichiro NAKAGAWA-Song For Emerging Universe_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_123.mp3",
-                "test_signals/example_123.mp3"
+                "test_signals/example_99.mp3",
+                "test_signals/example_99.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment of Bach's *Johannes-Passion* features a powerful choral ensemble that delivers an epic and dramatic performance through strong harmonic dynamics. The slow, deliberate tempo builds significant tension and anticipation, creating a grand mood suitable for a climactic movie scene. Ultimately, the music combines emotional depth with a driving rhythm to produce a stirring auditory experience.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/a/bach-bwv-245-68-choral/Bach -- BWV 245 -- 68 Choral_00001.mp3",
+            "caption": "This instrumental techno track features a male vocalist singing in a deeper key over a driving drum machine beat. Synth bass and percussive synth elements create a trippy atmosphere that feels well-suited for the soundtrack of a teenage drama series.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-147404/02-1229016-RP_Rufus-Scheisshausfliege - DoenerDoener_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_124.mp3",
-                "test_signals/example_124.mp3"
+                "test_signals/example_100.mp3",
+                "test_signals/example_100.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This comedic instrumental duet features a male lead singing the main melody while a female voice provides humorous backing vocals. The fast-paced rhythm is driven by a lively banjo and a strong bass line, creating a funny atmosphere perfect for a comedy skit. With its playful energy and clear holiday theme, the piece serves as an entertaining soundtrack suitable for a festive performance.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/a/SantaClausRag/SantaClausRag_vbr_mp3/santa_claus_rag_vbr_00001.mp3",
+            "caption": "This segment features a heavy metal instrumental driven by distorted electric guitars, aggressive bass lines, and loud drumming. The music creates a dark, high-energy atmosphere typical of a live thrash performance.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/E/a/Ear20_-_Headkrusher-TheWorst2013/Ear20_-_Headkrusher-TheWorst2013/EAR[20] _ - _ Headkrusher - The Worst (2013)/02. Headkrusher - Blessed In Black_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_125.mp3",
-                "test_signals/example_125.mp3"
+                "test_signals/example_101.mp3",
+                "test_signals/example_101.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track, titled \"Noise Machines,\" blends experimental and electronic styles to create a dark, intense atmosphere suitable for retro video game action sequences. The composition relies heavily on synthesizers and digital noise to drive a fast-paced rhythm that evokes a strong sense of urgency.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-176560/01-1543731-Loop507-My Noise Glitch Machine_00004.mp3",
+            "caption": "This instrumental track blends strong techno influences with heavy dubstep and deep house elements to create an intense, energetic groove. Driven by prominent synthesizers, drum machines, and cymbals, the repetitive rhythm builds a powerful atmosphere ideal for high-energy workouts or club dancing.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/F/TFN272/TFN272/[TFN272] Deathmonk - Psychedelic Pilgrim/02 Deathmonk - Blacklock_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_126.mp3",
-                "test_signals/example_126.mp3"
+                "test_signals/example_102.mp3",
+                "test_signals/example_102.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track relies on synthesizers, a drum machine, and a bass line to create a steady, mid-tempo groove. The repetitive loops establish a dark and mysterious atmosphere suitable for a nightclub or DJ set.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124065/01-1053125-Max Mineyev-Max Mineyev - Music _00003.mp3",
+            "caption": "This instrumental rock track features a driving electric guitar lead supported by bass and acoustic drums. The fast-paced rhythm creates an intense and aggressive mood, making the piece ideal for high-energy scenarios like car chases or video game combat.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-119582/01-1015499-Sueno De Dahlia-Quedate - 2013_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_127.mp3",
-                "test_signals/example_127.mp3"
+                "test_signals/example_103.mp3",
+                "test_signals/example_103.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece blends country and folk elements with a swing rhythm driven by acoustic drums, upright bass, and an energetic mandolin melody. A male vocalist sings melodically over the track, creating an easygoing atmosphere suitable for romantic comedy soundtracks or scenes where characters reminisce about the past.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/e/l/elvis-presley-a-portrait-in-music_202410/Elvis Presley \u2013 A Portrait In Music/Elvis Presley \u2013 A Portrait In Music/07 It's Now Or Never_00004.mp3",
+            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABeautifulTomorrowFullAlbumdiscTwo/ABeautifulTomorrow-ABeautifulTomorrowdiscTwo/A Beautiful Tomorrow - A Beautiful Tomorrow (Disc Two) - 07 Where have you been all of my life-_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_128.mp3",
-                "test_signals/example_128.mp3"
+                "test_signals/example_104.mp3",
+                "test_signals/example_104.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental vintage cartoon soundtrack featuring a lively and cheerful melody played by a full orchestra. The fast tempo and steady rhythm create a lighthearted, playful mood suitable for comedic scenes or classic animation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/O/SONGSOFWORLDWARI-NewTransfer/12.JustLikeWashingtonCrossedTheDelaware_00001.mp3",
+            "caption": "This upbeat hip-hop track features a dynamic male vocalist rapping over a pulsating electronic drum beat. The song's energetic atmosphere, driven by strong synthesizer elements, makes it perfect for dancing at a club or party.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABeautifulTomorrowFullAlbumdiscTwo/ABeautifulTomorrow-ABeautifulTomorrowdiscTwo/A Beautiful Tomorrow - A Beautiful Tomorrow (Disc Two) - 07 Where have you been all of my life-_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_129.mp3",
-                "test_signals/example_129.mp3"
+                "test_signals/example_104.mp3",
+                "test_signals/example_104.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

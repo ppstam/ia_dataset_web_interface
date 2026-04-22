@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This orchestral composition features a prominent string section that provides a steady, dramatic pulse throughout the track. While electronic synthesizers add layers of depth and richness to the sound, the overall atmosphere remains somber and melancholic. The piece evokes a sense of introspection and sadness, making it well-suited for scenes involving loss or deep emotional weight.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-126107/02-1066737-KueBass-Where is Here_00001.mp3",
+            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_84.mp3",
-                "test_signals/example_84.mp3"
+                "test_signals/example_65.mp3",
+                "test_signals/example_65.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece serves as an ideal background for guitar lessons, highlighting the beauty of intricate fingerpicking patterns. The track features a solo acoustic performance with a steady rhythm that allows the listener to focus entirely on the instrumental technique.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/j/mjchesneyI_mAPizza_0/mjchesneyI_mAPizza_0_vbr_mp3/ImAPizza_vbr_00001.mp3",
+            "caption": "This instrumental hip-hop segment features a strong male rapper delivering lyrics over a medium-tempo groove driven by electronic drums and a prominent bass line. The track is enriched by the addition of a string section, which adds a rich, layered texture to the energetic rhythm.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128094/01-1075446-VtheElder-V The Elder - Fresh Start, No End _Sign Here Remix__00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_85.mp3",
-                "test_signals/example_85.mp3"
+                "test_signals/example_66.mp3",
+                "test_signals/example_66.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece delivers a lively and upbeat mood driven by a catchy keyboard melody, a groovy bass line, and a steady drum beat. With its infectious rhythm and danceable quality, the track creates a cheerful atmosphere perfect for a retro-themed party or an energetic dance routine.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/R/e/Retracked1MusicDisk/reTracked1-midfi/Remakes/10. 'Zen Bowling' remake by Tone_00001.mp3",
+            "caption": "This slow-tempo track features a male vocalist over a steady drumming rhythm and a solid bass line that drives the music forward. Melancholic keyboard accompaniment adds emotional depth, creating a somber atmosphere suitable for a reflective or dramatic moment. Although the instrumentation includes guitars, the primary mood remains introspective rather than energetic.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/P/u/PureVibesMP3s/03 Pure Vibes/04 - Join_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_86.mp3",
-                "test_signals/example_86.mp3"
+                "test_signals/example_67.mp3",
+                "test_signals/example_67.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece features dreamy synthesizers and atmospheric textures that create an ethereal soundscape. The slow, steady rhythm combined with a melancholic mood makes it well-suited for a contemplative cinematic scene or a video game cutscene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/e/selvi-beats-old-time-creative-common-music-169-www--etoile--app/Selvi Beats - Old Time | Creative Common Music 169 [WWW.ETOILE.APP]_00001.mp3",
+            "caption": "This soothing instrumental track features a gentle female voice and calming keyboard harmony that creates a mellow atmosphere. The slow tempo makes the music ideal for unwinding or meditation after a long day, evoking a sense of relaxation and peace.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/u/suicide-tapes/EyeBlind - Suicide Tapes_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_87.mp3",
-                "test_signals/example_87.mp3"
+                "test_signals/example_68.mp3",
+                "test_signals/example_68.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of contemporary classical music featuring a solo piano as the primary instrument. The slow tempo and smooth rhythm create a deeply introspective mood that evokes feelings of melancholy and contemplation. This somber melody works well for a dramatic film scene or a poignant moment in a documentary.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/u/summers_end_v2/summers_end_v2_00001.mp3",
+            "caption": "This instrumental track features a groovy, Latin-influenced rhythm driven by strong percussion and a prominent bass drum. A synthesizer carries the melody while a higher-pitched male vocal layer adds an energetic, danceable quality to the piece. The overall atmosphere combines upbeat electronic elements with a nostalgic vibe reminiscent of 1980s new wave and funk styles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/e/p/eph169electricdreamerselectropopulous/10_ELECTRIC DREAMERS - The way you bump_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_88.mp3",
-                "test_signals/example_88.mp3"
+                "test_signals/example_69.mp3",
+                "test_signals/example_69.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is a beautiful example of a Japanese role-playing game soundtrack, featuring a prominent piano melody that feels both melancholic and romantic. Lush strings support the slow, steady rhythm to create a calm and nostalgic atmosphere suitable for reflective scenes or exploration areas. The piece relies heavily on piano and synthesizer textures within a newage-inspired electronic framework.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-119449/04-1014470-KPHB-piano_d0_00002.mp3",
+            "caption": "This segment features a beautiful solo piano instrumental that flows with a slow, minimalist approach. The sparse rhythm and expressive melodies create an intimate, somber atmosphere perfect for contemplation or a poignant film scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/q/aquiles_guimaraes-a_vida_dos_nossos_animais/Aquiles Guimara\u0303es - A vida dos nossos animais - 04 Fe\u0301lin soliloque - Franc\u0327ois Miaul_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_89.mp3",
-                "test_signals/example_89.mp3"
+                "test_signals/example_70.mp3",
+                "test_signals/example_70.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/f/jfk-the-other-side-ep/JFK Ft. Mosidon - Ji Masun _ 360nobsdegreess.com_00001.mp3",
+            "caption": "This segment features a beautiful solo piano instrumental that flows with a slow, minimalist approach. The sparse rhythm and expressive melodies create an intimate, somber atmosphere perfect for contemplation or a poignant film scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/q/aquiles_guimaraes-a_vida_dos_nossos_animais/Aquiles Guimara\u0303es - A vida dos nossos animais - 04 Fe\u0301lin soliloque - Franc\u0327ois Miaul_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_90.mp3",
-                "test_signals/example_90.mp3"
+                "test_signals/example_70.mp3",
+                "test_signals/example_70.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a perfect example of a folk song, featuring a female vocalist and acoustic guitar as the primary instruments. The rhythm is slow and steady, with a simple drum beat providing a solid foundation for the emotive and heartfelt performance. The mood is melancholic, evoking a sense of sadness and introspection throughout the track.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-137964/06-1150466-Jeykov-No fui Yo_00002.mp3",
+            "caption": "This instrumental track explores the vastness of space using atmospheric synthesizers and expansive effects like reverb to create an ethereal soundscape. The slow tempo and lack of vocals foster a sense of mystery, allowing listeners to fully immerse themselves in this otherworldly electronic piece.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113883/01-968025-LongTriggerMusic-Barks _amp_ Crock - Run Away_Moan _Remix__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_91.mp3",
-                "test_signals/example_91.mp3"
+                "test_signals/example_71.mp3",
+                "test_signals/example_71.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is a powerful movie soundtrack designed to build tension through a steady, dramatic drum sequence. The sound features a strong emphasis on the bass drum and synthesizer elements, creating an immersive atmosphere perfect for scenes of action or suspense.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-273877/01-1659680-Freestyle Percussion Magik-Warrior_00001.mp3",
+            "caption": "This instrumental track from an electronic music project features a powerful and dark soundscape driven by synthesizers and heavy instrumentation. Although the base description highlights the immersive interplay of elements, the surrounding metadata suggests an energetic, dance-oriented style with strong rhythmic foundations. The combination of these layers creates a unique listening experience that relies entirely on its complex sonic textures rather than vocals.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-506166/04-1993668-Kamil Muzyk _Howarang Van K_-EVERYONE IS CONNECTED _LAIN VERSION - ORIGINAL MIX__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_92.mp3",
-                "test_signals/example_92.mp3"
+                "test_signals/example_72.mp3",
+                "test_signals/example_72.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This performance features a violin playing melodic lines over the soft, flowing rhythm of an acoustic guitar. The gentle interplay between these two instruments creates a peaceful and serene atmosphere well-suited for relaxation. Recorded as part of a live duo concert, the piece blends classical technique with folk-like intimacy.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/l/Altschuler-caplanDuo542008_37/1-NiccolPaganini-CantabileInDMajorOp.17_64kb_00001.mp3",
+            "caption": "This track is a perfect fit for a retro video game soundtrack, featuring nostalgic synthesizers that create a futuristic and adventurous atmosphere. The electronic rhythm maintains high energy throughout the piece, delivering an engaging experience typical of 8-bit or chiptune styles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/F/TFN187/TFN187/[TFN187] Famicomtron - Compact Disc System EP/04 Famicomtron - Stoner's Art_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_93.mp3",
-                "test_signals/example_93.mp3"
+                "test_signals/example_73.mp3",
+                "test_signals/example_73.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

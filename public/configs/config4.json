@@ -50,8 +50,92 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends rock and electronic influences to create an energetic, fast-paced atmosphere perfect for high-energy environments. Driven by a lively rhythm featuring electric guitars, bass, keyboard, and electronic drums, the piece evokes the excitement often found in video game soundtracks.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/1/1/110810LorenzoPractice/110811-part1_00001.mp3",
+            "caption": "This instrumental track features a strong, driving beat supported by groovy basslines and occasional electronic sound effects. The dark and intense rhythm creates a sense of urgency that makes the piece well-suited for a nightclub setting or high-energy scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/bluey-ost/01-13 YouTube Executive - Dogson Hawkemate - Dbog_00002.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_7.mp3",
+                "test_signals/example_7.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 3",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track is designed to induce a state of calm and relaxation through its slow, repetitive melodic patterns. Various percussion instruments like bells and shakers combine with soft synths to create a peaceful atmosphere ideal for meditation or yoga sessions.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/h/the-cupbearer-music-from-the-search-for-silence-volume-three-16-now-and-forever-/The Cupbearer - Music from The Search for Silence- Volume Three/The Cupbearer - Music from The Search for Silence- Volume Three - 02 The Morning After All Mourning_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_8.mp3",
+                "test_signals/example_8.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This piece is a perfect example of ambient music, featuring a slow tempo and a serene, ethereal quality that creates a dreamy atmosphere. Wind instruments like flutes and clarinets blend with a string section and piano to add depth while maintaining a gentle, flowing rhythm ideal for relaxation or meditation. The overall mood remains calm and introspective, offering a rich soundscape perfect for a spa setting or yoga session.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/r/e/remixcomplications-rmxjam/Parryudori - Russel ~end roll~ (remix)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -90,10 +174,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 3",
+            "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a perfect example of ambient electronic music that relies heavily on synthesizers and maintains a steady, slow tempo. The absence of vocals allows the listener to fully immerse themselves in an atmospheric soundscape characterized by repetitive beats and dreamy reverb effects. The overall mood remains chill and relaxing, creating an ideal environment for unwinding after a long day or setting a peaceful tone for a gathering.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/s/as-a-means-5/As a Means_2 _00001.mp3",
+            "caption": "This folk song features a steady, simple rhythm driven by an emotive solo acoustic guitar. The music creates a melancholic and introspective mood that is gentle and heartfelt.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-111533/06-948836-Tocsine-Tocsine - The Universe_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -132,10 +216,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 4",
+            "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track from Captain Cammy's Musical Sketchbook explores the interplay between digital and acoustic elements, creating a unique soundscape driven by synthesizers and rhythmic electronic patterns. The composition maintains a steady, pulsating beat while weaving complex melodies that suggest an atmosphere of experimentation and mystery without the need for vocals.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/o/c/octometry_sketchbook_2021-05-28/octometry_sketchbook_2021-05-28 3_00001.mp3",
+            "caption": "A powerful male vocalist delivers an emotive performance supported by a rich arrangement of piano and strings. The slow, steady rhythm creates a melancholic atmosphere that feels particularly suited for a dramatic movie scene involving personal struggle. Haunting elements, possibly from a choir or deep instrumentation, add texture to this introspective piece.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-295517/01-1394915-FAMILY SENCI-Ak Yon Grenn Bal - DIFERAN MAJESTE - AYGB - Rap Creole - French Pop_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -174,10 +258,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 5",
+            "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental nature sound track blends rhythmic guitar and bass with dynamic drums to create an immersive atmosphere. Ambient sounds of the natural world are woven throughout the composition, adding depth and a calming layer to the audio. The result is a soothing piece that effectively captures the serene feel of a recorded soundscape.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_63409_72948/Kelvinredo_00003.mp3",
+            "caption": "This track is an energetic instrumental techno piece with a strong house influence, featuring a punchy kick pattern and shimmering hi-hats over a repetitive synth bass. The groovy rhythm creates an upbeat atmosphere that feels perfect for a nightclub setting or a high-intensity workout session.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110853/06-943681-Okupa 13-Okupa 13 - Shuffle groove_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -216,10 +300,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 6",
+            "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a repetitive, catchy melody driven by a synthesizer and a strong beat that creates an energetic dance club atmosphere. Although labeled as Latin reggaeton in external records, the segment's primary character is an upbeat rhythm perfect for parties or retro video game soundtracks. The medium tempo ensures the music remains lively and engaging throughout the clip.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-264261/01-1358962-Wilson Way-Wilson Way - Insulina_00001.mp3",
+            "caption": "This piece is a perfect blend of guitar-driven country rock, featuring bluesy undertones that define its overall style. The absence of vocals allows the intricate instrumental elements to shine, creating a captivating and immersive listening experience.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/P/SPUTNIKRECORDS006/Sputnikrecords006-VladShegal-36/SPUTNIKRECORDS006 - Vlad Shegal - \u00f2\u00d1\u00bd\u00e1\u00f3\u00bf\u00df\u00e1 36/04 - Vlad Shegal - \u00c7\u00bd\u00e1\u2229 \u00bd\u00d1\u00a1\u0393\u00e1_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -258,10 +342,52 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 7",
+            "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
             "caption": "This piece is a perfect blend of guitar-driven country rock, featuring bluesy undertones that define its overall style. The absence of vocals allows the intricate instrumental elements to shine, creating a captivating and immersive listening experience.",
             "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/P/SPUTNIKRECORDS006/Sputnikrecords006-VladShegal-36/SPUTNIKRECORDS006 - Vlad Shegal - \u00f2\u00d1\u00bd\u00e1\u00f3\u00bf\u00df\u00e1 36/04 - Vlad Shegal - \u00c7\u00bd\u00e1\u2229 \u00bd\u00d1\u00a1\u0393\u00e1_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_13.mp3",
+                "test_signals/example_13.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track features a blend of synth, bass, and electronic drums that create a slow, dark, and mysterious atmosphere. The ominous mood, reinforced by a haunting vocal sample, makes the piece well-suited for horror soundtracks or suspenseful video game moments.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/I/d/Idmf025BeyondTheListeningBoothVol-1/IDMf025_Beyond_the_Listening_Booth_Vol._1_320kbps/IDMf025_Beyond_the_Listening_Booth_Vol._1_320kbps/14 Chinese Goblin Factory - Reality Dysfunction_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -300,141 +426,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 8",
+            "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track captures the atmospheric sounds of Nangan Township, Taiwan, featuring field recordings of ocean waves mixed with subtle electric box noise. Recorded binaurally for an immersive headphone experience, the piece evokes a calm and meditative mood ideal for documentaries or travel vlogs about coastal landscapes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_25794_29858/SoundMap2014101512_00006.mp3",
+            "caption": "This purely instrumental piece features a slow, steady rhythm driven by strings like the violin and cello, alongside piano to create a rich, melancholic texture. The resulting atmosphere is deeply somber and reflective, offering an immersive soundscape perfect for quiet contemplation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-194901/02-1775228-Ambient Samurai - Ichiro NAKAGAWA-Song For Quietly Fading Universe_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
                 "test_signals/example_15.mp3",
                 "test_signals/example_15.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This classical orchestral piece features a slow, flowing rhythm driven by the interplay of violin and cello. A melancholic melody carried by these strings builds a sense of drama and tension within an otherwise somber mood. The composition evokes deep introspection, making it well-suited for a historical drama or a moment of reflection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-174020/02-1545465-Ivan Dolgunov-Duet for Violin and Viola, K.423 Adagio_00002.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_16.mp3",
-                "test_signals/example_16.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This comedic instrumental duet features a male lead singing the main melody while a female voice provides humorous backing vocals. The fast-paced rhythm is driven by a lively banjo and a strong bass line, creating a funny atmosphere perfect for a comedy skit. With its playful energy and clear holiday theme, the piece serves as an entertaining soundtrack suitable for a festive performance.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/a/SantaClausRag/SantaClausRag_vbr_mp3/santa_claus_rag_vbr_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_17.mp3",
-                "test_signals/example_17.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 11",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong electronic and synth-driven sound that establishes a dynamic, energetic atmosphere. Powered by synthesizers and pulsating basslines, the piece creates an ideal soundtrack for futuristic themes or game environments. The driving electronic beat sustains a consistent rhythm throughout the composition, emphasizing its modern and immersive quality.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/f/r/fresh-starts-04/fresh starts-05_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_18.mp3",
-                "test_signals/example_18.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

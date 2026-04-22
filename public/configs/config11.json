@@ -55,8 +55,8 @@
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_30.mp3",
-                "test_signals/example_30.mp3"
+                "test_signals/example_25.mp3",
+                "test_signals/example_25.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,8 +92,260 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This recording captures a lively and cheerful piece of traditional Irish folk music featuring the distinctive sound of uilleann pipes. The steady, driving rhythm creates a festive atmosphere that feels perfect for accompanying a spirited dance or celebrating in a pub.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/F/e/FelixDoranDoransFancyTheRamblingPitchfork/11Felix_DoranDorans_Fancy_The_Rambling_Pitchfork_64kb_00001.mp3",
+            "caption": "This lively Latin dance track features a rich male vocalist singing over groovy rhythms driven by trumpet, accordion, and percussion. The medium tempo creates an energetic yet romantic atmosphere, ideal for a festive celebration or a bustling nightclub. Although the upload tags suggest a rock genre, the musical content clearly aligns with traditional Latin dance styles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/l/o/los-gedientos-del-rock-en-vivo-en-paraguay-2003/Los Gedientos Del Rock - En Vivo En Paraguay (2003)/06 - soy pata de lana_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_26.mp3",
+                "test_signals/example_26.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental hip-hop track features a slow, steady rhythm driven by a strong bass line and simple electronic drums. A male vocalist delivers rapping vocals in a higher register over a dark keyboard sample that creates a tense, foreboding atmosphere. The composition is well-suited for crime thriller soundtracks, particularly during scenes involving suspense or planning.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-208737/01-1182455-Strange Strains-Strange Strains - Gypsy Life_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_27.mp3",
+                "test_signals/example_27.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 5",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This upbeat track features a catchy vocal performance over a groovy bassline and pulsating electronic rhythms. Synthesizers and percussion drive the energetic atmosphere, making it an ideal choice for a dance club or party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/m/amanda-lameche-you-dont-stand-a-chance-audio/Amanda Lameche - You Dont Stand A Chance (Audio)_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_28.mp3",
+                "test_signals/example_28.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 6",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track blends strong electronic and techno influences with a driving rhythm centered on a prominent, repetitive bassline. Synthesizers and digital drums create an intense, dark atmosphere that feels both futuristic and urgent, ideal for a nightclub setting. The music maintains a hypnotic momentum throughout, emphasizing a pulsating beat that sustains a sense of constant motion.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/h/mhrk390/03 Humanfobia + Lezet - Meld 8 - BooTeeth (Humanphobia rework)_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_29.mp3",
+                "test_signals/example_29.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 7",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track blends strong chiptune influences with a modern electronic beat to create an upbeat, danceable rhythm. Rooted in video game music, the song features synthesizers and computer-generated sounds that evoke an energetic and adventurous mood perfect for retro gaming or high-energy workouts.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/s/astrosuka-sofja-inicio/01 astrosuka + sofja - inicio_00006.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_30.mp3",
+                "test_signals/example_30.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 8",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track blends strong chiptune influences with a modern electronic beat to create an upbeat, danceable rhythm. Rooted in video game music, the song features synthesizers and computer-generated sounds that evoke an energetic and adventurous mood perfect for retro gaming or high-energy workouts.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/s/astrosuka-sofja-inicio/01 astrosuka + sofja - inicio_00006.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_30.mp3",
+                "test_signals/example_30.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 9",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This piece is an instrumental meditation track with a slow tempo, creating a serene and peaceful atmosphere. The use of bells, cymbals, and gentle nature sounds adds to the calming quality while providing a steady pulse. Ambient elements further enhance the overall meditative experience without overpowering the core melody.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/o/ToDieCollaborationWithSabrinaSplitAlbum/1.To Die with Sabrina - Dark Water In The Deep Of Fainted Heart_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -132,10 +384,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 4",
+            "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track centers on synthesizers, electronic drums, and a bass synth to create an upbeat, energetic rhythm. Driven by a classic four-on-the-floor beat, the music maintains a danceable quality well-suited for a nightclub setting or high-energy workouts.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-159578/01-1353571-Gigatop Arthur-Just Like Fire_00006.mp3",
+            "caption": "This segment blends instrumental and electronic elements with a catchy beat, a mesmerizing flute melody, and a groovy rhythm section. The track features a soulful trumpet solo that enhances its energetic and party-ready vibe.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-115622/12-981567-GomeraMusic-NELL - Nada Es Eterno_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -174,267 +426,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 5",
+            "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece features a lively violin melody accompanied by flute, set against a rhythmic tabla background that creates an upbeat dance atmosphere. The track evokes an energetic mood suitable for an Indian-themed movie or television soundtrack, standing apart from the smoother jazz and saxophone styles often found in similar archival uploads.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-104360/05-887309-SIRUS Francky-entre ciel et terre _00003.mp3",
+            "caption": "This piece is a beautiful solo piano composition that moves at a slow, gentle tempo to create a peaceful and introspective mood. The arrangement allows the listener to fully immerse themselves in the emotional depth of the music, making it ideal for moments of relaxation or quiet reflection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/1/01--six-part-invention-the-flame/Six Part Invention - Acoustic Rock Ballads (2013) (192Kbps)/10. Six Part Invention - Honestly_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
                 "test_signals/example_33.mp3",
                 "test_signals/example_33.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 6",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece utilizes intricate sound design and organic field recordings to craft an immersive experience without vocals. Driven by the natural chirping of frogs in a binaural recording, the track creates a meditative atmosphere that highlights complex textures and rhythms. The combination of electronic synthesizer elements and raw nature sounds offers a captivating listening journey focused entirely on ambient texture.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_32044_36909/soundmap201605031_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_34.mp3",
-                "test_signals/example_34.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track serves as an ideal accompaniment for a Spanish-themed party or a romantic evening, featuring acoustic guitars and Latin percussion that create a lively atmosphere. The music combines folk and pop elements to form a perfect background sound for dancing and enjoying the moment.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/i/cinzas-remasterizada/Cinzas (Remasterizada)_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_35.mp3",
-                "test_signals/example_35.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong electronic and industrial influences with a prominent synthesizer line and driving bass. The music builds tension through dynamic shifts, creating a dark and intense mood that feels perfectly suited for a high-stakes video game action sequence.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/h/shampauzen_547/06badweatherisgood_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_36.mp3",
-                "test_signals/example_36.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This recording captures the soothing sounds of waves crashing against a small fishing port, creating an immersive nature soundscape ideal for relaxation. The gentle audio, recorded with high-fidelity binaural techniques, evokes a peaceful atmosphere perfect for mindfulness or meditation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_24633_28574/SoundMap2014082817_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_37.mp3",
-                "test_signals/example_37.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an immersive instrumental nature soundtrack featuring synthesizers, bass, and percussion that create a soothing, ethereal soundscape. The slow, deliberate rhythm supports field recordings of ocean waves and bird calls, evoking the atmosphere of a tranquil beach scene. These combined elements make the track ideal for use as a backdrop in a nature documentary or a reflective travel vlog.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_26307_30396/SoundMap2014110417_00004.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_38.mp3",
-                "test_signals/example_38.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 11",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic instrumental rock track features a fast tempo driven by electric guitar, bass guitar, and acoustic drums. The atmosphere is intense and suitable for a high-energy live concert setting or an action scene in a movie. Although male vocals are present in the original recording, this specific segment focuses on the driving instrumentation of the rock anthem.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136542/05-1136837-Abrids-we come for the fest_00002.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_39.mp3",
-                "test_signals/example_39.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

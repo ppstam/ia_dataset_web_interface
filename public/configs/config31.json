@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/f/jfk-the-other-side-ep/JFK Ft. Mosidon - Ji Masun _ 360nobsdegreess.com_00001.mp3",
+            "caption": "This segment features a beautiful solo piano instrumental that flows with a slow, minimalist approach. The sparse rhythm and expressive melodies create an intimate, somber atmosphere perfect for contemplation or a poignant film scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/q/aquiles_guimaraes-a_vida_dos_nossos_animais/Aquiles Guimara\u0303es - A vida dos nossos animais - 04 Fe\u0301lin soliloque - Franc\u0327ois Miaul_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_90.mp3",
-                "test_signals/example_90.mp3"
+                "test_signals/example_70.mp3",
+                "test_signals/example_70.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a perfect example of a folk song, featuring a female vocalist and acoustic guitar as the primary instruments. The rhythm is slow and steady, with a simple drum beat providing a solid foundation for the emotive and heartfelt performance. The mood is melancholic, evoking a sense of sadness and introspection throughout the track.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-137964/06-1150466-Jeykov-No fui Yo_00002.mp3",
+            "caption": "This instrumental track explores the vastness of space using atmospheric synthesizers and expansive effects like reverb to create an ethereal soundscape. The slow tempo and lack of vocals foster a sense of mystery, allowing listeners to fully immerse themselves in this otherworldly electronic piece.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113883/01-968025-LongTriggerMusic-Barks _amp_ Crock - Run Away_Moan _Remix__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_91.mp3",
-                "test_signals/example_91.mp3"
+                "test_signals/example_71.mp3",
+                "test_signals/example_71.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is a powerful movie soundtrack designed to build tension through a steady, dramatic drum sequence. The sound features a strong emphasis on the bass drum and synthesizer elements, creating an immersive atmosphere perfect for scenes of action or suspense.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-273877/01-1659680-Freestyle Percussion Magik-Warrior_00001.mp3",
+            "caption": "This instrumental track from an electronic music project features a powerful and dark soundscape driven by synthesizers and heavy instrumentation. Although the base description highlights the immersive interplay of elements, the surrounding metadata suggests an energetic, dance-oriented style with strong rhythmic foundations. The combination of these layers creates a unique listening experience that relies entirely on its complex sonic textures rather than vocals.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-506166/04-1993668-Kamil Muzyk _Howarang Van K_-EVERYONE IS CONNECTED _LAIN VERSION - ORIGINAL MIX__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_92.mp3",
-                "test_signals/example_92.mp3"
+                "test_signals/example_72.mp3",
+                "test_signals/example_72.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This performance features a violin playing melodic lines over the soft, flowing rhythm of an acoustic guitar. The gentle interplay between these two instruments creates a peaceful and serene atmosphere well-suited for relaxation. Recorded as part of a live duo concert, the piece blends classical technique with folk-like intimacy.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/l/Altschuler-caplanDuo542008_37/1-NiccolPaganini-CantabileInDMajorOp.17_64kb_00001.mp3",
+            "caption": "This track is a perfect fit for a retro video game soundtrack, featuring nostalgic synthesizers that create a futuristic and adventurous atmosphere. The electronic rhythm maintains high energy throughout the piece, delivering an engaging experience typical of 8-bit or chiptune styles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/F/TFN187/TFN187/[TFN187] Famicomtron - Compact Disc System EP/04 Famicomtron - Stoner's Art_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_93.mp3",
-                "test_signals/example_93.mp3"
+                "test_signals/example_73.mp3",
+                "test_signals/example_73.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This comedic instrumental duet features a male lead singing the main melody while a female voice provides humorous backing vocals. The fast-paced rhythm is driven by a lively banjo and a strong bass line, creating a funny atmosphere perfect for a comedy skit. With its playful energy and clear holiday theme, the piece serves as an entertaining soundtrack suitable for a festive performance.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/a/SantaClausRag/SantaClausRag_vbr_mp3/santa_claus_rag_vbr_00001.mp3",
+            "caption": "This instrumental track is designed as a game soundtrack, utilizing a synth pad and bass to create a rich, atmospheric sound. A melodic synth lead cuts through the mix over a steady electronic beat that resembles the house and progressive styles found in DJ R3m's \"Free World\" album. The combination of these elements produces a suitable background for exploration sequences or menu screens.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123196/01-1045795-DJ&nbsp;R3m-DJ R3m - Free World_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_94.mp3",
-                "test_signals/example_94.mp3"
+                "test_signals/example_74.mp3",
+                "test_signals/example_74.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track features the distinctive sound of bagpipes driving a steady, celebratory rhythm characteristic of upbeat folk music. The mood remains joyful and energetic throughout, making the piece well-suited for a lively gathering or festive occasion.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/i/pit-liaw_rearr_d1_l19_18_48ch/pit-liaw_rearr_d1_l19_18_48ch_00001.mp3",
+            "caption": "This piece serves as a grand and emotional backdrop ideal for a cinematic movie scene, driven by a rich full orchestra and steady rhythm. The composition blends the warmth of strings and piano with ethereal elements from a choir to create a dramatic yet calming soundscape. Ultimately, its sweeping quality offers a sense of introspection perfect for an epic or romantic narrative moment.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-059288/11-506154-A.K.1974-A.K.1974 - The End_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_95.mp3",
-                "test_signals/example_95.mp3"
+                "test_signals/example_75.mp3",
+                "test_signals/example_75.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends house and techno influences with a lively, repetitive rhythm driven by synthesizers and electronic drums. The cheerful and playful mood creates a catchy, danceable groove that evokes the energy of video game soundtracks and summer parties.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123655/27-1049947-Hasenchat-Take Me_00004.mp3",
+            "caption": "Jason R. King delivers a lively acoustic performance that serves as an ideal backdrop for a jam session, highlighting skillful guitar work and upbeat melodic strumming. The track blends elements of pop-folk and country to create an inspiring atmosphere where the audience can enjoy the clear rhythms.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/h/TheFracturedStates/Product of Piracy - 11 - Leaving Section-15 (Running)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_96.mp3",
-                "test_signals/example_96.mp3"
+                "test_signals/example_76.mp3",
+                "test_signals/example_76.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental percussion track features a groovy rhythm driven by congas, bongos, and cajas chinas. The music relies on complex polyrhythms and syncopated patterns to create an energetic and engaging backdrop suitable for dance classes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/a/cajas-chinas/Cajas Chinas_00003.mp3",
+            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/f/jfk-the-other-side-ep/JFK Ft. Mosidon - Ji Masun _ 360nobsdegreess.com_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_97.mp3",
-                "test_signals/example_97.mp3"
+                "test_signals/example_77.mp3",
+                "test_signals/example_77.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition skillfully blends Latin Jazz, World Music, and Game Soundtrack styles to create a lively and upbeat piece. The track features syncopated rhythms driven by diverse percussion instruments like mallets and synthesizers, resulting in a cheerful and lighthearted mood well-suited for video games or animated films.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/a/bad-presumption-sketchbook-2021-06-05/bad-presumption_sketchbook_2021-06-05 3_00002.mp3",
+            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/f/jfk-the-other-side-ep/JFK Ft. Mosidon - Ji Masun _ 360nobsdegreess.com_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_98.mp3",
-                "test_signals/example_98.mp3"
+                "test_signals/example_77.mp3",
+                "test_signals/example_77.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment serves as a compelling horror film score, featuring a slow and erratic rhythm that builds significant tension. A deep cello provides a resonant foundation while an elegant piano weaves through the sound to enhance the dark, ominous atmosphere. The composition effectively creates an eerie mood suitable for suspenseful scenes in a movie or game.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/B/ABradfordReedMoodringCoverArt/03-chap.riij_00001.mp3",
+            "caption": "This instrumental track blends techno influences with dubstep, featuring a driving four-on-the-floor beat and prominent synthesizers. A pulsating synth bassline creates an energetic and futuristic groove well-suited for a nightclub or high-intensity workout. The repetitive electronic rhythm maintains a dark, intense atmosphere throughout the performance.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/e/p/eph049Plato-LmdEp/eph049Plato-LmdEp320kbpscover/01_PLATO - Lmd_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_99.mp3",
-                "test_signals/example_99.mp3"
+                "test_signals/example_78.mp3",
+                "test_signals/example_78.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

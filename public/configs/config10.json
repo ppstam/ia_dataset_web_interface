@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features ambient synth pads that establish a serene and relaxing atmosphere. Its slow, steady rhythm creates a gentle pulse ideal for meditation or as calming background music.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130213/05-1091255-Ambient Samurai - Ichiro NAKAGAWA-Music For Unintended Paradise _____________00001.mp3",
+            "caption": "This lively and cheerful Latin pop song features a female vocalist singing in a high-pitched voice over a fast acoustic guitar and groovy bass. An energetic accordion drives the upbeat rhythm, creating a happy atmosphere suitable for festive scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-064009/01-549705-Banda Patinko-Banda Patinko - Beijinho - ao-vivo_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_27.mp3",
-                "test_signals/example_27.mp3"
+                "test_signals/example_22.mp3",
+                "test_signals/example_22.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A male vocalist delivers a romantic ballad characterized by a slow, steady tempo and sentimental mood. The track features a gentle keyboard harmony supported by a strong bass line and electronic drums to create an emotional atmosphere. Although related tracks often exhibit energetic dance qualities, this specific segment focuses on a softer, more intimate style suitable for a movie scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/W/e/Week11a/Ti\u00ebsto - The Business (Extended Mix)_00003.mp3",
+            "caption": "This instrumental hip-hop track features a funky beat driven by rhythmic drums, groovy basslines, and catchy vocal samples. The song blends electronic synth textures with percussive loops to create an energetic groove ideal for any hip-hop playlist.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/D/C/DCRPS039/DCRPS039/DCRPS039 - 09 - Fat Frumos - MACDONALDS LOVE STOrY BRO!!!3_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_28.mp3",
-                "test_signals/example_28.mp3"
+                "test_signals/example_23.mp3",
+                "test_signals/example_23.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece serves as a lively accompaniment for live performances, particularly suited for energetic drum battles. Dynamic percussion instruments like tambourine and shakers drive the rhythm with an intense, infectious beat that builds excitement. The track maintains a high-energy atmosphere throughout, making it ideal for action sequences or thrilling soundscapes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_22571_26182/SoundMap2014041215_00001.mp3",
+            "caption": "This segment is an instrumental techno track that relies heavily on synthesizers, a drum machine, and a bass line to create a hypnotic groove. The mid-tempo rhythm maintains a steady, consistent feel while establishing a dark and mysterious atmosphere with futuristic undertones. These elements combine to produce music ideal for a nightclub setting or a DJ set designed to keep dancers moving.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-342550/01-1495159-Djfredse-Djfredse - Need Back 2017_cc_Sarrirecords_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_29.mp3",
-                "test_signals/example_29.mp3"
+                "test_signals/example_24.mp3",
+                "test_signals/example_24.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -181,8 +181,8 @@
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_30.mp3",
-                "test_signals/example_30.mp3"
+                "test_signals/example_25.mp3",
+                "test_signals/example_25.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This recording captures a lively and cheerful piece of traditional Irish folk music featuring the distinctive sound of uilleann pipes. The steady, driving rhythm creates a festive atmosphere that feels perfect for accompanying a spirited dance or celebrating in a pub.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/F/e/FelixDoranDoransFancyTheRamblingPitchfork/11Felix_DoranDorans_Fancy_The_Rambling_Pitchfork_64kb_00001.mp3",
+            "caption": "This lively Latin dance track features a rich male vocalist singing over groovy rhythms driven by trumpet, accordion, and percussion. The medium tempo creates an energetic yet romantic atmosphere, ideal for a festive celebration or a bustling nightclub. Although the upload tags suggest a rock genre, the musical content clearly aligns with traditional Latin dance styles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/l/o/los-gedientos-del-rock-en-vivo-en-paraguay-2003/Los Gedientos Del Rock - En Vivo En Paraguay (2003)/06 - soy pata de lana_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_31.mp3",
-                "test_signals/example_31.mp3"
+                "test_signals/example_26.mp3",
+                "test_signals/example_26.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track centers on synthesizers, electronic drums, and a bass synth to create an upbeat, energetic rhythm. Driven by a classic four-on-the-floor beat, the music maintains a danceable quality well-suited for a nightclub setting or high-energy workouts.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-159578/01-1353571-Gigatop Arthur-Just Like Fire_00006.mp3",
+            "caption": "This instrumental hip-hop track features a slow, steady rhythm driven by a strong bass line and simple electronic drums. A male vocalist delivers rapping vocals in a higher register over a dark keyboard sample that creates a tense, foreboding atmosphere. The composition is well-suited for crime thriller soundtracks, particularly during scenes involving suspense or planning.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-208737/01-1182455-Strange Strains-Strange Strains - Gypsy Life_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_32.mp3",
-                "test_signals/example_32.mp3"
+                "test_signals/example_27.mp3",
+                "test_signals/example_27.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece features a lively violin melody accompanied by flute, set against a rhythmic tabla background that creates an upbeat dance atmosphere. The track evokes an energetic mood suitable for an Indian-themed movie or television soundtrack, standing apart from the smoother jazz and saxophone styles often found in similar archival uploads.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-104360/05-887309-SIRUS Francky-entre ciel et terre _00003.mp3",
+            "caption": "This upbeat track features a catchy vocal performance over a groovy bassline and pulsating electronic rhythms. Synthesizers and percussion drive the energetic atmosphere, making it an ideal choice for a dance club or party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/m/amanda-lameche-you-dont-stand-a-chance-audio/Amanda Lameche - You Dont Stand A Chance (Audio)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_33.mp3",
-                "test_signals/example_33.mp3"
+                "test_signals/example_28.mp3",
+                "test_signals/example_28.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece utilizes intricate sound design and organic field recordings to craft an immersive experience without vocals. Driven by the natural chirping of frogs in a binaural recording, the track creates a meditative atmosphere that highlights complex textures and rhythms. The combination of electronic synthesizer elements and raw nature sounds offers a captivating listening journey focused entirely on ambient texture.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_32044_36909/soundmap201605031_00001.mp3",
+            "caption": "This instrumental track blends strong electronic and techno influences with a driving rhythm centered on a prominent, repetitive bassline. Synthesizers and digital drums create an intense, dark atmosphere that feels both futuristic and urgent, ideal for a nightclub setting. The music maintains a hypnotic momentum throughout, emphasizing a pulsating beat that sustains a sense of constant motion.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/h/mhrk390/03 Humanfobia + Lezet - Meld 8 - BooTeeth (Humanphobia rework)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_34.mp3",
-                "test_signals/example_34.mp3"
+                "test_signals/example_29.mp3",
+                "test_signals/example_29.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track serves as an ideal accompaniment for a Spanish-themed party or a romantic evening, featuring acoustic guitars and Latin percussion that create a lively atmosphere. The music combines folk and pop elements to form a perfect background sound for dancing and enjoying the moment.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/i/cinzas-remasterizada/Cinzas (Remasterizada)_00001.mp3",
+            "caption": "This instrumental track blends strong chiptune influences with a modern electronic beat to create an upbeat, danceable rhythm. Rooted in video game music, the song features synthesizers and computer-generated sounds that evoke an energetic and adventurous mood perfect for retro gaming or high-energy workouts.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/s/astrosuka-sofja-inicio/01 astrosuka + sofja - inicio_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_35.mp3",
-                "test_signals/example_35.mp3"
+                "test_signals/example_30.mp3",
+                "test_signals/example_30.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong electronic and industrial influences with a prominent synthesizer line and driving bass. The music builds tension through dynamic shifts, creating a dark and intense mood that feels perfectly suited for a high-stakes video game action sequence.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/h/shampauzen_547/06badweatherisgood_00001.mp3",
+            "caption": "This instrumental track blends strong chiptune influences with a modern electronic beat to create an upbeat, danceable rhythm. Rooted in video game music, the song features synthesizers and computer-generated sounds that evoke an energetic and adventurous mood perfect for retro gaming or high-energy workouts.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/s/astrosuka-sofja-inicio/01 astrosuka + sofja - inicio_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_36.mp3",
-                "test_signals/example_36.mp3"
+                "test_signals/example_30.mp3",
+                "test_signals/example_30.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

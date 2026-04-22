@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track features a slow, steady rhythm driven by a strong bass line and simple electronic drums. A male vocalist delivers rapping vocals in a higher register over a dark keyboard sample that creates a tense, foreboding atmosphere. The composition is well-suited for crime thriller soundtracks, particularly during scenes involving suspense or planning.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-208737/01-1182455-Strange Strains-Strange Strains - Gypsy Life_00001.mp3",
+            "caption": "This instrumental piece is a Lo-fi Hip Hop track that creates a relaxing and calming atmosphere through its slow, steady rhythm. A mellow mix of synthesizer, electric piano, and guitar provides a soothing soundscape ideal for unwinding or studying. The gentle tone offers an unobtrusive soundtrack perfect for meditating or enjoying a peaceful moment in a caf\u00e9.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/u/audio-laffey-dillan-witherow-exhale/[Audio] Laffey & Dillan Witherow - Exhale_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_69.mp3",
-                "test_signals/example_69.mp3"
+                "test_signals/example_55.mp3",
+                "test_signals/example_55.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is a slow, instrumental symphonic piece featuring piano, strings, and synthesizer that creates a calm and relaxing atmosphere. The steady rhythm supports a contemplative mood, making it well-suited for meditation, study, or quiet reflection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-160741/04-1365826-Ambient Samurai - Ichiro NAKAGAWA-Music For For Shinjuku First Weekend With POKEMON GO #4_00002.mp3",
+            "caption": "This instrumental piece is a Lo-fi Hip Hop track that creates a relaxing and calming atmosphere through its slow, steady rhythm. A mellow mix of synthesizer, electric piano, and guitar provides a soothing soundscape ideal for unwinding or studying. The gentle tone offers an unobtrusive soundtrack perfect for meditating or enjoying a peaceful moment in a caf\u00e9.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/u/audio-laffey-dillan-witherow-exhale/[Audio] Laffey & Dillan Witherow - Exhale_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_70.mp3",
-                "test_signals/example_70.mp3"
+                "test_signals/example_55.mp3",
+                "test_signals/example_55.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental techno track with a strong house influence, featuring a repetitive and hypnotic four-on-the-floor beat. Driven by a deep, groovy bassline and energetic synthesizer sounds, the music creates an upbeat atmosphere ideal for a nightclub or dance party.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136294/01-1135322-Ashloft-You Say Hello _Ashloft Original Mix__00001.mp3",
+            "caption": "This energetic track blends techno influences with a strong female vocal performance singing in a high pitch. A keyboard drives the main melody over an upbeat, driving drum beat that creates a lively club atmosphere suitable for dancing. The combination of electronic elements and melodic vocals results in an infectious sound ideal for a party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-112843/01-959845-DJ++-DJ++ - Rain_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_71.mp3",
-                "test_signals/example_71.mp3"
+                "test_signals/example_56.mp3",
+                "test_signals/example_56.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/i/Sina--ViolentThingsEpkopp-14/Sina.-ViolentThingsEpkopp.14/[Kopp.14].Sina. 02 - Veil Of Tears_00001.mp3",
+            "caption": "This intense piece exemplifies extreme metal through its relentless rhythm and chaotic blend of death and grindcore elements. Distorted electric guitars, aggressive bass lines, and fast acoustic drums drive the track with a heavy, violent energy that evokes scenes from a mosh pit or high-stakes action sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/h/the-zacto-smile-music-from-the-zach-hill-pit-vol--2/Illiterate Mind Reader - The Zacto Smile (Music From The Zach Hill Pit Vol. 2) - 05 Ear Masturbation Face_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_72.mp3",
-                "test_signals/example_72.mp3"
+                "test_signals/example_57.mp3",
+                "test_signals/example_57.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece creates a relaxing and atmospheric soundscape without any vocals, focusing on the subtle interaction of natural elements. The track captures gentle wind moving through a barley field, establishing a quiet ambiance that feels both meditative and grounded in nature.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_32967_37871/walhainventorge070814h30_00001.mp3",
+            "caption": "This intense piece exemplifies extreme metal through its relentless rhythm and chaotic blend of death and grindcore elements. Distorted electric guitars, aggressive bass lines, and fast acoustic drums drive the track with a heavy, violent energy that evokes scenes from a mosh pit or high-stakes action sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/h/the-zacto-smile-music-from-the-zach-hill-pit-vol--2/Illiterate Mind Reader - The Zacto Smile (Music From The Zach Hill Pit Vol. 2) - 05 Ear Masturbation Face_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_73.mp3",
-                "test_signals/example_73.mp3"
+                "test_signals/example_57.mp3",
+                "test_signals/example_57.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This recording captures a lively and cheerful piece of traditional Irish folk music featuring the distinctive sound of uilleann pipes. The steady, driving rhythm creates a festive atmosphere that feels perfect for accompanying a spirited dance or celebrating in a pub.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/F/e/FelixDoranDoransFancyTheRamblingPitchfork/11Felix_DoranDorans_Fancy_The_Rambling_Pitchfork_64kb_00001.mp3",
+            "caption": "This instrumental track blends strong electronic and techno influences with a prominent bassline and a repetitive, driving beat. Atmospheric elements like vinyl crackle and white noise create a dark, immersive mood supported by synthesizers and computer-generated sounds. The piece avoids vocals to let the futuristic instrumentation take center stage, offering an energetic yet somber listening experience.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/P/o/PoliticsApocalypse/PoliticsApocalypse192kbpsMp3/Politics Apocalypse MP3/Politics Apocalypse - 08 - revelation_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_74.mp3",
-                "test_signals/example_74.mp3"
+                "test_signals/example_58.mp3",
+                "test_signals/example_58.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track combines driving electronic drums and synthesizers with a repetitive four-on-the-floor bassline typical of deep house and techno. The dark and intense mood creates an energetic, suspenseful atmosphere that is ideal for a nightclub setting or a high-energy workout session.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-166630/01-1429777-Gigatop Arthur-Another Night_00005.mp3",
+            "caption": "This instrumental techno track features a fast-paced rhythm driven by a powerful kick drum and deep, resonant synth bass. A loud synthesizer lead creates an energetic and intense atmosphere that feels perfect for the soundtrack of a video game or movie scene. The overall sound is futuristic and driving, suitable for high-energy settings like club environments or dangerous chases.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123236/03-1046071-Cleycee-Claycee - Michito_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_75.mp3",
-                "test_signals/example_75.mp3"
+                "test_signals/example_59.mp3",
+                "test_signals/example_59.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat track features a catchy vocal performance over a groovy bassline and pulsating electronic rhythms. Synthesizers and percussion drive the energetic atmosphere, making it an ideal choice for a dance club or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/m/amanda-lameche-you-dont-stand-a-chance-audio/Amanda Lameche - You Dont Stand A Chance (Audio)_00001.mp3",
+            "caption": "This instrumental techno track features a fast-paced rhythm driven by a powerful kick drum and deep, resonant synth bass. A loud synthesizer lead creates an energetic and intense atmosphere that feels perfect for the soundtrack of a video game or movie scene. The overall sound is futuristic and driving, suitable for high-energy settings like club environments or dangerous chases.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123236/03-1046071-Cleycee-Claycee - Michito_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_76.mp3",
-                "test_signals/example_76.mp3"
+                "test_signals/example_59.mp3",
+                "test_signals/example_59.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is an instrumental track with a minimalist approach, featuring only a drum machine and a shaker. The absence of vocals allows the listener to focus on the intricate rhythms and textures created by these simple percussion elements.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/h/cherry-blossom-noel-eldho-nommy/noel_eldho_nommy-creeps_night_noel_s_music_org_00001.mp3",
+            "caption": "A male vocalist sings in a higher register over a slow, steady Celtic melody accompanied by strings and a harp. The piece maintains a melancholic and reflective mood that suits scenes of loss or deep contemplation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-115935/06-984887-Maya _ Bardoseneticcube-Maya _ Bardoseneticcube - 06 - VI_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_77.mp3",
-                "test_signals/example_77.mp3"
+                "test_signals/example_60.mp3",
+                "test_signals/example_60.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an alternative rock track featuring a male vocalist singing over steady drumming and keyboard harmony. The music maintains a romantic and groovy atmosphere, blending indie influences with youthful energy.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-135933/08-1133209-Javier de Lucas-La nina de la playa_00006.mp3",
+            "caption": "This musical piece creates a soothing atmosphere through a blend of acoustic and electric guitars, offering a modern twist on a folk-inspired sound. The slow tempo and gentle rhythm driven by soft drums provide an intimate setting ideal for relaxation or quiet introspection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-275462/01-1178491-Cristian Romanus-Cristian Romanus - Lua e estrela Ensaio_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_78.mp3",
-                "test_signals/example_78.mp3"
+                "test_signals/example_61.mp3",
+                "test_signals/example_61.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

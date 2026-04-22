@@ -50,8 +50,176 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong electronic and synth-driven sound that establishes a dynamic, energetic atmosphere. Powered by synthesizers and pulsating basslines, the piece creates an ideal soundtrack for futuristic themes or game environments. The driving electronic beat sustains a consistent rhythm throughout the composition, emphasizing its modern and immersive quality.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/f/r/fresh-starts-04/fresh starts-05_00001.mp3",
+            "caption": "This purely instrumental piece features a slow, steady rhythm driven by strings like the violin and cello, alongside piano to create a rich, melancholic texture. The resulting atmosphere is deeply somber and reflective, offering an immersive soundscape perfect for quiet contemplation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-194901/02-1775228-Ambient Samurai - Ichiro NAKAGAWA-Song For Quietly Fading Universe_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_15.mp3",
+                "test_signals/example_15.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 3",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track features ambient synth pads that establish a serene and relaxing atmosphere. Its slow, steady rhythm creates a gentle pulse ideal for meditation or as calming background music.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130213/05-1091255-Ambient Samurai - Ichiro NAKAGAWA-Music For Unintended Paradise _____________00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_16.mp3",
+                "test_signals/example_16.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 4",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track features a danceable beat driven by synthesizers, a groovy bassline, and digital drums. Although it includes vocal samples and a catchy hook, the overall sound aligns with deep house and minimal genres, creating an upbeat atmosphere perfect for a nightclub or party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/2/02-ramond-baker-multiplays-multiplace-multiple-multiplied-mix/01 Ramond Baker feat Basement Jaxx Barrington Levy - Empty Places_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_17.mp3",
+                "test_signals/example_17.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 5",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track features a danceable beat driven by synthesizers, a groovy bassline, and digital drums. Although it includes vocal samples and a catchy hook, the overall sound aligns with deep house and minimal genres, creating an upbeat atmosphere perfect for a nightclub or party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/2/02-ramond-baker-multiplays-multiplace-multiple-multiplied-mix/01 Ramond Baker feat Basement Jaxx Barrington Levy - Empty Places_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_17.mp3",
+                "test_signals/example_17.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 6",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/i/Sina--ViolentThingsEpkopp-14/Sina.-ViolentThingsEpkopp.14/[Kopp.14].Sina. 02 - Veil Of Tears_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -90,10 +258,52 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 3",
+            "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track delivers an energetic house beat driven by a strong bassline and electronic drumming. The fast-paced rhythm creates an upbeat atmosphere ideal for a nightclub or rave setting, featuring prominent synth melodies and computer-generated sounds.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141345/09-1173605-Hasenchat-23 HuHu Dance_00003.mp3",
+            "caption": "This piece is a beautiful example of instrumental music, featuring a gentle piano that creates a peaceful and introspective mood. The slow tempo allows the listener to focus on the soothing melodies and harmonies without any vocals.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/i/Sina--ViolentThingsEpkopp-14/Sina.-ViolentThingsEpkopp.14/[Kopp.14].Sina. 02 - Veil Of Tears_00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_18.mp3",
+                "test_signals/example_18.mp3"
+            ],
+            "prompts": {
+                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
+                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
+            },
+            "scale": {
+                "type": "discrete",
+                "alignment": "horizontal",
+                "labels": [
+                    "1 (worst)",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7 (best)"
+                ],
+                "values": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Sample 8",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This folk song features a romantic yet melancholic violin melody supported by simple accompaniment from guitar and viola. The gentle instrumentation creates an intimate atmosphere suitable for emotional scenes, reinforcing the piece's ballad-like quality.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/i/hiawatha-telephone-company-passengers-greatest-hits/Hiawatha Telephone Company - Passengers Greatest Hits - 11 Song about time_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -132,10 +342,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 4",
+            "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental percussion track features a groovy rhythm driven by congas, bongos, and cajas chinas. The music relies on complex polyrhythms and syncopated patterns to create an energetic and engaging backdrop suitable for dance classes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/a/cajas-chinas/Cajas Chinas_00003.mp3",
+            "caption": "This piece is a perfect example of traditional Middle Eastern music, featuring the mesmerizing sounds of the oud and lute. The arrangement relies on rhythmic beats from the tabla and melancholic notes from the darbuka to showcase this ancient art form. Without vocals, the listener can fully immerse themselves in the rich cultural tapestry presented by these distinctive instruments.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/u/z/uzak-sehir-yuzlesme-v2-rl/Uzak \u015eehir - Y\u00fczle\u015fme V2 RL_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -174,10 +384,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 5",
+            "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a female vocalist singing in a melodious style, accompanied by the harmonium and tabla to create a romantic atmosphere. Bird sounds can be heard in the background, suggesting this piece is suitable for an Indian romance movie soundtrack. The overall sound reflects a vintage South Asian musical tradition with a warm and inviting mood.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/w/w/www-VintageSense-com-Vintage-Indian-Music-62n/12202_indian_music_vintagesense.com_1966_lalBungla1966-SumanKalyanpur-Aa---SunayiDeNaDeTumKo2-UshaKhanna_vintagesense.com_song_id_12202_00002.mp3",
+            "caption": "This instrumental composition features a cinematic score that begins with a gentle xylophone melody before swelling into an intense orchestral climax. The piece utilizes a rich array of instruments, including strings, cello, and brass sections, to create a dramatic atmosphere suitable for film. Ultimately, the track serves as a powerful soundtrack designed to evoke strong emotions through its dynamic build-up.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/e/s/esfores-4-disc2-songs-to-pork-it-to/Disc Two/29 Anonymous - [s4s] Symphonic Poem_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -216,225 +426,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 6",
+            "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This purely instrumental piece features a slow, steady rhythm driven by strings like the violin and cello, alongside piano to create a rich, melancholic texture. The resulting atmosphere is deeply somber and reflective, offering an immersive soundscape perfect for quiet contemplation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-194901/02-1775228-Ambient Samurai - Ichiro NAKAGAWA-Song For Quietly Fading Universe_00001.mp3",
+            "caption": "This lively and cheerful Latin pop song features a female vocalist singing in a high-pitched voice over a fast acoustic guitar and groovy bass. An energetic accordion drives the upbeat rhythm, creating a happy atmosphere suitable for festive scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-064009/01-549705-Banda Patinko-Banda Patinko - Beijinho - ao-vivo_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
                 "test_signals/example_22.mp3",
                 "test_signals/example_22.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 7",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of a solo piano composition featuring a slow tempo that allows listeners to appreciate intricate melodies and harmonies. The music adopts a minimalist approach with a gentle, flowing rhythm designed to create a contemplative and introspective mood. This calm and peaceful soundscape invites deep reflection on personal emotions without any vocal distraction.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/h/the-notes-of-the-hourglass/The Notes Of The Hourglass_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_23.mp3",
-                "test_signals/example_23.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 8",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This acoustic piece features a lively, guitar-driven melody that creates an uplifting and engaging sense of forward motion. The steady rhythm supports the folk-inspired sound, making it suitable for a cheerful campfire gathering or a countryside road trip. While related songs suggest a festive or reflective mood, this specific segment stands out as an energetic instrumental highlight from a parody cover band.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/r/brony-soul/Brony Soul/Bucking that Wood (Norwegian Wood)_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_24.mp3",
-                "test_signals/example_24.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 9",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This musical piece creates a soothing atmosphere through a blend of acoustic and electric guitars, offering a modern twist on a folk-inspired sound. The slow tempo and gentle rhythm driven by soft drums provide an intimate setting ideal for relaxation or quiet introspection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-275462/01-1178491-Cristian Romanus-Cristian Romanus - Lua e estrela Ensaio_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_25.mp3",
-                "test_signals/example_25.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This experimental piece blends ambient and electronic elements with a dark, eerie atmosphere driven by synthesizers and haunting voice samples. A slow, hypnotic rhythm combined with ominous sound effects creates a mysterious tension that fits the genre's abstract style. The track maintains a steady, heavy mood throughout, emphasizing an unsettling and immersive listening experience.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/g/tg20-virtualreligion/Helplessness/helplessness_vox2_back_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_26.mp3",
-                "test_signals/example_26.mp3"
-            ],
-            "prompts": {
-                "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
-                "1": "Does this description contain information that is unrelated to the audio clip? Rate on a scale from 1 (entire caption completely unrelated to the audio clip) to 7 (completely related)"
-            },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Sample 11",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features ambient synth pads that establish a serene and relaxing atmosphere. Its slow, steady rhythm creates a gentle pulse ideal for meditation or as calming background music.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130213/05-1091255-Ambient Samurai - Ichiro NAKAGAWA-Music For Unintended Paradise _____________00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_27.mp3",
-                "test_signals/example_27.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",

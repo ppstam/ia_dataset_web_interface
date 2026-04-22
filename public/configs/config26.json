@@ -50,13 +50,13 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track combines driving electronic drums and synthesizers with a repetitive four-on-the-floor bassline typical of deep house and techno. The dark and intense mood creates an energetic, suspenseful atmosphere that is ideal for a nightclub setting or a high-energy workout session.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-166630/01-1429777-Gigatop Arthur-Another Night_00005.mp3",
+            "caption": "This instrumental techno track features a fast-paced rhythm driven by a powerful kick drum and deep, resonant synth bass. A loud synthesizer lead creates an energetic and intense atmosphere that feels perfect for the soundtrack of a video game or movie scene. The overall sound is futuristic and driving, suitable for high-energy settings like club environments or dangerous chases.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123236/03-1046071-Cleycee-Claycee - Michito_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_75.mp3",
-                "test_signals/example_75.mp3"
+                "test_signals/example_59.mp3",
+                "test_signals/example_59.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -92,13 +92,13 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat track features a catchy vocal performance over a groovy bassline and pulsating electronic rhythms. Synthesizers and percussion drive the energetic atmosphere, making it an ideal choice for a dance club or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/m/amanda-lameche-you-dont-stand-a-chance-audio/Amanda Lameche - You Dont Stand A Chance (Audio)_00001.mp3",
+            "caption": "This instrumental techno track features a fast-paced rhythm driven by a powerful kick drum and deep, resonant synth bass. A loud synthesizer lead creates an energetic and intense atmosphere that feels perfect for the soundtrack of a video game or movie scene. The overall sound is futuristic and driving, suitable for high-energy settings like club environments or dangerous chases.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123236/03-1046071-Cleycee-Claycee - Michito_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_76.mp3",
-                "test_signals/example_76.mp3"
+                "test_signals/example_59.mp3",
+                "test_signals/example_59.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -134,13 +134,13 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is an instrumental track with a minimalist approach, featuring only a drum machine and a shaker. The absence of vocals allows the listener to focus on the intricate rhythms and textures created by these simple percussion elements.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/c/h/cherry-blossom-noel-eldho-nommy/noel_eldho_nommy-creeps_night_noel_s_music_org_00001.mp3",
+            "caption": "A male vocalist sings in a higher register over a slow, steady Celtic melody accompanied by strings and a harp. The piece maintains a melancholic and reflective mood that suits scenes of loss or deep contemplation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-115935/06-984887-Maya _ Bardoseneticcube-Maya _ Bardoseneticcube - 06 - VI_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_77.mp3",
-                "test_signals/example_77.mp3"
+                "test_signals/example_60.mp3",
+                "test_signals/example_60.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -176,13 +176,13 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an alternative rock track featuring a male vocalist singing over steady drumming and keyboard harmony. The music maintains a romantic and groovy atmosphere, blending indie influences with youthful energy.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-135933/08-1133209-Javier de Lucas-La nina de la playa_00006.mp3",
+            "caption": "This musical piece creates a soothing atmosphere through a blend of acoustic and electric guitars, offering a modern twist on a folk-inspired sound. The slow tempo and gentle rhythm driven by soft drums provide an intimate setting ideal for relaxation or quiet introspection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-275462/01-1178491-Cristian Romanus-Cristian Romanus - Lua e estrela Ensaio_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_78.mp3",
-                "test_signals/example_78.mp3"
+                "test_signals/example_61.mp3",
+                "test_signals/example_61.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -218,13 +218,13 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This animated Electronic/Synthpop track features a male lead vocalist backed by singers, delivering a romantic and emotional narrative driven by steady drumming and keyboard harmonies. The composition blends a strong bass line with piano melodies to create a medium-tempo ballad well-suited for scenes in a romantic movie.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-156759/05-1322621-Jurgen Koster-Triumph der Sehnsucht_00005.mp3",
+            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/f/jfk-the-other-side-ep/JFK Ft. Mosidon - Ji Masun _ 360nobsdegreess.com_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_79.mp3",
-                "test_signals/example_79.mp3"
+                "test_signals/example_62.mp3",
+                "test_signals/example_62.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -260,13 +260,13 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece blends electronic elements with traditional Chinese instruments like the guzheng and pipa to create a mysterious and adventurous soundscape. A steady, percussive rhythm drives the track, supporting a repetitive melodic line that maintains an engaging momentum throughout. The fusion of modern synthesis with authentic cultural percussion adds a distinct layer of depth to this experimental composition.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/e/tell-me-i-is-it-time/13 Sky Line Self-Similar_00001.mp3",
+            "caption": "This instrumental track blends a driving reggae beat with a groovy bassline and electronic drums to create an upbeat, danceable atmosphere. A male vocalist provides rhythm over the complex keyboard accompaniment, resulting in sound that feels perfect for a club or party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/f/jfk-the-other-side-ep/JFK Ft. Mosidon - Ji Masun _ 360nobsdegreess.com_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_80.mp3",
-                "test_signals/example_80.mp3"
+                "test_signals/example_62.mp3",
+                "test_signals/example_62.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -302,13 +302,13 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track explores the vastness of space using atmospheric synthesizers and expansive effects like reverb to create an ethereal soundscape. The slow tempo and lack of vocals foster a sense of mystery, allowing listeners to fully immerse themselves in this otherworldly electronic piece.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113883/01-968025-LongTriggerMusic-Barks _amp_ Crock - Run Away_Moan _Remix__00001.mp3",
+            "caption": "This instrumental techno track relies on synthesizers, a drum machine, and a bass line to create a steady, mid-tempo groove. The repetitive loops establish a dark and mysterious atmosphere suitable for a nightclub or DJ set.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124065/01-1053125-Max Mineyev-Max Mineyev - Music _00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_81.mp3",
-                "test_signals/example_81.mp3"
+                "test_signals/example_63.mp3",
+                "test_signals/example_63.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -344,13 +344,13 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A male vocalist raps over a driving synth bass and piano melody within a hip-hop track that maintains a dark, intense atmosphere. A strong and steady drum beat propels the medium-tempo groove, creating a serious mood suitable for scenes in a crime drama or video game.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/l/alchemist-of-silence/01. The First Breath of the Wire_00003.mp3",
+            "caption": "This instrumental track is specifically designed for a church service, featuring a choir and organ that blend with electric guitar to create a rich sound. The rhythm remains slow and steady, emphasizing the bass line while maintaining a solemn and reverent atmosphere suitable for contemplation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-152770/08-1280319-Ambient Samurai - Ichiro NAKAGAWA-Some Phrases  From _quot_Caramel Song_quot_ Of  Zettai Reido III_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_82.mp3",
-                "test_signals/example_82.mp3"
+                "test_signals/example_64.mp3",
+                "test_signals/example_64.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -386,13 +386,13 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This intense instrumental track blends fast-paced metal influences with electronic elements to create a loud and aggressive mood. A driving rhythm, supported by heavy bass lines and sharp synthesizers, generates a sense of urgency perfect for high-energy action scenes or video game boss battles. The overall sound feels dark and powerful, seamlessly merging underground punk energy with modern electronic textures.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/M/u/MurdaHorse-SquatRotterEpskfree039/MurdaHorse-SquatRotterEpskfree039/Murda Horse - Squat Rotter EP [SKFREE039]/04 Ultramessheadfuckingviolence_00001.mp3",
+            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_83.mp3",
-                "test_signals/example_83.mp3"
+                "test_signals/example_65.mp3",
+                "test_signals/example_65.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
@@ -428,13 +428,13 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This orchestral composition features a prominent string section that provides a steady, dramatic pulse throughout the track. While electronic synthesizers add layers of depth and richness to the sound, the overall atmosphere remains somber and melancholic. The piece evokes a sense of introspection and sadness, making it well-suited for scenes involving loss or deep emotional weight.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-126107/02-1066737-KueBass-Where is Here_00001.mp3",
+            "caption": "This instrumental composition blends a keyboard and string section with a choir to create a dark, mysterious atmosphere suitable for film soundtracks. The slow tempo allows listeners to immerse themselves in the grandeur of the music, while the dramatic mood evokes a sense of tension or foreboding. Although similar tracks often feature harp or mallet percussion, this piece relies on the synthesized strings and vocal depth to build its suspenseful narrative.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/l/blue-dot-sessions-earthmover/04 - Pressure Build_00007.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_84.mp3",
-                "test_signals/example_84.mp3"
+                "test_signals/example_65.mp3",
+                "test_signals/example_65.mp3"
             ],
             "prompts": {
                 "0": "How correct is the information in the caption with relation to the audio? Rate on a scale from 1 (worst, incorrect information) to 7 (best, accurate information)",
