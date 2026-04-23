@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is a lively, instrumental passage from Igor Stravinsky's 1932 recording of *L'Histoire du soldat*, featuring a spirited violin solo within a septet ensemble. The performance includes a dynamic rhythm driven by brass instruments, woodwinds, and percussion, creating an energetic atmosphere suitable for scenes requiring high intensity. Despite the archival note that the audio quality may be imperfect, the arrangement captures a distinctively upbeat and adventurous mood characteristic of the work.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/T/STRAVINSKYLHistoireDuSoldat-Stravinsky-NEWTRANSFER/04.TheDevilsDance_00001.mp3",
+            "caption": "This track by Schermann blends rock and pop elements with an energetic, catchy guitar riff that drives the medium-tempo arrangement. Despite being primarily instrumental in structure, the segment features a distinct vocal line over a groovy bass line and steady drumming. The overall mood remains lively and engaging, supported by consistent electric guitar work throughout.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-137710/10-1148507-Schermann-Love On The Rocks_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features an electric guitar playing a solo melody over a fast-paced acoustic drum beat. The energetic and upbeat atmosphere makes the piece suitable for a video game soundtrack or a movie's fast-paced action scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-064879/02-558633-Sinyris-Sinyris - Comme un debut_00003.mp3",
+            "caption": "This energetic track is an instrumental piece featuring a driving, fast tempo and a repetitive, hypnotic melody. Powered by synthesizers and a pulsating beat, the music creates a vibrant atmosphere suitable for a club setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-131188/03-1099583-Noblemo _electro,techno,house_-pegase_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat techno track features a strong electronic beat driven by synthesizers and digital drums, creating an energetic atmosphere ideal for a nightclub or rave. The music incorporates a male vocal sample within its hypnotic and repetitive rhythm, making it highly danceable for DJ sets. Overall, the piece combines vibrant electronic arrangements with a pulsating groove perfectly suited for party scenes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110301/01-939346-Djfredse-Djfredse-Think Outside_00003.mp3",
+            "caption": "Magnetik Bomb delivers an aggressive instrumental track driven by fast tempos and heavy bass lines. This relentless, high-energy sound creates a powerful atmosphere suitable for intense raves or extreme sports, primarily utilizing synthesizers and drum machines to achieve its dynamic effect.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-116655/01-991599-Magnetik Bomb-verdoppeln_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong electronic and techno influences with a prominent synthesizer lead and a driving bassline. The steady drumbeat creates an intense, energetic groove punctuated by glitchy elements, evoking a futuristic atmosphere ideal for action sequences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/o/positive-pressure-5/Positive Pressure_5  _00001.mp3",
+            "caption": "This segment features a minimalist instrumental track with a steady rhythm and a repetitive melody played on a glockenspiel. The soft, mallet-driven sound creates a calm and innocent atmosphere that is well-suited for a lullaby or a peaceful scene in animation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-549236/01-2133378-Christian Zell-Stones_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This is a romantic pop rock track featuring a male vocalist with medium tempo drumming and a strong bass line. The music conveys a passionate theme about love transcending distance, blending melodic guitar work with an uplifting emotional tone. While instrumental elements provide a solid foundation, the presence of vocals adds a human touch to the story of eternal connection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/m/amor-sin-fronteras-cosmicas/Amor Sin Fronteras Cosmicas_00003.mp3",
+            "caption": "This instrumental piece is an aggressive heavy metal track driven by fast, complex guitar riffs and powerful drumming. The music creates a dark and intense atmosphere that fits well with high-energy scenarios like video game combat or action sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-132551/06-1109054-Raen-Oracle_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a funky, groovy vibe driven by an energetic electric guitar and a solid bassline. The medium tempo creates a lively atmosphere that blends upbeat musical elements with a clear rhythmic foundation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-125753/03-1064631-Supersly-Why Did That Guy Beat You_00001.mp3",
+            "caption": "Freedom Assault delivers an aggressive hardcore punk track titled \"Welcome to 1984\" featuring heavy guitar riffs and rapid drumming. A raspy male voice sings in a high pitch over the chaotic instrumentation, creating a violent and intense atmosphere typical of the genre's crust substyle. The song's raw energy makes it fitting for a horror movie soundtrack or similar dark media contexts.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/W/e/WelcomeTo1984/FreedomAssault-02-TerrorFront_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track from the video game Dragon Engine features a fast tempo and heavy drumming that creates an intense, driving rhythm. The music blends electric guitar with aggressive metal elements to establish a powerful atmosphere suitable for high-stakes action scenes like combat or boss battles. Overall, the composition delivers an energetic mood defined by its loud, forceful sound and repetitive beat.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/D/r/DragonEngineCDfix/Soul_Of_Fire-Dragon_Engine-07-Access_Denied_00001.mp3",
+            "caption": "This instrumental techno track features a strong beat and synthesizer layers that create an upbeat, energetic atmosphere perfect for a nightclub. A male vocal sample drives the repetitive, hypnotic rhythm, making it an ideal choice for DJ sets at dance parties.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110301/01-939346-Djfredse-Djfredse-Think Outside_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This classical piece features a full orchestra with a prominent string section and a delicate flute melody. The slow tempo creates a serene atmosphere, enhanced by the added depth of piano and subtle bass lines for a captivating listening experience.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-402698/01-1403591-Alejandro Vallarino-Peer Gynt Suite No 1 Op 46 Morning Mood_00001.mp3",
+            "caption": "This segment features a driving instrumental track powered by pulsating synthesizers and a strong computer-generated beat. While the sound blends elements of electronic music with dark intensity, it maintains an energetic rhythm suited for a nightclub atmosphere. The overall vibe is atmospheric and deep, relying heavily on synthesized basslines to create a unique sonic texture.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/u/n/unless-they-show-their-faces-2/Unless They Show Their Faces_2  _00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental rock track driven by a strong, steady beat featuring prominent electric guitar riffs and acoustic drums. The music creates an energetic and slightly tense atmosphere that builds momentum, making it ideal for high-action scenes in movies or TV shows.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/d/j/dj-3-6-retrogens-vu-bad-hero/DJ 3.6 Retrogens - Vu Bad Hero_00001.mp3",
+            "caption": "An acapella choir performance drives a serene and dreamy atmosphere through the smooth, legato style of its lead vocalist. The harmony of the group singers creates a flowing rhythm that feels perfect for spiritual scenes or quiet meditation without any instrumental backing.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/V/T/VTMB25-filk-SerenaEW/Voiceteam! final_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track features a driving bassline and fast-paced synthesizers that create an energetic, repetitive rhythm ideal for dancing. The upbeat sound generates a strong dance groove perfectly suited for a nightclub or rave environment.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133940/03-1121121-_xutive-Flash__00004.mp3",
+            "caption": "This energetic track blends heavy metal and rock influences with powerful male vocals and driving electric guitar riffs. The aggressive sound, underscored by strong percussion, creates an intense atmosphere well-suited for high-stakes action sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141027/02-1171323-___ ______-____ _ ___________00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

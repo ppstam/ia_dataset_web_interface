@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a female vocalist singing in a melodious style, accompanied by the harmonium and tabla to create a romantic atmosphere. Bird sounds can be heard in the background, suggesting this piece is suitable for an Indian romance movie soundtrack. The overall sound reflects a vintage South Asian musical tradition with a warm and inviting mood.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/w/w/www-VintageSense-com-Vintage-Indian-Music-62n/12202_indian_music_vintagesense.com_1966_lalBungla1966-SumanKalyanpur-Aa---SunayiDeNaDeTumKo2-UshaKhanna_vintagesense.com_song_id_12202_00002.mp3",
+            "caption": "This instrumental track features a male voice speaking in a foreign language over a groovy bass line and steady drumming rhythm. An electric guitar provides a unique touch to the lively sound, creating an energetic atmosphere suitable for a movie soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139239/07-1159608-Gamssy Ghoulz-Le train_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock piece features a slow tempo and a melancholic mood, driven by a steady foundation of electric guitar, bass, and acoustic drums. Keyboard accompaniment adds emotional depth to the sentimental sound, creating an atmosphere reminiscent of a movie soundtrack.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134661/01-1125521-Thoola-Manuscripts_00006.mp3",
+            "caption": "A warm and intimate acoustic performance features a solo vocal delivered alongside an emotive guitar melody. The slow, steady rhythm creates a meditative atmosphere that evokes the cozy feeling of a personal story being shared in a home setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-122637/03-1041066-___-Letters From Below _The River__00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track features a fast tempo driven by a strong four-on-the-floor beat, synthesizers, and digital drums. The pulsating bassline and repetitive synth patterns create an intense, futuristic atmosphere ideal for a nightclub or rave.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-170163/12-1467510-Howarang Van K-Stop_00002.mp3",
+            "caption": "This instrumental track employs a minimalistic approach, relying solely on a drum machine and synth bass to create a steady beat. The simple, repetitive rhythm generates a hypnotic and chill atmosphere that feels perfect for background music during a casual hangout.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/y/hypocrite-1/Hypocrite_1 _00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track combines a strong electronic dance music influence with an upbeat and energetic mood. A prominent synth lead drives the melody over a steady four-on-the-floor drum beat, creating a pulsating rhythm ideal for a nightclub or party setting. The sound is defined by its synthesizer textures and consistent bassline, reinforcing its suitability as a high-energy dance piece.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-151941/01-1272528-Gigatop Arthur-This summer_00005.mp3",
+            "caption": "This instrumental track features a prominent synthesizer lead and a driving bassline that create an infectious, high-energy rhythm. With its pulsating electronic drums and futuristic mood, the music is perfectly suited for a nightclub or rave setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110213/01-938688-Fragman _D.W.A_-The Palindrom_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "An alternative/indie rock piece features a male vocalist singing melodically while an electric guitar carries the main tune. The track maintains an easygoing atmosphere with a steady rhythm provided by acoustic drums, making it suitable for background music in a rock bar.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-152778/05-1281032-An Amerikan Automobile Company-Isabel_00006.mp3",
+            "caption": "An upbeat pop song featuring a strong drumming rhythm and groovy bass line sets an energetic tone for the track. A female vocalist delivers higher-pitched singing over synthesizer and electric guitar accompaniment, creating a lively vibe perfect for a dance party.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-notte-1/Notte 1_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track captures a cool and groovy vibe, driven by a simple bassline and a repetitive electric guitar riff. The steady rock beat creates a relaxed atmosphere that feels perfect for a casual jam session or a road trip with friends.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/r/e/repetidores_en_la_calle/03_moje_arriero_00001.mp3",
+            "caption": "This instrumental rock track features a steady, upbeat rhythm driven by drums, electric guitar, and bass. The energetic groove creates a lively atmosphere that suits settings like a road trip or a busy bar.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-121113/02-1029777-Kamil Muzyk _Howarang Van K_-Sailor Omsga_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This intense segment is an instrumental heavy metal track featuring a distorted electric guitar playing power chords alongside a fast-paced drum beat and bass. The aggressive atmosphere creates a driving energy well-suited for video game soundtracks or action movie scenes. Although KNN suggestions hint at darker rock tones, the core sound remains firmly rooted in high-energy metal instrumentation without vocals.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/M/a/MaamutSisenaExtincioMassiva/04 Destroyer reprise!_00001.mp3",
+            "caption": "This segment is an instrumental death metal track featuring fast-paced rhythms, aggressive guitar riffs, and complex drumming. The driving bass line and high-energy atmosphere make it ideal for intense video game combat or boss battle scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-187414/05-1682093-Fremito-Copperiedus_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This classical orchestral piece features a slow, flowing rhythm driven by the interplay of violin and cello. A melancholic melody carried by these strings builds a sense of drama and tension within an otherwise somber mood. The composition evokes deep introspection, making it well-suited for a historical drama or a moment of reflection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-174020/02-1545465-Ivan Dolgunov-Duet for Violin and Viola, K.423 Adagio_00002.mp3",
+            "caption": "This segment features an instrumental cover of a classical guitar piece with a slow, steady rhythm that creates a calm atmosphere. The melody remains simple and repetitive, allowing the listener to focus on the melancholic and introspective mood of the solo performance.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-156627/04-1321118-Aufklarung-Chiaroscuro_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental segment presents a slow rock ballad defined by a steady drumming rhythm and a simple, repetitive bass line. A guitar solo plays in a clean tone over this foundation, creating an emotional atmosphere suitable for a live concert setting. The overall sound blends the stability of a structured rhythm with the expressive clarity of electric guitar work.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-604978/01-2257327-Christian Zell-Red Bead 4.3_00001.mp3",
+            "caption": "This instrumental track blends funky rock and psychedelic influences to create a groovy, energetic atmosphere driven by electric guitar and bass. A variety of sound effects complement the medium tempo, giving the piece a distinct retro vibe suitable for live performances or vintage-themed media.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-117440/01-998392-Sur Non-Pepsi The Cat_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece serves as a grand and emotional backdrop ideal for a cinematic movie scene, driven by a rich full orchestra and steady rhythm. The composition blends the warmth of strings and piano with ethereal elements from a choir to create a dramatic yet calming soundscape. Ultimately, its sweeping quality offers a sense of introspection perfect for an epic or romantic narrative moment.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-059288/11-506154-A.K.1974-A.K.1974 - The End_00001.mp3",
+            "caption": "A beautiful classical piano solo features a slow, steady rhythm that creates a melancholic and introspective mood. The gentle pulse of the music allows the listener to fully immerse themselves in its emotional depth while showcasing the instrument's expressive capabilities. This stunning performance leaves a lasting impression through its deliberate pace and profound sorrow.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134343/07-1123697-Spinozar-Infinite Regress_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

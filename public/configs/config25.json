@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is an instrumental cinematic score that blends strings, synthesizers, and electronic drums to build a dramatic and intense atmosphere. The music features slow, atmospheric soundscapes designed to enhance a sense of grandeur and epic storytelling suitable for film trailers or game sequences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-165832/04-1421542-Olegnov-Fill you Africa_00004.mp3",
+            "caption": "This track is a beautiful example of a game soundtrack, specifically in the style of a Japanese role-playing game. It features a prominent, melancholic piano melody supported by a lush string section that creates a slow and steady rhythm. The overall mood is deeply nostalgic and wistful, making it well-suited for peaceful exploration or reflective cutscenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-119449/04-1014470-KPHB-piano_d0_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track relies heavily on synthesizers, a driving bassline, and repetitive electronic drums to create an energetic atmosphere. The dark and intense mood generates a sense of urgency that is well-suited for a nightclub or rave environment where the pulsating beats can immerse listeners in a hypnotic experience.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-172049/06-1490385-Kamil Muzyk _Howarang Van K_-Do You Want To Play A Game _Mix Edit__00001.mp3",
+            "caption": "This instrumental rock track by Mickael Huchet features a clean electric guitar melody supported by a groovy bass and punchy snare. The steady rhythm and upbeat mood create an energetic atmosphere that works well for various scenarios.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-356666/01-1375833-Mickael Huchet-Marco_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental techno track driven by repetitive synthesizers, a prominent bassline, and electronic drums. The dark and intense mood features a driving four-on-the-floor beat that creates a sense of urgency. These sonic elements combine to form a classic example of electronic music designed for dance floors or raves.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/a/paraphenalia-litter-5-2b-2-7/Paraphenalia Litter_5_2b -2_7  _00001.mp3",
+            "caption": "This instrumental track features a gentle piano melody layered with synthesizer textures and steady electronic drums. The relaxed groove creates a calm atmosphere suitable for background listening in settings like a caf\u00e9 or during yoga.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123618/01-1049592-Thibaut Le Flem-Serenity_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track serves as a perfect accompaniment for a cozy coffee shop, where soothing acoustic guitar and a gentle rhythm establish a relaxing atmosphere. The music maintains a happy and easygoing mood, blending elements of pop and folk to create an ideal background soundscape for a laid-back evening.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-299645/01-1486097-Disconauts Music Production-Wait of You_00001.mp3",
+            "caption": "This instrumental track blends strong electronic influences with a driving synthesizer lead and a steady drum beat to create an intense, energetic groove. The rhythm is repetitive yet punctuated by occasional glitchy elements, establishing a futuristic atmosphere perfect for racing or action scenes in video games. With its sense of urgency and dynamic layers, the piece captures an adventurous mood that encourages movement on the dance floor.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/o/positive-pressure-5/Positive Pressure_5  _00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track centers on a repetitive drum machine loop that creates an infectious, steady groove. Occasional claps and fills punctuate the beat, reinforcing the chill yet energetic atmosphere suitable for relaxed gatherings or background music. The sound blends electronic percussion with subtle synth elements to evoke a nostalgic, laid-back vibe reminiscent of classic lounge jams.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-294738/01-1253157-Faez-Lounge_00001.mp3",
+            "caption": "This instrumental track features a strong bass line, steady drumming, and repetitive keyboard harmony that creates an energetic and danceable mood. The prominent piano sound supports the steady rhythm, making the piece well-suited for a nightclub or dance floor setting despite some conflicting genre labels.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128160/01-1075961-brainless noise-sweetdaydreamin_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental heavy metal track features a fast tempo and aggressive sound driven by complex electric guitar riffs. Powerful drumming creates an intense atmosphere that suits high-octane scenarios like video game combat or action sequences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-132551/06-1109054-Raen-Oracle_00003.mp3",
+            "caption": "This instrumental track features a fast tempo and heavy use of drums, creating an intense and driving rhythm. The composition leans into metal and hard rock styles to deliver an energetic mood perfect for high-stakes scenarios like a boss battle. Originally from the *Dragon Engine* CD by Soul Of Fire and NeoDarkHunt-Zero, it serves as a dynamic soundtrack for video game combat or exploration.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/D/r/DragonEngineCDfix/Soul_Of_Fire-Dragon_Engine-07-Access_Denied_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,7 +302,7 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This is an energetic instrumental march featuring a bold brass section led by trumpets and trombones. The fast tempo and dynamic rhythm, punctuated by snare drum beats and cymbal crashes, create a sense of urgent excitement suitable for a parade or grand entrance.",
+            "caption": "This recording features the Bensenville Municipal Band performing \"Circus Ring Concert,\" a lively suite of circus marches and overtures recorded live in 1986. Driven by bold brass instruments like trumpets and trombones, the energetic tempo creates a triumphant atmosphere perfect for big top entertainment. The dynamic rhythm, highlighted by prominent snare drums and cymbal crashes, builds excitement suitable for scenes depicting acrobats or grand parades.",
             "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/m/bmb19860517/bmb19860517-012-grand-entree-royal-bridesmaids-march_00001.mp3",
             "anchors": null,
             "references": null,
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends country and blues influences, featuring a prominent electric guitar solo over a steady, moderate tempo. The easygoing rhythm creates a nostalgic atmosphere with a distinct country twang that evokes a laid-back countryside vibe. The music is well-suited for a casual road trip or an evening listening session in the mountains.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/1/9/1969-the-helpful-soul/08 - Little Wing_00001.mp3",
+            "caption": "This upbeat instrumental track features a funky electric guitar melody played over groovy bass and rhythmic acoustic drums. The energetic mood creates a perfect soundtrack for a retro-themed party, blending elements of funk and rock without any vocals.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-132131/15-1106509-Ben5bass-Outro_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a slow, steady solo piano performance that establishes a melancholic and introspective atmosphere. The deliberate rhythm allows the listener to fully immerse themselves in the emotional depth of this classical piece.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134343/07-1123697-Spinozar-Infinite Regress_00002.mp3",
+            "caption": "This instrumental rock track features a solid foundation driven by catchy electric guitar riffs and an energetic drum line. The song's upbeat tempo and driving rhythm create an exciting atmosphere suitable for high-octane action scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128962/02-1082485-Kaisha Kunin-NOT READY_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is a serene field recording featuring the natural sounds of flowing water, captured using high-quality binaural microphones. The gentle, steady rhythm of the stream creates an immersive and calming atmosphere perfect for relaxation or unwinding. Although the metadata suggests some electronic elements, the primary focus remains on the authentic acoustic textures of the environment.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_27794_32726/SoundMap201506109_00001.mp3",
+            "caption": "This segment is an instrumental techno track driven by energetic synthesizers and a pulsating bassline. The fast tempo creates an intense atmosphere suitable for a high-energy nightclub or rave.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-114179/01-970423-Korean Factor-Hapkido Generation_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track features a fast tempo driven by a pulsating bassline and a driving drum beat. The repetitive synth patterns create an energetic and infectious rhythm ideal for a nightclub or rave setting. With its strong electronic influence, the piece effectively blends elements of EDM and trance music.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-145590/01-1212574-DJane Nickie Anne-Hardstyle night _Original mix__00001.mp3",
+            "caption": "This instrumental track blends synthesizers and digital drum machines to create a driving, four-on-the-floor techno beat. Its pulsating bassline and repetitive synth patterns generate an intense, futuristic energy ideal for a nightclub setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-170163/12-1467510-Howarang Van K-Stop_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is an intense piece of Hardcore Techno or Gabber designed for high-energy environments. It features a fast tempo, heavy bass, and a driving rhythm that creates a relentless, aggressive atmosphere suitable for raves or extreme sports. The sound relies heavily on synthesizers and digital drum machines to produce a powerful electronic groove.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-116655/01-991599-Magnetik Bomb-verdoppeln_00002.mp3",
+            "caption": "This instrumental track blends techno and house influences to create a groovy, danceable rhythm. Driven by a synthesizer, drum machine, and bass, the medium-tempo beat provides a steady pulse perfect for a club setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-129070/03-1083602-K4MMERER-Mr Nice Guy_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an energetic instrumental rock track featuring a gritty, distorted guitar solo and a fast-paced drum section. The composition relies heavily on heavy cymbal crashes within a driving beat, emphasizing a raw, high-volume performance style. Despite the complex improvisation evident in the drum fills, the overall sound aligns with the loud and chaotic aesthetic of early 1990s noise rock.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/s/a/samarch030/15drinking_c_from_c_trois_head-half_inch_staple-1996_00001.mp3",
+            "caption": "This instrumental track serves as a cinematic score featuring strings, synthesizers, and electronic drums to build tension and suspense. The slow tempo and atmospheric soundscapes create an epic and dramatic mood that enhances the sense of grandeur.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-165832/04-1421542-Olegnov-Fill you Africa_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic track blends techno influences with a strong female vocal performance singing in a high pitch. A keyboard drives the main melody over an upbeat, driving drum beat that creates a lively club atmosphere suitable for dancing. The combination of electronic elements and melodic vocals results in an infectious sound ideal for a party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-112843/01-959845-DJ++-DJ++ - Rain_00004.mp3",
+            "caption": "This instrumental track by Kamil Muzyk delivers an upbeat and energetic atmosphere driven by a steady drum machine beat and a simple bassline. A repetitive synth lead melody creates a strong retro feel that evokes nostalgia, making the music ideal for lively video game soundtracks. Although cymbals and mallet percussion are detected, the core sound remains defined by its synthesizer textures and dance-oriented rhythm.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113662/06-966241-Kamil Muzyk _Howarang Van K_-Follow The Leader _Radio Remix Edit__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a male vocalist singing melodically over an energetic electronic track driven by keyboard melodies and drum beats. The production creates a lively atmosphere suitable for background music in a nightclub or dance setting, blending pop elements with strong rhythmic foundations.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-la-la-la-1/La la la 1_00006.mp3",
+            "caption": "This instrumental track blends industrial and electronic rock elements with a driving, repetitive rhythm that creates an intense atmosphere. Featuring prominent synthesizers and a strong beat, the up-tempo music builds an aggressive energy suitable for video game combat or high-energy workouts.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130329/06-1093489-DementialCore-Aching terror_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a guitar playing power chords in a minor key over a simple bassline and steady drum beat. The energetic atmosphere, driven by the strong rhythm section, creates a sound well-suited for high-energy scenes like car chases.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/h/phumanebo-noisebleed/1-03 Gone away_00001.mp3",
+            "caption": "This live performance is a raw, high-energy display of hardcore and street punk music played in Los Angeles. Distorted guitars and aggressive drum patterns drive the track toward a climactic moment of extreme combat intensity. The chaotic energy reflects the band's identity as a Latino act delivering their signature noisy sound at an underground venue.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/H/t/Httparchive-orgdetailsGrima-LiveAtEast7thStreet2013/01-dices que no kieres_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic instrumental techno track features a fast tempo driven by synthesizers, digital drumming, and a strong pulsating bass line. The music creates an upbeat, trance-like atmosphere with a driving rhythm that is perfect for dancing in a nightclub or at a rave.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141529/03-1175117-Franco Uda Sankara-Bubble_00003.mp3",
+            "caption": "This instrumental rock track features a driving guitar lead, bass, and acoustic drums that create a fast-paced, energetic rhythm. The intense and aggressive mood makes the music particularly effective for high-octane scenes like car chases or video game combat.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-119582/01-1015499-Sueno De Dahlia-Quedate - 2013_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends retro Techno and EDM elements with a fast tempo and pulsating energy. A driving bassline and repetitive synth melody create a danceable rhythm ideal for high-energy workouts or a night out on the club floor.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113385/01-964308-Aabid muzak-bengeiyo_00003.mp3",
+            "caption": "This intense instrumental track features a fast-paced electric guitar riff supported by a driving bassline and rhythmic drums. The heavy, energetic atmosphere creates a high-octane mood suitable for action scenes or video game soundtracks.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139637/06-1162372-Blas Morenilla-Crucifixion-A Contra Tiempo_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an intense instrumental rock track featuring a driving electric guitar solo, bass guitar, and acoustic drums. The fast-paced rhythm creates an energetic and aggressive atmosphere that propels the music forward with urgency. Such high-energy sounds are ideal for cinematic fight sequences or scenes requiring strong momentum.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/g/e/gean-kontato-mp-3/Gean - Kontato.mp3_00002.mp3",
+            "caption": "This energetic punk rock track features a male vocalist and distorted electric guitars driving a fast, aggressive rhythm. The rebellious mood of the song makes it an ideal fit for high-energy scenes like skate videos or action sequences in films.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-053333/05-441740-URBAN69-Urban69 - No Pasaran_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a strong retro feel driven by a repetitive synth lead melody and a steady drum machine beat. The upbeat and energetic mood, enhanced by a simple bassline, creates a lively rhythm that evokes nostalgia for classic video game soundtracks.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113662/06-966241-Kamil Muzyk _Howarang Van K_-Follow The Leader _Radio Remix Edit__00001.mp3",
+            "caption": "Dark Husky delivers a loud and aggressive instrumental rock track titled \"Cold Warriors,\" driven by an energetic electric guitar, bass, and drums. The song features a strong, medium-tempo beat that creates an intense and high-octane atmosphere perfect for action sequences. Although the title suggests a darker tone, the music remains strictly rhythmic and powerful without any vocal elements.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-140299/05-1166786-Dark Husky-Panicking_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

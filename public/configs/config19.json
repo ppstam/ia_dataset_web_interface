@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This is an instrumental rock track with a slow tempo, featuring a male vocalist and a steady drumming rhythm accompanied by electric guitar and bass. The music maintains a romantic mood suitable for a movie scene, enhanced by the addition of a keyboard and acoustic drums in the mix.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139766/01-1163160-mr martin-quelque mots_00005.mp3",
+            "caption": "This track by Disconauts Music Production serves as a perfect accompaniment for a cozy coffee shop. Soothing acoustic guitar playing and a gentle rhythm create a relaxing atmosphere within the song's easy-listening style.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-299645/01-1486097-Disconauts Music Production-Wait of You_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A beautiful classical piano solo unfolds with a slow tempo that establishes a melancholic and reflective mood. The steady rhythm emphasizes the instrument's low-end frequencies, creating an atmosphere of deep introspection and emotional resonance.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-151496/01-1267743-Aufklarung-Melancholy of Sunsets_00005.mp3",
+            "caption": "This segment is an intense example of extreme metal that blends elements of death and grindcore. Distorted electric guitars, heavy drums, and synthesizer work together to create a relentless rhythm defined by chaos and violence.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/h/the-zacto-smile-music-from-the-zach-hill-pit-vol--2/Illiterate Mind Reader - The Zacto Smile (Music From The Zach Hill Pit Vol. 2) - 05 Ear Masturbation Face_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a steady, repetitive rhythm with ethereal sounds from the theremin, synthesizer, and electronic drums. The dark and mysterious atmosphere creates a hypnotic effect that feels well-suited for a suspenseful video game scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/r/e/return-to-never_202106/4 March of Times_00001.mp3",
+            "caption": "This orchestral piece features a dramatic build of tension through prominent string and brass sections, anchored by a solo violin. The music carries an epic, cinematic grandeur that feels particularly fitting for a movie soundtrack or video game score.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-135740/02-1131998-Aufklarung-Res Gestae_00007.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is a powerful movie soundtrack designed to build tension through a steady, dramatic drum sequence. The sound features a strong emphasis on the bass drum and synthesizer elements, creating an immersive atmosphere perfect for scenes of action or suspense.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-273877/01-1659680-Freestyle Percussion Magik-Warrior_00001.mp3",
+            "caption": "This instrumental track blends a groovy, upbeat mood with a driving bassline and funky electric guitar. The medium tempo supports the lively atmosphere, while melodic keyboard accents add depth to the rhythmic energy. Elements of soulful percussion and happy vibes further enhance the energetic groove characteristic of funk music.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-125753/03-1064631-Supersly-Why Did That Guy Beat You_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is a hip-hop piece featuring a male vocalist rapping in a higher pitch over samples of strings, bass, and electronic drums. The medium tempo creates a strong urban rhythm that fits well within the style of crime movie soundtracks. While similar songs suggest a chill or club atmosphere, this specific segment emphasizes a gritty street vibe.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-hey-ma-hey-pa-1/Hey Ma Hey Pa 1_00004.mp3",
+            "caption": "This piece features a solo piano performance characterized by a slow, deliberate tempo that fosters a melancholic and reflective atmosphere. The steady rhythm emphasizes the instrument's lower tones, creating a sound defined by deep introspection and emotional weight. Although some tags suggest strings or happy moods, the audio focuses almost entirely on the solitary expression of classical piano.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-151496/01-1267743-Aufklarung-Melancholy of Sunsets_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track features a driving four-on-the-floor beat supported by prominent synthesizers, bass, and electronic drums. The music maintains an upbeat and energetic mood with a repetitive rhythm that creates a perfect groove for a nightclub or rave setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-106108/02-901290-Vadim Khodosevich-I Am Your Robot _dance  remix__00004.mp3",
+            "caption": "This instrumental track presents a slow rock ballad featuring a clean, clear guitar solo over a steady drumming rhythm. A simple and repetitive bass guitar line provides a solid foundation for the performance within what sounds like a live concert setting. The arrangement relies heavily on electric guitar textures to create an emotional depth that allows the audience to fully experience the music.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-604978/01-2257327-Christian Zell-Red Bead 4.3_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a minimalist electronic track driven by deep, resonant basslines and a steady, pulsating rhythm. The dark and intense mood creates an energetic atmosphere perfectly suited for a nightclub or rave setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/B/r/Brainwhacker-Dj-nifty/Brainwhacker-DjNifty-06-lookThroughTheEyesOfTheReaper_00001.mp3",
+            "caption": "This folk song features a lead violin melody supported by guitar and viola, creating a simple yet effective musical arrangement. The piece carries a romantic tone with an undercurrent of melancholy, evoking the atmosphere of a ballad suitable for a quiet movie scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/i/hiawatha-telephone-company-passengers-greatest-hits/Hiawatha Telephone Company - Passengers Greatest Hits - 11 Song about time_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic instrumental rock piece features an electric guitar playing a fast, high-register solo. Accompanied by bass guitar roots and a driving acoustic drum beat, the track creates an atmosphere suitable for a teenage drama series or action scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-127863/05-1074775-BaD_s Music Project-Meedful Thunderbird_00001.mp3",
+            "caption": "This track is a compelling example of contemporary hip-hop, featuring a male vocalist delivering lyrics over a beat driven by a strong 808 bass and electronic drums. The dark and moody atmosphere creates an intense urban feel that would fit well in a crime drama set at night.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139198/05-1159435-Haikudjemba-Haikudjemba - 5. Asi va el rollo_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong electronic and techno influences with a prominent synthesizer lead and a driving bassline. Its infectious, pulsating rhythm creates an intense and futuristic mood perfect for a high-energy dance party or rave setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110213/01-938688-Fragman _D.W.A_-The Palindrom_00001.mp3",
+            "caption": "This piece serves as a lively acoustic accompaniment where the guitarist displays skillful melodic strumming suitable for a jam session. Featuring prominent guitar work, the track maintains an upbeat rhythm that allows the audience to enjoy the energetic performance.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/h/TheFracturedStates/Product of Piracy - 11 - Leaving Section-15 (Running)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends industrial and electronic rock with synthesizers, a drum machine, and a driving bassline to create an intense, aggressive atmosphere. The up-tempo rhythm generates a powerful beat that feels perfectly suited for video game combat scenes or high-energy workout sessions.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130329/06-1093489-DementialCore-Aching terror_00003.mp3",
+            "caption": "This instrumental track is specifically designed for a movie soundtrack, featuring a powerful drum sequence with a slow tempo that creates a dramatic and suspenseful atmosphere. The steady rhythm emphasizes the bass drum to build intensity, fitting perfectly for scenes requiring tension and anticipation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-273877/01-1659680-Freestyle Percussion Magik-Warrior_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

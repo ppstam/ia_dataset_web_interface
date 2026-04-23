@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition features a unique soundscape driven by chimes, bells, and layered percussive elements rather than a traditional beat. The interplay of these hits creates dynamic movement within a dark and mysterious mood that suggests the music is designed as an immersive game soundtrack. Recorded as electroacoustic improvisation involving a laptop and various objects, the piece evokes a sense of suspense through its experimental texture.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/d/b/db017_Gavlas_Dincise_DHDLV/db017_Gavlas_Dincise_03_studio3_00001.mp3",
+            "caption": "This alternative rock track features a male vocalist singing melodically while an electric guitar carries the main melody. The music maintains an easygoing atmosphere supported by background bass lines and acoustic drums, fitting well as background music in a casual setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-152778/05-1281032-An Amerikan Automobile Company-Isabel_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic and upbeat track features a male vocalist delivering romantic lyrics over a groovy bass line and steady drumming. The song blends elements of funk and rock with electric guitar and keyboard harmony, creating a mood perfect for a feel-good TV show or a romantic comedy soundtrack.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-112731/03-958730-Vila brasil-Barraco_00003.mp3",
+            "caption": "This instrumental heavy metal track features a distorted electric guitar driving power chords alongside a fast-paced acoustic drum beat and bass root notes. The music creates an intense, aggressive atmosphere that feels like it could belong in a video game soundtrack or a tense movie scene involving a character under the influence.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/M/a/MaamutSisenaExtincioMassiva/04 Destroyer reprise!_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This intense piece exemplifies extreme metal through its relentless rhythm and chaotic blend of death and grindcore elements. Distorted electric guitars, aggressive bass lines, and fast acoustic drums drive the track with a heavy, violent energy that evokes scenes from a mosh pit or high-stakes action sequences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/h/the-zacto-smile-music-from-the-zach-hill-pit-vol--2/Illiterate Mind Reader - The Zacto Smile (Music From The Zach Hill Pit Vol. 2) - 05 Ear Masturbation Face_00001.mp3",
+            "caption": "This recording features a lively and spirited segment from Stravinsky's \"L'Histoire du soldat,\" showcasing an energetic violin solo supported by a septet with brass and percussion. The fast tempo and dynamic rhythm create an upbeat mood that would fit well within an action-packed film soundtrack, despite some imperfections in the original 1932 audio quality.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/S/T/STRAVINSKYLHistoireDuSoldat-Stravinsky-NEWTRANSFER/04.TheDevilsDance_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features gentle mallet percussion and a slow, steady rhythm that creates a peaceful, meditative atmosphere. The soothing sounds evoke a sense of tranquility, making the piece ideal for relaxation, yoga, or background music in a spa setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124044/01-1053039-Dawid Jaworski-Sometimes all it takes is a cup of tea_00003.mp3",
+            "caption": "Nameless (UA, Ternopil) presents a groovy, upbeat instrumental track that blends electric guitar and bass with saxophone melodies to create a lively sound. Driven by steady acoustic drums, the music maintains an energetic rhythm reminiscent of blues-rock, offering a perfect soundtrack for a spirited road trip or a bustling bar scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-125842/08-1065406-Nameless _UA, Ternopil_-Carpathian Forest_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition blends elements of jazz, blues, and rock to create a mellow, relaxing atmosphere with a touch of melancholy. A steady rhythm provided by bass guitar and drums supports a walking line that fits the slow tempo. The piece is well-suited for contemplative scenes in film or as background music during a late-night drive.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-520973/01-2031544-Christian Zell-Contentment 4.0_00001.mp3",
+            "caption": "This piece functions as a grand and emotional movie soundtrack, offering a rich backdrop ideal for dramatic scenes. A full orchestra, including strings and a choir, creates a steady rhythm that allows the music to feel both cinematic and ethereal. Soft instrumentation like the piano further enhances the calm, immersive atmosphere of the composition.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-059288/11-506154-A.K.1974-A.K.1974 - The End_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is a beautiful example of a Japanese role-playing game soundtrack, featuring a prominent piano melody that feels both melancholic and romantic. Lush strings support the slow, steady rhythm to create a calm and nostalgic atmosphere suitable for reflective scenes or exploration areas. The piece relies heavily on piano and synthesizer textures within a newage-inspired electronic framework.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-119449/04-1014470-KPHB-piano_d0_00002.mp3",
+            "caption": "This acoustic piece serves as a perfect accompaniment for a guitar instruction video, highlighting the beauty of fingerstyle playing and intricate picking patterns. The composition features an acoustic guitar that provides a meditative and soft texture suitable for background listening.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/j/mjchesneyI_mAPizza_0/mjchesneyI_mAPizza_0_vbr_mp3/ImAPizza_vbr_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a fast, driving beat powered by synthesizers and electronic drums that create an intense, futuristic atmosphere. The rhythm is energetic and urgent, blending digital sound effects with a pulsating electronic style well-suited for video game soundtracks.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-429575/01-1726066-Michele Lagioia-Alien dance_00001.mp3",
+            "caption": "An accordion provides the sole instrumental focus in this piece, with the right hand playing chords while the left hand carries the melody. The arrangement creates an upbeat yet nostalgic atmosphere driven entirely by the instrument rather than percussion. Footsteps are audible within the soundscape, adding a realistic layer to the recording of a young musician on the Pont d'Arcole.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_33673_38743/parispontdarcole230916h00_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is a dark ambient and industrial soundtrack featuring a slow tempo, steady rhythm, and a haunting melody. Bowed string instruments like a cello or double bass provide tension while eerie sound effects and a choir create an ominous atmosphere suitable for horror films or suspenseful video game scenes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/h/mhrk335/01 - Der Allgegenw\u00e4rtige Astronautenstamm - INTENT 2023- Sehnsucht - Offenheit, Akzeptanz, Einigkeit, St\u00e4rke Und Gesundheit_00001.mp3",
+            "caption": "This hip-hop track features a male vocalist rapping at a higher pitch over a beat driven by electronic drums, bass, and string samples. The medium tempo creates a strong urban rhythm that evokes an atmosphere suitable for a crime movie scene on a city street.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-hey-ma-hey-pa-1/Hey Ma Hey Pa 1_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track features a strong bass line and steady drumming accompanied by keyboard textures. A male vocalist delivers his rap verses with backing vocals that add depth to the groovy, medium-tempo rhythm. The energetic production creates a party atmosphere suitable for a dance club or social gathering.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-140505/06-1168171-Slim Bwoy-Slim Bwoy - T U - _ Turn Up __00003.mp3",
+            "caption": "This recording features a male vocalist singing an introspective piece accompanied by the soothing tones of an acoustic guitar and a melancholic violin. The steady, slow tempo creates a calm and peaceful atmosphere that feels both meditative and reflective.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-162569/01-1385804-marcello correa e castro-NOITE FRIA_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track delivers an energetic house beat driven by a strong bassline and electronic drumming. The fast-paced rhythm creates an upbeat atmosphere ideal for a nightclub or rave setting, featuring prominent synth melodies and computer-generated sounds.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141345/09-1173605-Hasenchat-23 HuHu Dance_00003.mp3",
+            "caption": "This virtuosic piano solo delivers a complex, up-tempo performance filled with rapid arpeggios and fast runs. The dramatic and urgent atmosphere creates an intense energy that suits dynamic scenes like a movie chase or video game battle.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/e/v/everfall-2339/17.bbezz255-unbroken_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

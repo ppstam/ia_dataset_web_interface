@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is an instrumental techno track defined by a driving bassline and pulsating electronic drum beats. The energetic rhythm creates an infectious atmosphere suitable for a nightclub or rave setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/b/u/bump041/bump041_01-kohbeiep-rock_is_dead_00001.mp3",
+            "caption": "This instrumental track features prominent synthesizers, electronic drums, and a pulsating bassline that drive the medium tempo forward. The music evokes a futuristic and trippy atmosphere, fitting the space-themed mood while maintaining an energetic drive. Ideally suited for a video game soundtrack, the piece blends computer-generated textures with cinematic qualities to create a dynamic soundscape.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123319/04-1046584-MVB-Evil-SCORE_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece centers on an accordion that drives both the melody and the rhythm without any percussion accompaniment. The lively yet nostalgic mood is grounded in a realistic soundscape featuring footsteps, evoking the scene of a young tramp walking across Paris.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_33673_38743/parispontdarcole230916h00_00002.mp3",
+            "caption": "This lively instrumental track features a catchy piano melody supported by a steady bassline and rhythmic drum beats. A female vocal layer adds a narrative element to the groovy arrangement, creating an engaging and dynamic listening experience. The piece blends simple instrumentation with an energetic, danceable mood characteristic of electronic pop styles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-115846/09-984008-Hasenchat-You dont neat Money_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features an upbeat instrumental jazz piece driven by a lively melody from the saxophone, supported by piano, trumpet, bass, and acoustic drums. The cheerful rhythm creates a playful swing feel that is well-suited for comedic moments or lighthearted scenes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136247/03-1135091-Breathtaking-Meli is away_00004.mp3",
+            "caption": "This instrumental track features a driving techno drum beat and deep bass lines created on a synthesizer. The atmosphere is trippy, with vocals processed through a vocoder that adds an energetic, futuristic quality to the sound. The overall vibe suits a sci-fi soundtrack or an electronic dance setting perfectly.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-121759/01-1034281-Alex Emilsson-Electrify Me_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a perfect example of folk-inspired acoustic music, featuring a male vocalist and a gentle, slow tempo. The acoustic guitar provides a soothing backdrop, while the violin adds a touch of melancholy to create a calm and introspective atmosphere.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-162569/01-1385804-marcello correa e castro-NOITE FRIA_00006.mp3",
+            "caption": "This instrumental track blends dark, intense synthesizers with a driving four-on-the-floor beat to create an energetic atmosphere. The prominent bassline and electronic drums build a sense of urgency, making the music ideal for a nightclub or rave setting where people are dancing. While it carries the deep house style of the original release, the arrangement focuses heavily on rhythm and sound design rather than melody.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-166630/01-1429777-Gigatop Arthur-Another Night_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "An instrumental piece driven by a steady beat features prominent violin and keyboard sounds that create a rich, dramatic texture. This medium-tempo composition evokes a strong sense of adventure and excitement, making it ideal for video game soundtracks. The interplay between the strings and keys delivers an epic feel suitable for scenes requiring wonder or awe.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-120186/01-1022077-Sergey_titi-Solitude_00002.mp3",
+            "caption": "This instrumental track blends electronic, chiptune, and techno influences to create an upbeat and energetic mood. Featuring prominent synthesizers, digital drums, and a catchy driving bassline, the fast-paced rhythm makes it ideal for a video game soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133149/04-1114625-RED DEEP-The Knight Rider_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This punk rock instrumental delivers a fast-paced electric guitar riff supported by a groovy bass line and energetic acoustic drumming. The track creates an aggressive, high-energy atmosphere that fits well within skate videos or action sequences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-109610/10-933927-Brain in Vain-Bhastral_00004.mp3",
+            "caption": "This lively instrumental track blends house, techno, and electronic elements with a cheerful, summer-ready mood. Driven by catchy synthesizers, pulsing bass lines, and repetitive rhythms, the song creates a groovy groove ideal for parties or casual listening.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123655/27-1049947-Hasenchat-Take Me_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a gentle piano melody layered over a modern synthesizer and steady electronic drum beat. The combination creates a relaxing, chill atmosphere that suits background music for settings like a caf\u00e9 or a yoga session. While the rhythm has an engaging groove, the overall mood remains soothing rather than energetic.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123618/01-1049592-Thibaut Le Flem-Serenity_00003.mp3",
+            "caption": "This lively instrumental jazz composition features a cheerful, playful melody primarily carried by the saxophone. A harmonious accompaniment from piano, trumpet, bass, and acoustic drums creates an upbeat swing rhythm that feels ideal for a comedic scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136247/03-1135091-Breathtaking-Meli is away_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track blends strong house influences with a groovy, danceable rhythm driven by drum machines and synthesizers. Its steady beat and medium tempo create an energetic atmosphere perfect for a club or party setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-129070/03-1083602-K4MMERER-Mr Nice Guy_00001.mp3",
+            "caption": "This segment serves as a perfect example of a classical orchestral soundtrack, featuring a full ensemble with a strong focus on string instruments. The slow tempo creates a dramatic and epic mood that builds tension through dynamic, impactful rhythms.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/t/Atmosmastik_andtheseawilltellus/atmosmastik__01__The_Wrong_Place_and_the_wrong_day_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track blends electric and acoustic guitars with a steady drum kit to create an upbeat, groovy atmosphere. The music maintains a strong backbeat that feels perfect for driving or playing in a lively bar setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-121113/02-1029777-Kamil Muzyk _Howarang Van K_-Sailor Omsga_00002.mp3",
+            "caption": "This Indian movie music piece features a female vocalist singing in a melodious style accompanied by the harmonium and tabla. Bird sounds in the background enhance the romantic atmosphere, creating a soundscape well-suited for a romance set in India. Although some metadata suggests holiday themes or specific orchestral instruments, the primary audio evidence highlights traditional folk elements typical of vintage Hindi cinema.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/w/w/www-VintageSense-com-Vintage-Indian-Music-62n/12202_indian_music_vintagesense.com_1966_lalBungla1966-SumanKalyanpur-Aa---SunayiDeNaDeTumKo2-UshaKhanna_vintagesense.com_song_id_12202_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends psychedelic, funk, and retro rock elements into a groovy, energetic fusion. Featuring electric guitar, bass, and drums with varied sound effects, the medium-tempo arrangement creates an atmosphere suitable for retro movie scenes or live performances.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-117440/01-998392-Sur Non-Pepsi The Cat_00002.mp3",
+            "caption": "This instrumental track features no vocals, allowing the listener to focus entirely on the intricate interplay of guitars, bass, and percussion. The piece leans toward a rock style with an electric guitar as the primary driver, supported by driving bass lines and cymbal accents.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/L/a/LanaLeeMDAHVol3HilillosMusicales/03 Desierto_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

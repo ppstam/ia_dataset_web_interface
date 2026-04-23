@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a fast, driving beat powered by synthesizers and electronic drums that create an intense, futuristic atmosphere. The rhythm is energetic and urgent, blending digital sound effects with a pulsating electronic style well-suited for video game soundtracks.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-429575/01-1726066-Michele Lagioia-Alien dance_00001.mp3",
+            "caption": "An accordion provides the sole instrumental focus in this piece, with the right hand playing chords while the left hand carries the melody. The arrangement creates an upbeat yet nostalgic atmosphere driven entirely by the instrument rather than percussion. Footsteps are audible within the soundscape, adding a realistic layer to the recording of a young musician on the Pont d'Arcole.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_33673_38743/parispontdarcole230916h00_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is a dark ambient and industrial soundtrack featuring a slow tempo, steady rhythm, and a haunting melody. Bowed string instruments like a cello or double bass provide tension while eerie sound effects and a choir create an ominous atmosphere suitable for horror films or suspenseful video game scenes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/h/mhrk335/01 - Der Allgegenw\u00e4rtige Astronautenstamm - INTENT 2023- Sehnsucht - Offenheit, Akzeptanz, Einigkeit, St\u00e4rke Und Gesundheit_00001.mp3",
+            "caption": "This hip-hop track features a male vocalist rapping at a higher pitch over a beat driven by electronic drums, bass, and string samples. The medium tempo creates a strong urban rhythm that evokes an atmosphere suitable for a crime movie scene on a city street.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-hey-ma-hey-pa-1/Hey Ma Hey Pa 1_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track features a strong bass line and steady drumming accompanied by keyboard textures. A male vocalist delivers his rap verses with backing vocals that add depth to the groovy, medium-tempo rhythm. The energetic production creates a party atmosphere suitable for a dance club or social gathering.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-140505/06-1168171-Slim Bwoy-Slim Bwoy - T U - _ Turn Up __00003.mp3",
+            "caption": "This recording features a male vocalist singing an introspective piece accompanied by the soothing tones of an acoustic guitar and a melancholic violin. The steady, slow tempo creates a calm and peaceful atmosphere that feels both meditative and reflective.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-162569/01-1385804-marcello correa e castro-NOITE FRIA_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track delivers an energetic house beat driven by a strong bassline and electronic drumming. The fast-paced rhythm creates an upbeat atmosphere ideal for a nightclub or rave setting, featuring prominent synth melodies and computer-generated sounds.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141345/09-1173605-Hasenchat-23 HuHu Dance_00003.mp3",
+            "caption": "This virtuosic piano solo delivers a complex, up-tempo performance filled with rapid arpeggios and fast runs. The dramatic and urgent atmosphere creates an intense energy that suits dynamic scenes like a movie chase or video game battle.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/e/v/everfall-2339/17.bbezz255-unbroken_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,7 +218,7 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track features a fast-paced rhythm driven by a powerful kick drum and deep, resonant synth bass. A loud synthesizer lead creates an energetic and intense atmosphere that feels perfect for the soundtrack of a video game or movie scene. The overall sound is futuristic and driving, suitable for high-energy settings like club environments or dangerous chases.",
+            "caption": "This instrumental track features a fast-paced techno rhythm driven by a powerful kick drum and deep, resonant bass. A loud synthesizer lead creates an energetic and intense atmosphere, evoking the feeling of moving through a dangerous zone in a video game or movie scene. While various electronic instruments are present, the composition relies heavily on synthesized sounds to deliver its dynamic momentum.",
             "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123236/03-1046071-Cleycee-Claycee - Michito_00005.mp3",
             "anchors": null,
             "references": null,
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends techno house elements with a driving synthesizer bass and vocoder-processed vocals. The repetitive, energetic rhythm creates a futuristic atmosphere suitable for a sci-fi movie or video game soundtrack.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-121759/01-1034281-Alex Emilsson-Electrify Me_00004.mp3",
+            "caption": "This piece is a perfect example of ambient music, featuring ethereal soundscapes that evoke a slow and deliberate atmosphere. The recording blends subtle synthesizer tones with natural insect chirps and bird calls to create an immersive soundscape of suburban life. Without vocals, the listener can fully engage with the dreamy environment while hearing faint industrial noises from a nearby factory.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_58146_66669/083022FoxGrove_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This folk song features a romantic yet melancholic violin melody supported by simple accompaniment from guitar and viola. The gentle instrumentation creates an intimate atmosphere suitable for emotional scenes, reinforcing the piece's ballad-like quality.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/i/hiawatha-telephone-company-passengers-greatest-hits/Hiawatha Telephone Company - Passengers Greatest Hits - 11 Song about time_00004.mp3",
+            "caption": "This energetic instrumental track blends techno and house elements to create a hypnotic, danceable groove. Driven by a prominent four-on-the-floor kick drum and a deep bassline, the piece features synths and percussive claps that build an upbeat atmosphere perfect for a nightclub. The overall sound is lively and rhythmic, making it well-suited for DJ sets or summer parties.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136294/01-1135322-Ashloft-You Say Hello _Ashloft Original Mix__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piano ballad creates a deeply melancholic atmosphere, making it a fitting soundtrack for poignant dramatic scenes or reflective playlists. The vocalist delivers an emotive performance that adds significant depth to the gentle, slow tempo of the piece. Together, these elements establish a somber and introspective mood throughout the track.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-112530/05-957032-Alex de La Forest-0620 export5_00004.mp3",
+            "caption": "This upbeat track features prominent synthesizers and electronic drums driving a steady four-on-the-floor rhythm. The energetic, danceable beat creates a lively atmosphere suitable for nightclubs or high-energy workouts. Classified within the EDM and house genres, the instrumental piece maintains a consistently active pace throughout.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-159578/01-1353571-Gigatop Arthur-Just Like Fire_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "Jason R. King delivers a lively acoustic performance that serves as an ideal backdrop for a jam session, highlighting skillful guitar work and upbeat melodic strumming. The track blends elements of pop-folk and country to create an inspiring atmosphere where the audience can enjoy the clear rhythms.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/h/TheFracturedStates/Product of Piracy - 11 - Leaving Section-15 (Running)_00001.mp3",
+            "caption": "This segment is an entirely arrhythmic instrumental track built from sound design elements like static, white noise, and various electronic effects. The harsh and abrasive atmosphere creates a chaotic soundscape that feels like observing the inner workings of a revealing machine without any discernible tempo or rhythm.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/h/phokes143/phokes143-_-05-_-Plutonien-_-Hier_wird_es_nun_ungleich_deutlicher_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece serves as a perfect example of a classical orchestral soundtrack, featuring a full ensemble with a strong focus on string instruments like the violin. The slow tempo creates a dynamic and dramatic mood that builds tension, making it ideal for a film score or any context requiring grandeur.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/t/Atmosmastik_andtheseawilltellus/atmosmastik__01__The_Wrong_Place_and_the_wrong_day_00001.mp3",
+            "caption": "This track is an instrumental piece of upbeat house music driven by a strong bassline and electronic drumming. The fast-paced rhythm creates an energetic atmosphere that feels ideal for a nightclub or rave setting. While the title suggests vocals, the audio features purely synthesized sounds without any singing.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141345/09-1173605-Hasenchat-23 HuHu Dance_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

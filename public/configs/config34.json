@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track is designed for a retro-themed party, featuring a funky electric guitar melody supported by groovy bass and rhythmic drums. The upbeat and energetic mood creates a lively atmosphere that perfectly suits the fast-paced style of the genre.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-132131/15-1106509-Ben5bass-Outro_00001.mp3",
+            "caption": "This AI-assisted EDM track features a male vocalist singing melodically while a keyboard plays the main melody over an energetic electronic drum beat. The piece creates a lively atmosphere that fits well as background music for a nightclub or dance club setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-la-la-la-1/La la la 1_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This intense track fits perfectly as a video game soundtrack, particularly for high-stakes boss battles. The heavy metal sound is driven by aggressive electric guitars, powerful male vocals, and a driving rhythm section that creates an energetic atmosphere.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141027/02-1171323-___ ______-____ _ ___________00006.mp3",
+            "caption": "An instrumental track with a distinct Latin influence features a driving percussion rhythm supported by a prominent bass drum. A synthesizer carries the melody while a high-pitched male voice sings, creating a groovy and danceable atmosphere reminiscent of late 1980s New Wave and electro-funk styles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/e/p/eph169electricdreamerselectropopulous/10_ELECTRIC DREAMERS - The way you bump_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is an energetic and aggressive punk rock anthem driven by a raspy male vocalist, a driving electric guitar riff, and steady drumming. The music creates a loud, distorted sound with a groovy bass line that perfectly captures a rebellious and high-energy vibe suitable for a live concert setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-036439/02-253758-Hey Jodie-Hey Jodie - Unicorn Hunters_00006.mp3",
+            "caption": "This track features a slow, ambient soundscape driven by ethereal choir vocals that create a hypnotic and meditative atmosphere. Although the metadata suggests various electronic subgenres, the prominent voice instrumentation and lack of spoken lyrics emphasize an immersive listening experience. The subtle rhythm supports these vocal layers to establish a truly captivating mood for the listener.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/a/TakeSomeOXYEPRemasteredVersion/07.6AM In The BTown (Studio Edit)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental techno track features a fast, pulsating synthesizer arrangement driven by digital drumming and electronic beats. The music maintains a youthful and energetic groove with a hypnotic, trance-like quality that creates a driving dance rhythm.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-116474/01-990130-Gadjik-trancik_00005.mp3",
+            "caption": "This segment is an upbeat, energetic instrumental track driven by a fast-paced rhythm of synthesizers and a prominent drum machine. The driving bassline and repetitive beat create a high-energy atmosphere perfect for dancing at a nightclub or rave.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133940/03-1121121-_xutive-Flash__00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment serves as a minimalist and ambient soundtrack where a slow piano melody is supported by strings to create a melancholic atmosphere. A ticking clock introduces a subtle sense of urgency, while the occasional camera shutter sound adds a layer of realism and intimacy. The piece avoids vocals entirely, focusing instead on these orchestral textures to evoke deep emotional reflection.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/e/messed-up/Messed Up_00001.mp3",
+            "caption": "This instrumental track by Deflax blends a strong electronic foundation with dark, intense atmospheres and intoxicating drum loops. Driven by a prominent synthesizer bassline and steady rhythms, the music creates a suspenseful soundscape reminiscent of a video game boss battle.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/o/d/odp033/Deflax_-_06_-_Reflection_feat._Trx_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features an acapella choir performance where a lead vocalist sings in a smooth, legato style to create an ethereal and serene atmosphere. Without instrumental accompaniment, the group relies entirely on vocal harmony to establish a sense of continuity and unity throughout the piece. The dreamy quality of the music makes it well-suited for meditation or scenes depicting spiritual experiences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/V/T/VTMB25-filk-SerenaEW/Voiceteam! final_00001.mp3",
+            "caption": "This energetic instrumental rock track features an electric guitar playing power chords within a minor key, supported by a simple bassline and driving drums. The heavy atmosphere creates a dynamic soundscape that evokes a sense of action, making it well-suited for scenes like a car chase in a movie.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/h/phumanebo-noisebleed/1-03 Gone away_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a funky, groovy bass line supported by an electric guitar riff and upbeat drums. The music creates an energetic and lively atmosphere that drives a catchy rhythm perfect for dancing.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124560/01-1056364-Whyman Productions-Demain_00003.mp3",
+            "caption": "This electronic dance track features a male vocalist singing in a distinct robotic style that drives the urban atmosphere. Supported by a drum machine and synth bass, the fast tempo creates an energetic mood perfect for a club or party setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-132622/02-1110095-Kimball Hooker-sexy senorita_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This live performance captures an energetic rock cover driven by prominent electric guitar riffs and a catchy, driving rhythm. The track blends upbeat instrumentation with a nostalgic, slightly melancholic atmosphere that evokes a retro charm perfect for radio play. Recorded at Homers Bar & Grill in Austin, the piece balances infectious energy with warm, engaging dynamics typical of classic rock covers.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/I/D/IDontWannaBelive/IDontWannaBelive_vbr_mp3/IDontWannaBe_00001.mp3",
+            "caption": "This energetic instrumental track blends strong electronic influences with a driving, fast-paced rhythm centered on synthesizers and a drum machine. While the beat creates an intense, dark atmosphere suitable for a nightclub or rave setting, the overall mood leans towards a party vibe rather than pure industrial tension. The repetitive structure maintains high momentum throughout, making it a dance-focused piece designed to be immersive in a club environment.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123008/02-1044668-Overnoize-What, the fuck, was that__00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This electronic dance track features a male vocalist singing in a distinctive robotic voice over fast-paced drum machine rhythms. A driving synth bassline creates an energetic and urban atmosphere, making the piece well-suited for a club setting. The overall sound blends elements of house and pop with a fun, party-ready vibe characteristic of upbeat EDM.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-132622/02-1110095-Kimball Hooker-sexy senorita_00004.mp3",
+            "caption": "This instrumental track features a gentle guitar melody that creates a calm and relaxing atmosphere. Played with a soft touch, the simple rhythm encourages listeners to enjoy a quiet evening or imagine themselves in a cozy coffee shop.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-592432/01-2230407-Christian Zell-Space 1.1_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat pop song features a strong drumming rhythm, groovy bass line, and keyboard accompaniment that create an energetic atmosphere. A female vocalist sings in a higher pitch, enhancing the youthful vibe perfect for a dance party or lively gathering. The track maintains a catchy and infectious feel throughout its duration.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-notte-1/Notte 1_00002.mp3",
+            "caption": "This segment features an energetic instrumental track driven by fast synthesizers, digital drumming, and a strong bass line. Its pulsating rhythm creates a trance-like atmosphere that perfectly suits a nightclub or rave setting for dancing.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141529/03-1175117-Franco Uda Sankara-Bubble_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

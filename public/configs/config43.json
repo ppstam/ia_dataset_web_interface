@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a gentle solo guitar that creates a soft, meditative atmosphere. The slow tempo and simple rhythm produce a calming soundscape, making it an ideal choice for a quiet evening at home or a cozy coffee shop.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-592432/01-2230407-Christian Zell-Space 1.1_00001.mp3",
+            "caption": "This instrumental rock track blends electric guitar, bass, and acoustic drums to create a steady yet melancholic foundation. The song's sentimental and romantic atmosphere, supported by keyboard accompaniment, gives it the emotional depth often found in movie soundtracks.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134661/01-1125521-Thoola-Manuscripts_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic punk rock track features a male vocalist singing at a high pitch alongside a distorted electric guitar playing a driving riff. The performance is supported by a fast-paced acoustic drum beat that creates an aggressive and lively atmosphere suitable for a live concert setting. Elements of the song clearly evoke the raw intensity often found in New York hardcore scenes from the early 1980s.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/W/w/Www-archive-orgdetailsReaganYouth-1983DemosRatcageBenefitCbgbs1982/29-reaganYouthlive_00001.mp3",
+            "caption": "This energetic rock track features a prominent electric guitar solo played in a major key. A fast-paced acoustic drum beat drives the upbeat rhythm, creating an atmosphere suitable for video game or movie action scenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-064879/02-558633-Sinyris-Sinyris - Comme un debut_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a complex and fast-paced electric guitar solo supported by a solid bass line and driving acoustic drums. The energetic atmosphere creates a dynamic soundscape well-suited for a live performance or guitar showcase. With its heavy mood and clear focus on virtuosic playing, the piece delivers an engaging musical experience that highlights the interplay between the lead instrument and rhythm section.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124695/01-1057402-Daniele di Bari-Hypnotic StratOSfear_00005.mp3",
+            "caption": "This instrumental rock track blends catchy electric guitar riffs with a solid bass foundation and steady acoustic drums. The upbeat atmosphere is filled with energy and excitement, making it an ideal soundtrack for high-intensity movie scenes like car chases or action sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-272800/01-1544383-CAEROU-Vibrations_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a heavy electric guitar riff and a fast, aggressive rhythm driven by loud drums. The energetic sound creates an intense atmosphere suitable for high-energy activities or a dynamic live concert setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/C/l/ClaviculaMainodeixaradeploure_20160911/08 Occit+\u00e1nia_00001.mp3",
+            "caption": "This instrumental rock track features a fast-paced and complex solo electric guitar supported by a solid bass line and driving acoustic drums. The heavy, energetic rhythm creates a dynamic atmosphere that is particularly well-suited for a live performance setting or a guitar showcase.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124695/01-1057402-Daniele di Bari-Hypnotic StratOSfear_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a clean electric guitar melody layered over a groovy bass line and punchy snare drum. The steady, upbeat rhythm creates an energetic and happy mood that fits well in various dynamic scenarios.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-356666/01-1375833-Mickael Huchet-Marco_00001.mp3",
+            "caption": "A solo acoustic guitar provides a steady, simple rhythm that establishes a gentle and flowing atmosphere. This introspective track carries a quiet melancholy, making it feel like perfect background music for a reflective moment or a dimly lit campfire scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-122782/01-1042502-Indemnity for scapegoats-rags the fly_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track relies heavily on catchy electric guitar riffs and a solid foundation provided by the bass and drums. The driving, energetic rhythm creates an upbeat atmosphere that feels perfect for a high-octane action scene or a thrilling car chase.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128962/02-1082485-Kaisha Kunin-NOT READY_00001.mp3",
+            "caption": "This instrumental rock track features a strong, steady beat driven by electric guitar and bass lines. The energetic and upbeat mood creates a sense of forward momentum that is supported by acoustic drums and cymbals. Although the upload tags suggest electronic or film score elements, the primary sound remains a dynamic and tense piece of heavy rock instrumentation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-321247/01-1504150-Scored-She Said_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features electric guitar, bass, and acoustic drums to create an intense and aggressive sound. The fast-paced rhythm drives the music forward with significant energy, making it well-suited for high-octane action scenes or car chases.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-186471/07-1671541-Fearworks-Low_00001.mp3",
+            "caption": "This lively piece is a Latin-inspired instrumental track driven by acoustic guitar and percussion. The groovy rhythm created by the bass and drums gives the music a danceable energy perfect for a festive celebration.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/M/a/MatthewBischoffDeepThought/Deep_Thought_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track utilizes a minimalistic approach with a steady beat from a drum machine and synth bass to create a hypnotic rhythm. The sound maintains a chill and relaxed mood, making it ideal background music for casual gatherings or social hangouts.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/y/hypocrite-1/Hypocrite_1 _00003.mp3",
+            "caption": "This energetic instrumental rock track features an electric guitar playing a fast, high-register solo over driving rhythm guitars and acoustic drums. Accompanied by a bass guitar anchoring the root notes, the piece captures a dynamic atmosphere suitable for a teenage drama soundtrack. The composition balances melodic guitar lines with solid rhythmic support to create an engaging audio experience.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-127863/05-1074775-BaD_s Music Project-Meedful Thunderbird_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A male vocalist sings in a higher key atop a medium-tempo rock rhythm driven by groovy bass lines and drumming. Emotional guitar accompaniment adds to the intense atmosphere, supported by keyboard harmony throughout the track. The composition blends elements of alternative rock with a melodic quality that fits well within a dramatic musical style.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-171659/01-1485403-INTRONOMIC-Dynamo_00004.mp3",
+            "caption": "This instrumental rock track features a fast-paced, energetic rhythm driven by an electric guitar solo and steady drums. The intense and aggressive mood creates a sense of urgency that makes the piece ideal for high-energy movie scenes or fight sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/g/e/gean-kontato-mp-3/Gean - Kontato.mp3_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic instrumental rock track features a live drum solo filled with complex rhythms and frequent cymbal crashes. A simple bass line supports the driving beat while an electric guitar plays powerful chords throughout the fast-paced performance. The combination of these elements creates a strong, live concert feel typical of the punk-adjacent sound associated with the artist Ratpigeon.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/R/a/Ratpigeon-SelfTitledEP-NOP002/01PlanetOfTheApescoverYourFaceAndLookAway_00001.mp3",
+            "caption": "This instrumental track blends funk rock and jazz fusion to create a funky, groovy, and energetic vibe. The music relies on an upbeat rhythm driven by strong electric guitar parts, bass lines, and acoustic drums that encourage dancing.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139166/01-1159244-THEO ARNISOUND-Forever glam_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [

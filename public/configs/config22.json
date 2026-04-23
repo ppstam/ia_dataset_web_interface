@@ -50,8 +50,8 @@
         {
             "name": "Sample 2",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends industrial and electronic rock with synthesizers, a drum machine, and a driving bassline to create an intense, aggressive atmosphere. The up-tempo rhythm generates a powerful beat that feels perfectly suited for video game combat scenes or high-energy workout sessions.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130329/06-1093489-DementialCore-Aching terror_00003.mp3",
+            "caption": "This instrumental track is specifically designed for a movie soundtrack, featuring a powerful drum sequence with a slow tempo that creates a dramatic and suspenseful atmosphere. The steady rhythm emphasizes the bass drum to build intensity, fitting perfectly for scenes requiring tension and anticipation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-273877/01-1659680-Freestyle Percussion Magik-Warrior_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -92,8 +92,8 @@
         {
             "name": "Sample 3",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a cheerful, upbeat mood driven by digital piano and simple drum patterns. The music maintains a steady rhythm with a repetitive structure, creating an effective melody suitable for various scenarios.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-188495/02-1695447-Gigatop Arthur-sueltalo_00001.mp3",
+            "caption": "This electronic track features a minimalist approach that centers on powerful basslines to create a deep and resonant sound. The dark mood builds a sense of anticipation, making the pulsating rhythm ideal for an immersive nightclub or rave setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/B/r/Brainwhacker-Dj-nifty/Brainwhacker-DjNifty-06-lookThroughTheEyesOfTheReaper_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -134,8 +134,8 @@
         {
             "name": "Sample 4",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a vibrant fusion of jazz, funk, and R&B with distinct hip-hop influences. A groovy bassline and steady drum beat support a soulful saxophone solo within an infectious, upbeat rhythm. The energetic vibe makes it ideal for dancing at a party or in a club setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-126220/09-1067981-HELLFIRE SNAKE-Some Man_00001.mp3",
+            "caption": "This segment features an aggressive instrumental heavy metal performance centered around a fast-paced guitar solo and driving bass lines. The energetic rhythm, highlighted by acoustic drums, suggests the track was recorded during a live concert setting where the music feels raw and dynamic.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-193929/08-1763849-Phil Twite-Crushed Like Fruit _InMe__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -176,8 +176,8 @@
         {
             "name": "Sample 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment captures a raw, high-energy performance by the band M.D.C., characterized by its loud, aggressive sound and fast tempo. The track features a male vocalist with a raspy voice singing over distorted guitars and heavy, driving drums that create an intense atmosphere.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/H/t/Httparchive-orgdetailsMillionsOfDeadCops-LiveLintfabriekBelgium2002/02-corporate deathburger_00001.mp3",
+            "caption": "This energetic instrumental track features a fast, driving drum beat supported by a pulsating bassline and repetitive synth patterns. The infectious rhythm creates an ideal atmosphere for club or rave environments, reflecting strong influences from EDM and trance styles. Although labeled as hardstyle in some archives, the sound is best described as high-energy techno with prominent electronic instrumentation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-145590/01-1212574-DJane Nickie Anne-Hardstyle night _Original mix__00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -218,8 +218,8 @@
         {
             "name": "Sample 6",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an instrumental cover of a classical guitar piece that creates a slow, steady rhythm for a calm and relaxing atmosphere. The simple yet repetitive melody maintains a melancholic and introspective mood, ideal for quiet contemplation or as background music in a film scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-156627/04-1321118-Aufklarung-Chiaroscuro_00004.mp3",
+            "caption": "This intense instrumental track features a fast, driving rhythm propelled by synthesizers and electronic drums. The energetic sound creates an adventurous and retro atmosphere that feels well-suited for a video game boss battle or action sequence. Despite some conflicting genre signals, the composition relies heavily on synthesizer textures to build its dynamic momentum.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/s/Astronaut-videoo-info/joanne_b - Peaceful Mind_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -260,8 +260,8 @@
         {
             "name": "Sample 7",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece serves as an ideal background for guitar lessons, highlighting the beauty of intricate fingerpicking patterns. The track features a solo acoustic performance with a steady rhythm that allows the listener to focus entirely on the instrumental technique.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/m/j/mjchesneyI_mAPizza_0/mjchesneyI_mAPizza_0_vbr_mp3/ImAPizza_vbr_00001.mp3",
+            "caption": "This instrumental track features a steady drumming rhythm and a repetitive melody supported by a cheerful keyboard harmony. The bright piano performance creates a happy atmosphere, making the piece well-suited for light-hearted scenarios like video games or advertisements.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-567980/03-2174530-Francisco Sanchez Lab-Electronic heartbeats_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -302,8 +302,8 @@
         {
             "name": "Sample 8",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a slow tempo driven by a prominent flute alongside keyboard and percussion elements. The combination of steady rhythms and atmospheric textures creates a mystical and tranquil mood ideal for relaxation or meditation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134277/08-1123246-Davide Frison-Panoramyc_00003.mp3",
+            "caption": "This segment features the band M.D.C. performing a live hardcore punk track from their 2002 concert in Belgium. The song delivers a heavy, aggressive sound driven by distorted guitars, loud drums, and a male vocalist with a raspy tone. Its fast tempo and intense energy create a violent atmosphere typical of the genre.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/H/t/Httparchive-orgdetailsMillionsOfDeadCops-LiveLintfabriekBelgium2002/02-corporate deathburger_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -344,8 +344,8 @@
         {
             "name": "Sample 9",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track relies on synthesized static, white noise, and sound design to create a chaotic and arrhythmic atmosphere. The harsh and abrasive texture evokes a sense of signal interference, making it suitable for experimental films or scenes depicting mechanical decay.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/h/phokes143/phokes143-_-05-_-Plutonien-_-Hier_wird_es_nun_ungleich_deutlicher_00001.mp3",
+            "caption": "This instrumental composition features a lively brass section with trumpets and trombones, driving forward with a strong rhythmic foundation. The piece exudes a cheerful and upbeat atmosphere that blends retro charm with an uplifting sense of nostalgia. Although presented as a MIDI recreation of Baroque era music, the arrangement focuses on the bold instrumentation rather than vocals or lyrics.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/e/pezel-sonata-no-4-recording/Pezel Sonata No 4 Recording_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -386,8 +386,8 @@
         {
             "name": "Sample 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental horror soundtrack establishes a tense and ominous atmosphere through a slow tempo driven by a steady, dark percussive rhythm. A haunting keyboard harmony layers over the sound, creating unease that fits perfectly within the cinematic style of this experimental electronic piece. The composition effectively builds suspense, serving as an ideal backdrop for dramatic scenes in films or video games.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-146132/06-1218086-Terroristi Musicali-Walk away_00005.mp3",
+            "caption": "This instrumental track by Los Repetidores features a cool and groovy funk vibe driven by an electric guitar riff and a simple bassline. The drummer supports the ensemble with a steady rock beat, creating an easygoing atmosphere perfect for a casual outing or road trip. Originally recorded in 2013 as part of an outdoor music cycle, the piece captures a relaxed energy despite its upbeat instrumentation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/r/e/repetidores_en_la_calle/03_moje_arriero_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -428,8 +428,8 @@
         {
             "name": "Sample 11",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is an instrumental cinematic score that blends strings, synthesizers, and electronic drums to build a dramatic and intense atmosphere. The music features slow, atmospheric soundscapes designed to enhance a sense of grandeur and epic storytelling suitable for film trailers or game sequences.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-165832/04-1421542-Olegnov-Fill you Africa_00004.mp3",
+            "caption": "This track is a beautiful example of a game soundtrack, specifically in the style of a Japanese role-playing game. It features a prominent, melancholic piano melody supported by a lush string section that creates a slow and steady rhythm. The overall mood is deeply nostalgic and wistful, making it well-suited for peaceful exploration or reflective cutscenes.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-119449/04-1014470-KPHB-piano_d0_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
