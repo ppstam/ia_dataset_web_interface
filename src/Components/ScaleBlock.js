@@ -56,21 +56,20 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
             <Box sx={{ width: '100%', maxWidth: 700, margin: '0 auto', px: 2, pb: 6 }}>
                 <Slider
                     aria-label="Rating"
-                    defaultValue={(scale.range[0] + scale.range[0]) / 2}
+                    defaultValue={(scale.range[0] + scale.range[1]) / 2}
                     getAriaValueText={valuetext}
                     valueLabelDisplay="auto"
                     marks={marks}
                     onChange={(e) => handleOptionSelect(e.target.value, audioIndex)}
-                    sx={{
-                      color: selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary' : 'gray',
-                      '& .MuiSlider-markLabel': {
-                        fontSize: '0.75rem',
-                        whiteSpace: 'nowrap',
-                        mt: '0px',
-                      },
-                    }}
-                    min={scale.range[0]}
-                    max={scale.range[1]}
+                  sx={{
+                    px: 0, // 🔑 removes left/right padding
+                    color: selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary' : 'gray',
+                    '& .MuiSlider-markLabel': {
+                      fontSize: '0.75rem',
+                      whiteSpace: 'nowrap',
+                      mt: '10px',
+                    },
+                  }}
                 />
             </Box>
         )
