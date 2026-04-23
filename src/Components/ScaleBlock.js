@@ -67,8 +67,8 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
                             fontSize: '0.75rem',
                             whiteSpace: 'nowrap',
                             top: '30px',
-                            transform: 'rotate(-40deg)',
-                            transformOrigin: 'top right',
+                            transform: 'translateX(-50%) rotate(-45deg)',
+                            transformOrigin: 'top center',
                         },
                     }}
                     min={scale.range[0]}
