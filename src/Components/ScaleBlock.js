@@ -5,10 +5,9 @@ import Slider from '@mui/material/Slider';
 
 function valuetext(value) {
     return `${value}`;
-  }
+}
 
 export default function ScaleBlock({question, scale: scaleProp, handleOptionSelect, audioIndex, questionIndex, selectedOptions}) {
-    // Use per-signal scale if provided, otherwise fall back to question.scale
     const scale = scaleProp || question.scale;
 
     if (scale.type === 'discrete') {
@@ -47,35 +46,35 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
             </div>
         )
     }
-    if (scale.type === 'continuous'){
-        const marks = scale.labels.map((label, index) => {
-            return {
-                value: scale.values[index],
-                label: label
-            }
-        })
+    if (scale.type === 'continuous') {
+        const marks = scale.labels.map((label, index) => ({
+            value: scale.values[index],
+            label: label
+        }));
 
         return (
-        <Box className='flex flex-row' sx={{ width: 500, paddingX:5, wordWrap:"break-word" }}>
-
-            <p className="mr-2 translate-y-8">{scale.borderLabels? scale.borderLabels[0]: null}</p>
-            <Slider
-    
-              aria-label="Temperature"
-              defaultValue={(scale.range[1]+scale.range[0])/2}
-            //   value={selectedOptions[audioIndex]}
-              getAriaValueText={valuetext}
-              valueLabelDisplay="auto"
-              marks={marks}
-              onChange={(e) =>{console.log(e); handleOptionSelect(e.target.value, audioIndex)}}
-              //color={selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary':'gray'}
-              sx={{color: selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary':'gray'}}
-              min={scale.range[0]}
-              max={scale.range[1]}
-            />
-            <p className="mr-2 translate-y-8">{scale.borderLabels? scale.borderLabels[1]: null}</p>
-          </Box>
-          
+            <Box sx={{ width: '100%', maxWidth: 700, margin: '0 auto', px: 2, pb: 6 }}>
+                <Slider
+                    aria-label="Rating"
+                    defaultValue={(scale.range[1] + scale.range[0]) / 2}
+                    getAriaValueText={valuetext}
+                    valueLabelDisplay="auto"
+                    marks={marks}
+                    onChange={(e) => handleOptionSelect(e.target.value, audioIndex)}
+                    sx={{
+                        color: selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary' : 'gray',
+                        '& .MuiSlider-markLabel': {
+                            fontSize: '0.75rem',
+                            transform: 'rotate(-40deg)',
+                            transformOrigin: 'top left',
+                            whiteSpace: 'nowrap',
+                            mt: '10px',
+                        },
+                    }}
+                    min={scale.range[0]}
+                    max={scale.range[1]}
+                />
+            </Box>
         )
     }
 
