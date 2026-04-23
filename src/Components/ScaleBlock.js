@@ -70,6 +70,13 @@ export default function ScaleBlock({ question, scale: scaleProp, handleOptionSel
                     valueLabelDisplay="off"
                     marks={marks}
                     onChange={(e, value) => handleOptionSelect(value, audioIndex)}
+                    sx={{
+                        '& .MuiSlider-markLabel': {
+                          transform: 'translateX(0%)', // remove centering
+                        },
+                        '& .MuiSlider-markLabel[data-index="4"]': {
+                          transform: 'translateX(-100%)', // fix last label so it doesn't overflow
+                        },
                 />
             </Box>
         );
