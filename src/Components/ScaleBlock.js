@@ -68,7 +68,7 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
                         transform: 'none',          // remove rotation
                         whiteSpace: 'nowrap',
                         mt: '10px',
-                        left: '50%',                // center relative to mark
+                        left: '0%',                // center relative to mark
                         transform: 'translateX(0%)', // true horizontal centering
                         textAlign: 'center',
                       },
