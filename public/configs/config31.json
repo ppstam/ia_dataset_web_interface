@@ -22,8 +22,8 @@
             },
             "scales": [
                 {
-                    "type": "vertical",
-                    "alignment": "horizontal",
+                    "type": "continuous",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -48,8 +48,8 @@
                     ]
                 },
                 {
-                    "type": "vertical",
-                    "alignment": "horizontal",
+                    "type": "continuous",
+                    "alignment": "vertical",
                     "labels": [
                         "incomplete",
                         "mostly incomplete",
