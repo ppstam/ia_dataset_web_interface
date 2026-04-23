@@ -22,7 +22,7 @@
             },
             "scales": [
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "completely incorrect",
@@ -48,7 +48,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -97,7 +97,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -122,7 +122,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -171,7 +171,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -196,7 +196,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -245,7 +245,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -270,7 +270,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -319,7 +319,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -344,7 +344,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -393,7 +393,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -418,7 +418,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -467,7 +467,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -492,7 +492,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -541,7 +541,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -566,7 +566,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -615,7 +615,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -640,7 +640,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -689,7 +689,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -714,7 +714,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
@@ -763,7 +763,7 @@
             "scales": [
                 {
                     "type": "continuous",
-                    "alignment": "horizontal",
+                    "alignment": "vertical",
                     "labels": [
                         "completely incorrect",
                         "mostly incorrect",
@@ -788,7 +788,7 @@
                     ]
                 },
                 {
-                    "type": "continuous",
+                    "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
                         "incomplete",
