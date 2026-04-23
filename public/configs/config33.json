@@ -17,19 +17,31 @@
                 "test_signals/reference.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -39,8 +51,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -51,11 +63,11 @@
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -65,8 +77,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -91,19 +103,31 @@
                 "test_signals/example_96.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -113,8 +137,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -125,11 +149,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -139,8 +163,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -165,19 +189,31 @@
                 "test_signals/example_97.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -187,8 +223,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -199,11 +235,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -213,8 +249,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -239,19 +275,31 @@
                 "test_signals/example_98.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -261,8 +309,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -273,11 +321,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -287,8 +335,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -313,19 +361,31 @@
                 "test_signals/example_99.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -335,8 +395,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -347,11 +407,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -361,8 +421,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -387,19 +447,31 @@
                 "test_signals/example_100.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -409,8 +481,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -421,11 +493,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -435,8 +507,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -461,19 +533,31 @@
                 "test_signals/example_101.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -483,8 +567,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -495,11 +579,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -509,8 +593,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -535,19 +619,31 @@
                 "test_signals/example_102.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -557,8 +653,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -569,11 +665,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -583,8 +679,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -609,19 +705,31 @@
                 "test_signals/example_103.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -631,8 +739,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -643,11 +751,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -657,8 +765,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -683,19 +791,31 @@
                 "test_signals/example_104.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -705,8 +825,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -717,11 +837,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -731,8 +851,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -757,19 +877,31 @@
                 "test_signals/example_105.mp3"
             ],
             "prompts": {
-                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
-                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
             },
             "scales": [
                 {
                     "type": "continuous",
                     "alignment": "vertical",
                     "labels": [
-                        "completely incorrect",
-                        "mostly incorrect",
-                        "somewhat correct",
-                        "mostly correct",
-                        "completely correct"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -779,8 +911,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "completely incorrect",
-                        "completely correct"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
@@ -791,11 +923,11 @@
                     "type": "vertical",
                     "alignment": "horizontal",
                     "labels": [
-                        "incomplete",
-                        "mostly incomplete",
-                        "somewhat complete",
-                        "mostly complete",
-                        "complete"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
                     ],
                     "values": [
                         0,
@@ -805,8 +937,8 @@
                         100
                     ],
                     "borderLabels": [
-                        "incomplete",
-                        "complete"
+                        "1",
+                        "5"
                     ],
                     "range": [
                         0,
