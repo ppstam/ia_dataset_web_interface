@@ -63,7 +63,7 @@ export default function ScaleBlock({ question, scale: scaleProp, handleOptionSel
                     aria-label="Rating"
                     min={min}
                     max={max}
-                    step={null}
+                    step={1}
                     defaultValue={(min + max) / 2}
                     getAriaValueText={valuetext}
                     valueLabelDisplay="off"
