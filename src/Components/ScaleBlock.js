@@ -7,31 +7,28 @@ function valuetext(value) {
     return `${value}`;
   }
 
-export default function ScaleBlock({question, handleOptionSelect, audioIndex, questionIndex, selectedOptions}) {
-    if (question.scale.type === 'discrete') {
+export default function ScaleBlock({question, scale: scaleProp, handleOptionSelect, audioIndex, questionIndex, selectedOptions}) {
+    // Use per-signal scale if provided, otherwise fall back to question.scale
+    const scale = scaleProp || question.scale;
+
+    if (scale.type === 'discrete') {
         return (
-            <div className="w-full flex justify-center">
-                <div className="flex flex-wrap justify-center gap-6 max-w-2xl">
-                    {question.scale.labels.map((option, optionIndex) => (
-                        <label
-                            key={`${audioIndex}_${optionIndex}`}
-                            className="flex items-center justify-center cursor-pointer min-w-[70px]"
-                        >
-                            <input
-                                className="mr-2"
-                                type="radio"
-                                name={`question-${audioIndex}_${questionIndex}`}
-                                checked={selectedOptions[audioIndex] === option}
-                                onChange={() => handleOptionSelect(option, audioIndex)}
-                            />
-                            <span className="text-center">{option}</span>
-                        </label>
-                    ))}
-                </div>
+            <div className="flex flex-row flex-wrap justify-center gap-4">
+                {scale.labels.map((option, optionIndex) => (
+                    <label key={audioIndex + '_' + optionIndex} className="flex items-center cursor-pointer">
+                        <input className='mr-1'
+                            type="radio"
+                            name={`question-${audioIndex + '_' + questionIndex}`}
+                            checked={selectedOptions[audioIndex] === option}
+                            onChange={() => handleOptionSelect(option, audioIndex)}
+                        />
+                        {option}
+                    </label>
+                ))}
             </div>
         )
     }
-    if (question.scale.type === 'dropdown') {
+    if (scale.type === 'dropdown') {
         return (
             <div className="w-[200px]">
                 <Select
@@ -41,7 +38,7 @@ export default function ScaleBlock({question, handleOptionSelect, audioIndex, qu
                     size='md'
                     className="text-left items-start content-start"
                 >
-                    {question.scale.labels.map((option, optionIndex) => (
+                    {scale.labels.map((option, optionIndex) => (
                         <Option className="text-left" key={audioIndex + '_' + optionIndex} value={option}>
                             {option}
                         </Option>
@@ -50,10 +47,10 @@ export default function ScaleBlock({question, handleOptionSelect, audioIndex, qu
             </div>
         )
     }
-    if (question.scale.type === 'continuous'){
-        const marks = question.scale.labels.map((label, index) => {
+    if (scale.type === 'continuous'){
+        const marks = scale.labels.map((label, index) => {
             return {
-                value: question.scale.values[index],
+                value: scale.values[index],
                 label: label
             }
         })
@@ -61,11 +58,11 @@ export default function ScaleBlock({question, handleOptionSelect, audioIndex, qu
         return (
         <Box className='flex flex-row' sx={{ width: 500, paddingX:5, wordWrap:"break-word" }}>
 
-            <p className="mr-2 translate-y-8">{question.scale.borderLabels? question.scale.borderLabels[0]: null}</p>
+            <p className="mr-2 translate-y-8">{scale.borderLabels? scale.borderLabels[0]: null}</p>
             <Slider
     
               aria-label="Temperature"
-              defaultValue={(question.scale.range[1]+question.scale.range[0])/2}
+              defaultValue={(scale.range[1]+scale.range[0])/2}
             //   value={selectedOptions[audioIndex]}
               getAriaValueText={valuetext}
               valueLabelDisplay="auto"
@@ -73,10 +70,10 @@ export default function ScaleBlock({question, handleOptionSelect, audioIndex, qu
               onChange={(e) =>{console.log(e); handleOptionSelect(e.target.value, audioIndex)}}
               //color={selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary':'gray'}
               sx={{color: selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary':'gray'}}
-              min={question.scale.range[0]}
-              max={question.scale.range[1]}
+              min={scale.range[0]}
+              max={scale.range[1]}
             />
-            <p className="mr-2 translate-y-8">{question.scale.borderLabels? question.scale.borderLabels[1]: null}</p>
+            <p className="mr-2 translate-y-8">{scale.borderLabels? scale.borderLabels[1]: null}</p>
           </Box>
           
         )

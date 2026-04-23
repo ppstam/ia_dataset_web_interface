@@ -17,31 +17,63 @@
                 "test_signals/reference.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -59,31 +91,63 @@
                 "test_signals/example_12.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -101,31 +165,63 @@
                 "test_signals/example_13.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -143,31 +239,63 @@
                 "test_signals/example_14.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -185,31 +313,63 @@
                 "test_signals/example_15.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -227,31 +387,63 @@
                 "test_signals/example_16.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -269,31 +461,63 @@
                 "test_signals/example_17.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -311,31 +535,63 @@
                 "test_signals/example_18.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -353,31 +609,63 @@
                 "test_signals/example_19.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -395,31 +683,63 @@
                 "test_signals/example_20.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,
@@ -437,31 +757,63 @@
                 "test_signals/example_21.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
-                "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
+                "0": "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio. ",
+                "1": "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio."
             },
-            "scale": {
-                "type": "discrete",
-                "alignment": "horizontal",
-                "labels": [
-                    "1 (worst)",
-                    "2",
-                    "3",
-                    "4",
-                    "5",
-                    "6",
-                    "7 (best)"
-                ],
-                "values": [
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7
-                ]
-            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "completely incorrect",
+                        "mostly incorrect",
+                        "somewhat correct",
+                        "mostly correct",
+                        "completely correct"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "completely incorrect",
+                        "completely correct"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "incomplete",
+                        "mostly incomplete",
+                        "somewhat complete",
+                        "mostly complete",
+                        "complete"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "incomplete",
+                        "complete"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
             "shuffleTestSignals": false,
             "referenceEvaluated": false,
             "anchorEvaluated": false,

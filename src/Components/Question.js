@@ -271,13 +271,17 @@ export default function Question({ question, questionIndex, testResults, setTest
                 </div>
 
                 {/* Questions with scales stacked vertically */}
-                {question.testSignals.map((_, audioIndex) => (
+                {question.testSignals.map((_, audioIndex) => {
+                    // Resolve per-signal scale: scales[index] > scale (shared)
+                    const signalScale = question.scales ? question.scales[audioIndex] : question.scale;
+                    return (
                     <div key={audioIndex} className='flex flex-col mb-6 p-4 bg-gray-50 rounded-lg'>
                         <h3 className='font-semibold mb-3'>{question.prompts[audioIndex]}</h3>
                         <div className='flex flex-row items-center gap-4'>
                             <ScaleBlock
                                 key={audioIndex + '_scale_block_'}
                                 question={question}
+                                scale={signalScale}
                                 handleOptionSelect={handleOptionClick}
                                 audioIndex={audioIndex}
                                 questionIndex={questionIndex}
@@ -285,7 +289,8 @@ export default function Question({ question, questionIndex, testResults, setTest
                             />
                         </div>
                     </div>
-                ))}
+                    );
+                })}
 
                 <Button color='blue' onClick={handleAnswer} disabled={!submitEnabled}>{question.submitButtonText}</Button>
             </div>
