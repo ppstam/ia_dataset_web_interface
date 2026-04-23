@@ -62,7 +62,6 @@ export default function ScaleBlock({ question, scale: scaleProp, handleOptionSel
                     min={scale.range[0]}
                     max={scale.range[1]}
                     getAriaValueText={valuetext}
-                    valueLabelDisplay="auto"
                     marks={marks}
                     onChange={(e, value) => handleOptionSelect(value, audioIndex)}
                     sx={{
