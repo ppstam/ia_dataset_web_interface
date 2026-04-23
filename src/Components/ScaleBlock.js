@@ -54,28 +54,22 @@ export default function ScaleBlock({ question, scale: scaleProp, handleOptionSel
             label: label,
         }));
 
+        const step = scale.values.length > 1
+            ? scale.values[1] - scale.values[0]
+            : 1;
+
         return (
             <Box sx={{ width: '100%', maxWidth: 700, margin: '0 auto', px: 3, pb: 6 }}>
                 <Slider
                     aria-label="Rating"
-                    defaultValue={(scale.range[0] + scale.range[1]) / 2}
                     min={scale.range[0]}
                     max={scale.range[1]}
+                    step={step}
+                    defaultValue={(scale.range[0] + scale.range[1]) / 2}
                     getAriaValueText={valuetext}
-                    valueLabelDisplay="auto"
+                    valueLabelDisplay="off"
                     marks={marks}
                     onChange={(e, value) => handleOptionSelect(value, audioIndex)}
-                    sx={{
-                        '& .MuiSlider-markLabel': {
-                            transform: 'translateX(-50%) !important',
-                        },
-                        '& .MuiSlider-markLabel[data-index="0"]': {
-                            transform: 'translateX(-50%) !important',
-                        },
-                        [`& .MuiSlider-markLabel[data-index="${marks.length - 1}"]`]: {
-                            transform: 'translateX(-50%) !important',
-                        },
-                    }}
                 />
             </Box>
         );
