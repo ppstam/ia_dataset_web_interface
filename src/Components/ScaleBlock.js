@@ -69,6 +69,12 @@ export default function ScaleBlock({ question, scale: scaleProp, handleOptionSel
                         '& .MuiSlider-markLabel': {
                             transform: 'translateX(-50%) !important',
                         },
+                        '& .MuiSlider-markLabel[data-index="0"]': {
+                            transform: 'translateX(-50%) !important',
+                        },
+                        [`& .MuiSlider-markLabel[data-index="${marks.length - 1}"]`]: {
+                            transform: 'translateX(-50%) !important',
+                        },
                     }}
                 />
             </Box>
