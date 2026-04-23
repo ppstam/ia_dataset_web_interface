@@ -65,12 +65,8 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
                       color: selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary' : 'gray',
                       '& .MuiSlider-markLabel': {
                         fontSize: '0.75rem',
-                        transform: 'none',          // remove rotation
                         whiteSpace: 'nowrap',
                         mt: '10px',
-                        left: '0%',                // center relative to mark
-                        transform: 'translateX(0%)', // true horizontal centering
-                        textAlign: 'center',
                       },
                     }}
                     min={scale.range[0]}
