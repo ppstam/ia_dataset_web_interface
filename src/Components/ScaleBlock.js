@@ -64,8 +64,7 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
                     sx={{
                       '&.MuiSlider-root': {
                         paddingLeft: 0,
-                        paddingRight: 0,
-                        step={null}
+                        paddingRight: 0
                       },
                     }}
                 />
