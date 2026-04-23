@@ -65,6 +65,11 @@ export default function ScaleBlock({ question, scale: scaleProp, handleOptionSel
                     valueLabelDisplay="auto"
                     marks={marks}
                     onChange={(e, value) => handleOptionSelect(value, audioIndex)}
+                    sx={{
+                        '& .MuiSlider-markLabel': {
+                            transform: 'translateX(-50%) !important',
+                        },
+                    }}
                 />
             </Box>
         );
