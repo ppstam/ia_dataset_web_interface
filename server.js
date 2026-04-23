@@ -321,15 +321,39 @@ app.post('/api/results', async (req, res) => {
 
     // Push results to Google Sheets
     const sheetRows = results.map(questionResults => {
-        const anchorKeys = Object.keys(questionResults.answers).filter(key => key.includes('anchor'));
-        const referenceKeys = Object.keys(questionResults.answers).filter(key => key.includes('reference'));
-        const anchorValues = anchorKeys.map(key => questionResults.answers[key]).filter(v => v).join(',');
-        const referenceValues = referenceKeys.map(key => questionResults.answers[key]).filter(v => v).join(',');
+        const answers = questionResults.answers;
+        const keys = Object.keys(answers);
+
+        // Detect if this is a survey question (named keys like "years_experience")
+        // vs audio question (numeric keys like 0, 1, 2 + "anchor0", "reference0")
+        const isSurvey = keys.length > 0 && keys.every(k => isNaN(parseInt(k)) && !k.includes('anchor') && !k.includes('reference'));
+
+        if (isSurvey) {
+            // Survey: serialize all key=value pairs
+            const surveyAnswers = keys.map(k => `${k}=${answers[k]}`).join(' | ');
+            return [
+                completedAt,
+                participantId,
+                participantName || 'unknown',
+                configFile,
+                questionResults.questionId,
+                questionResults.questionName || '',
+                surveyAnswers,
+                'null',
+                'null'
+            ];
+        }
+
+        // Audio question: extract numeric, anchor, and reference answers
+        const anchorKeys = keys.filter(key => key.includes('anchor'));
+        const referenceKeys = keys.filter(key => key.includes('reference'));
+        const anchorValues = anchorKeys.map(key => answers[key]).filter(v => v).join(',');
+        const referenceValues = referenceKeys.map(key => answers[key]).filter(v => v).join(',');
 
         const numericAnswers = [];
-        for (let i = 0; i < Object.keys(questionResults.answers).length; i++) {
-            if (questionResults.answers[i] !== undefined) {
-                numericAnswers.push(questionResults.answers[i]);
+        for (let i = 0; i < keys.length; i++) {
+            if (answers[i] !== undefined) {
+                numericAnswers.push(answers[i]);
             } else {
                 break;
             }
