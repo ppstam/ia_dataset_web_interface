@@ -49,34 +49,26 @@ export default function ScaleBlock({ question, scale: scaleProp, handleOptionSel
     }
 
     if (scale.type === 'continuous') {
+        const [min, max] = scale.range;
+        const n = scale.labels.length;
+
         const marks = scale.labels.map((label, index) => ({
-            value: scale.values[index],
+            value: min + (index * (max - min)) / (n - 1),
             label: label,
         }));
-
-        const step = scale.values.length > 1
-            ? scale.values[1] - scale.values[0]
-            : 1;
 
         return (
             <Box sx={{ width: '100%', maxWidth: 700, margin: '0 auto', px: 3, pb: 6 }}>
                 <Slider
                     aria-label="Rating"
-                    min={scale.range[0]}
-                    max={scale.range[1]}
-                    step={25}
-                    defaultValue={(scale.range[0] + scale.range[1]) / 2}
+                    min={min}
+                    max={max}
+                    step={null}
+                    defaultValue={(min + max) / 2}
                     getAriaValueText={valuetext}
                     valueLabelDisplay="off"
                     marks={marks}
                     onChange={(e, value) => handleOptionSelect(value, audioIndex)}
-                    sx={{
-                        '& .MuiSlider-markLabel': {
-                          transform: 'translateX(0%)', // remove centering
-                        },
-                        '& .MuiSlider-markLabel[data-index="4"]': {
-                          transform: 'translateX(-100%)', // fix last label so it doesn't overflow
-                        },
                 />
             </Box>
         );
