@@ -69,7 +69,7 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
                         whiteSpace: 'nowrap',
                         mt: '10px',
                         left: '50%',                // center relative to mark
-                        transform: 'translateX(-50%)', // true horizontal centering
+                        transform: 'translateX(0%)', // true horizontal centering
                         textAlign: 'center',
                       },
                     }}
