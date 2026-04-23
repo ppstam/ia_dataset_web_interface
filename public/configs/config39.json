@@ -17,7 +17,7 @@
                 "test_signals/reference.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -59,7 +59,7 @@
                 "test_signals/example_114.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -101,7 +101,7 @@
                 "test_signals/example_115.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -143,7 +143,7 @@
                 "test_signals/example_116.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -185,7 +185,7 @@
                 "test_signals/example_117.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -227,7 +227,7 @@
                 "test_signals/example_118.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -269,7 +269,7 @@
                 "test_signals/example_119.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -311,7 +311,7 @@
                 "test_signals/example_120.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -353,7 +353,7 @@
                 "test_signals/example_121.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -395,7 +395,7 @@
                 "test_signals/example_122.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
@@ -437,7 +437,7 @@
                 "test_signals/example_123.mp3"
             ],
             "prompts": {
-                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, entire caption completely unrelated to the audio clip) to 7 (best, completely related)",
+                "0": "Does this caption contain information that is unrelated to the audio clip? Rate on a scale from 1 (worst, caption completely unrelated to the audio) to 7 (best, completely related)",
                 "1": "How complete is the caption with relation to the audio. Consider mood, genre, and instrumentation descriptions. Rate on a scale from 1 (worst, does not contain information) to 7 (best, contains all relevant musical information) "
             },
             "scale": {
