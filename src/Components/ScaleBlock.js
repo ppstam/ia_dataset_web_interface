@@ -56,7 +56,7 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
             <Box sx={{ width: '100%', maxWidth: 700, margin: '0 auto', px: 2, pb: 6 }}>
                 <Slider
                     aria-label="Rating"
-                    defaultValue={(scale.range[0]}
+                    defaultValue={(scale.range[0] + scale.range[0]) / 2}
                     getAriaValueText={valuetext}
                     valueLabelDisplay="auto"
                     marks={marks}
@@ -66,7 +66,7 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
                       '& .MuiSlider-markLabel': {
                         fontSize: '0.75rem',
                         whiteSpace: 'nowrap',
-                        mt: '10px',
+                        mt: '0px',
                       },
                     }}
                     min={scale.range[0]}
