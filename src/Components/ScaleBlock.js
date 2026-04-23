@@ -61,15 +61,13 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
                     valueLabelDisplay="auto"
                     marks={marks}
                     onChange={(e) => handleOptionSelect(e.target.value, audioIndex)}
-                  sx={{
-                    px: 0, // 🔑 removes left/right padding
-                    color: selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary' : 'gray',
-                    '& .MuiSlider-markLabel': {
-                      fontSize: '0.75rem',
-                      whiteSpace: 'nowrap',
-                      mt: '10px',
-                    },
-                  }}
+                    sx={{
+                      '&.MuiSlider-root': {
+                        paddingLeft: 0,
+                        paddingRight: 0,
+                        step={null}
+                      },
+                    }}
                 />
             </Box>
         )
