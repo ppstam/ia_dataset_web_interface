@@ -62,14 +62,16 @@ export default function ScaleBlock({question, scale: scaleProp, handleOptionSele
                     marks={marks}
                     onChange={(e) => handleOptionSelect(e.target.value, audioIndex)}
                     sx={{
-                        color: selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary' : 'gray',
-                        '& .MuiSlider-markLabel': {
-                            fontSize: '0.75rem',
-                            transform: 'rotate(-40deg)',
-                            transformOrigin: 'top left',
-                            whiteSpace: 'nowrap',
-                            mt: '10px',
-                        },
+                      color: selectedOptions[audioIndex] && selectedOptions[audioIndex] !== '' ? 'primary' : 'gray',
+                      '& .MuiSlider-markLabel': {
+                        fontSize: '0.75rem',
+                        transform: 'none',          // remove rotation
+                        whiteSpace: 'nowrap',
+                        mt: '10px',
+                        left: '50%',                // center relative to mark
+                        transform: 'translateX(-50%)', // true horizontal centering
+                        textAlign: 'center',
+                      },
                     }}
                     min={scale.range[0]}
                     max={scale.range[1]}
