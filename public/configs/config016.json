@@ -1,20 +1,20 @@
 {
     "homeInfo": {
         "title": "Audio Quality Evaluation",
-        "message": "Welcome to this audio quality evaluation test.\n\nYou will listen to 11 audio samples and answer 2 questions about each one.\nPlease use headphones and ensure you are in a quiet environment.\n\nFor each question, rate the audio on a scale from 1 (worst) to 5 (best).\n\nClick the button below when you are ready to begin.",
+        "message": "Welcome to this audio captioning evaluation test.\n\nYou will listen to audio samples and evaluate how well a text caption describes each audio excerpt. For each sample, you will answer two questions using a slider scale.\n\nThe test is divided into two parts:\n\n1. Example samples \u2014 A few practice samples to familiarize yourself with the task and the interface. Your answers on these will not be recorded.\n\n2. Test samples \u2014 The actual evaluation. Please answer carefully.\n\nAfter the test, you will be asked a short question about your musical background.\n\nPlease use headphones and ensure you are in a quiet environment.\n\nClick the button below when you are ready to begin.",
         "buttonText": "Start test"
     },
     "questions": [
         {
-            "name": "Sample 1",
+            "name": "Example sample 1 / 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
-            "id": "/projects/adasp/mir/MusicCaps/audio/ZVvX2-ldhvY.wav",
+            "caption": "The low quality recording features a didgeridoo melody. It sounds boomy and the recording is noisy and in mono.",
+            "id": "/projects/adasp/mir/MusicCaps/audio/ng9Dpk4qiP4.wav",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/reference.mp3",
-                "test_signals/reference.mp3"
+                "test_signals/reference_0.mp3",
+                "test_signals/reference_0.mp3"
             ],
             "prompts": {
                 "0": [
@@ -92,10 +92,363 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 2",
+            "name": "Example sample 2 / 5",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends dark, intense synthesizers with a driving four-on-the-floor beat to create an energetic atmosphere. The prominent bassline and electronic drums build a sense of urgency, making the music ideal for a nightclub or rave setting where people are dancing. While it carries the deep house style of the original release, the arrangement focuses heavily on rhythm and sound design rather than melody.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-166630/01-1429777-Gigatop Arthur-Another Night_00005.mp3",
+            "caption": "solo acoustic nylon string guitar playing in a fingerstyle Brazilian bossa nova style.",
+            "id": "/projects/adasp/mir/MusicCaps/audio/ZVvX2-ldhvY.wav",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/reference_1.mp3",
+                "test_signals/reference_1.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Example sample 3 / 5",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This song starts with a male narrator speaking a line. This is followed by a female voice singing the  main melody and each line is repeated by male and female voices. This song has a repetitive melody. This song has a call and response pattern. This is accompanied by an acoustic guitar playing chords and riffs at the end of lines. The percussion is played on a tabla. This song has a religious chant feel. This song can be played in a religious gathering.",
+            "id": "/projects/adasp/mir/MusicCaps/audio/2zrPFxxT1VM.wav",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/reference_2.mp3",
+                "test_signals/reference_2.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Example sample 4 / 5",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "The low quality recording features a flat male vocal talking and playing a groovy accordion melody, before which a male and a female laugh. It sounds passionate and groovy.",
+            "id": "/projects/adasp/mir/MusicCaps/audio/0u1sk49gAU0.wav",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/reference_3.mp3",
+                "test_signals/reference_3.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Example sample 5 / 5",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "A cheery ukulele ensemble featuring ukulele strumming and a harmonized ukulele melody.",
+            "id": "/projects/adasp/mir/MusicCaps/audio/yTc-ENutOD4.wav",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/reference_4.mp3",
+                "test_signals/reference_4.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "type": "survey",
+            "name": "Ready?",
+            "description": "The example samples are now complete.\n\nThe actual test will now begin. You will listen to audio samples and evaluate their captions, just as you did in the examples.\n\nClick 'Start test' when you are ready.",
+            "id": "transition",
+            "testSignals": [],
+            "fields": [],
+            "submitButtonText": "Start test"
+        },
+        {
+            "name": "Test sample 1 / 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This lively instrumental track features a catchy piano melody supported by a steady bassline and rhythmic drum beats. A female vocal layer adds a narrative element to the groovy arrangement, creating an engaging and dynamic listening experience. The piece blends simple instrumentation with an energetic, danceable mood characteristic of electronic pop styles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-115846/09-984008-Hasenchat-You dont neat Money_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -178,10 +531,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 3",
+            "name": "Test sample 2 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends electronic, chiptune, and techno influences to create an upbeat and energetic mood. Featuring prominent synthesizers, digital drums, and a catchy driving bassline, the fast-paced rhythm makes it ideal for a video game soundtrack.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133149/04-1114625-RED DEEP-The Knight Rider_00005.mp3",
+            "caption": "This instrumental track blends dark, intense synthesizers with a driving four-on-the-floor beat to create an energetic atmosphere. The prominent bassline and electronic drums build a sense of urgency, making the music ideal for a nightclub or rave setting where people are dancing. While it carries the deep house style of the original release, the arrangement focuses heavily on rhythm and sound design rather than melody.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-166630/01-1429777-Gigatop Arthur-Another Night_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -264,10 +617,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 4",
+            "name": "Test sample 3 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This lively instrumental track blends house, techno, and electronic elements with a cheerful, summer-ready mood. Driven by catchy synthesizers, pulsing bass lines, and repetitive rhythms, the song creates a groovy groove ideal for parties or casual listening.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123655/27-1049947-Hasenchat-Take Me_00004.mp3",
+            "caption": "This segment is an entirely arrhythmic instrumental track built from sound design elements like static, white noise, and various electronic effects. The harsh and abrasive atmosphere creates a chaotic soundscape that feels like observing the inner workings of a revealing machine without any discernible tempo or rhythm.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/h/phokes143/phokes143-_-05-_-Plutonien-_-Hier_wird_es_nun_ungleich_deutlicher_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -350,10 +703,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 5",
+            "name": "Test sample 4 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This lively instrumental jazz composition features a cheerful, playful melody primarily carried by the saxophone. A harmonious accompaniment from piano, trumpet, bass, and acoustic drums creates an upbeat swing rhythm that feels ideal for a comedic scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136247/03-1135091-Breathtaking-Meli is away_00004.mp3",
+            "caption": "This instrumental rock track features a fast tempo driven by electric guitar, bass, and acoustic drums to create an energetic atmosphere. Although the segment primarily showcases powerful instrumentation, the high-pitched male vocals add an intense layer suitable for a live concert setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136542/05-1136837-Abrids-we come for the fest_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -436,10 +789,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 6",
+            "name": "Test sample 5 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment serves as a perfect example of a classical orchestral soundtrack, featuring a full ensemble with a strong focus on string instruments. The slow tempo creates a dramatic and epic mood that builds tension through dynamic, impactful rhythms.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/t/Atmosmastik_andtheseawilltellus/atmosmastik__01__The_Wrong_Place_and_the_wrong_day_00001.mp3",
+            "caption": "This lively instrumental track blends house, techno, and electronic elements with a cheerful, summer-ready mood. Driven by catchy synthesizers, pulsing bass lines, and repetitive rhythms, the song creates a groovy groove ideal for parties or casual listening.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123655/27-1049947-Hasenchat-Take Me_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -522,10 +875,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 7",
+            "name": "Test sample 6 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This Indian movie music piece features a female vocalist singing in a melodious style accompanied by the harmonium and tabla. Bird sounds in the background enhance the romantic atmosphere, creating a soundscape well-suited for a romance set in India. Although some metadata suggests holiday themes or specific orchestral instruments, the primary audio evidence highlights traditional folk elements typical of vintage Hindi cinema.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/w/w/www-VintageSense-com-Vintage-Indian-Music-62n/12202_indian_music_vintagesense.com_1966_lalBungla1966-SumanKalyanpur-Aa---SunayiDeNaDeTumKo2-UshaKhanna_vintagesense.com_song_id_12202_00002.mp3",
+            "caption": "This lively instrumental jazz composition features a cheerful, playful melody primarily carried by the saxophone. A harmonious accompaniment from piano, trumpet, bass, and acoustic drums creates an upbeat swing rhythm that feels ideal for a comedic scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136247/03-1135091-Breathtaking-Meli is away_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -608,10 +961,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 8",
+            "name": "Test sample 7 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features no vocals, allowing the listener to focus entirely on the intricate interplay of guitars, bass, and percussion. The piece leans toward a rock style with an electric guitar as the primary driver, supported by driving bass lines and cymbal accents.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/L/a/LanaLeeMDAHVol3HilillosMusicales/03 Desierto_00001.mp3",
+            "caption": "This instrumental track features a male voice speaking in a foreign language over a groovy bass line and steady drumming rhythm. An electric guitar provides a unique touch to the lively sound, creating an energetic atmosphere suitable for a movie soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139239/07-1159608-Gamssy Ghoulz-Le train_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -694,10 +1047,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 9",
+            "name": "Test sample 8 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a driving drum machine beat and a pulsating bassline powered by prominent synthesizers. The energetic rhythm creates an infectious atmosphere ideal for high-energy nightclub or rave settings.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-475342/02-1927836-Kamil Muzyk _Howarang Van K_-The black angel of fire_00001.mp3",
+            "caption": "A warm and intimate acoustic performance features a solo vocal delivered alongside an emotive guitar melody. The slow, steady rhythm creates a meditative atmosphere that evokes the cozy feeling of a personal story being shared in a home setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-122637/03-1041066-___-Letters From Below _The River__00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -780,10 +1133,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 10",
+            "name": "Test sample 9 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a driving instrumental techno track built around synthesizers, deep bass lines, and electronic drums. The piece maintains a dark and intense mood with a repetitive four-on-the-floor beat that creates a sense of urgency.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/a/paraphenalia-litter-5-2b-2-7/Paraphenalia Litter_5_2b -2_7  _00001.mp3",
+            "caption": "This segment serves as a perfect example of a classical orchestral soundtrack, featuring a full ensemble with a strong focus on string instruments. The slow tempo creates a dramatic and epic mood that builds tension through dynamic, impactful rhythms.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/t/Atmosmastik_andtheseawilltellus/atmosmastik__01__The_Wrong_Place_and_the_wrong_day_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -866,10 +1219,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Sample 11",
+            "name": "Test sample 10 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track by Disconauts Music Production serves as a perfect accompaniment for a cozy coffee shop. Soothing acoustic guitar playing and a gentle rhythm create a relaxing atmosphere within the song's easy-listening style.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-299645/01-1486097-Disconauts Music Production-Wait of You_00001.mp3",
+            "caption": "This Indian movie music piece features a female vocalist singing in a melodious style accompanied by the harmonium and tabla. Bird sounds in the background enhance the romantic atmosphere, creating a soundscape well-suited for a romance set in India. Although some metadata suggests holiday themes or specific orchestral instruments, the primary audio evidence highlights traditional folk elements typical of vintage Hindi cinema.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/w/w/www-VintageSense-com-Vintage-Indian-Music-62n/12202_indian_music_vintagesense.com_1966_lalBungla1966-SumanKalyanpur-Aa---SunayiDeNaDeTumKo2-UshaKhanna_vintagesense.com_song_id_12202_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -954,8 +1307,8 @@
         {
             "type": "survey",
             "name": "About You",
-            "description": "Please tell us about your musical background.",
-            "id": 12,
+            "description": "Please tell us about yourself and your experience. This helps us interpret the results.",
+            "id": "survey",
             "testSignals": [],
             "fields": [
                 {
@@ -968,15 +1321,88 @@
                     "required": true
                 },
                 {
-                    "id": "musical_background",
-                    "label": "Please describe your musical experience (instruments played, training, listening habits, etc.)",
+                    "id": "role",
+                    "label": "What best describes your role?",
+                    "type": "select",
+                    "options": [
+                        "Casual listener",
+                        "Music enthusiast",
+                        "Musician",
+                        "Sound engineer / Producer",
+                        "Music researcher",
+                        "Other"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "instrument",
+                    "label": "Do you play an instrument? If yes, which one(s)?",
+                    "type": "text",
+                    "placeholder": "e.g. piano, guitar, drums \u2014 or leave empty if none",
+                    "required": false
+                },
+                {
+                    "id": "listening_device",
+                    "label": "What are you using to listen to the audio samples?",
+                    "type": "select",
+                    "options": [
+                        "Over-ear headphones",
+                        "In-ear headphones (earbuds)",
+                        "Laptop speakers",
+                        "External speakers / monitors",
+                        "Other"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "listening_environment",
+                    "label": "How would you describe your listening environment?",
+                    "type": "select",
+                    "options": [
+                        "Quiet room",
+                        "Office / shared space",
+                        "Noisy environment",
+                        "Other"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "eval_familiarity",
+                    "label": "Have you participated in audio evaluation tests before?",
+                    "type": "select",
+                    "options": [
+                        "Never",
+                        "Once or twice",
+                        "Several times",
+                        "Regularly"
+                    ],
+                    "required": true
+                },
+                {
+                    "id": "age_range",
+                    "label": "What is your age range?",
+                    "type": "select",
+                    "options": [
+                        "Under 18",
+                        "18-24",
+                        "25-34",
+                        "35-44",
+                        "45-54",
+                        "55+",
+                        "Prefer not to say"
+                    ],
+                    "required": false
+                },
+                {
+                    "id": "comments",
+                    "label": "Any comments or suggestions to improve the test?",
                     "type": "textarea",
-                    "placeholder": "e.g. I've played piano for 10 years and studied music theory in college...",
-                    "rows": 5,
+                    "placeholder": "e.g. The audio was too short, the scale was confusing, etc.",
+                    "rows": 4,
                     "required": false
                 }
             ],
-            "submitButtonText": "Next"
+            "submitButtonText": "Submit"
         }
     ]
 }

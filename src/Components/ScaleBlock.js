@@ -60,6 +60,7 @@ export default function ScaleBlock({ question, scale: scaleProp, handleOptionSel
         return (
             <Box sx={{ width: '100%', maxWidth: 700, margin: '0 auto', px: 3, pb: 6 }}>
                 <Slider
+                    key={`slider_${questionIndex}_${audioIndex}`}
                     aria-label="Rating"
                     min={min}
                     max={max}

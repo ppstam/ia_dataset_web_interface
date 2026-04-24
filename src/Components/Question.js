@@ -6,18 +6,13 @@ import { getRandomIndexes, shuffleArrayByIndexes } from '../utils/general';
 
 export default function Question({ question, questionIndex, testResults, setTestResults }) {
     // --- State ---
-    // Test-signal answers: indexed array ["", "", ...]
     const [testAnswers, setTestAnswers] = useState([]);
-    // Anchor/reference answers: keyed object { anchor0: "", reference0: "" }
     const [extraAnswers, setExtraAnswers] = useState({});
-    // Survey answers: keyed by field.id
     const [surveyAnswers, setSurveyAnswers] = useState({});
-    // Shuffle order for test signals
     const [randomIndexes, setRandomIndexes] = useState([]);
 
     const isSurvey = question.type === 'survey';
 
-    // Detect shared-audio mode
     const uniqueSignals = useMemo(() => {
         if (isSurvey) return [];
         return [...new Set(
@@ -30,7 +25,6 @@ export default function Question({ question, questionIndex, testResults, setTest
 
     const isSharedAudio = uniqueSignals.length === 1 && !isSurvey && question.testSignals.length > 1;
 
-    // --- Initialization: runs when question changes ---
     useEffect(() => {
         if (isSurvey) {
             const initial = {};
@@ -44,7 +38,6 @@ export default function Question({ question, questionIndex, testResults, setTest
             return;
         }
 
-        // Audio question init
         const indexes = getRandomIndexes(question.testSignals.map((_, i) => i));
         setRandomIndexes(indexes);
 
@@ -59,7 +52,6 @@ export default function Question({ question, questionIndex, testResults, setTest
         setSurveyAnswers({});
     }, [question, isSurvey]);
 
-    // --- Derived: submit enabled ---
     const submitEnabled = useMemo(() => {
         if (isSurvey) {
             if (!question.fields) return false;
@@ -68,17 +60,14 @@ export default function Question({ question, questionIndex, testResults, setTest
                 .every(f => surveyAnswers[f.id] && surveyAnswers[f.id].toString().trim() !== '');
         }
 
-        // All test signals answered
         if (testAnswers.length !== question.testSignals.length) return false;
         if (!testAnswers.every(o => o !== "")) return false;
 
-        // Anchors (if evaluated)
         if (question.anchors && question.anchorEvaluated) {
             const ok = question.anchors.every((_, i) => extraAnswers['anchor' + i] && extraAnswers['anchor' + i] !== "");
             if (!ok) return false;
         }
 
-        // References (if evaluated)
         if (question.references && question.referenceEvaluated) {
             const ok = question.references.every((_, i) => extraAnswers['reference' + i] && extraAnswers['reference' + i] !== "");
             if (!ok) return false;
@@ -87,7 +76,6 @@ export default function Question({ question, questionIndex, testResults, setTest
         return true;
     }, [isSurvey, question, testAnswers, extraAnswers, surveyAnswers]);
 
-    // --- Handlers ---
     const handleOptionClick = useCallback((option, audioIndex) => {
         if (typeof audioIndex === 'number') {
             setTestAnswers(prev => {
@@ -96,7 +84,6 @@ export default function Question({ question, questionIndex, testResults, setTest
                 return next;
             });
         } else {
-            // string key like "anchor0" or "reference0"
             setExtraAnswers(prev => ({ ...prev, [audioIndex]: option }));
         }
     }, []);
@@ -116,7 +103,6 @@ export default function Question({ question, questionIndex, testResults, setTest
                 labels: Object.keys(surveyAnswers),
             };
         } else {
-            // Merge numeric + extra answers back into the shape the server expects
             const mergedAnswers = [...testAnswers];
             Object.keys(extraAnswers).forEach(k => {
                 mergedAnswers[k] = extraAnswers[k];
@@ -131,12 +117,8 @@ export default function Question({ question, questionIndex, testResults, setTest
         }
 
         setTestResults(updated);
-        // Note: do NOT clear local state here. The parent will either unmount us
-        // or pass a new `question`, which triggers the init effect above.
     };
 
-    // --- Build selectedOptions shape for child components (backward compat) ---
-    // AudioTestBlock / ScaleBlock expect a single object with numeric + string keys.
     const selectedOptions = useMemo(() => {
         const combined = [...testAnswers];
         Object.keys(extraAnswers).forEach(k => {
@@ -145,7 +127,6 @@ export default function Question({ question, questionIndex, testResults, setTest
         return combined;
     }, [testAnswers, extraAnswers]);
 
-    // --- Build audio blocks (default mode only) ---
     const audioTestBlocks = useMemo(() => {
         if (isSurvey || isSharedAudio) return [];
 
@@ -200,6 +181,12 @@ export default function Question({ question, questionIndex, testResults, setTest
         return blocks;
     }, [isSurvey, isSharedAudio, question, questionIndex, selectedOptions, handleOptionClick, randomIndexes]);
 
+    // Helper to render a prompt (handles both string and array)
+    const renderPrompt = (prompt) => {
+        const text = Array.isArray(prompt) ? prompt.join('') : prompt;
+        return <p className='font-semibold mb-3 whitespace-pre-line'>{text}</p>;
+    };
+
     // --- Render: Survey ---
     if (isSurvey) {
         return (
@@ -245,6 +232,19 @@ export default function Question({ question, questionIndex, testResults, setTest
                                 className="border border-gray-300 rounded px-3 py-2 w-full resize-y"
                             />
                         )}
+
+                        {field.type === 'select' && (
+                            <select
+                                value={surveyAnswers[field.id] || ''}
+                                onChange={(e) => handleSurveyChange(field.id, e.target.value)}
+                                className="border border-gray-300 rounded px-3 py-2 w-full max-w-sm bg-white"
+                            >
+                                <option value="">— Select —</option>
+                                {(field.options || []).map((opt, oi) => (
+                                    <option key={oi} value={opt}>{opt}</option>
+                                ))}
+                            </select>
+                        )}
                     </div>
                 ))}
 
@@ -274,7 +274,7 @@ export default function Question({ question, questionIndex, testResults, setTest
                     const signalScale = question.scales ? question.scales[audioIndex] : question.scale;
                     return (
                         <div key={audioIndex} className='flex flex-col mb-6 p-4 bg-gray-50 rounded-lg'>
-                            <h3 className='font-semibold mb-3'>{question.prompts[audioIndex]}</h3>
+                            {renderPrompt(question.prompts[audioIndex])}
                             <div className='flex flex-row items-center gap-4'>
                                 <ScaleBlock
                                     key={audioIndex + '_scale_block_'}
