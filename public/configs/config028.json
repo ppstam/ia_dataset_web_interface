@@ -18,7 +18,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -104,7 +104,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -190,7 +190,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -276,7 +276,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -362,7 +362,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -447,8 +447,8 @@
         {
             "name": "Test sample 1 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track by Los Repetidores features a cool and groovy funk vibe driven by an electric guitar riff and a simple bassline. The drummer supports the ensemble with a steady rock beat, creating an easygoing atmosphere perfect for a casual outing or road trip. Originally recorded in 2013 as part of an outdoor music cycle, the piece captures a relaxed energy despite its upbeat instrumentation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/r/e/repetidores_en_la_calle/03_moje_arriero_00001.mp3",
+            "caption": "This educational track features a cheerful female vocalist singing the main melody over a rhythmic foundation of drums and bass. With keyboard chords providing background harmony, the happy and playful atmosphere fits perfectly within a children's television soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-121844/03-1035141-10m2 _Ten Square Meters_-Au dessus de ma tete_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -457,7 +457,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -533,8 +533,8 @@
         {
             "name": "Test sample 2 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This alternative rock track features a male vocalist singing melodically while an electric guitar carries the main melody. The music maintains an easygoing atmosphere supported by background bass lines and acoustic drums, fitting well as background music in a casual setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-152778/05-1281032-An Amerikan Automobile Company-Isabel_00006.mp3",
+            "caption": "This instrumental composition serves as a dark and mysterious game soundtrack, driven by the interplay of chimes, bells, and various percussive elements rather than a traditional beat. The music creates a dynamic sense of tension and release through layered sounds from instruments like synthesizers, mallet percussion, and computer-generated effects. Described as an electroacoustic improvisation, the piece evokes a unique and immersive atmosphere suitable for an engaging gaming experience.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/d/b/db017_Gavlas_Dincise_DHDLV/db017_Gavlas_Dincise_03_studio3_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -543,7 +543,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -619,8 +619,8 @@
         {
             "name": "Test sample 3 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is a compelling example of contemporary hip-hop, featuring a male vocalist delivering lyrics over a beat driven by a strong 808 bass and electronic drums. The dark and moody atmosphere creates an intense urban feel that would fit well in a crime drama set at night.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139198/05-1159435-Haikudjemba-Haikudjemba - 5. Asi va el rollo_00002.mp3",
+            "caption": "This instrumental track belongs to the Lo-fi Hip Hop genre, featuring a steady drum machine beat and a strong bassline that create a relaxed atmosphere. The simple yet effective rhythm provides a solid foundation for a mellow and slightly melancholy mood, making it suitable for studying or late-night listening. While computer synthesizers and cymbals add subtle layers to the composition, the overall sound remains focused on fostering a chill environment.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/i/n/influenced-anger-2/Influenced Anger_2  _00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -629,7 +629,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -705,8 +705,8 @@
         {
             "name": "Test sample 4 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "Dark Husky delivers a loud and aggressive instrumental rock track titled \"Cold Warriors,\" driven by an energetic electric guitar, bass, and drums. The song features a strong, medium-tempo beat that creates an intense and high-octane atmosphere perfect for action sequences. Although the title suggests a darker tone, the music remains strictly rhythmic and powerful without any vocal elements.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-140299/05-1166786-Dark Husky-Panicking_00003.mp3",
+            "caption": "This track features a slow, ambient soundscape driven by ethereal choir vocals that create a hypnotic and meditative atmosphere. Although the metadata suggests various electronic subgenres, the prominent voice instrumentation and lack of spoken lyrics emphasize an immersive listening experience. The subtle rhythm supports these vocal layers to establish a truly captivating mood for the listener.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/T/a/TakeSomeOXYEPRemasteredVersion/07.6AM In The BTown (Studio Edit)_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -715,7 +715,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -791,8 +791,8 @@
         {
             "name": "Test sample 5 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a driving drum machine beat and a pulsating bassline powered by prominent synthesizers. The energetic rhythm creates an infectious atmosphere ideal for high-energy nightclub or rave settings.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-475342/02-1927836-Kamil Muzyk _Howarang Van K_-The black angel of fire_00001.mp3",
+            "caption": "This energetic instrumental track features a fast, pulsating synthesizer arrangement driven by digital drumming and electronic beats. The youthful and buoyant composition creates a hypnotic, trance-like groove that defines its danceable quality.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-116474/01-990130-Gadjik-trancik_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -801,7 +801,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -877,8 +877,8 @@
         {
             "name": "Test sample 6 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a driving instrumental techno track built around synthesizers, deep bass lines, and electronic drums. The piece maintains a dark and intense mood with a repetitive four-on-the-floor beat that creates a sense of urgency.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/a/paraphenalia-litter-5-2b-2-7/Paraphenalia Litter_5_2b -2_7  _00001.mp3",
+            "caption": "This instrumental hip-hop track features a steady rhythm driven by a prominent drum machine and a groovy bassline. A repetitive, catchy melody weaves through the sound in a chill and relaxed manner that suits a lounge or urban setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-112114/05-952620-Zebra Mussel-Wednesday_00007.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -887,7 +887,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -963,8 +963,8 @@
         {
             "name": "Test sample 7 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat instrumental track features a funky electric guitar melody played over groovy bass and rhythmic acoustic drums. The energetic mood creates a perfect soundtrack for a retro-themed party, blending elements of funk and rock without any vocals.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-132131/15-1106509-Ben5bass-Outro_00001.mp3",
+            "caption": "This instrumental track delivers a funky, groovy, and energetic vibe driven by a percussive bass line and an electric guitar riff. The upbeat rhythm features a lively acoustic drum beat that creates an overall mood perfect for active settings or dance floors.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124560/01-1056364-Whyman Productions-Demain_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -973,7 +973,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -1049,8 +1049,8 @@
         {
             "name": "Test sample 8 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track by Disconauts Music Production serves as a perfect accompaniment for a cozy coffee shop. Soothing acoustic guitar playing and a gentle rhythm create a relaxing atmosphere within the song's easy-listening style.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-299645/01-1486097-Disconauts Music Production-Wait of You_00001.mp3",
+            "caption": "This segment captures a passionate live performance of a pop and rock song led by a melodic male vocalist. Accompanied by piano, bass guitar, and acoustic drums, the ballad-style track evokes an emotional atmosphere suitable for a dramatic city setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-161984/17-1378711-______ _________-______ _________00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -1059,7 +1059,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -1135,8 +1135,8 @@
         {
             "name": "Test sample 9 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track is driven by a prominent, groovy bass line and a steady drum beat. It features a repetitive piano riff and maintains a chill, relaxed mood with a touch of nostalgia that gives it a trap-like quality.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-172876/04-1500789-Simplies-Adisad - You Evol_00001.mp3",
+            "caption": "This track is a compelling example of contemporary hip-hop, featuring a male vocalist delivering lyrics over a beat driven by a strong 808 bass and electronic drums. The dark and moody atmosphere creates an intense urban feel that would fit well in a crime drama set at night.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139198/05-1159435-Haikudjemba-Haikudjemba - 5. Asi va el rollo_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -1145,7 +1145,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
@@ -1221,8 +1221,8 @@
         {
             "name": "Test sample 10 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This live performance by Brakelight Religion features an upbeat rock cover driven by prominent electric guitar and bass lines. The track captures a driving, retro groove that feels both energetic and slightly melancholic, making it suitable for radio broadcasts or concerts.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/I/D/IDontWannaBelive/IDontWannaBelive_vbr_mp3/IDontWannaBe_00001.mp3",
+            "caption": "A male vocalist sings in a higher key over a medium-tempo rock rhythm, supported by groovy bass lines and keyboard harmonies. The emotional guitar accompaniment creates an intense atmosphere that fits well as a dramatic series theme. Although the track is titled \"UNIKAT\" by INTRONOMIC, the musical arrangement emphasizes traditional rock instrumentation rather than electropop styles.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-171659/01-1485403-INTRONOMIC-Dynamo_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -1231,7 +1231,7 @@
             ],
             "prompts": {
                 "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio. Use the worst score if all the information in the caption is absent from the audio, and use the best score if all the information in the caption is present in the audio.\n\n1 - completely incorrect\n",
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
                     "2 - mostly incorrect\n",
                     "3 - somewhat correct\n",
                     "4 - mostly correct\n",
