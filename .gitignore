@@ -2,3 +2,5 @@ node_modules/
 build/
 results/
 server_state.json
+.env
+.env
