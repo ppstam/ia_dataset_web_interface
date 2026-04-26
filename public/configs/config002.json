@@ -447,524 +447,8 @@
         {
             "name": "Test sample 1 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "Nameless (UA, Ternopil) presents a groovy, upbeat instrumental track that blends electric guitar and bass with saxophone melodies to create a lively sound. Driven by steady acoustic drums, the music maintains an energetic rhythm reminiscent of blues-rock, offering a perfect soundtrack for a spirited road trip or a bustling bar scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-125842/08-1065406-Nameless _UA, Ternopil_-Carpathian Forest_00005.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_3.mp3",
-                "test_signals/example_3.mp3"
-            ],
-            "prompts": {
-                "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
-                    "2 - mostly incorrect\n",
-                    "3 - somewhat correct\n",
-                    "4 - mostly correct\n",
-                    "5 - completely correct\n"
-                ],
-                "1": [
-                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
-                    "2 - mostly incomplete\n",
-                    "3 - somewhat complete\n",
-                    "4 - mostly complete\n",
-                    "5 - complete\n"
-                ]
-            },
-            "scales": [
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                },
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                }
-            ],
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Test sample 2 / 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is a folk-inspired acoustic pop song featuring a gentle foundation of acoustic guitar and steady drums. The mellow, easygoing atmosphere creates a relaxed mood that suits casual settings like a coffee shop.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-310502/01-1825335-The Mavis Davis Band-trouble with love_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_4.mp3",
-                "test_signals/example_4.mp3"
-            ],
-            "prompts": {
-                "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
-                    "2 - mostly incorrect\n",
-                    "3 - somewhat correct\n",
-                    "4 - mostly correct\n",
-                    "5 - completely correct\n"
-                ],
-                "1": [
-                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
-                    "2 - mostly incomplete\n",
-                    "3 - somewhat complete\n",
-                    "4 - mostly complete\n",
-                    "5 - complete\n"
-                ]
-            },
-            "scales": [
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                },
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                }
-            ],
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Test sample 3 / 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental hip-hop track is driven by a prominent, groovy bass line and a steady drum beat. It features a repetitive piano riff and maintains a chill, relaxed mood with a touch of nostalgia that gives it a trap-like quality.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-172876/04-1500789-Simplies-Adisad - You Evol_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_5.mp3",
-                "test_signals/example_5.mp3"
-            ],
-            "prompts": {
-                "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
-                    "2 - mostly incorrect\n",
-                    "3 - somewhat correct\n",
-                    "4 - mostly correct\n",
-                    "5 - completely correct\n"
-                ],
-                "1": [
-                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
-                    "2 - mostly incomplete\n",
-                    "3 - somewhat complete\n",
-                    "4 - mostly complete\n",
-                    "5 - complete\n"
-                ]
-            },
-            "scales": [
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                },
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                }
-            ],
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Test sample 4 / 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental composition features a lively brass section with trumpets and trombones, driving forward with a strong rhythmic foundation. The piece exudes a cheerful and upbeat atmosphere that blends retro charm with an uplifting sense of nostalgia. Although presented as a MIDI recreation of Baroque era music, the arrangement focuses on the bold instrumentation rather than vocals or lyrics.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/e/pezel-sonata-no-4-recording/Pezel Sonata No 4 Recording_00001.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_6.mp3",
-                "test_signals/example_6.mp3"
-            ],
-            "prompts": {
-                "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
-                    "2 - mostly incorrect\n",
-                    "3 - somewhat correct\n",
-                    "4 - mostly correct\n",
-                    "5 - completely correct\n"
-                ],
-                "1": [
-                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
-                    "2 - mostly incomplete\n",
-                    "3 - somewhat complete\n",
-                    "4 - mostly complete\n",
-                    "5 - complete\n"
-                ]
-            },
-            "scales": [
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                },
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                }
-            ],
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Test sample 5 / 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This folk song features a male vocalist performing an emotive ballad on a steady acoustic guitar. The music maintains a slow, introspective tempo that blends melancholic tones with hints of hope and inspiration.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-122305/05-1036861-Tony Fomblard-Une couleur qui n_existe pas_00003.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_7.mp3",
-                "test_signals/example_7.mp3"
-            ],
-            "prompts": {
-                "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
-                    "2 - mostly incorrect\n",
-                    "3 - somewhat correct\n",
-                    "4 - mostly correct\n",
-                    "5 - completely correct\n"
-                ],
-                "1": [
-                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
-                    "2 - mostly incomplete\n",
-                    "3 - somewhat complete\n",
-                    "4 - mostly complete\n",
-                    "5 - complete\n"
-                ]
-            },
-            "scales": [
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                },
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                }
-            ],
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Test sample 6 / 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track serves as a horror soundtrack built upon a slow tempo and steady percussive rhythm. A haunting keyboard harmony rises above the foundation to create an eerie, ominous atmosphere filled with tension. The dark and dramatic mood makes the piece highly effective for setting suspense in movies or video games.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-146132/06-1218086-Terroristi Musicali-Walk away_00005.mp3",
-            "anchors": null,
-            "references": null,
-            "testSignals": [
-                "test_signals/example_8.mp3",
-                "test_signals/example_8.mp3"
-            ],
-            "prompts": {
-                "0": [
-                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
-                    "2 - mostly incorrect\n",
-                    "3 - somewhat correct\n",
-                    "4 - mostly correct\n",
-                    "5 - completely correct\n"
-                ],
-                "1": [
-                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
-                    "2 - mostly incomplete\n",
-                    "3 - somewhat complete\n",
-                    "4 - mostly complete\n",
-                    "5 - complete\n"
-                ]
-            },
-            "scales": [
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                },
-                {
-                    "type": "continuous",
-                    "alignment": "horizontal",
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4",
-                        "5"
-                    ],
-                    "values": [
-                        0,
-                        25,
-                        50,
-                        75,
-                        100
-                    ],
-                    "borderLabels": [
-                        "1",
-                        "5"
-                    ],
-                    "range": [
-                        0,
-                        100
-                    ]
-                }
-            ],
-            "shuffleTestSignals": false,
-            "referenceEvaluated": false,
-            "anchorEvaluated": false,
-            "submitButtonText": "Next"
-        },
-        {
-            "name": "Test sample 7 / 10",
-            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a driving techno drum beat and deep bass lines created on a synthesizer. The atmosphere is trippy, with vocals processed through a vocoder that adds an energetic, futuristic quality to the sound. The overall vibe suits a sci-fi soundtrack or an electronic dance setting perfectly.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-121759/01-1034281-Alex Emilsson-Electrify Me_00004.mp3",
+            "caption": "This instrumental track features a groovy, medium-tempo rhythm driven by synthesizers, a prominent bassline, and a drum machine. Although primarily designed for dancing, the composition incorporates vocal samples and a catchy hook that add depth to its party-ready atmosphere.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/2/02-ramond-baker-multiplays-multiplace-multiple-multiplied-mix/01 Ramond Baker feat Basement Jaxx Barrington Levy - Empty Places_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -1047,15 +531,15 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Test sample 8 / 10",
+            "name": "Test sample 2 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This folk song features a lead violin melody supported by guitar and viola, creating a simple yet effective musical arrangement. The piece carries a romantic tone with an undercurrent of melancholy, evoking the atmosphere of a ballad suitable for a quiet movie scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/i/hiawatha-telephone-company-passengers-greatest-hits/Hiawatha Telephone Company - Passengers Greatest Hits - 11 Song about time_00004.mp3",
+            "caption": "This piece presents a beautiful example of classical music, highlighted by a prominent flute melody and a full orchestra featuring a strong string section. The slow tempo creates a serene and contemplative mood, enriched further by subtle additions from the piano and cello. It serves as a captivating listening experience ideal for relaxation or deep introspection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-402698/01-1403591-Alejandro Vallarino-Peer Gynt Suite No 1 Op 46 Morning Mood_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_10.mp3",
-                "test_signals/example_10.mp3"
+                "test_signals/example_6.mp3",
+                "test_signals/example_6.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1133,10 +617,10 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Test sample 9 / 10",
+            "name": "Test sample 3 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an intense example of extreme metal that blends elements of death and grindcore. Distorted electric guitars, heavy drums, and synthesizer work together to create a relentless rhythm defined by chaos and violence.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/t/h/the-zacto-smile-music-from-the-zach-hill-pit-vol--2/Illiterate Mind Reader - The Zacto Smile (Music From The Zach Hill Pit Vol. 2) - 05 Ear Masturbation Face_00001.mp3",
+            "caption": "This segment features the band M.D.C. performing a live hardcore punk track from their 2002 concert in Belgium. The song delivers a heavy, aggressive sound driven by distorted guitars, loud drums, and a male vocalist with a raspy tone. Its fast tempo and intense energy create a violent atmosphere typical of the genre.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/H/t/Httparchive-orgdetailsMillionsOfDeadCops-LiveLintfabriekBelgium2002/02-corporate deathburger_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
@@ -1219,15 +703,531 @@
             "submitButtonText": "Next"
         },
         {
-            "name": "Test sample 10 / 10",
+            "name": "Test sample 4 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is a beautiful example of a game soundtrack, specifically in the style of a Japanese role-playing game. It features a prominent, melancholic piano melody supported by a lush string section that creates a slow and steady rhythm. The overall mood is deeply nostalgic and wistful, making it well-suited for peaceful exploration or reflective cutscenes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-119449/04-1014470-KPHB-piano_d0_00002.mp3",
+            "caption": "This recording features a male vocalist singing an introspective piece accompanied by the soothing tones of an acoustic guitar and a melancholic violin. The steady, slow tempo creates a calm and peaceful atmosphere that feels both meditative and reflective.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-162569/01-1385804-marcello correa e castro-NOITE FRIA_00006.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_7.mp3",
+                "test_signals/example_7.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Test sample 5 / 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This instrumental track belongs to the Lo-fi Hip Hop genre, featuring a steady drum machine beat and a strong bassline that create a relaxed atmosphere. The simple yet effective rhythm provides a solid foundation for a mellow and slightly melancholy mood, making it suitable for studying or late-night listening. While computer synthesizers and cymbals add subtle layers to the composition, the overall sound remains focused on fostering a chill environment.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/i/n/influenced-anger-2/Influenced Anger_2  _00002.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_5.mp3",
+                "test_signals/example_5.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Test sample 6 / 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This piece is a beautiful example of a solo piano composition, featuring a slow tempo that allows the listener to fully appreciate its emotional depth. The gentle and melodic nature creates a romantic and melancholic atmosphere, making it an ideal choice for a poignant scene in a film.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-131707/08-1103446-Blaireko-___a1-7_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
                 "test_signals/example_12.mp3",
                 "test_signals/example_12.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Test sample 7 / 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This upbeat electronic track features a driving synth bass and repetitive melody that creates an energetic atmosphere ideal for a dance floor. Powered by prominent synthesizers and steady electronic drums, the music evokes a futuristic feel suitable for a sci-fi soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/o/n/one-last-try-14ab/One Last Try_14ab_4 _00001.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_13.mp3",
+                "test_signals/example_13.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Test sample 8 / 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "An instrumental piece features the bass guitar as the primary melodic voice within a slow, deliberate rhythm. This composition builds toward a climactic moment where a descending lick enhances an atmosphere of mystery and foreboding.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134855/08-1126750-Alex Colpitts-part 8_00003.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_14.mp3",
+                "test_signals/example_14.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Test sample 9 / 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "An accordion provides the sole instrumental focus in this piece, with the right hand playing chords while the left hand carries the melody. The arrangement creates an upbeat yet nostalgic atmosphere driven entirely by the instrument rather than percussion. Footsteps are audible within the soundscape, adding a realistic layer to the recording of a young musician on the Pont d'Arcole.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_33673_38743/parispontdarcole230916h00_00002.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_10.mp3",
+                "test_signals/example_10.mp3"
+            ],
+            "prompts": {
+                "0": [
+                    "How correct is the description of the audio excerpt? Consider a correct caption to not have any information absent from the audio, and not to have false information. Use the worst score if all the information in the caption is either absent from the audio or is false, and use the best score if all the information in the caption is present in the audio and is true.\n\n1 - completely incorrect\n",
+                    "2 - mostly incorrect\n",
+                    "3 - somewhat correct\n",
+                    "4 - mostly correct\n",
+                    "5 - completely correct\n"
+                ],
+                "1": [
+                    "How complete is the description of the audio excerpt? Consider a complete caption to have all relevant information concerning genre, mood, and instrumentation of the audio. Use the worst score if the caption does not have any relevant information on these aspects for the audio, and the best score if the caption contains all relevant information on these aspects for the audio.\n\n1 - incomplete\n",
+                    "2 - mostly incomplete\n",
+                    "3 - somewhat complete\n",
+                    "4 - mostly complete\n",
+                    "5 - complete\n"
+                ]
+            },
+            "scales": [
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                },
+                {
+                    "type": "continuous",
+                    "alignment": "horizontal",
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "values": [
+                        0,
+                        25,
+                        50,
+                        75,
+                        100
+                    ],
+                    "borderLabels": [
+                        "1",
+                        "5"
+                    ],
+                    "range": [
+                        0,
+                        100
+                    ]
+                }
+            ],
+            "shuffleTestSignals": false,
+            "referenceEvaluated": false,
+            "anchorEvaluated": false,
+            "submitButtonText": "Next"
+        },
+        {
+            "name": "Test sample 10 / 10",
+            "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
+            "caption": "This virtuosic piano solo delivers a complex, up-tempo performance filled with rapid arpeggios and fast runs. The dramatic and urgent atmosphere creates an intense energy that suits dynamic scenes like a movie chase or video game battle.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/e/v/everfall-2339/17.bbezz255-unbroken_00005.mp3",
+            "anchors": null,
+            "references": null,
+            "testSignals": [
+                "test_signals/example_8.mp3",
+                "test_signals/example_8.mp3"
             ],
             "prompts": {
                 "0": [

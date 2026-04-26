@@ -447,13 +447,13 @@
         {
             "name": "Test sample 1 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece serves as a perfect example of traditional Middle Eastern music, featuring the mesmerizing sounds of the oud and lute. It is accompanied by the rhythmic beats of the tabla and the melancholic notes of the darbuka, where the absence of vocals allows listeners to immerse themselves in this ancient art form.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/u/z/uzak-sehir-yuzlesme-v2-rl/Uzak \u015eehir - Y\u00fczle\u015fme V2 RL_00001.mp3",
+            "caption": "This instrumental track features a gentle piano melody layered with synthesizer textures and steady electronic drums. The relaxed groove creates a calm atmosphere suitable for background listening in settings like a caf\u00e9 or during yoga.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123618/01-1049592-Thibaut Le Flem-Serenity_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_54.mp3",
-                "test_signals/example_54.mp3"
+                "test_signals/example_91.mp3",
+                "test_signals/example_91.mp3"
             ],
             "prompts": {
                 "0": [
@@ -533,13 +533,13 @@
         {
             "name": "Test sample 2 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic instrumental rock track features an electric guitar playing a fast, high-register solo over driving rhythm guitars and acoustic drums. Accompanied by a bass guitar anchoring the root notes, the piece captures a dynamic atmosphere suitable for a teenage drama soundtrack. The composition balances melodic guitar lines with solid rhythmic support to create an engaging audio experience.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-127863/05-1074775-BaD_s Music Project-Meedful Thunderbird_00001.mp3",
+            "caption": "This track is a folk-inspired acoustic pop song featuring a gentle foundation of acoustic guitar and steady drums. The mellow, easygoing atmosphere creates a relaxed mood that suits casual settings like a coffee shop.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-310502/01-1825335-The Mavis Davis Band-trouble with love_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_55.mp3",
-                "test_signals/example_55.mp3"
+                "test_signals/example_94.mp3",
+                "test_signals/example_94.mp3"
             ],
             "prompts": {
                 "0": [
@@ -619,13 +619,13 @@
         {
             "name": "Test sample 3 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This energetic Techno Pop track features a fast tempo driven by synthesizers, digital drumming, and a strong bass line. The pulsating groove creates a youthful atmosphere that feels perfect for dancing at a club.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-109913/06-936446-DJ Mar.S. Aka One Milk-La Marche Trance_00004.mp3",
+            "caption": "This live performance by Brakelight Religion features an upbeat rock cover driven by prominent electric guitar and bass lines. The track captures a driving, retro groove that feels both energetic and slightly melancholic, making it suitable for radio broadcasts or concerts.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/I/D/IDontWannaBelive/IDontWannaBelive_vbr_mp3/IDontWannaBe_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_56.mp3",
-                "test_signals/example_56.mp3"
+                "test_signals/example_90.mp3",
+                "test_signals/example_90.mp3"
             ],
             "prompts": {
                 "0": [
@@ -705,13 +705,13 @@
         {
             "name": "Test sample 4 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends industrial and electronic rock elements with a driving, repetitive rhythm that creates an intense atmosphere. Featuring prominent synthesizers and a strong beat, the up-tempo music builds an aggressive energy suitable for video game combat or high-energy workouts.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130329/06-1093489-DementialCore-Aching terror_00003.mp3",
+            "caption": "This instrumental track serves as an intense dubstep composition specifically designed for game soundtracks. It features a strong, repetitive bass line supported by electronic drumming and synthesizers to create a dark, high-energy mood suitable for combat sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/n/o/noise_body_music/Noise Body Music D_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_57.mp3",
-                "test_signals/example_57.mp3"
+                "test_signals/example_97.mp3",
+                "test_signals/example_97.mp3"
             ],
             "prompts": {
                 "0": [
@@ -791,13 +791,13 @@
         {
             "name": "Test sample 5 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends funky rock and psychedelic influences to create a groovy, energetic atmosphere driven by electric guitar and bass. A variety of sound effects complement the medium tempo, giving the piece a distinct retro vibe suitable for live performances or vintage-themed media.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-117440/01-998392-Sur Non-Pepsi The Cat_00002.mp3",
+            "caption": "This energetic track blends elements of funk and R&B with a distinct hip-hop influence, driven by a groovy bassline and steady drum beat. A soulful saxophone solo adds a melodic layer to the infectious rhythm, making the piece feel perfect for a lively dance club atmosphere.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-126220/09-1067981-HELLFIRE SNAKE-Some Man_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_58.mp3",
-                "test_signals/example_58.mp3"
+                "test_signals/example_98.mp3",
+                "test_signals/example_98.mp3"
             ],
             "prompts": {
                 "0": [
@@ -877,13 +877,13 @@
         {
             "name": "Test sample 6 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This romantic instrumental rock track features a slow-tempo acoustic guitar melody supported by bass and simple drums. A male vocalist sings melodically over the arrangement to create an intimate and personal atmosphere focused on love. The piece blends soft guitar tones with a gentle vocal performance that evokes a hopeful mood.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133327/01-1115917-A Beautiful Tomorrow-I Wonder - A Beautiful Tomorrow Original Song _Electric Version__00005.mp3",
+            "caption": "This instrumental track blends strong electronic influences with a driving synthesizer lead and a steady drum beat to create an intense, energetic groove. The rhythm is repetitive yet punctuated by occasional glitchy elements, establishing a futuristic atmosphere perfect for racing or action scenes in video games. With its sense of urgency and dynamic layers, the piece captures an adventurous mood that encourages movement on the dance floor.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/o/positive-pressure-5/Positive Pressure_5  _00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_59.mp3",
-                "test_signals/example_59.mp3"
+                "test_signals/example_92.mp3",
+                "test_signals/example_92.mp3"
             ],
             "prompts": {
                 "0": [
@@ -963,13 +963,13 @@
         {
             "name": "Test sample 7 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This hip-hop track features a male vocalist rapping at a higher pitch over a beat driven by electronic drums, bass, and string samples. The medium tempo creates a strong urban rhythm that evokes an atmosphere suitable for a crime movie scene on a city street.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-hey-ma-hey-pa-1/Hey Ma Hey Pa 1_00004.mp3",
+            "caption": "Nameless (UA, Ternopil) presents a groovy, upbeat instrumental track that blends electric guitar and bass with saxophone melodies to create a lively sound. Driven by steady acoustic drums, the music maintains an energetic rhythm reminiscent of blues-rock, offering a perfect soundtrack for a spirited road trip or a bustling bar scene.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-125842/08-1065406-Nameless _UA, Ternopil_-Carpathian Forest_00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_60.mp3",
-                "test_signals/example_60.mp3"
+                "test_signals/example_93.mp3",
+                "test_signals/example_93.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1049,13 +1049,13 @@
         {
             "name": "Test sample 8 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a classical symphonic orchestral piece characterized by a slow tempo and intricate interplay between the violin and cello. The melancholic melody flows with dynamic tension, creating a somber and poignant mood that evokes deep introspection suitable for dramatic film scenes. Although some metadata suggests lighter moods like happiness, the audio content clearly conveys a serious, dramatic atmosphere driven by string instruments.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-174020/02-1545465-Ivan Dolgunov-Duet for Violin and Viola, K.423 Adagio_00002.mp3",
+            "caption": "This instrumental track features a strong bass line, steady drumming, and repetitive keyboard harmony that creates an energetic and danceable mood. The prominent piano sound supports the steady rhythm, making the piece well-suited for a nightclub or dance floor setting despite some conflicting genre labels.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128160/01-1075961-brainless noise-sweetdaydreamin_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_61.mp3",
-                "test_signals/example_61.mp3"
+                "test_signals/example_99.mp3",
+                "test_signals/example_99.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1135,13 +1135,13 @@
         {
             "name": "Test sample 9 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A soothing acoustic guitar provides a warm foundation, layered with electric touches to create an intimate and melodic atmosphere. The steady rhythm section drives the slow, meditative mood forward, making this instrumental track ideal for relaxation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-275462/01-1178491-Cristian Romanus-Cristian Romanus - Lua e estrela Ensaio_00001.mp3",
+            "caption": "This energetic and aggressive instrumental rock track captures the raw spirit of a punk live performance from the early 1980s. A distorted electric guitar drives the fast-paced rhythm, accompanied by powerful drums and high-pitched male vocals that amplify the heavy atmosphere. The piece perfectly embodies the chaotic intensity of the New York hardcore scene during its classic era.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/W/w/Www-archive-orgdetailsReaganYouth-1983DemosRatcageBenefitCbgbs1982/29-reaganYouthlive_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_62.mp3",
-                "test_signals/example_62.mp3"
+                "test_signals/example_95.mp3",
+                "test_signals/example_95.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1221,13 +1221,13 @@
         {
             "name": "Test sample 10 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece features a steady, repetitive rhythm driven by mallet percussion and piano, creating a richly textured soundscape. Its slow tempo fosters a mysterious and haunting mood filled with tension, making it ideal for suspenseful scenes in horror or mystery films.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128588/10-1079696-A.Torres Ruiz-Contador De Suen_os_00003.mp3",
+            "caption": "This energetic track by SOCLAIKE blends retro pop influences with a strong danceable groove driven by a four-on-the-floor beat. A male vocalist sings in a foreign language over synthesizer and bass lines, creating an upbeat atmosphere perfect for clubs or summer parties.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134909/01-1127002-SOCLAIKE-J_reste Pas Stoique_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_63.mp3",
-                "test_signals/example_63.mp3"
+                "test_signals/example_96.mp3",
+                "test_signals/example_96.mp3"
             ],
             "prompts": {
                 "0": [

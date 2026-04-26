@@ -447,13 +447,13 @@
         {
             "name": "Test sample 1 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This lively instrumental track features a catchy piano melody supported by a steady bassline and rhythmic drum beats. A female vocal layer adds a narrative element to the groovy arrangement, creating an engaging and dynamic listening experience. The piece blends simple instrumentation with an energetic, danceable mood characteristic of electronic pop styles.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-115846/09-984008-Hasenchat-You dont neat Money_00003.mp3",
+            "caption": "This recording captures the soothing sounds of ocean waves and nature from a small fishing port, creating a peaceful atmosphere ideal for mindfulness. The gentle rustling and binaural wave textures are presented as a field soundscape that invites listeners to appreciate the calming presence of the sea with headphones.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_24633_28574/SoundMap2014082817_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_15.mp3",
-                "test_signals/example_15.mp3"
+                "test_signals/example_26.mp3",
+                "test_signals/example_26.mp3"
             ],
             "prompts": {
                 "0": [
@@ -533,13 +533,13 @@
         {
             "name": "Test sample 2 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends dark, intense synthesizers with a driving four-on-the-floor beat to create an energetic atmosphere. The prominent bassline and electronic drums build a sense of urgency, making the music ideal for a nightclub or rave setting where people are dancing. While it carries the deep house style of the original release, the arrangement focuses heavily on rhythm and sound design rather than melody.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-166630/01-1429777-Gigatop Arthur-Another Night_00005.mp3",
+            "caption": "This segment serves as a perfect example of ambient music, featuring instrumental textures and atmospheric soundscapes that prioritize immersion over vocals. The slow tempo and minimalist use of synthesizer and piano create a soothing, introspective mood ideal for relaxation or meditation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-148126/01-1233291-Ambient Samurai - Ichiro NAKAGAWA-Jingle For The Nothingness_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_16.mp3",
-                "test_signals/example_16.mp3"
+                "test_signals/example_25.mp3",
+                "test_signals/example_25.mp3"
             ],
             "prompts": {
                 "0": [
@@ -619,13 +619,13 @@
         {
             "name": "Test sample 3 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment is an entirely arrhythmic instrumental track built from sound design elements like static, white noise, and various electronic effects. The harsh and abrasive atmosphere creates a chaotic soundscape that feels like observing the inner workings of a revealing machine without any discernible tempo or rhythm.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/h/phokes143/phokes143-_-05-_-Plutonien-_-Hier_wird_es_nun_ungleich_deutlicher_00001.mp3",
+            "caption": "An upbeat pop song featuring a strong drumming rhythm and groovy bass line sets an energetic tone for the track. A female vocalist delivers higher-pitched singing over synthesizer and electric guitar accompaniment, creating a lively vibe perfect for a dance party.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-notte-1/Notte 1_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_17.mp3",
-                "test_signals/example_17.mp3"
+                "test_signals/example_32.mp3",
+                "test_signals/example_32.mp3"
             ],
             "prompts": {
                 "0": [
@@ -705,13 +705,13 @@
         {
             "name": "Test sample 4 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental rock track features a fast tempo driven by electric guitar, bass, and acoustic drums to create an energetic atmosphere. Although the segment primarily showcases powerful instrumentation, the high-pitched male vocals add an intense layer suitable for a live concert setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136542/05-1136837-Abrids-we come for the fest_00002.mp3",
+            "caption": "This amateur recording captures a male singer performing a traditional folk song accompanied by a choir and a simple, steady beat. The atmosphere is melancholic yet grounded in the rhythmic traditions of Jongo, as noted in the upload's context about a live performance at Casa Luz de Yorim\u00e1.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/3/5/35adeuscangomaadeus/08-Saracura cantou no Brejo_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_18.mp3",
-                "test_signals/example_18.mp3"
+                "test_signals/example_28.mp3",
+                "test_signals/example_28.mp3"
             ],
             "prompts": {
                 "0": [
@@ -791,13 +791,13 @@
         {
             "name": "Test sample 5 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This lively instrumental track blends house, techno, and electronic elements with a cheerful, summer-ready mood. Driven by catchy synthesizers, pulsing bass lines, and repetitive rhythms, the song creates a groovy groove ideal for parties or casual listening.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-123655/27-1049947-Hasenchat-Take Me_00004.mp3",
+            "caption": "This track is a hip-hop instrumental featuring a male vocalist who raps over a strong bass line and steady drumming. The keyboard accompaniment adds to the urban and groovy mood, giving it a vibe suitable for a city crime film soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-114407/06-972027-BangMulahGangg-Dirty Cup _Prod. By QT_ Neph Donell Kane_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_19.mp3",
-                "test_signals/example_19.mp3"
+                "test_signals/example_29.mp3",
+                "test_signals/example_29.mp3"
             ],
             "prompts": {
                 "0": [
@@ -877,13 +877,13 @@
         {
             "name": "Test sample 6 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This lively instrumental jazz composition features a cheerful, playful melody primarily carried by the saxophone. A harmonious accompaniment from piano, trumpet, bass, and acoustic drums creates an upbeat swing rhythm that feels ideal for a comedic scene.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-136247/03-1135091-Breathtaking-Meli is away_00004.mp3",
+            "caption": "This lively and cheerful track features a female vocalist singing in a high-pitched, melodic voice. Her performance is supported by a fast acoustic guitar, a groovy bass line, and a prominent accordion that drives the upbeat rhythm. The song's energetic feel and festive mood make it sound like music often heard during celebratory scenes in Latin American shows.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-064009/01-549705-Banda Patinko-Banda Patinko - Beijinho - ao-vivo_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_20.mp3",
-                "test_signals/example_20.mp3"
+                "test_signals/example_27.mp3",
+                "test_signals/example_27.mp3"
             ],
             "prompts": {
                 "0": [
@@ -963,13 +963,13 @@
         {
             "name": "Test sample 7 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a male voice speaking in a foreign language over a groovy bass line and steady drumming rhythm. An electric guitar provides a unique touch to the lively sound, creating an energetic atmosphere suitable for a movie soundtrack.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-139239/07-1159608-Gamssy Ghoulz-Le train_00004.mp3",
+            "caption": "This instrumental track blends funky rock and psychedelic influences to create a groovy, energetic atmosphere driven by electric guitar and bass. A variety of sound effects complement the medium tempo, giving the piece a distinct retro vibe suitable for live performances or vintage-themed media.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-117440/01-998392-Sur Non-Pepsi The Cat_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_21.mp3",
-                "test_signals/example_21.mp3"
+                "test_signals/example_33.mp3",
+                "test_signals/example_33.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1049,13 +1049,13 @@
         {
             "name": "Test sample 8 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A warm and intimate acoustic performance features a solo vocal delivered alongside an emotive guitar melody. The slow, steady rhythm creates a meditative atmosphere that evokes the cozy feeling of a personal story being shared in a home setting.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-122637/03-1041066-___-Letters From Below _The River__00005.mp3",
+            "caption": "This instrumental track features a prominent synthesizer lead and a driving bassline that create an infectious, high-energy rhythm. With its pulsating electronic drums and futuristic mood, the music is perfectly suited for a nightclub or rave setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110213/01-938688-Fragman _D.W.A_-The Palindrom_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_22.mp3",
-                "test_signals/example_22.mp3"
+                "test_signals/example_31.mp3",
+                "test_signals/example_31.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1135,13 +1135,13 @@
         {
             "name": "Test sample 9 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment serves as a perfect example of a classical orchestral soundtrack, featuring a full ensemble with a strong focus on string instruments. The slow tempo creates a dramatic and epic mood that builds tension through dynamic, impactful rhythms.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/A/t/Atmosmastik_andtheseawilltellus/atmosmastik__01__The_Wrong_Place_and_the_wrong_day_00001.mp3",
+            "caption": "This energetic instrumental rock track features an electric guitar playing power chords within a minor key, supported by a simple bassline and driving drums. The heavy atmosphere creates a dynamic soundscape that evokes a sense of action, making it well-suited for scenes like a car chase in a movie.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/p/h/phumanebo-noisebleed/1-03 Gone away_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_23.mp3",
-                "test_signals/example_23.mp3"
+                "test_signals/example_30.mp3",
+                "test_signals/example_30.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1221,13 +1221,13 @@
         {
             "name": "Test sample 10 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This Indian movie music piece features a female vocalist singing in a melodious style accompanied by the harmonium and tabla. Bird sounds in the background enhance the romantic atmosphere, creating a soundscape well-suited for a romance set in India. Although some metadata suggests holiday themes or specific orchestral instruments, the primary audio evidence highlights traditional folk elements typical of vintage Hindi cinema.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/w/w/www-VintageSense-com-Vintage-Indian-Music-62n/12202_indian_music_vintagesense.com_1966_lalBungla1966-SumanKalyanpur-Aa---SunayiDeNaDeTumKo2-UshaKhanna_vintagesense.com_song_id_12202_00002.mp3",
+            "caption": "This romantic instrumental rock track features a slow-tempo acoustic guitar melody supported by bass and simple drums. A male vocalist sings melodically over the arrangement to create an intimate and personal atmosphere focused on love. The piece blends soft guitar tones with a gentle vocal performance that evokes a hopeful mood.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133327/01-1115917-A Beautiful Tomorrow-I Wonder - A Beautiful Tomorrow Original Song _Electric Version__00005.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_24.mp3",
-                "test_signals/example_24.mp3"
+                "test_signals/example_34.mp3",
+                "test_signals/example_34.mp3"
             ],
             "prompts": {
                 "0": [

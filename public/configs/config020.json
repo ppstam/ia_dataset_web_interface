@@ -447,13 +447,13 @@
         {
             "name": "Test sample 1 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends industrial and electronic rock elements with a driving, repetitive rhythm that creates an intense atmosphere. Featuring prominent synthesizers and a strong beat, the up-tempo music builds an aggressive energy suitable for video game combat or high-energy workouts.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-130329/06-1093489-DementialCore-Aching terror_00003.mp3",
+            "caption": "This energetic track blends elements of funk and R&B with a distinct hip-hop influence, driven by a groovy bassline and steady drum beat. A soulful saxophone solo adds a melodic layer to the infectious rhythm, making the piece feel perfect for a lively dance club atmosphere.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-126220/09-1067981-HELLFIRE SNAKE-Some Man_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_57.mp3",
-                "test_signals/example_57.mp3"
+                "test_signals/example_98.mp3",
+                "test_signals/example_98.mp3"
             ],
             "prompts": {
                 "0": [
@@ -533,13 +533,13 @@
         {
             "name": "Test sample 2 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends funky rock and psychedelic influences to create a groovy, energetic atmosphere driven by electric guitar and bass. A variety of sound effects complement the medium tempo, giving the piece a distinct retro vibe suitable for live performances or vintage-themed media.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-117440/01-998392-Sur Non-Pepsi The Cat_00002.mp3",
+            "caption": "This instrumental rock track features a live, fast-paced drum solo filled with complex fills and cymbal crashes. A simple bass line supports the driving rhythm while an electric guitar plays gritty power chords throughout the energetic performance. The song captures the raw, punk-influenced energy characteristic of Ratpigeon's later glam-metal inspired sound.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/R/a/Ratpigeon-SelfTitledEP-NOP002/01PlanetOfTheApescoverYourFaceAndLookAway_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_58.mp3",
-                "test_signals/example_58.mp3"
+                "test_signals/example_0.mp3",
+                "test_signals/example_0.mp3"
             ],
             "prompts": {
                 "0": [
@@ -619,13 +619,13 @@
         {
             "name": "Test sample 3 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This romantic instrumental rock track features a slow-tempo acoustic guitar melody supported by bass and simple drums. A male vocalist sings melodically over the arrangement to create an intimate and personal atmosphere focused on love. The piece blends soft guitar tones with a gentle vocal performance that evokes a hopeful mood.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-133327/01-1115917-A Beautiful Tomorrow-I Wonder - A Beautiful Tomorrow Original Song _Electric Version__00005.mp3",
+            "caption": "This energetic and aggressive instrumental rock track captures the raw spirit of a punk live performance from the early 1980s. A distorted electric guitar drives the fast-paced rhythm, accompanied by powerful drums and high-pitched male vocals that amplify the heavy atmosphere. The piece perfectly embodies the chaotic intensity of the New York hardcore scene during its classic era.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/W/w/Www-archive-orgdetailsReaganYouth-1983DemosRatcageBenefitCbgbs1982/29-reaganYouthlive_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_59.mp3",
-                "test_signals/example_59.mp3"
+                "test_signals/example_95.mp3",
+                "test_signals/example_95.mp3"
             ],
             "prompts": {
                 "0": [
@@ -705,13 +705,13 @@
         {
             "name": "Test sample 4 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This hip-hop track features a male vocalist rapping at a higher pitch over a beat driven by electronic drums, bass, and string samples. The medium tempo creates a strong urban rhythm that evokes an atmosphere suitable for a crime movie scene on a city street.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/i/aipol-ai-music-hey-ma-hey-pa-1/Hey Ma Hey Pa 1_00004.mp3",
+            "caption": "This segment features a driving instrumental track powered by pulsating synthesizers and a strong computer-generated beat. While the sound blends elements of electronic music with dark intensity, it maintains an energetic rhythm suited for a nightclub atmosphere. The overall vibe is atmospheric and deep, relying heavily on synthesized basslines to create a unique sonic texture.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/u/n/unless-they-show-their-faces-2/Unless They Show Their Faces_2  _00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_60.mp3",
-                "test_signals/example_60.mp3"
+                "test_signals/example_2.mp3",
+                "test_signals/example_2.mp3"
             ],
             "prompts": {
                 "0": [
@@ -791,13 +791,13 @@
         {
             "name": "Test sample 5 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features a classical symphonic orchestral piece characterized by a slow tempo and intricate interplay between the violin and cello. The melancholic melody flows with dynamic tension, creating a somber and poignant mood that evokes deep introspection suitable for dramatic film scenes. Although some metadata suggests lighter moods like happiness, the audio content clearly conveys a serious, dramatic atmosphere driven by string instruments.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-174020/02-1545465-Ivan Dolgunov-Duet for Violin and Viola, K.423 Adagio_00002.mp3",
+            "caption": "This segment captures a passionate live performance of a pop and rock song led by a melodic male vocalist. Accompanied by piano, bass guitar, and acoustic drums, the ballad-style track evokes an emotional atmosphere suitable for a dramatic city setting.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-161984/17-1378711-______ _________-______ _________00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_61.mp3",
-                "test_signals/example_61.mp3"
+                "test_signals/example_4.mp3",
+                "test_signals/example_4.mp3"
             ],
             "prompts": {
                 "0": [
@@ -877,13 +877,13 @@
         {
             "name": "Test sample 6 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "A soothing acoustic guitar provides a warm foundation, layered with electric touches to create an intimate and melodic atmosphere. The steady rhythm section drives the slow, meditative mood forward, making this instrumental track ideal for relaxation.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-275462/01-1178491-Cristian Romanus-Cristian Romanus - Lua e estrela Ensaio_00001.mp3",
+            "caption": "This instrumental techno track features a strong beat and synthesizer layers that create an upbeat, energetic atmosphere perfect for a nightclub. A male vocal sample drives the repetitive, hypnotic rhythm, making it an ideal choice for DJ sets at dance parties.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-110301/01-939346-Djfredse-Djfredse-Think Outside_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_62.mp3",
-                "test_signals/example_62.mp3"
+                "test_signals/example_1.mp3",
+                "test_signals/example_1.mp3"
             ],
             "prompts": {
                 "0": [
@@ -963,13 +963,13 @@
         {
             "name": "Test sample 7 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental piece features a steady, repetitive rhythm driven by mallet percussion and piano, creating a richly textured soundscape. Its slow tempo fosters a mysterious and haunting mood filled with tension, making it ideal for suspenseful scenes in horror or mystery films.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128588/10-1079696-A.Torres Ruiz-Contador De Suen_os_00003.mp3",
+            "caption": "This instrumental track features a strong bass line, steady drumming, and repetitive keyboard harmony that creates an energetic and danceable mood. The prominent piano sound supports the steady rhythm, making the piece well-suited for a nightclub or dance floor setting despite some conflicting genre labels.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-128160/01-1075961-brainless noise-sweetdaydreamin_00004.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_63.mp3",
-                "test_signals/example_63.mp3"
+                "test_signals/example_99.mp3",
+                "test_signals/example_99.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1049,13 +1049,13 @@
         {
             "name": "Test sample 8 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track features a groovy, medium-tempo rhythm driven by synthesizers, a prominent bassline, and a drum machine. Although primarily designed for dancing, the composition incorporates vocal samples and a catchy hook that add depth to its party-ready atmosphere.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/0/2/02-ramond-baker-multiplays-multiplace-multiple-multiplied-mix/01 Ramond Baker feat Basement Jaxx Barrington Levy - Empty Places_00001.mp3",
+            "caption": "This energetic track by SOCLAIKE blends retro pop influences with a strong danceable groove driven by a four-on-the-floor beat. A male vocalist sings in a foreign language over synthesizer and bass lines, creating an upbeat atmosphere perfect for clubs or summer parties.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134909/01-1127002-SOCLAIKE-J_reste Pas Stoique_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_64.mp3",
-                "test_signals/example_64.mp3"
+                "test_signals/example_96.mp3",
+                "test_signals/example_96.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1135,13 +1135,13 @@
         {
             "name": "Test sample 9 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "An accordion provides the sole instrumental focus in this piece, with the right hand playing chords while the left hand carries the melody. The arrangement creates an upbeat yet nostalgic atmosphere driven entirely by the instrument rather than percussion. Footsteps are audible within the soundscape, adding a realistic layer to the recording of a young musician on the Pont d'Arcole.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_33673_38743/parispontdarcole230916h00_00002.mp3",
+            "caption": "This instrumental track serves as an intense dubstep composition specifically designed for game soundtracks. It features a strong, repetitive bass line supported by electronic drumming and synthesizers to create a dark, high-energy mood suitable for combat sequences.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/n/o/noise_body_music/Noise Body Music D_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_65.mp3",
-                "test_signals/example_65.mp3"
+                "test_signals/example_97.mp3",
+                "test_signals/example_97.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1221,13 +1221,13 @@
         {
             "name": "Test sample 10 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features the band M.D.C. performing a live hardcore punk track from their 2002 concert in Belgium. The song delivers a heavy, aggressive sound driven by distorted guitars, loud drums, and a male vocalist with a raspy tone. Its fast tempo and intense energy create a violent atmosphere typical of the genre.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/H/t/Httparchive-orgdetailsMillionsOfDeadCops-LiveLintfabriekBelgium2002/02-corporate deathburger_00001.mp3",
+            "caption": "This instrumental track delivers a funky, groovy, and energetic vibe driven by a percussive bass line and an electric guitar riff. The upbeat rhythm features a lively acoustic drum beat that creates an overall mood perfect for active settings or dance floors.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-124560/01-1056364-Whyman Productions-Demain_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_66.mp3",
-                "test_signals/example_66.mp3"
+                "test_signals/example_3.mp3",
+                "test_signals/example_3.mp3"
             ],
             "prompts": {
                 "0": [
