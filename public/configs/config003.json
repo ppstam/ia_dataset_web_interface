@@ -447,13 +447,13 @@
         {
             "name": "Test sample 1 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This track is an instrumental piece of upbeat house music driven by a strong bassline and electronic drumming. The fast-paced rhythm creates an energetic atmosphere that feels ideal for a nightclub or rave setting. While the title suggests vocals, the audio features purely synthesized sounds without any singing.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-141345/09-1173605-Hasenchat-23 HuHu Dance_00003.mp3",
+            "caption": "This instrumental track blends Game Soundtrack and Light Classical styles, featuring a prominent piano melody supported by synthesizers and bass. The music maintains a steady, light groove that creates a playful atmosphere evoking a sense of adventure and exploration. While the upload metadata labels it as softrock, the composition functions primarily as an engaging background piece with subtle holiday undertones.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-135601/02-1131115-Mbesil-Si e spenta una voce della strada_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_19.mp3",
-                "test_signals/example_19.mp3"
+                "test_signals/example_20.mp3",
+                "test_signals/example_20.mp3"
             ],
             "prompts": {
                 "0": [
@@ -533,13 +533,13 @@
         {
             "name": "Test sample 2 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat electronic track features a driving synth bass and repetitive melody that creates an energetic atmosphere ideal for a dance floor. Powered by prominent synthesizers and steady electronic drums, the music evokes a futuristic feel suitable for a sci-fi soundtrack.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/o/n/one-last-try-14ab/One Last Try_14ab_4 _00001.mp3",
+            "caption": "This amateur recording captures a male singer performing a traditional folk song accompanied by a choir and a simple, steady beat. The atmosphere is melancholic yet grounded in the rhythmic traditions of Jongo, as noted in the upload's context about a live performance at Casa Luz de Yorim\u00e1.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/3/5/35adeuscangomaadeus/08-Saracura cantou no Brejo_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_13.mp3",
-                "test_signals/example_13.mp3"
+                "test_signals/example_28.mp3",
+                "test_signals/example_28.mp3"
             ],
             "prompts": {
                 "0": [
@@ -619,13 +619,13 @@
         {
             "name": "Test sample 3 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This segment features the band M.D.C. performing a live hardcore punk track from their 2002 concert in Belgium. The song delivers a heavy, aggressive sound driven by distorted guitars, loud drums, and a male vocalist with a raspy tone. Its fast tempo and intense energy create a violent atmosphere typical of the genre.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/H/t/Httparchive-orgdetailsMillionsOfDeadCops-LiveLintfabriekBelgium2002/02-corporate deathburger_00001.mp3",
+            "caption": "This segment serves as a perfect example of ambient music, featuring instrumental textures and atmospheric soundscapes that prioritize immersion over vocals. The slow tempo and minimalist use of synthesizer and piano create a soothing, introspective mood ideal for relaxation or meditation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-148126/01-1233291-Ambient Samurai - Ichiro NAKAGAWA-Jingle For The Nothingness_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_11.mp3",
-                "test_signals/example_11.mp3"
+                "test_signals/example_25.mp3",
+                "test_signals/example_25.mp3"
             ],
             "prompts": {
                 "0": [
@@ -705,13 +705,13 @@
         {
             "name": "Test sample 4 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends strong electronic and techno influences with a driving rhythm powered by synthesizers, a drum machine, and an energetic bassline. The music creates an intense, futuristic atmosphere filled with urgency and excitement, making it ideal for a high-energy nightclub, rave scene, or action-packed video game sequence.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/h/o/hombre_caminando/hombre_caminando_00001.mp3",
+            "caption": "This track is a hip-hop instrumental featuring a male vocalist who raps over a strong bass line and steady drumming. The keyboard accompaniment adds to the urban and groovy mood, giving it a vibe suitable for a city crime film soundtrack.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-114407/06-972027-BangMulahGangg-Dirty Cup _Prod. By QT_ Neph Donell Kane_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_17.mp3",
-                "test_signals/example_17.mp3"
+                "test_signals/example_29.mp3",
+                "test_signals/example_29.mp3"
             ],
             "prompts": {
                 "0": [
@@ -791,13 +791,13 @@
         {
             "name": "Test sample 5 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a perfect example of ambient music, featuring ethereal soundscapes that evoke a slow and deliberate atmosphere. The recording blends subtle synthesizer tones with natural insect chirps and bird calls to create an immersive soundscape of suburban life. Without vocals, the listener can fully engage with the dreamy environment while hearing faint industrial noises from a nearby factory.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_58146_66669/083022FoxGrove_00001.mp3",
+            "caption": "This piece serves as a perfect example of traditional Middle Eastern music, featuring the mesmerizing sounds of the oud and lute. It is accompanied by the rhythmic beats of the tabla and the melancholic notes of the darbuka, where the absence of vocals allows listeners to immerse themselves in this ancient art form.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/u/z/uzak-sehir-yuzlesme-v2-rl/Uzak \u015eehir - Y\u00fczle\u015fme V2 RL_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_15.mp3",
-                "test_signals/example_15.mp3"
+                "test_signals/example_24.mp3",
+                "test_signals/example_24.mp3"
             ],
             "prompts": {
                 "0": [
@@ -877,13 +877,13 @@
         {
             "name": "Test sample 6 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This upbeat track features prominent synthesizers and electronic drums driving a steady four-on-the-floor rhythm. The energetic, danceable beat creates a lively atmosphere suitable for nightclubs or high-energy workouts. Classified within the EDM and house genres, the instrumental piece maintains a consistently active pace throughout.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-159578/01-1353571-Gigatop Arthur-Just Like Fire_00006.mp3",
+            "caption": "This lively and cheerful track features a female vocalist singing in a high-pitched, melodic voice. Her performance is supported by a fast acoustic guitar, a groovy bass line, and a prominent accordion that drives the upbeat rhythm. The song's energetic feel and festive mood make it sound like music often heard during celebratory scenes in Latin American shows.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-064009/01-549705-Banda Patinko-Banda Patinko - Beijinho - ao-vivo_00003.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_16.mp3",
-                "test_signals/example_16.mp3"
+                "test_signals/example_27.mp3",
+                "test_signals/example_27.mp3"
             ],
             "prompts": {
                 "0": [
@@ -963,13 +963,13 @@
         {
             "name": "Test sample 7 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This instrumental track blends a driving drum machine with a live drum kit to create a repetitive, hypnotic rhythm that evokes industrial sounds. The music maintains a dark and menacing mood, delivering the heavy intensity suitable for action-packed films or high-energy workout sessions. Although tagged as experimental noise and ambient, the composition functions as a powerful, relentless beat often found in post-apocalyptic soundscapes.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/D/A/DADA121/KittenPatrol02SkyAtDawn_00001.mp3",
+            "caption": "This instrumental track features a prominent violin and piano performance that drives a medium tempo with a steady, dramatic rhythm. The rich interplay between these instruments creates an adventurous and exciting atmosphere suitable for a video game soundtrack. While the piece is titled \"Solitude,\" its energetic build-up conveys a sense of movement rather than isolation.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-120186/01-1022077-Sergey_titi-Solitude_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_18.mp3",
-                "test_signals/example_18.mp3"
+                "test_signals/example_23.mp3",
+                "test_signals/example_23.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1049,13 +1049,13 @@
         {
             "name": "Test sample 8 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "This piece is a beautiful example of a solo piano composition, featuring a slow tempo that allows the listener to fully appreciate its emotional depth. The gentle and melodic nature creates a romantic and melancholic atmosphere, making it an ideal choice for a poignant scene in a film.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-131707/08-1103446-Blaireko-___a1-7_00001.mp3",
+            "caption": "This segment is a melancholic folk song performed by a female vocalist accompanied by an acoustic guitar. A steady, simple drum beat provides a solid foundation for the emotive and heartfelt melody, creating a meditative mood that evokes introspection.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-137964/06-1150466-Jeykov-No fui Yo_00002.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_12.mp3",
-                "test_signals/example_12.mp3"
+                "test_signals/example_22.mp3",
+                "test_signals/example_22.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1135,13 +1135,13 @@
         {
             "name": "Test sample 9 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "An instrumental piece features the bass guitar as the primary melodic voice within a slow, deliberate rhythm. This composition builds toward a climactic moment where a descending lick enhances an atmosphere of mystery and foreboding.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-134855/08-1126750-Alex Colpitts-part 8_00003.mp3",
+            "caption": "This recording captures the soothing sounds of ocean waves and nature from a small fishing port, creating a peaceful atmosphere ideal for mindfulness. The gentle rustling and binaural wave textures are presented as a field soundscape that invites listeners to appreciate the calming presence of the sea with headphones.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_24633_28574/SoundMap2014082817_00001.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_14.mp3",
-                "test_signals/example_14.mp3"
+                "test_signals/example_26.mp3",
+                "test_signals/example_26.mp3"
             ],
             "prompts": {
                 "0": [
@@ -1221,13 +1221,13 @@
         {
             "name": "Test sample 10 / 10",
             "description": "Listen to the audio sample below and answer both questions.\n\nCAPTION:\n\n",
-            "caption": "An accordion provides the sole instrumental focus in this piece, with the right hand playing chords while the left hand carries the melody. The arrangement creates an upbeat yet nostalgic atmosphere driven entirely by the instrument rather than percussion. Footsteps are audible within the soundscape, adding a realistic layer to the recording of a young musician on the Pont d'Arcole.",
-            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/a/p/aporee_33673_38743/parispontdarcole230916h00_00002.mp3",
+            "caption": "JVIS performs a reggae and hip-hop fusion titled \"Terzo mondo,\" featuring a male vocalist with a distinctively rhythmic tone. The track combines a groovy bass line, steady drumming, and energetic guitar riffs to create an urban atmosphere perfect for dancing.",
+            "id": "/projects/adasp/mir/Internet_Archive_Dataset_v0/items/j/a/jamendo-113688/01-966598-JVIS-Tutti di passaggio_00006.mp3",
             "anchors": null,
             "references": null,
             "testSignals": [
-                "test_signals/example_10.mp3",
-                "test_signals/example_10.mp3"
+                "test_signals/example_21.mp3",
+                "test_signals/example_21.mp3"
             ],
             "prompts": {
                 "0": [
